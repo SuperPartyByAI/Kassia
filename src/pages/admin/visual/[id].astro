@@ -1,0 +1,719 @@
+---
+import { supabase } from '../../../lib/supabase';
+import Layout from '../../../layouts/Layout.astro';
+import ReviewsCarousel from '../../../components/ReviewsCarousel.astro';
+
+// This is an SSR page for Admin Visual Editing
+const id = Astro.params.id;
+
+// Handle POST request to save data
+if (Astro.request.method === 'POST') {
+  try {
+    const formData = await Astro.request.formData();
+    const payload = JSON.parse(formData.get('payload')?.toString() || '{}');
+
+    // 1. Update Page
+    if (payload.page) {
+      await supabase
+        .from('kassia_pages')
+        .update({
+          h1: payload.page.h1,
+          meta_title: payload.page.meta_title,
+          meta_description: payload.page.meta_description
+        })
+        .eq('id', id);
+    }
+
+    // 2. Update Sections
+    if (payload.sections && payload.sections.length > 0) {
+      for (const sec of payload.sections) {
+        // Fetch current section to merge content safely
+        const { data: currSec } = await supabase
+          .from('kassia_page_sections')
+          .select('content')
+          .eq('id', sec.id)
+          .single();
+
+        const contentObj = typeof currSec?.content === 'string'
+          ? JSON.parse(currSec.content)
+          : (currSec?.content || {});
+
+        const updatedContent = {
+          ...contentObj,
+          subheading: sec.subheading !== undefined ? sec.subheading : contentObj.subheading,
+          body: sec.body !== undefined ? sec.body : contentObj.body,
+          cta_text: sec.cta_text !== undefined ? sec.cta_text : contentObj.cta_text,
+          cta_url: sec.cta_url !== undefined ? sec.cta_url : contentObj.cta_url,
+        };
+
+        await supabase
+          .from('kassia_page_sections')
+          .update({
+            heading: sec.heading !== undefined ? sec.heading : undefined,
+            content: updatedContent
+          })
+          .eq('id', sec.id);
+      }
+    }
+
+    // 3. Update FAQs
+    if (payload.faqs && payload.faqs.length > 0) {
+      for (const faq of payload.faqs) {
+        await supabase
+          .from('kassia_faqs')
+          .update({
+            question: faq.question,
+            answer: faq.answer
+          })
+          .eq('id', faq.id);
+      }
+    }
+
+    return new Response(JSON.stringify({ success: true }), { status: 200 });
+  } catch (err) {
+    console.error('Visual Save Error:', err);
+    return new Response(JSON.stringify({ error: err.message }), { status: 500 });
+  }
+}
+
+// Fetch page data from Supabase
+const { data: page, error } = await supabase
+  .from('kassia_pages')
+  .select('*')
+  .eq('id', id)
+  .single();
+
+if (error || !page) {
+  return Astro.redirect('/admin/pages');
+}
+
+// Fetch active sections
+const { data: rawSections } = await supabase
+  .from('kassia_page_sections')
+  .select('*')
+  .eq('page_id', page.id)
+  .order('order_index', { ascending: true });
+
+const sections = rawSections
+  ?.map(s => ({ ...s, content: typeof s.content === 'string' ? JSON.parse(s.content) : (s.content || {}) }))
+  ?.filter(s => s.content?.is_active !== false);
+
+// Fetch FAQs
+const { data: faqs } = await supabase
+  .from('kassia_faqs')
+  .select('*')
+  .eq('page_id', page.id)
+  .order('order_index', { ascending: true });
+
+// Fetch Gallery
+const { data: gallery } = await supabase
+  .from('kassia_gallery_items')
+  .select('*')
+  .eq('page_id', page.id)
+  .order('order_index', { ascending: true });
+
+---
+
+<Layout title={`[VISUAL EDIT] ${page.title || 'Page'}`} description="Visual Editor" canonical="" robots="noindex, nofollow" schemas={[]}>
+
+  <!-- ADMIN TOOLBAR -->
+  <div class="visual-admin-toolbar">
+    <div class="toolbar-brand">
+      <strong>KASSIA</strong> <span>Visual Editor</span>
+    </div>
+    <div class="toolbar-seo">
+      <div class="seo-field">
+        <label>Meta Title</label>
+        <input type="text" id="edit-meta-title" value={page.meta_title || ''} placeholder="Ex: Decoratiuni Baloane..." />
+      </div>
+      <div class="seo-field">
+        <label>Meta Description</label>
+        <input type="text" id="edit-meta-desc" value={page.meta_description || ''} placeholder="O descriere atractiva..." />
+      </div>
+    </div>
+    <div class="toolbar-actions">
+      <a href="/admin/pages" class="btn-cancel">Înapoi</a>
+      <button id="save-visual-btn" class="btn-save">Salvează Modificările</button>
+    </div>
+  </div>
+
+  <div class="kassia-premium-page visual-editor-mode">
+
+    {/* HERO SECTION */}
+    {(() => {
+      const heroSec = sections?.find(s => s.section_type === 'hero');
+      const hasBody = heroSec?.content?.body && heroSec.content.body.trim() !== '';
+      return (
+        <header class={`hero-section ${heroSec?.content?.image_url ? 'has-image' : ''}`} data-section-id={heroSec?.id || ''}>
+          <div class="hero-overlay"></div>
+          <div class="container hero-content-wrapper">
+            <div class="hero-text-content">
+              <h1 class="page-title editable-h1" contenteditable="true" data-field="h1" data-placeholder="Adauga Titlu Principal H1">{page.h1 ?? ''}</h1>
+              {hasBody ? (
+                <>
+                  <div class="hero-subtitle editable-body" contenteditable="true" data-field="body" set:html={heroSec.content.body} />
+                  {heroSec.content?.cta_text && heroSec.content?.cta_url && (
+                    <div class="editable-cta" style="justify-content:center; margin-top:2rem;">
+                      <span contenteditable="true" data-field="cta_text" class="btn-primary" style="display:inline-block">{heroSec.content.cta_text}</span>
+                      <input type="text" class="cta-url-input" data-field="cta_url" value={heroSec.content.cta_url} />
+                    </div>
+                  )}
+                </>
+              ) : (
+                <>
+                  {page.meta_description && <p class="hero-subtitle editable-body" contenteditable="true" data-field="body">{page.meta_description}</p>}
+                </>
+              )}
+            </div>
+            {heroSec?.content?.image_url && (
+              <div class="hero-image-wrapper">
+                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" onerror="this.style.display='none'" loading="eager" />
+              </div>
+            )}
+          </div>
+        </header>
+      );
+    })()}
+
+    {/* SERVICE CARDS GRID */}
+    {sections && sections.filter(s => s.section_type === 'service_card').length > 0 && (
+      <section class="service-cards-section bg-white">
+        <div class="container">
+          <h2 class="section-heading text-center">Alege Serviciul Dorit</h2>
+          <div class="service-cards-grid">
+            {sections.filter(s => s.section_type === 'service_card').map((card) => (
+              <div class="service-card editable-section" data-section-id={card.id}>
+                <div class="service-card-image">
+                  {card.content?.image_url && card.content.image_url.trim() !== '' && (
+                    <img src={card.content.image_url} alt="" onerror="this.style.display='none'" loading="lazy" />
+                  )}
+                  <div class="service-card-overlay"></div>
+                </div>
+                <div class="service-card-content">
+                  <h3 class="service-card-title editable-h3" contenteditable="true" data-field="heading">{card.heading}</h3>
+                  {card.content?.subheading && <p class="service-card-subtitle editable-body" contenteditable="true" data-field="subheading">{card.content.subheading}</p>}
+                  <div class="editable-cta" style="margin-top: 10px;">
+                    <span class="service-card-cta" contenteditable="true" data-field="cta_text">{card.content?.cta_text || 'Vezi Detalii'}</span>
+                    <input type="text" class="cta-url-input" data-field="cta_url" value={card.content?.cta_url || ''} />
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {/* SECTIONS LOOP */}
+    {page.slug === 'preturi-decoratiuni-baloane' ? (
+      <>
+        {sections && sections.filter(s => s.heading === 'Cum se calculează prețul unui decor cu baloane?').map(section => (
+          <section class="content-section bg-light editable-section" data-section-id={section.id} id="cum-se-calculeaza">
+            <div class="container section-grid" style="grid-template-columns: 1fr; max-width: 800px; text-align: center;">
+              <div class="section-text">
+                <div class="section-label">⚙️ Editare Secțiune: {section.section_type}</div>
+                <h2 class="section-heading editable-h2" contenteditable="true" data-field="heading">{section.heading}</h2>
+                {section.content?.body && <div class="section-body editable-body prose" contenteditable="true" data-field="body" set:html={section.content.body} />}
+              </div>
+            </div>
+          </section>
+        ))}
+        <div id="content" class="container" style="padding: 4rem 1rem;">
+          <div class="pricing-details-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;">
+            {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card'].includes(s.section_type) && s.heading !== 'Cum se calculează prețul unui decor cu baloane?').map((section) => (
+              <div class="pricing-detail-card editable-section" data-section-id={section.id} id={section.heading ? 'preturi-' + section.heading.replace('Prețuri ', '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : undefined} style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: flex; flex-direction: column;">
+                <div class="section-label">⚙️ Editare Secțiune: {section.section_type}</div>
+                <h3 class="pricing-card-title editable-h2" contenteditable="true" data-field="heading" style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--primary-dark);">{section.heading}</h3>
+                {section.content?.body && <div class="pricing-card-body editable-body prose" contenteditable="true" data-field="body" set:html={section.content.body} style="flex-grow: 1; margin-bottom: 1.5rem;" />}
+                {section.content?.cta_url && section.content?.cta_text && (
+                  <div class="editable-cta" style="margin-top: auto; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start;">
+                    <span contenteditable="true" data-field="cta_text" class="btn-primary">{section.content.cta_text}</span>
+                    <input type="text" class="cta-url-input" data-field="cta_url" value={section.content.cta_url} />
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      </>
+    ) : (
+      <div id="content" class="sections-wrapper">
+        {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card'].includes(s.section_type)).map((section, index) => (
+          <section
+            id={section.heading ? 'preturi-' + section.heading.replace('Prețuri ', '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : undefined}
+            class={`content-section ${index % 2 === 0 ? 'bg-light' : 'bg-white'} editable-section`}
+            data-section-id={section.id}
+          >
+            <div class="container section-grid">
+              <div class="section-text">
+                <div class="section-label">⚙️ Editare Secțiune: {section.section_type}</div>
+                {section.heading && section.heading.trim() !== '' && (
+                  <h2 class="section-heading editable-h2" contenteditable="true" data-field="heading">{section.heading}</h2>
+                )}
+
+                {section.content?.subheading && section.content.subheading.trim() !== '' && (
+                  <h3 class="section-subheading editable-h3" contenteditable="true" data-field="subheading">{section.content.subheading}</h3>
+                )}
+
+                {section.content?.body && section.content.body.trim() !== '' && (
+                  <div class="section-body editable-body" contenteditable="true" data-field="body" set:html={section.content.body} />
+                )}
+
+                {section.content?.cta_text && section.content?.cta_url && section.content.cta_text.trim() !== '' && (
+                  <div class="editable-cta">
+                    <span contenteditable="true" data-field="cta_text" class="btn-primary" style="display:inline-block">{section.content.cta_text}</span>
+                    <input type="text" class="cta-url-input" data-field="cta_url" value={section.content.cta_url} />
+                  </div>
+                )}
+              </div>
+              {/* Visual Placeholder for layout balance */}
+              {section.content?.image_url && section.content.image_url.trim() !== '' && (
+                <div class="section-image-placeholder">
+                  <img src={section.content.image_url} alt="" onerror="this.parentElement.style.display='none'" loading="lazy" />
+                </div>
+              )}
+            </div>
+          </section>
+        ))}
+      </div>
+    )}
+
+    {/* GALLERY SECTION VISUAL */}
+    {sections && sections.some(s => s.section_type === 'gallery') && gallery && gallery.some(img => img.url && img.url.trim() !== '') && (
+      <section class="gallery-section bg-light">
+        <div class="container">
+          <h2 class="section-heading text-center">Galerie Foto</h2>
+          <div class="gallery-grid">
+            {gallery.filter(img => img.url && img.url.trim() !== '').map(img => (
+              <figure class="gallery-item">
+                <img src={img.url} alt={img.alt_text || 'Galerie Kassia'} loading="lazy" />
+              </figure>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {/* Render FAQs Visually so they can be edited */}
+    {faqs && faqs.length > 0 && (
+      <section class="faq-section bg-light editable-faq-section">
+        <div class="container">
+          <h2 class="section-heading text-center">Întrebări Frecvente</h2>
+          <div class="faq-accordion">
+            {faqs.map(faq => (
+              <details class="faq-details" open>
+                <summary class="faq-summary editable-faq" data-faq-id={faq.id}>
+                  <div class="faq-q" contenteditable="true" data-field="question" style="flex-grow:1">{faq.question || 'Scrie o intrebare...'}</div>
+                </summary>
+                <div class="faq-answer editable-faq" data-faq-id={faq.id}>
+                  <div class="faq-a" contenteditable="true" data-field="answer">{faq.answer || 'Scrie raspunsul...'}</div>
+                </div>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <ReviewsCarousel />
+  </div>
+</Layout>
+
+<script>
+  document.getElementById('save-visual-btn')?.addEventListener('click', async (e) => {
+    const btn = e.target as HTMLButtonElement;
+    btn.textContent = 'Se salvează...';
+    btn.disabled = true;
+
+    try {
+      const payload = {
+        page: {
+          h1: document.querySelector('.editable-h1')?.textContent?.trim() || '',
+          meta_title: (document.getElementById('edit-meta-title') as HTMLInputElement)?.value || '',
+          meta_description: (document.getElementById('edit-meta-desc') as HTMLInputElement)?.value || ''
+        },
+        sections: [],
+        faqs: []
+      };
+
+      // Gather Sections
+      document.querySelectorAll('.editable-section').forEach(secEl => {
+        const id = secEl.getAttribute('data-section-id');
+        if (!id) return;
+        payload.sections.push({
+          id,
+          heading: secEl.querySelector('[data-field="heading"]')?.textContent?.trim() || '',
+          subheading: secEl.querySelector('[data-field="subheading"]')?.textContent?.trim() || '',
+          body: secEl.querySelector('[data-field="body"]')?.innerHTML || '',
+          cta_text: secEl.querySelector('[data-field="cta_text"]')?.textContent?.trim() || '',
+          cta_url: (secEl.querySelector('[data-field="cta_url"]') as HTMLInputElement)?.value || ''
+        });
+      });
+
+      // Gather FAQs (modified to gather from details/summary structure)
+      const faqMap = new Map();
+      document.querySelectorAll('.editable-faq').forEach(faqEl => {
+        const id = faqEl.getAttribute('data-faq-id');
+        if (!id) return;
+        if (!faqMap.has(id)) faqMap.set(id, { id, question: '', answer: '' });
+
+        const qEl = faqEl.querySelector('[data-field="question"]');
+        const aEl = faqEl.querySelector('[data-field="answer"]');
+
+        if (qEl) faqMap.get(id).question = qEl.textContent?.trim() || '';
+        if (aEl) faqMap.get(id).answer = aEl.textContent?.trim() || '';
+      });
+      payload.faqs = Array.from(faqMap.values());
+
+      const formData = new FormData();
+      formData.append('payload', JSON.stringify(payload));
+
+      const res = await fetch(window.location.href, {
+        method: 'POST',
+        body: formData
+      });
+
+      if (res.ok) {
+        btn.textContent = 'Salvat! ✓';
+        btn.style.backgroundColor = '#10b981';
+        setTimeout(() => {
+          btn.textContent = 'Salvează Modificările';
+          btn.style.backgroundColor = '#a855f7';
+          btn.disabled = false;
+        }, 2000);
+      } else {
+        throw new Error('Save failed');
+      }
+
+    } catch (err) {
+      console.error(err);
+      btn.textContent = 'Eroare!';
+      btn.style.backgroundColor = '#ef4444';
+      btn.disabled = false;
+    }
+  });
+</script>
+
+<style>
+  /* ADMIN TOOLBAR STYLES */
+  .visual-admin-toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    background: #1e293b;
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+  .toolbar-brand strong { color: #a855f7; font-size: 1.2rem; }
+  .toolbar-brand span { color: #cbd5e1; font-size: 0.9rem; margin-left: 0.5rem; }
+
+  .toolbar-seo { display: flex; gap: 1rem; flex-grow: 1; margin: 0 2rem; }
+  .seo-field { display: flex; flex-direction: column; flex-grow: 1; max-width: 400px; }
+  .seo-field label { font-size: 0.75rem; color: #94a3b8; margin-bottom: 0.25rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .seo-field input { padding: 0.5rem; border-radius: 4px; border: 1px solid #475569; background: #0f172a; color: white; width: 100%; }
+
+  .toolbar-actions { display: flex; gap: 1rem; align-items: center; }
+  .btn-cancel { color: #cbd5e1; text-decoration: none; font-size: 0.9rem; }
+  .btn-cancel:hover { color: white; }
+  .btn-save { background: #a855f7; color: white; border: none; padding: 0.5rem 1.5rem; border-radius: 6px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+  .btn-save:hover { background: #9333ea; }
+  .btn-save:disabled { opacity: 0.7; cursor: not-allowed; }
+
+  /* VISUAL EDITOR STYLES OVERLAY */
+  .visual-editor-mode [contenteditable="true"] {
+    position: relative;
+    outline: 1px dashed transparent;
+    transition: all 0.2s;
+    min-height: 1.5em;
+    min-width: 50px;
+    display: block;
+  }
+  .visual-editor-mode [contenteditable="true"]:empty:before {
+    content: attr(data-placeholder) " / Editati...";
+    color: #cbd5e1;
+    pointer-events: none;
+    display: block; /* For Firefox */
+  }
+  .visual-editor-mode [contenteditable="true"]:hover {
+    outline: 2px dashed #a855f7;
+    background: rgba(168, 85, 247, 0.05);
+    cursor: text;
+  }
+  .visual-editor-mode [contenteditable="true"]:focus {
+    outline: 2px solid #a855f7;
+    background: white;
+    color: #0f172a;
+    box-shadow: 0 0 0 4px rgba(168, 85, 247, 0.2);
+  }
+
+  .section-label {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: #fdf4ff;
+    color: #c026d3;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: 0.05em;
+    border: 1px dashed #e879f9;
+  }
+
+  .editable-section {
+    position: relative;
+    border: 1px solid transparent;
+  }
+  .editable-section:hover {
+    border-color: #e2e8f0;
+  }
+
+  .editable-cta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  .cta-url-input {
+    padding: 0.5rem;
+    border: 1px dashed #cbd5e1;
+    background: #f8fafc;
+    border-radius: 4px;
+    font-family: monospace;
+    width: 300px;
+    font-size: 0.875rem;
+  }
+
+  /* GLOBAL TOKENS & RESETS */
+  :root {
+    --primary: #a855f7;
+    --primary-dark: #9333ea;
+    --accent: #ec4899;
+    --text-main: #1e293b;
+    --text-muted: #475569;
+    --bg-light: #f8fafc;
+    --bg-white: #ffffff;
+    --radius: 16px;
+  }
+
+  .kassia-premium-page {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: var(--text-main);
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  .bg-light { background-color: var(--bg-light); }
+  .bg-white { background-color: var(--bg-white); }
+  .text-center { text-align: center; }
+
+  /* HERO SECTION */
+  .hero-section {
+    position: relative;
+    padding: 8rem 0 6rem;
+    background: linear-gradient(135deg, rgba(168,85,247,0.1) 0%, rgba(236,72,153,0.1) 100%);
+    text-align: center;
+    overflow: hidden;
+  }
+  .hero-badge {
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    background: white;
+    color: var(--primary);
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgba(168,85,247,0.1);
+  }
+  .page-title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    background: linear-gradient(to right, var(--primary), var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero-subtitle {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    max-width: 600px;
+    margin: 0 auto 3rem;
+  }
+  .hero-scroll-btn {
+    display: inline-block;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.875rem;
+    transition: color 0.3s;
+  }
+  .hero-scroll-btn:hover { color: var(--primary); }
+
+  .hero-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    align-items: center;
+  }
+  .hero-section:not(.has-image) .hero-content-wrapper {
+    display: block;
+  }
+  .hero-section.has-image {
+    text-align: center;
+  }
+  .hero-image {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 24px;
+    box-shadow: 0 20px 40px -10px rgba(0,0,0,0.15);
+  }
+  @media (min-width: 992px) {
+    .hero-section.has-image .hero-content-wrapper {
+      grid-template-columns: 1.1fr 1fr;
+      text-align: left;
+    }
+    .hero-section.has-image .hero-subtitle,
+    .hero-section.has-image .editable-cta {
+      margin-left: 0;
+      margin-right: 0;
+      justify-content: flex-start !important;
+    }
+  }
+
+  /* CONTENT SECTIONS */
+  .content-section {
+    padding: 6rem 0;
+  }
+  .section-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+  @media (min-width: 768px) {
+    .section-grid { grid-template-columns: 1fr 1fr; }
+    /* Alternate image position */
+    .content-section:nth-child(even) .section-text { order: 2; }
+    .content-section:nth-child(even) .section-image-placeholder { order: 1; }
+  }
+  .section-heading {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: var(--text-main);
+  }
+  .section-subheading {
+    font-size: 1.25rem;
+    color: var(--primary);
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+  }
+  .section-body {
+    color: var(--text-muted);
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+  }
+  .section-body p { margin-bottom: 1rem; }
+
+  .section-image-placeholder img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+    object-fit: cover;
+    aspect-ratio: 4/3;
+  }
+
+  /* BUTTONS */
+  .btn-primary {
+    display: inline-block;
+    padding: 1rem 2.5rem;
+    background: linear-gradient(to right, var(--primary), var(--accent));
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: 1.125rem;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 10px 15px -3px rgba(168,85,247,0.3);
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 20px 25px -5px rgba(168,85,247,0.4);
+  }
+
+  /* GALLERY SECTION */
+  .gallery-section { padding: 6rem 0; }
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 3rem;
+  }
+  .gallery-item {
+    margin: 0;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+    aspect-ratio: 1/1;
+  }
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s;
+  }
+  .gallery-item:hover img { transform: scale(1.05); }
+
+  /* FAQ SECTION */
+  .faq-section { padding: 6rem 0; }
+  .faq-accordion {
+    max-width: 800px;
+    margin: 3rem auto 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .faq-details {
+    background: var(--bg-white);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  }
+  .faq-summary {
+    padding: 1.5rem;
+    font-weight: 700;
+    font-size: 1.125rem;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-summary::after {
+    content: '+';
+    color: var(--primary);
+    font-size: 1.5rem;
+    transition: transform 0.3s;
+  }
+  .faq-details[open] .faq-summary::after { transform: rotate(45deg); }
+  .faq-answer {
+    padding: 0 1.5rem 1.5rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+</style>
