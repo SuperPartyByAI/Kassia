@@ -1,0 +1,247 @@
+---
+import { supabase } from '../lib/supabase';
+import GoogleBadge from './GoogleBadge.astro';
+
+export interface Props {
+  internalLinks: Array<{
+    anchor_text: string;
+    target_page: { path: string; status: string; };
+  }>;
+  isAnimatori?: boolean;
+}
+
+const { internalLinks = [], isAnimatori: isAnimatoriProp = false } = Astro.props;
+
+const animatoriSlugs = [
+  '/animatori-petreceri-copii',
+  '/animatori-petreceri-copii-bucuresti',
+  '/pachete-animatori-copii-bucuresti',
+  '/oferta-animatori-petreceri-copii-bucuresti',
+  '/personaje-petreceri-copii-bucuresti',
+  '/animatori-tematici-petreceri-copii-bucuresti',
+  '/mascote-petreceri-copii-bucuresti',
+  '/pictura-pe-fata-copii-bucuresti',
+  '/modelaj-baloane-copii-bucuresti',
+  '/jocuri-interactive-copii-bucuresti',
+  '/mini-disco-copii-bucuresti',
+  '/animatori-cu-mascote-petreceri-copii-bucuresti'
+];
+const normalizedPath = Astro.url.pathname.replace(/\/$/, '');
+const isAnimatori = isAnimatoriProp || animatoriSlugs.includes(normalizedPath);
+
+// Fetch config
+const { data: configRows } = await supabase.from('kassia_site_config').select('*');
+const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
+
+const phone = config.phone || "0768098268";
+const email = config.email || "contact@kassia.ro";
+let footerDesc = config.footer_desc || "Kassia îți transformă evenimentele în amintiri de neuitat prin decorațiuni spectaculoase din baloane. Calitate premium pentru botezuri, nunți și petreceri corporate.";
+if (isAnimatori) {
+  footerDesc = "Echipa Kassia organizează programe de animație, mascote, pictură pe față și activități interactive pentru petreceri de copii reușite în București și Ilfov.";
+}
+const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii";
+const phoneClean = phone.replace(/[^0-9]/g, '');
+const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
+const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappText)}`;
+
+// Fetch menus
+const { data: menus } = await supabase.from('kassia_menus').select(`
+  location,
+  title,
+  kassia_menu_items (label, url, order_index)
+`);
+
+menus?.forEach(m => {
+  m.kassia_menu_items?.sort((a, b) => (a.order_index || 0) - (b.order_index || 0));
+});
+
+const footerServicesMenu = menus?.find(m => m.location === 'footer_services');
+
+const animatoriMenuItems = [
+  { label: "Programe animatori copii", url: "/animatori-petreceri-copii/" },
+  { label: "Activități pentru petrecere", url: "/pachete-animatori-copii-bucuresti/" },
+  { label: "Mascote pentru petreceri", url: "/mascote-petreceri-copii-bucuresti/" },
+  { label: "Pictură pe față copii", url: "/pictura-pe-fata-copii-bucuresti/" },
+  { label: "Mini-disco copii", url: "/mini-disco-copii-bucuresti/" },
+  { label: "Modelaj baloane copii", url: "/modelaj-baloane-copii-bucuresti/" }
+];
+---
+
+<footer class="site-footer">
+  <div class="container footer-main">
+    <div class="footer-brand">
+      <div style="margin-bottom: 1rem; transform: scale(0.9); transform-origin: left center;">
+        <GoogleBadge />
+      </div>
+      <a href="/" class="footer-logo" style="text-decoration: none; color:white; font-weight:800; font-size:1.5rem; display:block; margin-bottom:1.5rem;">
+        Kassia Events
+      </a>
+      <p class="brand-desc">{footerDesc}</p>
+    </div>
+    
+    <div class="footer-links">
+      <h3 class="footer-heading">{isAnimatori ? 'Servicii Animatori' : (footerServicesMenu?.title || 'Servicii Principale')}</h3>
+      <ul>
+        {isAnimatori ? (
+          animatoriMenuItems.map(item => (
+            <li><a href={item.url}>{item.label}</a></li>
+          ))
+        ) : (
+          footerServicesMenu?.kassia_menu_items?.map(item => (
+            <li><a href={item.url}>{item.label}</a></li>
+          ))
+        )}
+      </ul>
+    </div>
+
+    <div class="footer-contact">
+      <h3 class="footer-heading">Contact</h3>
+      <ul>
+        <li>
+          <strong>Telefon:</strong> 
+          <a href={`tel:${phone}`}>{phone}</a>
+        </li>
+        <li>
+          <strong>WhatsApp:</strong> 
+          <a href={whatsappLink} target="_blank">Scrie-ne acum</a>
+        </li>
+        <li>
+          <strong>Locație:</strong> București & Ilfov
+        </li>
+        <li>
+          <strong>Disponibilitate evenimente:</strong> Luni – Duminică, pe bază de programare
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  {/* SEO LINKS (Subtle layout for search engines without distracting the user) */}
+  {internalLinks.length > 0 && (
+    <div class="footer-seo-links">
+      <div class="container">
+        <h4 class="seo-heading">Alte căutări populare:</h4>
+        <div class="seo-links-grid">
+          {internalLinks.map(link => (
+            <a href={link.target_page.path}>{link.anchor_text}</a>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>© {new Date().getFullYear()} Kassia. Toate drepturile rezervate.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background-color: #1e293b;
+    color: #f8fafc;
+    margin-top: auto;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  .footer-main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    padding: 4rem 2rem;
+  }
+  @media (min-width: 768px) {
+    .footer-main {
+      grid-template-columns: 2fr 1fr 1fr;
+    }
+  }
+  .footer-logo img {
+    height: 45px;
+    margin-bottom: 1.5rem;
+    filter: brightness(0) invert(1); /* Makes the logo white if it's black/colored, assuming transparent bg. If logo is colored, remove this */
+  }
+  .brand-desc {
+    color: #cbd5e1;
+    line-height: 1.6;
+    font-size: 0.95rem;
+    max-width: 400px;
+  }
+  .footer-heading {
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .footer-links ul, .footer-contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .footer-links a, .footer-contact a {
+    color: #cbd5e1;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover, .footer-contact a:hover {
+    color: #a855f7;
+  }
+  .footer-contact li {
+    color: #cbd5e1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+  .footer-contact strong {
+    color: white;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+  }
+
+  /* SEO Links styling - small, subtle */
+  .footer-seo-links {
+    background-color: #0f172a;
+    padding: 2rem 0;
+    border-top: 1px solid rgba(255,255,255,0.05);
+  }
+  .seo-heading {
+    color: #64748b;
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  .seo-links-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.5rem;
+  }
+  .seo-links-grid a {
+    color: #475569;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: color 0.2s;
+  }
+  .seo-links-grid a:hover {
+    color: #94a3b8;
+  }
+
+  .footer-bottom {
+    background-color: #0f172a;
+    padding: 1.5rem 0;
+    text-align: center;
+    border-top: 1px solid rgba(255,255,255,0.05);
+  }
+  .footer-bottom p {
+    margin: 0;
+    color: #64748b;
+    font-size: 0.85rem;
+  }
+</style>
