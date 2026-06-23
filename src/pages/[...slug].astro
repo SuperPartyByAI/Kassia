@@ -82,6 +82,23 @@ const robots = page.index_status === 'index' ? 'index, follow' : 'noindex, follo
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://www.kassia.ro';
 const canonical = page.canonical_url || `${siteUrl}${path}`;
 
+const animatoriSlugs = [
+  'animatori-petreceri-copii',
+  'animatori-petreceri-copii-bucuresti',
+  'pachete-animatori-copii-bucuresti',
+  'oferta-animatori-petreceri-copii-bucuresti',
+  'personaje-petreceri-copii-bucuresti',
+  'animatori-tematici-petreceri-copii-bucuresti',
+  'mascote-petreceri-copii-bucuresti',
+  'pictura-pe-fata-copii-bucuresti',
+  'modelaj-baloane-copii-bucuresti',
+  'jocuri-interactive-copii-bucuresti',
+  'mini-disco-copii-bucuresti',
+  'animatori-cu-mascote-petreceri-copii-bucuresti'
+];
+const isAnimatoriPage = animatoriSlugs.includes(page?.slug);
+
+
 const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
 const phone = config.phone;
 
@@ -212,7 +229,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
                 <div class="service-card">
                   <div class="service-card-image">
                     {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                      <img src={card.content.image_url} alt="" onerror="this.style.display='none'" loading="lazy" />
+                      <img src={card.content.image_url} alt={card.content?.image_alt || 'Activitate pentru petreceri de copii'} onerror="this.style.display='none'" loading="lazy" />
                     )}
                     <div class="service-card-overlay"></div>
                   </div>
@@ -275,7 +292,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               {/* Image render */}
               {section.content?.image_url && section.content.image_url.trim() !== '' && (
                 <div class="section-image-placeholder">
-                  <img src={section.content.image_url} alt="" onerror="this.parentElement.style.display='none'" loading="lazy" />
+                  <img src={section.content.image_url} alt={section.content?.image_alt || 'Activitate pentru petreceri de copii'} onerror="this.parentElement.style.display='none'" loading="lazy" />
                 </div>
               )}
             </div>
@@ -318,7 +335,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
     )}
 
     <ReviewsCarousel />
-    <Footer internalLinks={publishedLinks} />
+    <Footer internalLinks={publishedLinks} isAnimatori={isAnimatoriPage} />
 
   </div>
 </Layout>
