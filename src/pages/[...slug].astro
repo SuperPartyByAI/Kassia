@@ -85,6 +85,7 @@ const canonical = page.canonical_url || `${siteUrl}${path}`;
 const animatoriSlugs = [
   'animatori-petreceri-copii',
   'animatori-petreceri-copii-bucuresti',
+  'preturi-animatori-copii-bucuresti',
   'pachete-animatori-copii-bucuresti',
   'oferta-animatori-petreceri-copii-bucuresti',
   'personaje-petreceri-copii-bucuresti',
@@ -275,7 +276,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </>
     ) : (
       <div id="content" class="sections-wrapper">
-        {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card'].includes(s.section_type)).map((section, index) => (
+        {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps'].includes(s.section_type)).map((section, index) => (
           <section
             id={section.heading ? 'preturi-' + section.heading.replace('Prețuri ', '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : undefined}
             class={`content-section ${index % 2 === 0 ? 'bg-light' : 'bg-white'}`}
