@@ -4,10 +4,24 @@ import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
 import { Image } from 'astro:assets';
 import ReviewsCarousel from '../components/ReviewsCarousel.astro';
+import PricingPreview from '../components/PricingPreview.astro';
+import PricingFullTable from '../components/PricingFullTable.astro';
 
 // This is an SSR page
 const rawSlug = Astro.params.slug || '';
 const path = rawSlug === '' ? '/' : `/${rawSlug}/`;
+
+const redirectMap = new Map([
+  ['/blog/petrecere-copii-in-ilfov-ghid/', '/animatori-petreceri-copii/'],
+  ['/blog/petrecere-copii-in-ilfov-ghid', '/animatori-petreceri-copii/'],
+]);
+
+const currentPath = Astro.url.pathname;
+const redirectTarget = redirectMap.get(currentPath);
+
+if (redirectTarget) {
+  return Astro.redirect(redirectTarget, 301);
+}
 
 if (rawSlug && !Astro.url.pathname.endsWith('/')) {
   return Astro.redirect(`${Astro.url.pathname}/`, 301);
@@ -16,7 +30,7 @@ if (rawSlug && !Astro.url.pathname.endsWith('/')) {
 // Fetch page data from Supabase
 const { data: page, error } = await supabase
   .from('kassia_pages')
-  .select('id,path,slug,page_type,title,h1,meta_title,meta_description,canonical_url,status,index_status,include_in_sitemap,priority,updated_at')
+  .select('id,path,slug,page_type,title,h1,meta_title,meta_description,canonical_url,status,index_status,include_in_sitemap,priority,updated_at,show_pricing_preview')
   .eq('path', path)
   .single();
 
@@ -211,7 +225,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
             </div>
             {heroSec?.content?.image_url && (
               <div class="hero-image-wrapper">
-                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" onerror="this.style.display='none'" loading="eager" />
+                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" width="1200" height="800" onerror="this.style.display='none'" loading="eager" fetchpriority="high" decoding="sync" />
               </div>
             )}
           </div>
@@ -230,7 +244,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
                 <div class="service-card">
                   <div class="service-card-image">
                     {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                      <img src={card.content.image_url} alt={card.content?.image_alt || 'Activitate pentru petreceri de copii'} onerror="this.style.display='none'" loading="lazy" />
+                      <img src={card.content.image_url} alt={card.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="800" onerror="this.style.display='none'" loading="lazy" decoding="async" />
                     )}
                     <div class="service-card-overlay"></div>
                   </div>
@@ -246,7 +260,6 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
         </div>
       </section>
     )}
-
     {/* SECTIONS LOOP */}
     {page.slug === 'preturi-decoratiuni-baloane' ? (
       <>
@@ -276,12 +289,15 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </>
     ) : (
       <div id="content" class="sections-wrapper">
-        {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps'].includes(s.section_type)).map((section, index) => (
+        {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps', 'feature_card'].includes(s.section_type)).map((section, index) => {
+          const isTextOnly = !section.content?.image_url || section.content.image_url.trim() === '';
+          return (
+          <>
           <section
             id={section.heading ? 'preturi-' + section.heading.replace('Prețuri ', '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : undefined}
             class={`content-section ${index % 2 === 0 ? 'bg-light' : 'bg-white'}`}
           >
-            <div class="container section-grid">
+            <div class={`container section-grid ${isTextOnly ? 'text-only' : ''}`}>
               <div class="section-text">
                 {section.heading && <h2 class="section-heading">{section.heading}</h2>}
                 {section.content?.subheading && <h3 class="section-subheading">{section.content.subheading}</h3>}
@@ -293,12 +309,45 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               {/* Image render */}
               {section.content?.image_url && section.content.image_url.trim() !== '' && (
                 <div class="section-image-placeholder">
-                  <img src={section.content.image_url} alt={section.content?.image_alt || 'Activitate pentru petreceri de copii'} onerror="this.parentElement.style.display='none'" loading="lazy" />
+                  <img src={section.content.image_url} alt={section.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="600" onerror="this.parentElement.style.display='none'" loading="lazy" decoding="async" />
                 </div>
               )}
             </div>
           </section>
-        ))}
+          {index === 0 && sections.some(s => s.section_type === 'feature_card') && (
+            <section class="feature-cards-section bg-light" style="padding: 4rem 0;">
+              <div class="container">
+                <div class="service-cards-grid" style="margin-top: 0;">
+                  {sections.filter(s => s.section_type === 'feature_card').map((card) => (
+                    <div class="service-card">
+                      <div class="service-card-image">
+                        {card.content?.image_url && card.content.image_url.trim() !== '' && (
+                          <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800" onerror="this.style.display='none'" loading="lazy" decoding="async" />
+                        )}
+                        <div class="service-card-overlay"></div>
+                      </div>
+                      <div class="service-card-content">
+                        <h3 class="service-card-title">{card.heading}</h3>
+                        {card.content?.body && <div class="service-card-subtitle prose" style="font-size:0.95rem; line-height:1.5;" set:html={card.content.body} />}
+                        {card.content?.cta_url && card.content?.cta_text && (
+                          <a href={card.content.cta_url} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;">{card.content.cta_text} &rarr;</a>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </section>
+          )}
+          {index === 0 && page.show_pricing_preview && (
+            <PricingPreview locationName={page.slug.includes('voluntari') ? 'Voluntari și Pipera' : 'petrecerea ta'} />
+          )}
+          {index === 0 && page.slug === 'preturi-animatori-copii-bucuresti' && (
+            <PricingFullTable />
+          )}
+          </>
+          );
+        })}
       </div>
     )}
 
@@ -310,7 +359,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
           <div class="gallery-grid">
             {gallery.filter(img => img.url && img.url.trim() !== '').map(img => (
               <figure class="gallery-item">
-                <img src={img.url} alt={img.alt_text || 'Galerie'} loading="lazy" />
+                <img src={img.url} alt={img.alt_text || 'Galerie'} width="800" height="800" loading="lazy" decoding="async" />
               </figure>
             ))}
           </div>
@@ -447,7 +496,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
 
   /* CONTENT SECTIONS */
   .content-section {
-    padding: 6rem 0;
+    padding: 4rem 0;
   }
   .section-grid {
     display: grid;
@@ -457,6 +506,10 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
   }
   @media (min-width: 768px) {
     .section-grid { grid-template-columns: 1fr 1fr; }
+    .section-grid.text-only {
+      grid-template-columns: 1fr;
+      max-width: 900px;
+    }
     /* Alternate image position */
     .content-section:nth-child(even) .section-text { order: 2; }
     .content-section:nth-child(even) .section-image-placeholder { order: 1; }
@@ -666,6 +719,9 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
   @media (max-width: 767px) {
     .section-grid {
       grid-template-columns: 1fr;
+    }
+    .content-section {
+      padding: 2.5rem 0;
     }
     .content-section:nth-child(even) .section-image-placeholder {
       order: 2;
