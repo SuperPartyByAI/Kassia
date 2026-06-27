@@ -14,6 +14,12 @@ const path = rawSlug === '' ? '/' : `/${rawSlug}/`;
 const redirectMap = new Map([
   ['/blog/petrecere-copii-in-ilfov-ghid/', '/animatori-petreceri-copii/'],
   ['/blog/petrecere-copii-in-ilfov-ghid', '/animatori-petreceri-copii/'],
+
+  ['/animatori-copii-berceni-ilfov/', '/animatori-petreceri-copii-berceni/'],
+  ['/animatori-copii-berceni-ilfov', '/animatori-petreceri-copii-berceni/'],
+
+  ['/animatori-copii-pipera-bucuresti/', '/animatori-petreceri-copii-voluntari/'],
+  ['/animatori-copii-pipera-bucuresti', '/animatori-petreceri-copii-voluntari/'],
 ]);
 
 const currentPath = Astro.url.pathname;

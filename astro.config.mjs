@@ -17,9 +17,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   redirects: {
-    '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/',
-    '/animatori-copii-berceni-ilfov': '/animatori-petreceri-copii-berceni/',
-    '/animatori-copii-pipera-bucuresti': '/animatori-petreceri-copii-voluntari/',
-    '/animatori-copii-pipera-bucuresti/': '/animatori-petreceri-copii-voluntari/'
+    '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/'
   }
 });
