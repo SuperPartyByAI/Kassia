@@ -17,6 +17,7 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   redirects: {
-    '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/'
+    '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/',
+    '/animatori-copii-floreasca': '/animatori-petreceri-copii-floreasca'
   }
 });
