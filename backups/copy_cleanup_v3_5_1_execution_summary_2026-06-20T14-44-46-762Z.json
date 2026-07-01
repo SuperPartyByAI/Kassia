@@ -1,0 +1,338 @@
+{
+  "timestamp": "2026-06-20T14:44:50.780Z",
+  "backup_files": {
+    "pages": "/Users/universparty/wa-web-launcher/kassia-site/backups/kassia_pages_backup_2026-06-20T14-44-46-762Z.json",
+    "sections": "/Users/universparty/wa-web-launcher/kassia-site/backups/kassia_page_sections_backup_2026-06-20T14-44-46-762Z.json",
+    "faqs": "/Users/universparty/wa-web-launcher/kassia-site/backups/kassia_faqs_backup_2026-06-20T14-44-46-762Z.json"
+  },
+  "updates_applied": [
+    {
+      "table": "kassia_page_sections",
+      "record_id": "4cc74718-abdf-4291-b5e0-4eddfc6e0723",
+      "field_path": "content.cards[2].body",
+      "page_path": "/animatori-petreceri-copii-bucuresti/",
+      "original_text": "Transformări spectaculoase în personajele dorite, cu culori sigure și testate dermatologic.",
+      "proposed_text": "Transformări spectaculoase în personajele dorite, cu culori potrivite pentru copii."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "9f57f629-d3af-426b-9835-cb2bb3b122d1",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-herastrau/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "f696d2bb-62e4-461c-95a4-8e08aa906439",
+      "field_path": "content.cards[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-1/",
+      "original_text": "Transformări în desene colorate și personaje îndrăgite cu culori speciale, sigure pentru piele, realizate rapid.",
+      "proposed_text": "Transformări în desene colorate și personaje îndrăgite cu materiale potrivite pentru copii, realizate rapid."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "03b94f09-fe17-4e6d-8694-611b1ab33444",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-sector-2/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "a0521fbd-ae70-4f34-a7d0-df993b743741",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-2/",
+      "original_text": "Fiecare tip de locație din Sectorul 2 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, face painting și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 2, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Pantelimon, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+      "proposed_text": "Fiecare tip de locație din Sectorul 2 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 2, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Pantelimon, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "a3ea587f-a8c9-412d-8e0e-ff3e83f91370",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-2/",
+      "original_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 2. Materialele folosite pentru face painting sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "proposed_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 2. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "3ec02068-6175-4edb-a11c-5767af05b960",
+      "field_path": "content.steps[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-2/",
+      "original_text": "Configurăm activitățile (jocuri interactive, face painting, baloane modelate sau mini-disco).",
+      "proposed_text": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco)."
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "f6ef8400-0138-45f7-b406-b80bb6634fb5",
+      "field_path": "answer",
+      "page_path": "/animatori-petreceri-copii-sector-2/",
+      "original_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu vopsele antialergice și modelaj din baloane colorate.",
+      "proposed_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu materiale potrivite pentru copii și modelaj din baloane colorate."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "2c9f2b82-69ca-41ed-975d-e8d1132af81c",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-sector-3/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "34d37618-377f-4ea8-85fb-e5633bbf3d7a",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-3/",
+      "original_text": "Fiecare tip de locație din Sectorul 3 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, face painting și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 3, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Titan sau Sălăjan, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+      "proposed_text": "Fiecare tip de locație din Sectorul 3 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 3, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Titan sau Sălăjan, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "a0425785-549b-4034-94f3-6a23497eebfd",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-3/",
+      "original_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 3. Materialele folosite pentru face painting sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "proposed_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 3. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "d9d22056-48d8-490e-a1a5-f6bad4292eeb",
+      "field_path": "content.steps[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-3/",
+      "original_text": "Configurăm activitățile (jocuri interactive, face painting, baloane modelate sau mini-disco).",
+      "proposed_text": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco)."
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "1baa3dfd-0014-4d21-8ef5-c3c3d8f75f4b",
+      "field_path": "answer",
+      "page_path": "/animatori-petreceri-copii-sector-3/",
+      "original_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu vopsele antialergice și modelaj din baloane colorate.",
+      "proposed_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu materiale potrivite pentru copii și modelaj din baloane colorate."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "44e3ce70-b545-4306-b473-826a3594144f",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-sector-4/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "dbe9c96a-f660-48be-92c9-d14dc9267979",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-4/",
+      "original_text": "Fiecare tip de locație din Sectorul 4 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, face painting și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 4, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Olteniței sau Apărătorii Patriei, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+      "proposed_text": "Fiecare tip de locație din Sectorul 4 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 4, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Olteniței sau Apărătorii Patriei, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "33201e4f-f15a-4030-88fa-485bbe3eed2f",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-4/",
+      "original_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 4. Materialele folosite pentru face painting sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "proposed_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 4. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "fcad532c-ec71-43f7-92a3-2b1443deeba7",
+      "field_path": "content.steps[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-4/",
+      "original_text": "Configurăm activitățile (jocuri interactive, face painting, baloane modelate sau mini-disco).",
+      "proposed_text": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco)."
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "ff28af58-ce50-4c3a-8bb8-592ee7d509af",
+      "field_path": "answer",
+      "page_path": "/animatori-petreceri-copii-sector-4/",
+      "original_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu vopsele antialergice și modelaj din baloane colorate.",
+      "proposed_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu materiale potrivite pentru copii și modelaj din baloane colorate."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "f7595ad1-7497-44dd-9309-3c4ea6821d02",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-sector-5/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "68ab8528-f8a1-4267-852d-c41a2ac5799a",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-5/",
+      "original_text": "Fiecare tip de locație din Sectorul 5 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, face painting și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 5 (cum ar fi cele din zonele Alexandriei, Sălaj sau Panduri), se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+      "proposed_text": "Fiecare tip de locație din Sectorul 5 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 5 (cum ar fi cele din zonele Alexandriei, Sălaj sau Panduri), se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "c6de0b47-5fdb-4d5b-a10b-191c036585c1",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-5/",
+      "original_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 5. Materialele folosite pentru face painting sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "proposed_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 5. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "696a88ae-168a-413d-bd27-4b4f0d4eaf59",
+      "field_path": "content.steps[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-5/",
+      "original_text": "Configurăm activitățile (jocuri interactive, face painting, baloane modelate sau mini-disco).",
+      "proposed_text": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco)."
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "256b5c1f-a466-4dc5-a1f9-41ffbb155a3a",
+      "field_path": "answer",
+      "page_path": "/animatori-petreceri-copii-sector-5/",
+      "original_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu vopsele antialergice și modelaj din baloane colorate.",
+      "proposed_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu materiale potrivite pentru copii și modelaj din baloane colorate."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "4497cbf5-7439-4eb9-85bb-c3fa6acbbb7d",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii-sector-6/",
+      "original_text": "Transformări în personaje îndrăgite, realizate cu materiale sigure și potrivite pentru pielea sensibilă. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Detalii suplimentare găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "466b6039-f616-42c0-baee-ac9b0d81416a",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-6/",
+      "original_text": "Fiecare tip de locație din Sectorul 6 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, face painting și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 6 (cum ar fi cele din zonele Ghencea, Regie sau Grozăvești), se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+      "proposed_text": "Fiecare tip de locație din Sectorul 6 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 6 (cum ar fi cele din zonele Ghencea, Regie sau Grozăvești), se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "d10eeaa0-4c7b-4e42-b296-301eb577d1cd",
+      "field_path": "content.body",
+      "page_path": "/animatori-petreceri-copii-sector-6/",
+      "original_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 6. Materialele folosite pentru face painting sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "proposed_text": "Punem accent pe siguranța copiilor, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 6. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "427b403f-b418-48eb-b156-87f5febf8d2b",
+      "field_path": "content.steps[2].body",
+      "page_path": "/animatori-petreceri-copii-sector-6/",
+      "original_text": "Configurăm activitățile (jocuri interactive, face painting, baloane modelate sau mini-disco).",
+      "proposed_text": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco)."
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "7aa0d2bc-7842-44c6-b437-a238614ac475",
+      "field_path": "answer",
+      "page_path": "/animatori-petreceri-copii-sector-6/",
+      "original_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu vopsele antialergice și modelaj din baloane colorate.",
+      "proposed_text": "Programul poate cuprinde o varietate de activități, de la jocuri interactive de mișcare și concursuri tematice, până la dansuri mini-disco, pictură pe față cu materiale potrivite pentru copii și modelaj din baloane colorate."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "f6d37f89-6789-9abc-def0-123456789abc",
+      "field_path": "content.steps[3].body",
+      "page_path": "/animatori-petreceri-copii/",
+      "original_text": "Pregătirea din timp a recuzitei de joc, a culorilor pentru face-painting și a baloanelor de modelat.",
+      "proposed_text": "Pregătirea din timp a recuzitei de joc, a culorilor pentru pictură pe față și a baloanelor de modelat."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "a1d82f34-1234-4567-89ab-cdef01234567",
+      "field_path": "content.cards[1].body",
+      "page_path": "/animatori-petreceri-copii/",
+      "original_text": "Transformări inedite în personaje îndrăgite, realizate cu culori sigure, antialergice și ușor de curățat. Detalii suplimentare sunt disponibile pe pagina dedicată pentru <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+      "proposed_text": "Transformări inedite în personaje îndrăgite, realizate cu culori potrivite pentru copii și ușor de curățat. Detalii suplimentare sunt disponibile pe pagina dedicată pentru <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>."
+    },
+    {
+      "table": "kassia_pages",
+      "record_id": "47c64b0f-7f00-4566-8296-0b52f4ca5f94",
+      "field_path": "title",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "Pictura pe Fata (Face Painting) Petreceri Copii Bucuresti si Ilfov",
+      "proposed_text": "Pictură pe față pentru petreceri de copii în București și Ilfov"
+    },
+    {
+      "table": "kassia_pages",
+      "record_id": "47c64b0f-7f00-4566-8296-0b52f4ca5f94",
+      "field_path": "meta_description",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "Servicii profesionale de pictura pe fata (face painting) pentru petreceri copii in Bucuresti si Ilfov. Culori hipoalergenice, modele diverse, sigure pentru copii.",
+      "proposed_text": "Pictură pe față pentru petreceri de copii în București și Ilfov, cu modele colorate și materiale potrivite pentru copii."
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "83b080eb-7c3a-4afc-ac91-18a1cb5c1853",
+      "field_path": "content",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<div class=\"hero-content\"><h2>Zâmbete Colorate și Transformări Magice</h2><p>Pictura pe față, cunoscută și sub numele de Face Painting, este probabil cea mai îndrăgită activitate statică la orice petrecere de copii. Cu doar câteva pensule și culori vibrante, un animator priceput poate transforma orice copil într-un supererou curajos, o prințesă elegantă, un tigru fioros sau un fluturaș delicat. La Kassia Events, integrăm sesiuni profesionale de pictură pe față în pachetele noastre de animație pentru evenimentele din București și județul Ilfov. Punem accent pe creativitate, dar mai presus de orice, pe siguranță, folosind exclusiv produse cosmetice avizate, testate dermatologic, blânde cu pielea sensibilă a celor mici.</p></div>",
+      "proposed_text": "<div class=\"hero-content\"><h2>Zâmbete Colorate și Transformări Magice</h2><p>Pictura pe față este probabil cea mai îndrăgită activitate statică la orice petrecere de copii. Cu doar câteva pensule și culori vibrante, un animator priceput poate transforma orice copil într-un supererou curajos, o prințesă elegantă, un tigru fioros sau un fluturaș delicat. La Kassia Events, integrăm activități de pictură pe față în programele noastre de animație pentru evenimentele din București și județul Ilfov. Punem accent pe creativitate, folosind materiale potrivite pentru copii și culori ușor de îndepărtat.</p></div>"
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "a0969330-8c85-4ebc-8618-4b0ecfce0fa5",
+      "field_path": "content",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<h2>Importanța calității produselor de Face Painting</h2><p>Pielea copiilor este extrem de fină și reactivă, de aceea selecția materialelor cu care lucrăm nu este niciodată lăsată la voia întâmplării. În echipa noastră refuzăm folosirea vopselelor acrilice, a temperelor de uz școlar sau a fardurilor ieftine care nu sunt destinate în mod explicit picturii corporale profesionale.</p><p><strong>Culori hipoalergenice pe bază de apă:</strong> Utilizăm doar vopsele speciale pentru face painting (marci recunoscute la nivel internațional), care se activează cu apă. Acestea au o textură cremoasă, se aplică ușor fără a trage de piele și, cel mai important, lasă porii să respire. Fiind hipoalergenice, riscul unor reacții cutanate este redus la minimum absolut.</p><p><strong>Igienă strictă a instrumentelor:</strong> Pensulele și bureții folosiți sunt curățați riguros. Animatorul spală pensulele între utilizări, iar apa folosită pentru activarea culorilor este schimbată frecvent sau menținută curată prin tehnici specifice. Produsele nu sunt aplicate pe pielea cu iritații vizibile, zgârieturi recente sau afecțiuni dermatologice, tocmai pentru a proteja copilul.</p><p><strong>Demachiere simplă:</strong> Un alt avantaj major al culorilor profesionale pe bază de apă este ușurința cu care pot fi îndepărtate. Părinții nu trebuie să folosească detergenți agresivi sau să frece intens pielea copilului la finalul petrecerii. O simplă spălare cu apă călduță și săpun pentru bebeluși sau utilizarea câtorva șervețele umede demachiante sunt suficiente pentru a înlătura orice urmă de culoare, lăsând pielea curată și catifelată.</p>",
+      "proposed_text": "<h2>Importanța calității produselor de pictură pe față</h2><p>Selecția materialelor cu care lucrăm nu este niciodată lăsată la voia întâmplării. În echipa noastră refuzăm folosirea vopselelor acrilice, a temperelor de uz școlar sau a fardurilor ieftine care nu sunt destinate în mod explicit picturii pe față.</p><p><strong>Culori potrivite pentru copii, pe bază de apă:</strong> Utilizăm vopsele speciale pentru pictură pe față, care se activează cu apă. Acestea se aplică ușor și sunt alese pentru activități cu copii.</p><p><strong>Igienă strictă a instrumentelor:</strong> Pensulele și bureții folosiți sunt curățați riguros. Animatorul spală pensulele între utilizări, iar apa folosită pentru activarea culorilor este schimbată frecvent sau menținută curată prin tehnici specifice. Activitatea se adaptează în funcție de modelul ales și de confortul copilului.</p><p><strong>Demachiere simplă:</strong> Un alt avantaj major al culorilor pe bază de apă este ușurința cu care pot fi îndepărtate. De regulă, o spălare cu apă călduță și săpun pentru copii sau câteva șervețele umede ajută la îndepărtarea culorilor.</p>"
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "f949f3ac-360e-4834-a44b-f93139aabdcf",
+      "field_path": "content",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<h2>Rezervarea unui pachet cu Face Painting în București și Ilfov</h2><p>Dacă doriți ca petrecerea copilului dumneavoastră să includă momente de magie colorată, nu ezitați să ne contactați. Toate pachetele noastre de animație de bază includ, în mod implicit, sesiunea de pictură pe față alături de jocurile interactive și modelajul de baloane, fără costuri ascunse.</p><p>Când solicitați o ofertă (prin telefon, WhatsApp sau formularul site-ului), este suficient să ne indicați numărul de invitați. Acest detaliu ne va ajuta să calculăm timpul necesar pentru ca fiecare copil să beneficieze de atenția animatorului pentru pictură și să vă propunem numărul ideal de membri ai echipei Kassia Events care ar trebui să fie prezenți la locație (în București sau localitățile din județul Ilfov).</p><p>Zâmbetele ascunse în spatele măștilor de supererou sau al steluțelor de zână sunt dovada clară că această activitate este și va rămâne una dintre preferatele copilăriei. Vă asigurat igienă, răbdare, talent și multă voie bună!</p>",
+      "proposed_text": "<h2>Planificarea activităților de pictură pe față în București și Ilfov</h2><p>Dacă doriți ca petrecerea copilului dumneavoastră să includă momente de magie colorată, nu ezitați să ne contactați. În general, programele de animație pot include sesiunea de pictură pe față alături de jocurile interactive și modelajul de baloane, în funcție de structura programului și de activitățile dorite.</p><p>Când ne trimiteți detaliile petrecerii (prin telefon, WhatsApp sau formularul site-ului), este suficient să ne indicați numărul de invitați. Acest detaliu ne va ajuta să calculăm timpul necesar pentru ca fiecare copil să beneficieze de atenția echipei pentru pictură și să vă putem recomanda structura potrivită a programului pentru evenimentul dumneavoastră (în București sau localitățile din județul Ilfov).</p><p>Zâmbetele ascunse în spatele măștilor de supererou sau al steluțelor de zână sunt dovada clară că această activitate este și va rămâne una dintre preferatele copilăriei. Stabilim împreună detaliile organizatorice, oferind igienă, răbdare, talent și multă voie bună!</p>"
+    },
+    {
+      "table": "kassia_page_sections",
+      "record_id": "aff71d52-7cb8-4d6f-8eff-6f677a7fe54c",
+      "field_path": "content",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<h2>Cum se desfășoară sesiunea de Face Painting la o petrecere?</h2><p>Integrarea picturii pe față în dinamica generală a unei petreceri (care durează de obicei un timp extins) necesită o anumită organizare din partea animatorului Kassia Events.</p><p>De cele mai multe ori, recomandăm ca sesiunea de pictură să aibă loc în partea de mijloc a petrecerii, după o repriză inițială de jocuri active și alergătură. Motivul este simplu: copiii au consumat primul val de energie și sunt mai dispuși să ia o pauză, să bea apă și să aștepte câteva minute pe scăunelul animatorului. De asemenea, pictându-i după ce au transpirat masiv la prima tură de jocuri, culorile rezistă mult mai bine pentru fotografiile de la tort.</p><p>Pe parcursul sesiunii, animatorul creează o atmosferă relaxată, discută cu copilul din fața sa („Te transformăm într-un tigru foarte curajos sau într-unul mai somnoros?”), menținând în același timp atenția asupra restului grupului prin mici glume sau ghicitori. Dacă grupul de invitați depășește 15-20 de copii, timpul alocat picturii poate deveni prea lung, generând plictiseală pentru cei care așteaptă la rând. În aceste cazuri (specifice evenimentelor mari, nunților sau botezurilor din București și Ilfov), recomandăm cu tărie adăugarea unui al doilea animator în pachet. Astfel, în timp ce un animator se ocupă de transformările colorate, celălalt poate susține jocuri dinamice sau poate supraveghea activitățile de grup, asigurându-se că toată lumea se distrează non-stop.</p>",
+      "proposed_text": "<h2>Cum se desfășoară sesiunea de pictură pe față la o petrecere?</h2><p>Integrarea picturii pe față în dinamica generală a unei petreceri (care durează de obicei un timp extins) necesită o organizare din partea animatorului Kassia Events.</p><p>De cele mai multe ori, recomandăm ca sesiunea de pictură să aibă loc în partea de mijloc a petrecerii, după o repriză inițială de jocuri active și alergătură. Motivul este simplu: copiii au consumat primul val de energie și sunt mai dispuși să ia o pauză, să bea apă și să aștepte câteva minute pe scăunelul animatorului. De asemenea, pictându-i după ce au transpirat masiv la prima tură de jocuri, culorile rezistă mult mai bine pentru fotografiile de la tort.</p><p>Pe parcursul sesiunii, animatorul creează o atmosferă relaxată, discută cu copilul din fața sa („Te transformăm într-un tigru foarte curajos sau într-unul mai somnoros?”), menținând în același timp atenția asupra restului grupului prin mici glume sau ghicitori. Dacă grupul este mai numeros, timpul alocat picturii poate deveni prea lung, generând plictiseală pentru cei care așteaptă la rând. În aceste cazuri (specifice evenimentelor mari, nunților sau botezurilor din București și Ilfov), recomandăm cu tărie ca echipa să se stabilească în funcție de detaliile evenimentului. Astfel, în timp ce un membru al echipei se ocupă de transformările colorate, ceilalți pot susține jocuri dinamice sau pot supraveghea activitățile de grup, asigurându-se că toată lumea se distrează pe tot parcursul activităților.</p>"
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "82657706-5e13-4de8-9bb1-88b80f02d8a7",
+      "field_path": "answer",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<p>Folosim exclusiv vopsele profesionale speciale pentru Face Painting, pe bază de apă (activabile cu apă). Acestea sunt non-toxice, avizate din punct de vedere dermatologic, hipoalergenice și prietenoase cu pielea sensibilă a copiilor. Nu folosim niciodată tempere sau culori acrilice.</p>",
+      "proposed_text": "<p>Folosim materiale pe bază de apă pentru pictură pe față. Acestea sunt potrivite pentru copii și se îndepărtează ușor. Nu folosim tempere sau culori acrilice pentru această activitate.</p>"
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "1b303852-0459-4a4e-b5b7-551ec701fbc7",
+      "field_path": "question",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "Veniți doar pentru Face Painting la o petrecere mare în București?",
+      "proposed_text": "Veniți doar pentru pictură pe față la o petrecere mare în București?"
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "1b303852-0459-4a4e-b5b7-551ec701fbc7",
+      "field_path": "answer",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<p>Da. Pentru evenimente corporate, botezuri mari, nunți sau festivaluri, putem asigura servicii dedicate exclusiv de Face Painting (conceptul de „stand” sau corner). Vă rugăm să ne contactați pentru a discuta detaliile logistice și a vă oferi o cotație personalizată pentru evenimentul dumneavoastră din București sau Ilfov.</p>",
+      "proposed_text": "<p>Da. Pentru evenimente private, botezuri, nunți sau festivaluri pentru copii, putem organiza activități dedicate de pictură pe față, într-o zonă dedicată. Vă rugăm să ne contactați pentru a discuta detaliile logistice și pentru a stabili împreună detaliile organizatorice pentru evenimentul dumneavoastră din București sau Ilfov.</p>"
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "57d77c8c-d276-43b8-9790-1c6cf2aa9543",
+      "field_path": "question",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "Sesiunea de face painting este inclusă în preț sau se plătește separat?",
+      "proposed_text": "Sesiunea de pictură pe față poate fi inclusă în programul de animație?"
+    },
+    {
+      "table": "kassia_faqs",
+      "record_id": "57d77c8c-d276-43b8-9790-1c6cf2aa9543",
+      "field_path": "answer",
+      "page_path": "/pictura-pe-fata-copii-bucuresti/",
+      "original_text": "<p>În marea majoritate a pachetelor noastre standard de animație (de 1,o durată extinsă sau mai mult), serviciul de Face Painting este complet integrat și inclus în ofertă, la fel ca modelajul de baloane și jocurile. Nu percepem taxe adiționale per copil pictat în cadrul pachetelor de petreceri private.</p>",
+      "proposed_text": "<p>Da. Pictura pe față poate fi integrată în programul de animație, alături de modelajul de baloane și jocurile interactive, în funcție de structura programului și de activitățile dorite.</p>"
+    }
+  ]
+}

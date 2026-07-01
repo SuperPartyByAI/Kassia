@@ -1,0 +1,10 @@
+{
+  "httpStatus": 200,
+  "blockedByCSRF": false,
+  "blockedByGuard": true,
+  "responseIncludesBlocked": true,
+  "publishedBefore": 0,
+  "publishedAfter": 0,
+  "indexAfter": 0,
+  "sitemapAfter": 0
+}

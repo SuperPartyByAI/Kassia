@@ -1,0 +1,5 @@
+{
+  "executed": true,
+  "connected": false,
+  "error": "Node.js 20 detected without native WebSocket support.\n\nSuggested solution: For Node.js < 22, install \"ws\" package and provide it via the transport option:\nimport ws from \"ws\"\nnew RealtimeClient(url, { transport: ws })"
+}

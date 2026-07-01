@@ -1,0 +1,279 @@
+{
+  "kassia_pages": {
+    "required": [
+      "id",
+      "slug",
+      "path",
+      "page_type",
+      "status",
+      "index_status",
+      "include_in_sitemap",
+      "title",
+      "h1",
+      "meta_title",
+      "meta_description",
+      "priority"
+    ],
+    "columns": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "default": "gen_random_uuid()"
+      },
+      "slug": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "path": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "page_type": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "status": {
+        "type": "string",
+        "format": "public.kassia_page_status",
+        "default": "draft"
+      },
+      "index_status": {
+        "type": "string",
+        "format": "public.kassia_index_status_type",
+        "default": "noindex"
+      },
+      "include_in_sitemap": {
+        "type": "boolean",
+        "format": "boolean",
+        "default": false
+      },
+      "title": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "h1": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "meta_title": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "meta_description": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "canonical_url": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "parent_page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "service_type": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "event_type": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "location_type": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "city": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "sector": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "neighborhood": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "priority": {
+        "type": "number",
+        "format": "numeric",
+        "default": 0.5
+      },
+      "created_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      },
+      "updated_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      },
+      "published_at": {
+        "type": "string",
+        "format": "timestamp with time zone"
+      }
+    }
+  },
+  "kassia_page_sections": {
+    "required": [
+      "id",
+      "page_id",
+      "section_type",
+      "content",
+      "order_index"
+    ],
+    "columns": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "default": "gen_random_uuid()"
+      },
+      "page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "section_type": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "heading": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "content": {
+        "format": "jsonb"
+      },
+      "order_index": {
+        "type": "integer",
+        "format": "integer"
+      },
+      "created_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      },
+      "updated_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      }
+    }
+  },
+  "kassia_faqs": {
+    "required": [
+      "id",
+      "page_id",
+      "question",
+      "answer",
+      "order_index"
+    ],
+    "columns": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "default": "gen_random_uuid()"
+      },
+      "page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "question": {
+        "type": "string",
+        "format": "text"
+      },
+      "answer": {
+        "type": "string",
+        "format": "text"
+      },
+      "order_index": {
+        "type": "integer",
+        "format": "integer"
+      },
+      "created_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      },
+      "updated_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      }
+    }
+  },
+  "kassia_gallery_items": {
+    "required": [
+      "id",
+      "page_id",
+      "url",
+      "order_index"
+    ],
+    "columns": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "default": "gen_random_uuid()"
+      },
+      "page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "url": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "alt_text": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "order_index": {
+        "type": "integer",
+        "format": "integer"
+      },
+      "created_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      },
+      "updated_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      }
+    }
+  },
+  "kassia_internal_links": {
+    "required": [
+      "id",
+      "source_page_id",
+      "target_page_id",
+      "anchor_text"
+    ],
+    "columns": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "default": "gen_random_uuid()"
+      },
+      "source_page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "target_page_id": {
+        "type": "string",
+        "format": "uuid"
+      },
+      "anchor_text": {
+        "type": "string",
+        "format": "character varying"
+      },
+      "created_at": {
+        "type": "string",
+        "format": "timestamp with time zone",
+        "default": "now()"
+      }
+    }
+  }
+}

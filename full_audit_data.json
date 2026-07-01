@@ -1,0 +1,86 @@
+{
+  "Homepage": {
+    "targetUrl": "https://www.kassia.ro/",
+    "queries": [
+      {
+        "query": "organizare petreceri copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "petreceri copii București decoruri baloane",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "decoruri baloane petreceri copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "organizare evenimente copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      }
+    ],
+    "kassia": {
+      "status": "",
+      "canonical": "https://www.kassia.ro/",
+      "title": "Organizare petreceri copii și decoruri baloane București | Kassia Events",
+      "metaDesc": "Kassia Events organizează petreceri pentru copii în București și Ilfov, cu animatori, mascote, activități interactive și decoruri cu baloane adaptate evenimentului.",
+      "h1s": [
+        "Kassia Events: organizare petreceri pentru copii și decoruri cu baloane"
+      ],
+      "wordCount": 1,
+      "faqCount": 10,
+      "faqSchema": true,
+      "matchedZones": [
+        "bucurești",
+        "ilfov"
+      ]
+    },
+    "competitors": []
+  },
+  "Animatori Main Hub": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "animatori copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "animatori petreceri copii Ilfov",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      },
+      {
+        "query": "animatori pentru copii București",
+        "source": "GOOGLE REAL BROWSER",
+        "results": []
+      }
+    ],
+    "kassia": {
+      "status": "",
+      "canonical": "https://www.kassia.ro/animatori-petreceri-copii/",
+      "title": "Animatori pentru petreceri de copii în București și Ilfov",
+      "metaDesc": "Personaje de poveste, pictură pe față, modelaj de baloane, mini-disco și jocuri interactive. Adaugă magie la petreceri de copii în București și Ilfov.",
+      "h1s": [
+        "Animatori pentru petreceri de copii în București și Ilfov"
+      ],
+      "wordCount": 1,
+      "faqCount": 8,
+      "faqSchema": true,
+      "matchedZones": [
+        "bucurești",
+        "ilfov"
+      ]
+    },
+    "competitors": []
+  }
+}

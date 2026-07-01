@@ -1,0 +1,800 @@
+[
+  {
+    "id": "f2fc31ea-6be6-4ba6-a261-f9f60276a751",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "cfceedcc-02ae-4c4b-bb7a-1efc6de616b1",
+    "anchor_text": "decoratiuni baloane sector 1",
+    "created_at": "2026-05-19T16:08:16.874942+00:00"
+  },
+  {
+    "id": "0f1b1aae-cb76-4a92-bbf2-8de623d366d4",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "9d9bd7af-07e9-42cf-9520-b5d58d96da51",
+    "anchor_text": "decoratiuni baloane sector 2",
+    "created_at": "2026-05-19T16:08:17.015957+00:00"
+  },
+  {
+    "id": "912d8a64-ee84-4a86-b7f6-43474e48f199",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "f3b0a28b-4729-4c33-82a8-621d0693472f",
+    "anchor_text": "decoratiuni baloane sector 3",
+    "created_at": "2026-05-19T16:08:17.164801+00:00"
+  },
+  {
+    "id": "f66683f0-7576-4bdf-b519-6d0013c8d5ca",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ef66144d-a8d3-42fc-8914-e4a6cfa3a520",
+    "anchor_text": "decoratiuni baloane sector 4",
+    "created_at": "2026-05-19T16:08:17.309418+00:00"
+  },
+  {
+    "id": "125dd6c1-e631-49b0-8bf7-ff2d94616e5d",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ba05c8f5-ce09-464d-8beb-eabd0c3d895f",
+    "anchor_text": "decoratiuni baloane sector 5",
+    "created_at": "2026-05-19T16:08:17.44918+00:00"
+  },
+  {
+    "id": "f5c97b0a-5080-401c-aa3a-db3199100e1a",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "1b3eeca2-0370-44bc-8df3-cb744aaab84c",
+    "anchor_text": "decoratiuni baloane sector 6",
+    "created_at": "2026-05-19T16:08:17.603552+00:00"
+  },
+  {
+    "id": "798863a0-fe2f-4dce-a47c-e55c25c2820b",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "8126ee76-8b69-42a4-9177-cce40de74cc3",
+    "anchor_text": "decoratiuni baloane aviatiei",
+    "created_at": "2026-05-19T16:08:17.741917+00:00"
+  },
+  {
+    "id": "8c7d0826-eadc-4d0a-aa1b-8cb46423ec93",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "68a844fe-8c9b-4af5-a0e6-05425c2f3938",
+    "anchor_text": "decoratiuni baloane baneasa",
+    "created_at": "2026-05-19T16:08:17.887593+00:00"
+  },
+  {
+    "id": "dfa76b9e-ebf8-4cfa-805d-e1fb3be628c4",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "a3c33e55-34ff-4f69-a613-229bcec3fa82",
+    "anchor_text": "decoratiuni baloane domenii",
+    "created_at": "2026-05-19T16:08:18.031534+00:00"
+  },
+  {
+    "id": "1e04ce62-d741-4420-879a-09a601f54c75",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "dafe687d-a41b-4044-8cfb-f6b23ba7b51c",
+    "anchor_text": "decoratiuni baloane herastrau",
+    "created_at": "2026-05-19T16:08:18.174208+00:00"
+  },
+  {
+    "id": "d577179d-0d96-4129-ad1d-9815acfd3437",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "990f101d-96fc-4b1f-a242-56ac182bb0c6",
+    "anchor_text": "decoratiuni baloane victoriei",
+    "created_at": "2026-05-19T16:08:18.311744+00:00"
+  },
+  {
+    "id": "8d6fea20-4ffc-4b5d-aa92-edc3e7444306",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "19ecae36-d252-4258-9e65-72560c474708",
+    "anchor_text": "decoratiuni baloane colentina",
+    "created_at": "2026-05-19T16:08:18.467497+00:00"
+  },
+  {
+    "id": "8908cf09-2e91-4de8-981c-d5c52e48bf37",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "fb90b374-cf62-446e-838c-c8c9ea9991b3",
+    "anchor_text": "decoratiuni baloane obor",
+    "created_at": "2026-05-19T16:08:18.611081+00:00"
+  },
+  {
+    "id": "f6050cca-c531-41fa-a2ce-d25f888dc522",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "63f13154-b657-471c-a110-4cf5879619ad",
+    "anchor_text": "decoratiuni baloane pantelimon",
+    "created_at": "2026-05-19T16:08:18.760687+00:00"
+  },
+  {
+    "id": "6c5082ae-44f8-4901-b371-980ceddd776e",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "159a01b9-3213-476b-8f78-032f4ab024ff",
+    "anchor_text": "decoratiuni baloane tei",
+    "created_at": "2026-05-19T16:08:18.909798+00:00"
+  },
+  {
+    "id": "40ec3d40-6306-4718-967f-02bc248ed560",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "8d602b05-b1ce-4fae-a9fe-4e9350fce960",
+    "anchor_text": "decoratiuni baloane stefan cel mare",
+    "created_at": "2026-05-19T16:08:19.06714+00:00"
+  },
+  {
+    "id": "a736a4fc-dbd7-4edb-bd4e-a8e0f35d8015",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "dfa3016a-7556-4e9a-bbd1-4bf6c984a57e",
+    "anchor_text": "decoratiuni baloane dristor",
+    "created_at": "2026-05-19T16:08:19.208458+00:00"
+  },
+  {
+    "id": "de23a682-7bb4-4aeb-bd44-7d3bf18bc20c",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ff605f74-5a61-436c-8d4e-48145e9eed48",
+    "anchor_text": "decoratiuni baloane titan",
+    "created_at": "2026-05-19T16:08:19.347717+00:00"
+  },
+  {
+    "id": "e42ce9a6-c162-41cf-81d0-a33edf834c5c",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "45cfa22d-94eb-4527-be9f-0e4d7e43458a",
+    "anchor_text": "decoratiuni baloane vitan",
+    "created_at": "2026-05-19T16:08:19.504143+00:00"
+  },
+  {
+    "id": "c123a609-6cd9-4ae0-931d-1b394fbe3da4",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "3dbbff26-1e86-4acf-97dd-dd1b85dd4587",
+    "anchor_text": "decoratiuni baloane unirii",
+    "created_at": "2026-05-19T16:08:19.647059+00:00"
+  },
+  {
+    "id": "3662998d-4b11-4e9c-a9f5-c0f03685cec9",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "96d9abfe-6894-4dd0-9aea-b75ff74717bd",
+    "anchor_text": "decoratiuni baloane dudesti",
+    "created_at": "2026-05-19T16:08:19.787428+00:00"
+  },
+  {
+    "id": "60926a2e-4550-4b45-85cd-c6bde0cb685f",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "6a4c3e0d-b94d-4d48-a6c6-1b5d2db70c31",
+    "anchor_text": "decoratiuni baloane berceni",
+    "created_at": "2026-05-19T16:08:19.933438+00:00"
+  },
+  {
+    "id": "d562aa89-52ae-4648-b3bc-3447dfa817f7",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "45b1f2be-5d3b-488c-8236-4f9f531934aa",
+    "anchor_text": "decoratiuni baloane tineretului",
+    "created_at": "2026-05-19T16:08:20.076591+00:00"
+  },
+  {
+    "id": "4af49345-dd5b-4e50-af82-0987893245c1",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "5bdad3f7-8953-4c8d-9660-b365e076a5a5",
+    "anchor_text": "decoratiuni baloane piata sudului",
+    "created_at": "2026-05-19T16:08:20.21914+00:00"
+  },
+  {
+    "id": "2650abb6-c476-4587-a280-e91726e25430",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "df54e68e-4ad5-4ddb-9c36-923980162848",
+    "anchor_text": "decoratiuni baloane aparatorii patriei",
+    "created_at": "2026-05-19T16:08:20.358902+00:00"
+  },
+  {
+    "id": "1ecf2af8-00e8-476d-b330-ee88899827b7",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "4f553c74-1fbc-4ff5-819b-4c25fa72c713",
+    "anchor_text": "decoratiuni baloane oltenitei",
+    "created_at": "2026-05-19T16:08:20.514683+00:00"
+  },
+  {
+    "id": "94029e44-11f9-44b6-bfd8-93d0d0f2fa3d",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ec939555-87a0-4b76-a226-85a8312af459",
+    "anchor_text": "decoratiuni baloane rahova",
+    "created_at": "2026-05-19T16:08:20.657392+00:00"
+  },
+  {
+    "id": "39c50331-631d-44d9-bc20-4a89dc341ae7",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "f1a2d500-cd4b-49b0-870c-fc7729513075",
+    "anchor_text": "decoratiuni baloane cotroceni",
+    "created_at": "2026-05-19T16:08:20.839561+00:00"
+  },
+  {
+    "id": "31fbb34a-bf18-48e6-b8ca-59284b48f2f6",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "122c991a-86e4-4468-8500-e5db5123677e",
+    "anchor_text": "decoratiuni baloane 13 septembrie",
+    "created_at": "2026-05-19T16:08:20.996378+00:00"
+  },
+  {
+    "id": "c04039a1-0c6a-4efb-afbe-d8625a461050",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "097b028d-7c9b-4305-a8fc-7f1bb9bb50ed",
+    "anchor_text": "decoratiuni baloane ferentari",
+    "created_at": "2026-05-19T16:08:21.395739+00:00"
+  },
+  {
+    "id": "3e0f9cf7-e495-44c6-8d40-7e1172a65103",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "c1a5c8d2-3091-4904-86a9-b26e73c7ada6",
+    "anchor_text": "decoratiuni baloane sebastian",
+    "created_at": "2026-05-19T16:08:21.550795+00:00"
+  },
+  {
+    "id": "b45e5f15-ab6f-4c27-bc74-4a476199f22c",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ecdfe8cd-ade3-43ff-84aa-3df6f180ede4",
+    "anchor_text": "decoratiuni baloane drumul taberei",
+    "created_at": "2026-05-19T16:08:21.697665+00:00"
+  },
+  {
+    "id": "790e4cd6-e280-423c-ad8c-e050966c9ff4",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ecaefbeb-047a-4dca-b85c-652a055a37f9",
+    "anchor_text": "decoratiuni baloane militari",
+    "created_at": "2026-05-19T16:08:21.847208+00:00"
+  },
+  {
+    "id": "96d1fb4f-da4c-4364-a4be-f48aeb6a658d",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "99d5ae78-bdf4-480c-9d89-4fd9451ca678",
+    "anchor_text": "decoratiuni baloane crangasi",
+    "created_at": "2026-05-19T16:08:22.000808+00:00"
+  },
+  {
+    "id": "2b19e9cf-2953-469b-befe-80b53faa2955",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ffc4e35d-461f-4d96-b310-d7ff6821af46",
+    "anchor_text": "decoratiuni baloane giulesti",
+    "created_at": "2026-05-19T16:08:22.148158+00:00"
+  },
+  {
+    "id": "b92eaf79-f729-4381-b33f-076894efc3cb",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "b0d83d08-6397-4b06-bd6d-1e8ac5bb8b73",
+    "anchor_text": "decoratiuni baloane grozavesti",
+    "created_at": "2026-05-19T16:08:22.2929+00:00"
+  },
+  {
+    "id": "343952a4-48c0-40a0-9eab-dba157c55869",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "3fdc90ae-27b8-4e60-8142-28ee57f22752",
+    "anchor_text": "decoratiuni baloane ilfov",
+    "created_at": "2026-05-19T16:08:22.447534+00:00"
+  },
+  {
+    "id": "995f8b7d-9626-4840-ab1f-6cc004749c9d",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "22a0a3d1-8b80-497f-8a76-99561e63040a",
+    "anchor_text": "decoratiuni baloane voluntari",
+    "created_at": "2026-05-19T16:08:22.594634+00:00"
+  },
+  {
+    "id": "b3b5a124-cdfa-42d4-aa87-09147d2c8bd5",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "744bf491-a42b-46b9-964f-8d529bc6df6a",
+    "anchor_text": "decoratiuni baloane pipera",
+    "created_at": "2026-05-19T16:08:22.747566+00:00"
+  },
+  {
+    "id": "7e066fef-7aad-412b-a28c-48c676bc045c",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "423f46a0-2354-4f00-8da9-9a0c986f13fa",
+    "anchor_text": "decoratiuni baloane otopeni",
+    "created_at": "2026-05-19T16:08:22.890515+00:00"
+  },
+  {
+    "id": "5a663ffb-7bad-46ef-950f-07baaabaf3c0",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "4ef2e77e-3778-46d9-a271-0ffc2b031ae9",
+    "anchor_text": "decoratiuni baloane tunari",
+    "created_at": "2026-05-19T16:08:23.041901+00:00"
+  },
+  {
+    "id": "422d2e33-5fd8-4f66-ada1-5929e3759bc9",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "26c4d597-fc63-4434-843f-26eb8f91b969",
+    "anchor_text": "decoratiuni baloane corbeanca",
+    "created_at": "2026-05-19T16:08:23.193198+00:00"
+  },
+  {
+    "id": "a64f8f9f-a51a-4427-b2d0-7663d40081e8",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "919d3b01-0d3f-4b54-b4b5-b758566a947a",
+    "anchor_text": "decoratiuni baloane balotesti",
+    "created_at": "2026-05-19T16:08:23.33419+00:00"
+  },
+  {
+    "id": "8f589406-9411-4142-91c1-23ae198baa81",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "97de669b-33ce-447a-8250-b1b17ebe6d93",
+    "anchor_text": "decoratiuni baloane mogosoaia",
+    "created_at": "2026-05-19T16:08:23.480577+00:00"
+  },
+  {
+    "id": "e1e13188-9ddf-4dd3-ad8b-78eb25d53504",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "e4830127-b7de-43db-b008-a2858a908fbf",
+    "anchor_text": "decoratiuni baloane chitila",
+    "created_at": "2026-05-19T16:08:23.654173+00:00"
+  },
+  {
+    "id": "911920f6-9d79-4ed3-bfb9-e8ddb9daf50a",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "66ce5754-d237-484b-94a4-b19c861cf9e1",
+    "anchor_text": "decoratiuni baloane chiajna",
+    "created_at": "2026-05-19T16:08:23.807076+00:00"
+  },
+  {
+    "id": "19a3ef3a-1d6f-4fbc-885d-e7487a2df838",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "832bdf9e-9b83-4274-a321-30f17409e08a",
+    "anchor_text": "decoratiuni baloane domnesti",
+    "created_at": "2026-05-19T16:08:23.952412+00:00"
+  },
+  {
+    "id": "567e20bd-9e58-4f6d-900d-c5ced9ae5be7",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "2c7623b2-3e7d-46f7-b3f9-ea0cadcee1d6",
+    "anchor_text": "decoratiuni baloane bragadiru",
+    "created_at": "2026-05-19T16:08:24.099196+00:00"
+  },
+  {
+    "id": "12a6333f-939d-4f47-bbe0-337f57d4132b",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "836076b3-849a-443b-8e3e-4f1f1b9ecc8c",
+    "anchor_text": "decoratiuni baloane magurele",
+    "created_at": "2026-05-19T16:08:24.245758+00:00"
+  },
+  {
+    "id": "49ecd393-36e2-486a-9a74-6a75b207162a",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "05916472-6407-4434-bd97-f7f600f52d51",
+    "anchor_text": "decoratiuni baloane popesti leordeni",
+    "created_at": "2026-05-19T16:08:24.390657+00:00"
+  },
+  {
+    "id": "27bd0b90-d59a-4426-9bb8-b43e5ef24ff6",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "bc0d9f1f-fe99-4e18-a08d-8d2fd3b574d0",
+    "anchor_text": "decoratiuni baloane berceni ilfov",
+    "created_at": "2026-05-19T16:08:24.537057+00:00"
+  },
+  {
+    "id": "af0ec363-e0ff-4e0f-8596-b921ec7be6e1",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "5fb70434-2104-465d-98d1-71be39d0cfdc",
+    "anchor_text": "decoratiuni baloane pantelimon ilfov",
+    "created_at": "2026-05-19T16:08:24.680596+00:00"
+  },
+  {
+    "id": "1b076790-f042-44b4-8c2d-221c2fc40e28",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "69981902-147c-4ad7-acd4-4e778aa7d91e",
+    "anchor_text": "decoratiuni baloane cernica",
+    "created_at": "2026-05-19T16:08:24.835359+00:00"
+  },
+  {
+    "id": "f9328027-bca9-4ab3-9fd6-5dc51c5a09fc",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "88c1b9cb-f341-49f4-b521-86d13474e424",
+    "anchor_text": "decoratiuni baloane afumati",
+    "created_at": "2026-05-19T16:08:24.978474+00:00"
+  },
+  {
+    "id": "56df1227-fbc2-4692-bbb8-1e244e36cea2",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "df9e2feb-07ed-4185-9f5b-f191d69ddc8a",
+    "anchor_text": "decoratiuni baloane stefanestii de jos",
+    "created_at": "2026-05-19T16:08:25.129763+00:00"
+  },
+  {
+    "id": "a4f1091f-456f-499c-9278-0c7317c35b19",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "6400e079-ac17-4a46-91c1-b8be596b756a",
+    "anchor_text": "decoratiuni baloane dascalu",
+    "created_at": "2026-05-19T16:08:25.516012+00:00"
+  },
+  {
+    "id": "2494590e-5de6-4fe8-ae15-f9ca6b3838ea",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "e5adae0b-096b-4740-bfa3-66ec2019ecc3",
+    "anchor_text": "decoratiuni baloane snagov",
+    "created_at": "2026-05-19T16:08:25.659529+00:00"
+  },
+  {
+    "id": "252c0cac-7d4d-4a68-b62f-0ea49757877d",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "ef2b67f5-972c-4538-8211-d0f11ef4ae1a",
+    "anchor_text": "decoratiuni baloane clinceni",
+    "created_at": "2026-05-19T16:08:25.818732+00:00"
+  },
+  {
+    "id": "014c8d74-1868-4d19-910b-749fbb0423b2",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "0d287131-b682-4a48-b15f-95802ca3ae22",
+    "anchor_text": "decoratiuni baloane dragomiresti vale",
+    "created_at": "2026-05-19T16:08:25.974493+00:00"
+  },
+  {
+    "id": "7618999b-5f44-4b66-bf26-d99855e9e417",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "26f047ec-ee71-4d7e-8619-9ac1a6275cf6",
+    "anchor_text": "decoratiuni baloane jilava",
+    "created_at": "2026-05-19T16:08:26.14963+00:00"
+  },
+  {
+    "id": "bf589dc6-7742-4ee2-b74c-007b632f13a0",
+    "source_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "target_page_id": "41671f54-6e68-477a-b2d9-e5c158757bb8",
+    "anchor_text": "decoratiuni baloane 1 decembrie",
+    "created_at": "2026-05-19T16:08:26.301814+00:00"
+  },
+  {
+    "id": "16bfc394-4579-4355-9170-7213e942a792",
+    "source_page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane București",
+    "created_at": "2026-05-19T16:08:26.754175+00:00"
+  },
+  {
+    "id": "cbf6097d-1de1-4f50-bcb3-8612d73b49a3",
+    "source_page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "contact",
+    "created_at": "2026-05-19T16:08:26.900765+00:00"
+  },
+  {
+    "id": "1b753f2a-72db-44fc-97c4-4d6aef3de97a",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "3069dab7-f3da-4c3d-ba87-b1adc5133974",
+    "anchor_text": "baloane personalizate bucuresti",
+    "created_at": "2026-05-19T16:08:40.435083+00:00"
+  },
+  {
+    "id": "581d9b58-226d-4e29-ad70-2316cf4f0294",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "a414fd35-d5a3-4e6d-bc3e-eba420dd20ae",
+    "anchor_text": "ghirlande baloane bucuresti",
+    "created_at": "2026-05-19T16:08:40.755516+00:00"
+  },
+  {
+    "id": "0ee4ec6b-0c98-4b38-a830-0e8c7de90586",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "ba675223-b5fb-4dc8-87ab-751096a65a08",
+    "anchor_text": "decor baloane candy bar bucuresti",
+    "created_at": "2026-05-19T16:08:41.209503+00:00"
+  },
+  {
+    "id": "7cd6abc7-8015-49bc-b282-bb7a263da05d",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "contact rapid",
+    "created_at": "2026-05-19T16:08:42.28032+00:00"
+  },
+  {
+    "id": "ddceb1ce-483f-481c-ab70-668f582ecbe3",
+    "source_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "target_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "anchor_text": "baloane heliu",
+    "created_at": "2026-05-19T16:08:43.984256+00:00"
+  },
+  {
+    "id": "e6833f4b-2410-4cd2-b9d3-695999a18128",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "cere ofertă",
+    "created_at": "2026-05-19T16:08:45.026322+00:00"
+  },
+  {
+    "id": "0f50e76c-c93f-4ceb-91a9-a24f86c57b94",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "ce9ed604-bf86-4a60-bf6f-becba3628354",
+    "anchor_text": "buchete baloane",
+    "created_at": "2026-05-19T16:08:54.291226+00:00"
+  },
+  {
+    "id": "d249bd98-a3e1-475e-8e80-69849f8c5511",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "anchor_text": "arcadă foto",
+    "created_at": "2026-05-19T16:08:56.752245+00:00"
+  },
+  {
+    "id": "2322f7d7-6a0b-48c8-8e66-80e8527d27e1",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "anchor_text": "baloane heliu",
+    "created_at": "2026-05-19T16:08:56.902977+00:00"
+  },
+  {
+    "id": "39e979e0-6ecb-4df4-ab1c-5764375ff7c8",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "anchor_text": "arcada baloane bucuresti",
+    "created_at": "2026-05-19T16:08:39.840031+00:00"
+  },
+  {
+    "id": "8e191c84-3519-4fba-be87-7130ad8ae556",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "anchor_text": "baloane heliu bucuresti",
+    "created_at": "2026-05-19T16:08:39.988337+00:00"
+  },
+  {
+    "id": "76091ef6-cdae-4f2c-ad35-6f513f3e8ab2",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "ae5f7921-4fff-47ab-90ea-f5e9be884126",
+    "anchor_text": "perete baloane bucuresti",
+    "created_at": "2026-05-19T16:08:41.052479+00:00"
+  },
+  {
+    "id": "7c827368-cfa9-4cf7-aae6-56d22e6813c1",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "anchor_text": "decoratiuni baloane botez bucuresti",
+    "created_at": "2026-05-19T16:08:41.529695+00:00"
+  },
+  {
+    "id": "393b4b3a-6a20-4218-82c8-1abb3bb3b446",
+    "source_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "vezi galerie",
+    "created_at": "2026-05-19T16:08:43.791917+00:00"
+  },
+  {
+    "id": "1dc85cb1-f13a-4a4e-8e09-ee265cad1de3",
+    "source_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "cere ofertă",
+    "created_at": "2026-05-19T16:08:44.274817+00:00"
+  },
+  {
+    "id": "dd14552b-df9a-4e43-ae8a-1b5a0721e3c6",
+    "source_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "vezi galerie",
+    "created_at": "2026-05-19T16:08:44.57989+00:00"
+  },
+  {
+    "id": "e36df697-3bcd-4ec6-aa71-915993d10a28",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "galerie evenimente",
+    "created_at": "2026-05-19T16:08:53.671135+00:00"
+  },
+  {
+    "id": "316f8edb-c8ac-4592-8c12-68ca233049ca",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "anchor_text": "panou foto",
+    "created_at": "2026-05-19T16:08:54.131047+00:00"
+  },
+  {
+    "id": "9c7e3413-41f7-4116-9f57-8a2b95132c47",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "contactează-ne",
+    "created_at": "2026-05-19T16:08:56.44464+00:00"
+  },
+  {
+    "id": "168e7a83-0a9f-488d-85c7-b66422e88b08",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "galerie evenimente",
+    "created_at": "2026-05-19T16:08:56.603227+00:00"
+  },
+  {
+    "id": "de69b2d1-050f-40a4-9d0f-0244a7dd20a9",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "ce9ed604-bf86-4a60-bf6f-becba3628354",
+    "anchor_text": "buchete baloane",
+    "created_at": "2026-05-19T16:08:57.217208+00:00"
+  },
+  {
+    "id": "c635ea4e-92a0-47df-a9e2-bed10474b99c",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "abef3764-06e0-4925-93dc-96f57d8d127c",
+    "anchor_text": "aranjamente baloane bucuresti",
+    "created_at": "2026-05-19T16:08:39.694751+00:00"
+  },
+  {
+    "id": "30319bcb-10ed-43ea-a838-a879ae74389c",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "anchor_text": "panou foto baloane bucuresti",
+    "created_at": "2026-05-19T16:08:40.134265+00:00"
+  },
+  {
+    "id": "63c10701-fb04-4271-9f4e-7361b53c7d2f",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "cc408004-f7fb-4d30-9ba8-4845affcae87",
+    "anchor_text": "stalpi baloane bucuresti",
+    "created_at": "2026-05-19T16:08:40.907269+00:00"
+  },
+  {
+    "id": "b9f4175d-66f9-415a-afb2-69a88e2a7121",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "anchor_text": "decoratiuni baloane nunta bucuresti",
+    "created_at": "2026-05-19T16:08:41.676416+00:00"
+  },
+  {
+    "id": "192af971-271f-436e-bc43-1b694aafbe78",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "galerie decor",
+    "created_at": "2026-05-19T16:08:42.12976+00:00"
+  },
+  {
+    "id": "da0be0c5-6982-4041-aa5c-a574aca76752",
+    "source_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane București",
+    "created_at": "2026-05-19T16:08:43.335896+00:00"
+  },
+  {
+    "id": "3ab8f335-cb87-4a20-a171-428da6160ca3",
+    "source_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "target_page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "anchor_text": "verifică prețurile",
+    "created_at": "2026-05-19T16:08:43.650816+00:00"
+  },
+  {
+    "id": "95b681a9-c157-4fa2-9bcb-3be6cbb9c9b5",
+    "source_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane București",
+    "created_at": "2026-05-19T16:08:44.131798+00:00"
+  },
+  {
+    "id": "b576f5dd-9335-45ee-86a2-2d8b0157a267",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane București",
+    "created_at": "2026-05-19T16:08:44.876047+00:00"
+  },
+  {
+    "id": "e7bbb12e-1906-44e5-af26-fafdb4eabf69",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "anchor_text": "baloane heliu",
+    "created_at": "2026-05-19T16:08:45.645658+00:00"
+  },
+  {
+    "id": "30c61033-b169-4d78-814a-1f1634fee63b",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "contactează-ne",
+    "created_at": "2026-05-19T16:08:53.518533+00:00"
+  },
+  {
+    "id": "975b7f94-2dcc-4f92-b546-d20d45ae1de2",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "anchor_text": "arcadă foto",
+    "created_at": "2026-05-19T16:08:53.822746+00:00"
+  },
+  {
+    "id": "9d56f69f-d1fb-4f17-83a3-9e3facb76373",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "ce9ed604-bf86-4a60-bf6f-becba3628354",
+    "anchor_text": "buchete baloane bucuresti",
+    "created_at": "2026-05-19T16:08:40.284163+00:00"
+  },
+  {
+    "id": "8912d607-80e5-4e98-8fd2-5f9e29613366",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "cd8332db-8202-449e-95e8-5bf2bb05f347",
+    "anchor_text": "baloane cifre litere bucuresti",
+    "created_at": "2026-05-19T16:08:40.615735+00:00"
+  },
+  {
+    "id": "032a0051-2a26-42e5-b63e-db87722b5a07",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "0d9a5e23-736e-42da-a641-b499adeab8bf",
+    "anchor_text": "livrare baloane bucuresti",
+    "created_at": "2026-05-19T16:08:41.371239+00:00"
+  },
+  {
+    "id": "8e48c3a3-7d51-45ce-98b7-ccedf82e8bcf",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "cfceedcc-02ae-4c4b-bb7a-1efc6de616b1",
+    "anchor_text": "decoratiuni baloane sector 1",
+    "created_at": "2026-05-19T16:08:41.833466+00:00"
+  },
+  {
+    "id": "ed7d4647-6987-4b07-91bb-55ce7ae8d95f",
+    "source_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "target_page_id": "3fdc90ae-27b8-4e60-8142-28ee57f22752",
+    "anchor_text": "decoratiuni baloane ilfov",
+    "created_at": "2026-05-19T16:08:41.983713+00:00"
+  },
+  {
+    "id": "6a8eee89-50e3-4e47-80ba-269ae1cd34bb",
+    "source_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "target_page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "anchor_text": "cere ofertă",
+    "created_at": "2026-05-19T16:08:43.505829+00:00"
+  },
+  {
+    "id": "d36e01fd-a407-423c-9d6e-0532a7a96b1e",
+    "source_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "target_page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "anchor_text": "verifică prețurile",
+    "created_at": "2026-05-19T16:08:44.435008+00:00"
+  },
+  {
+    "id": "33e70209-332c-4f2a-8b68-e9eab4f34d47",
+    "source_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "target_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "anchor_text": "arcadă baloane",
+    "created_at": "2026-05-19T16:08:44.731623+00:00"
+  },
+  {
+    "id": "20e67d7c-918d-49b5-8704-b79f8279fa59",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "anchor_text": "verifică prețurile",
+    "created_at": "2026-05-19T16:08:45.184668+00:00"
+  },
+  {
+    "id": "bd2ea578-2939-4549-9b35-0337cf1fe1de",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+    "anchor_text": "vezi galerie",
+    "created_at": "2026-05-19T16:08:45.334208+00:00"
+  },
+  {
+    "id": "da14b926-eb07-4dd4-a915-8ae13ab49d96",
+    "source_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "target_page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "anchor_text": "arcadă baloane",
+    "created_at": "2026-05-19T16:08:45.491513+00:00"
+  },
+  {
+    "id": "59bd5590-6a21-4700-8dc8-02a3435c3093",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane",
+    "created_at": "2026-05-19T16:08:53.368015+00:00"
+  },
+  {
+    "id": "f3762d5d-8b6e-400a-9dda-2be8793e25ef",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "anchor_text": "baloane heliu",
+    "created_at": "2026-05-19T16:08:53.981763+00:00"
+  },
+  {
+    "id": "2aa68a6c-6ecd-42b9-980c-80912ae5aec8",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "anchor_text": "decorațiuni baloane",
+    "created_at": "2026-05-19T16:08:56.259887+00:00"
+  },
+  {
+    "id": "cf6f34a7-aad9-4fde-9365-b63d7976fe2f",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "anchor_text": "panou foto",
+    "created_at": "2026-05-19T16:08:57.069845+00:00"
+  },
+  {
+    "id": "bef6c0e8-175b-474a-9ab1-8c8fb8a4c205",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "d3c638e5-4888-4768-94d5-93baed0a9414",
+    "anchor_text": "arcadă baloane",
+    "created_at": "2026-05-19T16:10:08.324873+00:00"
+  },
+  {
+    "id": "d1b31b51-69ea-4cc4-b3d4-1521348200e4",
+    "source_page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "target_page_id": "ebf64a68-2fd6-4f21-ae6d-b75ed2d907bf",
+    "anchor_text": "arcadă baloane",
+    "created_at": "2026-05-19T16:10:09.863135+00:00"
+  },
+  {
+    "id": "23923588-527a-4100-b26a-fb044b8c766c",
+    "source_page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "target_page_id": "ebd99599-ed4c-44ed-9342-b84cc16a3e03",
+    "anchor_text": "panou foto",
+    "created_at": "2026-05-19T16:10:10.911689+00:00"
+  }
+]

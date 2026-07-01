@@ -1,0 +1,4839 @@
+[
+  {
+    "page_path": "/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/despre-noi/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/contact/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/galerie/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/preturi-decoratiuni-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/intrebari-frecvente/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/recenzii/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/portofoliu-evenimente/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/termeni-si-conditii/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/politica-de-confidentialitate/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/politica-cookies/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-alegi-arcada-de-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-alegi-arcada-de-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-alegi-arcada-de-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-alegi-arcada-de-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-alegi-arcada-de-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/baloane-heliu-cat-rezista/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/baloane-heliu-cat-rezista/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/baloane-heliu-cat-rezista/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/baloane-heliu-cat-rezista/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/baloane-heliu-cat-rezista/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/baloane-heliu-latex-sau-folie/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/baloane-heliu-latex-sau-folie/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/baloane-heliu-latex-sau-folie/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/baloane-heliu-latex-sau-folie/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/baloane-heliu-latex-sau-folie/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-botez/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-botez/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-botez/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-botez/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-botez/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-nunta/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-nunta/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-nunta/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-nunta/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-nunta/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-cununie/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-cununie/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-cununie/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-cununie/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-cununie/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-majorat/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-majorat/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-majorat/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-majorat/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-majorat/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-baby-shower/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-baby-shower/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-baby-shower/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-baby-shower/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-baby-shower/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-gender-reveal/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-gender-reveal/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-gender-reveal/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-gender-reveal/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-gender-reveal/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-corporate/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-corporate/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-corporate/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-corporate/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/idei-decor-baloane-corporate/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/decor-baloane-roz-auriu-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/decor-baloane-roz-auriu-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/decor-baloane-roz-auriu-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/decor-baloane-roz-auriu-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/decor-baloane-roz-auriu-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/decor-baloane-alb-auriu-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/decor-baloane-alb-auriu-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/decor-baloane-alb-auriu-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/decor-baloane-alb-auriu-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/decor-baloane-alb-auriu-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/decor-baloane-pastel-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/decor-baloane-pastel-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/decor-baloane-pastel-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/decor-baloane-pastel-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/decor-baloane-pastel-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/decor-baloane-luxury-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/decor-baloane-luxury-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/decor-baloane-luxury-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/decor-baloane-luxury-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/decor-baloane-luxury-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  },
+  {
+    "page_path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "slot_key": "hero_image",
+    "label_owner": "Kassia Content Team",
+    "is_required": true,
+    "sort_order": 1
+  },
+  {
+    "page_path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "slot_key": "gallery_1",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 2
+  },
+  {
+    "page_path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "slot_key": "gallery_2",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 3
+  },
+  {
+    "page_path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "slot_key": "gallery_3",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 4
+  },
+  {
+    "page_path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "slot_key": "gallery_4",
+    "label_owner": "Kassia Content Team",
+    "is_required": false,
+    "sort_order": 5
+  }
+]

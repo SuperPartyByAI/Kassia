@@ -1,0 +1,27 @@
+{
+  "total_kassia_pages": 120,
+  "status_distribution": {
+    "draft": 120
+  },
+  "page_type_distribution": {
+    "homepage": 1,
+    "support": 10,
+    "service_pillar": 1,
+    "service": 12,
+    "event": 25,
+    "location": 61,
+    "satellite": 10
+  },
+  "duplicate_paths": [],
+  "duplicate_main_keywords": [],
+  "pages_missing_page_type": [],
+  "pages_missing_parent": [],
+  "pages_missing_main_keyword": [],
+  "pages_missing_search_intent": [],
+  "pages_missing_canonical_logic": [],
+  "pages_missing_sections": [],
+  "pages_missing_internal_links": [],
+  "pages_missing_cta": [],
+  "pages_missing_faq_slots": [],
+  "pages_missing_media_slots": []
+}

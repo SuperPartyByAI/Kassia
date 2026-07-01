@@ -1,0 +1,2702 @@
+[
+  {
+    "page_path": "/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/despre-noi/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "despre noi - exemplul hero_image"
+  },
+  {
+    "page_path": "/contact/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "contact - exemplul hero_image"
+  },
+  {
+    "page_path": "/galerie/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "galerie - exemplul hero_image"
+  },
+  {
+    "page_path": "/preturi-decoratiuni-baloane/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "preturi decoratiuni baloane - exemplul hero_image"
+  },
+  {
+    "page_path": "/intrebari-frecvente/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "intrebari frecvente - exemplul hero_image"
+  },
+  {
+    "page_path": "/recenzii/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "recenzii - exemplul hero_image"
+  },
+  {
+    "page_path": "/portofoliu-evenimente/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "portofoliu evenimente - exemplul hero_image"
+  },
+  {
+    "page_path": "/termeni-si-conditii/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "termeni si conditii - exemplul hero_image"
+  },
+  {
+    "page_path": "/politica-de-confidentialitate/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "politica de confidentialitate - exemplul hero_image"
+  },
+  {
+    "page_path": "/blog/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "blog - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "aranjamente baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "aranjamente baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "aranjamente baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/aranjamente-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "aranjamente baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/arcada-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/baloane-heliu-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/panou-foto-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/buchete-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane personalizate bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane personalizate bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane personalizate bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/baloane-personalizate-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane personalizate bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane cifre litere bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane cifre litere bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane cifre litere bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/baloane-cifre-litere-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane cifre litere bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "ghirlande baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "ghirlande baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "ghirlande baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/ghirlande-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "ghirlande baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "stalpi baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "stalpi baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "stalpi baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/stalpi-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "stalpi baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "perete baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "perete baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "perete baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/perete-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "perete baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decor baloane candy bar bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decor baloane candy bar bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decor baloane candy bar bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decor-baloane-candy-bar-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decor baloane candy bar bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "livrare baloane bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "livrare baloane bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "livrare baloane bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/livrare-baloane-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "livrare baloane bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane botez bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane botez bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane botez bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane botez bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mot bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mot bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mot bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mot-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mot bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane turta bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane turta bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane turta bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-turta-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane turta bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane nunta bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane nunta bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane nunta bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane nunta bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cununie bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cununie bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cununie bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cununie bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane majorat bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane majorat bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane majorat bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane majorat bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare copii bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare copii bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare copii bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare copii bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare adulti bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare adulti bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare adulti bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aniversare adulti bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane petrecere bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane petrecere bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane petrecere bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane petrecere bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corporate bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corporate bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corporate bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corporate bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere magazin bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere magazin bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere magazin bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere magazin bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere restaurant bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere restaurant bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere restaurant bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane deschidere restaurant bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane lansare produs bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane lansare produs bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane lansare produs bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane lansare produs bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane showroom bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane showroom bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane showroom bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane showroom bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gradinita bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gradinita bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gradinita bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gradinita bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane scoala bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane scoala bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane scoala bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane scoala bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baby shower bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baby shower bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baby shower bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baby shower bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gender reveal bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gender reveal bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gender reveal bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane gender reveal bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane craciun bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane craciun bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane craciun bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane craciun bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane revelion bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane revelion bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane revelion bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane revelion bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane paste bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane paste bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane paste bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-paste-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane paste bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane halloween bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane halloween bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane halloween bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane halloween bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 iunie bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 iunie bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 iunie bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 iunie bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane absolvire bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane absolvire bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane absolvire bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane absolvire bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 1 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 1 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 1 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-1/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 1 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 2 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 2 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 2 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-2/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 2 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 3 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 3 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 3 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-3/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 3 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 4 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 4 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 4 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-4/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 4 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 5 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 5 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 5 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-5/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 5 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 6 - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 6 - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 6 - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sector-6/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sector 6 - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aviatiei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aviatiei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aviatiei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aviatiei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aviatiei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baneasa - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baneasa - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baneasa - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-baneasa/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane baneasa - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domenii - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domenii - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domenii - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domenii/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domenii - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane herastrau - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane herastrau - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane herastrau - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-herastrau/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane herastrau - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane victoriei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane victoriei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane victoriei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-victoriei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane victoriei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane colentina - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane colentina - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane colentina - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-colentina/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane colentina - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane obor - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane obor - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane obor - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-obor/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane obor - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefan cel mare - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefan cel mare - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefan cel mare - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefan cel mare - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dristor - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dristor - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dristor - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dristor/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dristor - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane titan - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane titan - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane titan - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-titan/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane titan - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane vitan - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane vitan - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane vitan - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-vitan/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane vitan - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane unirii - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane unirii - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane unirii - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-unirii/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane unirii - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dudesti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dudesti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dudesti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dudesti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dudesti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tineretului - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tineretului - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tineretului - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tineretului/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tineretului - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane piata sudului - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane piata sudului - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane piata sudului - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-piata-sudului/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane piata sudului - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aparatorii patriei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aparatorii patriei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aparatorii patriei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane aparatorii patriei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane oltenitei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane oltenitei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane oltenitei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-oltenitei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane oltenitei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane rahova - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane rahova - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane rahova - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-rahova/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane rahova - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cotroceni - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cotroceni - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cotroceni - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cotroceni/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cotroceni - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 13 septembrie - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 13 septembrie - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 13 septembrie - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-13-septembrie/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 13 septembrie - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ferentari - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ferentari - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ferentari - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ferentari/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ferentari - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sebastian - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sebastian - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sebastian - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-sebastian/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane sebastian - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane drumul taberei - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane drumul taberei - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane drumul taberei - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-drumul-taberei/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane drumul taberei - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane militari - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane militari - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane militari - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-militari/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane militari - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane crangasi - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane crangasi - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane crangasi - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-crangasi/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane crangasi - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane giulesti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane giulesti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane giulesti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-giulesti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane giulesti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane grozavesti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane grozavesti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane grozavesti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-grozavesti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane grozavesti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ilfov - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ilfov - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ilfov - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-ilfov/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane ilfov - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane voluntari - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane voluntari - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane voluntari - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-voluntari/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane voluntari - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pipera - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pipera - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pipera - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pipera/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pipera - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane otopeni - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane otopeni - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane otopeni - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-otopeni/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane otopeni - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tunari - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tunari - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tunari - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-tunari/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane tunari - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corbeanca - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corbeanca - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corbeanca - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-corbeanca/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane corbeanca - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane balotesti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane balotesti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane balotesti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-balotesti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane balotesti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mogosoaia - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mogosoaia - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mogosoaia - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-mogosoaia/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane mogosoaia - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chitila - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chitila - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chitila - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chitila/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chitila - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chiajna - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chiajna - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chiajna - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-chiajna/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane chiajna - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domnesti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domnesti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domnesti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-domnesti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane domnesti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bragadiru - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bragadiru - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bragadiru - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-bragadiru/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane bragadiru - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane magurele - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane magurele - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane magurele - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-magurele/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane magurele - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane popesti leordeni - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane popesti leordeni - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane popesti leordeni - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-popesti-leordeni/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane popesti leordeni - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni ilfov - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni ilfov - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni ilfov - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-berceni-ilfov/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane berceni ilfov - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon ilfov - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon ilfov - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon ilfov - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane pantelimon ilfov - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cernica - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cernica - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cernica - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-cernica/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane cernica - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane afumati - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane afumati - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane afumati - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-afumati/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane afumati - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefanestii de jos - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefanestii de jos - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefanestii de jos - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane stefanestii de jos - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dascalu - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dascalu - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dascalu - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dascalu/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dascalu - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane snagov - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane snagov - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane snagov - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-snagov/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane snagov - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane clinceni - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane clinceni - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane clinceni - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-clinceni/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane clinceni - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dragomiresti vale - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dragomiresti vale - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dragomiresti vale - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane dragomiresti vale - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane jilava - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane jilava - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane jilava - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-jilava/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane jilava - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 decembrie - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 decembrie - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 decembrie - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-1-decembrie/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane 1 decembrie - exemplul gallery_3"
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane botez bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane botez bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane botez bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/arcada-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane botez bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane majorat bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane majorat bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane majorat bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/arcada-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane majorat bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/arcada-baloane-nunta-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "arcada baloane nunta bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane botez bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane botez bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane botez bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/panou-foto-baloane-botez-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane botez bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane majorat bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane majorat bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane majorat bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/panou-foto-baloane-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "panou foto baloane majorat bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu majorat bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu majorat bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu majorat bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/baloane-heliu-majorat-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu majorat bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu aniversare bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu aniversare bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu aniversare bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/baloane-heliu-aniversare-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "baloane heliu aniversare bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane aniversare bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane aniversare bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane aniversare bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/buchete-baloane-aniversare-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "buchete baloane aniversare bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane roz auriu bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane roz auriu bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane roz auriu bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane roz auriu bucuresti - exemplul gallery_3"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "hero_image",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane alb auriu bucuresti - exemplul hero_image"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_1",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane alb auriu bucuresti - exemplul gallery_1"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_2",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane alb auriu bucuresti - exemplul gallery_2"
+  },
+  {
+    "page_path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "slot_key": "gallery_3",
+    "required": true,
+    "recommended_alt_text_pattern": "decoratiuni baloane alb auriu bucuresti - exemplul gallery_3"
+  }
+]

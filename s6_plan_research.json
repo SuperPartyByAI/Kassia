@@ -1,0 +1,646 @@
+{
+  "animatori-petreceri-copii-voluntari": {
+    "page": {
+      "id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+      "slug": "animatori-petreceri-copii-voluntari",
+      "path": "/animatori-petreceri-copii-voluntari/",
+      "page_type": "service_location",
+      "status": "published",
+      "index_status": "index",
+      "include_in_sitemap": true,
+      "title": "Animatori petreceri copii Voluntari și Pipera | Kassia Events",
+      "h1": "Animatori petreceri copii în Voluntari și Pipera",
+      "meta_title": "Animatori petreceri copii Voluntari și Pipera | Kassia Events",
+      "meta_description": "Organizăm petreceri cu animatori și mascote pentru copii la domiciliu, în curte sau ansambluri rezidențiale din Voluntari și Pipera. Detalii și program.",
+      "canonical_url": "https://www.kassia.ro/animatori-petreceri-copii-voluntari/",
+      "parent_page_id": null,
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.8,
+      "created_at": "2026-06-24T11:07:42.861028+00:00",
+      "updated_at": "2026-06-25T11:17:04.348023+00:00",
+      "published_at": null,
+      "show_pricing_preview": true
+    },
+    "sections": [
+      {
+        "id": "145d3624-48e4-413a-a73d-304b257607bf",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "hero",
+        "heading": "Hero Voluntari",
+        "content": {
+          "body": "\n    <ul style=\"list-style:none; padding:0; margin:1.5rem 0; display:flex; flex-direction:column; gap:0.5rem; text-align:left; font-size:1.1rem; max-width: 600px;\">\n      <li style=\"display:flex; align-items:flex-start; gap:0.5rem;\"><span style=\"color:var(--primary);\">✔</span> Pentru curți, vile și ansambluri rezidențiale</li>\n      <li style=\"display:flex; align-items:flex-start; gap:0.5rem;\"><span style=\"color:var(--primary);\">✔</span> Recomandare rapidă: un personaj animator sau două personaje animatoare</li>\n      <li style=\"display:flex; align-items:flex-start; gap:0.5rem;\"><span style=\"color:var(--primary);\">✔</span> Plan pentru interior, exterior sau terasă</li>\n      <li style=\"display:flex; align-items:flex-start; gap:0.5rem;\"><span style=\"color:var(--primary);\">✔</span> Răspuns pe WhatsApp pentru disponibilitate</li>\n    </ul>\n  ",
+          "cta_url": "https://wa.me/40722301980",
+          "cta_text": "Scrie-ne pe WhatsApp pentru recomandarea potrivită locației"
+        },
+        "order_index": 1,
+        "created_at": "2026-06-25T10:59:28.336343+00:00",
+        "updated_at": "2026-06-25T10:59:28.336343+00:00"
+      },
+      {
+        "id": "c3f72bdb-283f-43e7-a111-f06cec9d9266",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_right",
+        "heading": "Organizarea activităților în curți și ansambluri rezidențiale din Voluntari",
+        "content": {
+          "body": "\n              <p>În curțile mari din Voluntari și Pipera, activitățile merg mai bine atunci când zona de joc este aleasă dinainte. Recomandăm un spațiu vizibil pentru părinți, aproape de restul invitaților, dar fără obiecte care pot întrerupe jocurile. Animatorul poate folosi un punct de regrupare, jocuri pe echipe și momente scurte de tranziție între activități, astfel încât copiii să rămână implicați. Pentru ansamblurile rezidențiale din Pipera, Iancu Nicolae sau zona de nord a Bucureștiului, este util să existe acces auto temporar pentru descărcarea materialelor și o zonă clară pentru începerea programului.</p>\n            ",
+          "image_alt": "Animator pentru copii într-o curte din Voluntari",
+          "image_url": "/images/locatii/voluntari_curte_animator.png",
+          "is_active": true
+        },
+        "order_index": 3,
+        "created_at": "2026-06-24T15:15:59.519383+00:00",
+        "updated_at": "2026-06-25T08:10:18.576905+00:00"
+      },
+      {
+        "id": "30c8c0e9-0dab-4981-9120-f63333028eb7",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "feature_card",
+        "heading": "Pe scurt pentru părinți din Voluntari și Pipera",
+        "content": {
+          "body": "\n          <ul>\n            <li>Activități potrivite pentru curți, vile și ansambluri rezidențiale.</li>\n            <li>Jocuri cu punct de regrupare pentru grupuri energice.</li>\n            <li>Program adaptat pentru interior, exterior sau spații mixte.</li>\n            <li>Un personaj animator sau două personaje animatoare, în funcție de spațiu și numărul copiilor.</li>\n            <li>Contact rapid prin WhatsApp sau telefon.</li>\n          </ul>\n        ",
+          "image_alt": "Activități cu animatori pentru copii în Voluntari și Pipera",
+          "image_url": "/images/locatii/voluntari_pe_scurt.png",
+          "is_active": true
+        },
+        "order_index": 4,
+        "created_at": "2026-06-25T08:10:18.774889+00:00",
+        "updated_at": "2026-06-25T08:38:46.045747+00:00"
+      },
+      {
+        "id": "456620af-6f7c-4b65-9787-2c503e082f68",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "feature_card",
+        "heading": "Cum pregătim zona de joc într-o curte din Voluntari sau Pipera",
+        "content": {
+          "body": "\n          <ul>\n            <li>Alegem o zonă vizibilă pentru părinți.</li>\n            <li>Păstrăm un punct de regrupare pentru a menține copiii conectați la joc.</li>\n            <li>Evităm zone cu grătar, piscină, trepte sau obiecte fragile.</li>\n            <li>Pregătim o variantă de interior/terasă acoperită în caz de nevoie.</li>\n            <li>Stabilim acces pentru materiale și recuzită.</li>\n          </ul>\n        ",
+          "image_alt": "Zonă de joc pregătită pentru copii într-o curte din Voluntari",
+          "image_url": "/images/locatii/voluntari_zona_joc.png",
+          "is_active": true
+        },
+        "order_index": 5,
+        "created_at": "2026-06-25T08:10:18.914134+00:00",
+        "updated_at": "2026-06-25T08:38:46.273249+00:00"
+      },
+      {
+        "id": "e2bb9b4c-5cb7-4a6c-8b5e-c85cef708a40",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "feature_card",
+        "heading": "Un personaj animator sau două personaje animatoare?",
+        "content": {
+          "body": "\n<p style=\"margin-bottom:1rem;\">Alegerea corectă depinde strict de amploarea evenimentului:</p>\n<ul style=\"list-style:none; padding:0; display:flex; flex-direction:column; gap:0.8rem;\">\n  <li style=\"background:rgba(168,85,247,0.05); padding:1rem; border-radius:8px; border-left:3px solid var(--primary);\"><strong>Un personaj animator poate fi suficient când</strong> grupul este restrâns (sub 12-15 copii), iar spațiul de joc este bine delimitat și vizibil în totalitate.</li>\n  <li style=\"background:rgba(236,72,153,0.05); padding:1rem; border-radius:8px; border-left:3px solid var(--accent);\"><strong>Două personaje animatoare pot fi potrivite când</strong> numărul copiilor crește, curtea este foarte spațioasă, cu zone oarbe, sau când copiii au vârste foarte diferite.</li>\n  <li style=\"background:rgba(16,185,129,0.05); padding:1rem; border-radius:8px; border-left:3px solid #10b981;\"><strong>Recomandarea finală se face după</strong> o analiză rapidă a locației pe care ne-o descrieți.</li>\n</ul>\n  ",
+          "image_alt": "Alegerea între un personaj sau două",
+          "image_url": "/images/locatii/voluntari_un_personaj_sau_doua.png"
+        },
+        "order_index": 6,
+        "created_at": "2026-06-25T08:10:19.039341+00:00",
+        "updated_at": "2026-06-25T10:25:30.835267+00:00"
+      },
+      {
+        "id": "1ab8d476-ebfd-45f1-8470-282d4214cf5a",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_left",
+        "heading": "Scenarii frecvente pentru petreceri în Voluntari și Pipera",
+        "content": {
+          "body": "\n<div style=\"display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:1.5rem; margin-top:1rem;\">\n  <div style=\"background:#f8fafc; padding:1.5rem; border-radius:12px; border-left:4px solid var(--primary);\">\n    <h4 style=\"color:var(--primary-dark); margin-bottom:0.5rem; font-size:1.1rem; margin-top:0;\">Curte Mare / Vilă în Voluntari</h4>\n    <p style=\"font-size:0.95rem; margin:0; line-height:1.5;\">Spațiul extins necesită jocuri de cursă, vânătoare de comori și puncte clare de regrupare pentru a menține toți copiii implicați în aceeași activitate, evitând dispersarea.</p>\n  </div>\n  <div style=\"background:#f8fafc; padding:1.5rem; border-radius:12px; border-left:4px solid var(--accent);\">\n    <h4 style=\"color:var(--accent); margin-bottom:0.5rem; font-size:1.1rem; margin-top:0;\">Ansamblu Rezidențial în Pipera</h4>\n    <p style=\"font-size:0.95rem; margin:0; line-height:1.5;\">Activitățile sunt adaptate pentru zone comune, integrând jocuri de echipă sigure și evitând deranjarea vecinătăților, păstrând în același timp dinamica ridicată.</p>\n  </div>\n  <div style=\"background:#f8fafc; padding:1.5rem; border-radius:12px; border-left:4px solid #10b981;\">\n    <h4 style=\"color:#10b981; margin-bottom:0.5rem; font-size:1.1rem; margin-top:0;\">Spațiu Mixt (Iancu Nicolae / Andronache)</h4>\n    <p style=\"font-size:0.95rem; margin:0; line-height:1.5;\">Când petrecerea are loc pe o terasă care se prelungește în curte, pregătim tranziții fluide între ateliere statice la umbră și jocuri dinamice pe gazon.</p>\n  </div>\n</div>\n  ",
+          "image_alt": "Scenarii frecvente pentru petreceri copii Voluntari",
+          "image_url": "/images/locatii/voluntari_scenarii_frecvente.png"
+        },
+        "order_index": 7,
+        "created_at": "2026-06-25T10:25:31.013178+00:00",
+        "updated_at": "2026-06-25T10:25:31.013178+00:00"
+      },
+      {
+        "id": "99cee42d-d66c-4744-a339-8c28d7f65964",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_right",
+        "heading": "Ce evităm când organizăm activități în curți mari",
+        "content": {
+          "body": "\n<p>Experiența ne-a învățat că spațiile largi pot dispersa rapid atenția copiilor. Pentru o desfășurare clară a activităților în curți mari sau vile, evităm următoarele situații:</p>\n<ul style=\"list-style:none; padding:0; margin-top:1.5rem; display:flex; flex-direction:column; gap:1rem;\">\n  <li style=\"display:flex; align-items:flex-start; gap:1rem;\">\n    <span style=\"color:#ef4444; font-size:1.2rem; line-height:1;\">✖</span>\n    <span style=\"line-height:1.4;\"><strong>Copii lăsați să se împrăștie în mai multe zone:</strong> Pierderea dinamicii de grup duce rapid la plictiseală.</span>\n  </li>\n  <li style=\"display:flex; align-items:flex-start; gap:1rem;\">\n    <span style=\"color:#ef4444; font-size:1.2rem; line-height:1;\">✖</span>\n    <span style=\"line-height:1.4;\"><strong>Jocuri fără punct de regrupare:</strong> Fiecare activitate necesită un semnal clar de reunire a echipei.</span>\n  </li>\n  <li style=\"display:flex; align-items:flex-start; gap:1rem;\">\n    <span style=\"color:#ef4444; font-size:1.2rem; line-height:1;\">✖</span>\n    <span style=\"line-height:1.4;\"><strong>Activități lângă zone sensibile:</strong> Evităm amplasarea jocurilor dinamice lângă grătar, piscină, scări sau obiecte fragile.</span>\n  </li>\n  <li style=\"display:flex; align-items:flex-start; gap:1rem;\">\n    <span style=\"color:#ef4444; font-size:1.2rem; line-height:1;\">✖</span>\n    <span style=\"line-height:1.4;\"><strong>Lipsa unei variante de interior/terasă:</strong> Vremea capricioasă impune întotdeauna existența unui plan secundar.</span>\n  </li>\n  <li style=\"display:flex; align-items:flex-start; gap:1rem;\">\n    <span style=\"color:#ef4444; font-size:1.2rem; line-height:1;\">✖</span>\n    <span style=\"line-height:1.4;\"><strong>Program fără tranziții între jocuri:</strong> Pauzele necontrolate sparg implicarea grupului; păstrăm un flux clar între activități.</span>\n  </li>\n</ul>\n  ",
+          "image_alt": "Evităm haosul la petreceri copii Voluntari",
+          "image_url": "/images/locatii/voluntari_ce_evitam.png"
+        },
+        "order_index": 8,
+        "created_at": "2026-06-25T10:25:31.144493+00:00",
+        "updated_at": "2026-06-25T10:41:43.343398+00:00"
+      },
+      {
+        "id": "cc05d474-48e2-48eb-b650-d1c3ca192f60",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_left",
+        "heading": "Cum decurge programul pas cu pas",
+        "content": {
+          "body": "\n<div style=\"display:flex; flex-direction:column; gap:1.5rem; margin-top:1.5rem;\">\n  <div style=\"display:flex; gap:1rem; align-items:flex-start;\">\n    <div style=\"background:var(--primary); color:white; width:32px; height:32px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-weight:bold; flex-shrink:0;\">1</div>\n    <div style=\"line-height:1.4;\"><strong>Stabilim zona de joc:</strong> Definim limitele clare ale spațiului de activitate împreună cu copiii, pentru orientare clară și atenție mai bună.</div>\n  </div>\n  <div style=\"display:flex; gap:1rem; align-items:flex-start;\">\n    <div style=\"background:var(--primary); color:white; width:32px; height:32px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-weight:bold; flex-shrink:0;\">2</div>\n    <div style=\"line-height:1.4;\"><strong>Pornim cu activități de conectare:</strong> Jocuri interactive de inițiere pentru a integra rapid toți invitații.</div>\n  </div>\n  <div style=\"display:flex; gap:1rem; align-items:flex-start;\">\n    <div style=\"background:var(--primary); color:white; width:32px; height:32px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-weight:bold; flex-shrink:0;\">3</div>\n    <div style=\"line-height:1.4;\"><strong>Trecem la jocuri de grup:</strong> Concursuri pe echipe, ștafete, vânătoare de comori și activități dinamice care consumă constructiv energia.</div>\n  </div>\n  <div style=\"display:flex; gap:1rem; align-items:flex-start;\">\n    <div style=\"background:var(--primary); color:white; width:32px; height:32px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-weight:bold; flex-shrink:0;\">4</div>\n    <div style=\"line-height:1.4;\"><strong>Introducem momente cu personajul animator:</strong> Coordonăm ateliere speciale de modelaj de baloane, jocuri tematice sau momente interactive.</div>\n  </div>\n  <div style=\"display:flex; gap:1rem; align-items:flex-start;\">\n    <div style=\"background:var(--primary); color:white; width:32px; height:32px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-weight:bold; flex-shrink:0;\">5</div>\n    <div style=\"line-height:1.4;\"><strong>Păstrăm un final clar:</strong> Organizăm un moment festiv dedicat pentru tort, poze de grup sau momentul cheie dorit de familie.</div>\n  </div>\n</div>\n  ",
+          "image_alt": "Program pas cu pas petreceri copii",
+          "image_url": "/images/locatii/voluntari_pas_cu_pas.png"
+        },
+        "order_index": 9,
+        "created_at": "2026-06-25T10:25:31.296154+00:00",
+        "updated_at": "2026-06-25T10:37:41.395191+00:00"
+      },
+      {
+        "id": "6447a63d-f135-4cbb-934f-e4482ea4c184",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_left",
+        "heading": "Animatori pentru petreceri de copii în Voluntari și Pipera",
+        "content": {
+          "body": "<p>Când vine vorba de organizarea unei petreceri reușite pentru copii în zona de Nord a capitalei, flexibilitatea și experiența echipei de animație sunt esențiale. Venim la evenimente organizate atât în curțile spațioase ale vilelor din Voluntari, cât și în spațiile exterioare sau terasele din ansamblurile rezidențiale din Pipera. Fie că plănuiți evenimentul acasă, la un restaurant local sau la o grădiniță privată, animatorii noștri vin pregătiți să transforme spațiul într-un spațiu potrivit pentru activități cu copiii.</p>",
+          "image_alt": "Animator pentru copii la petrecere în Voluntari",
+          "image_url": "/images/locatii/voluntari_curte_spatioasa_1782299060724.png?v=1",
+          "is_active": true,
+          "subheading": "La domiciliu, în curte, ansambluri rezidențiale sau restaurante"
+        },
+        "order_index": 10,
+        "created_at": "2026-06-24T11:07:43.026441+00:00",
+        "updated_at": "2026-06-24T12:21:39.316165+00:00"
+      },
+      {
+        "id": "ad60fe44-87b2-4b75-b850-02a685bfe481",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_right",
+        "heading": "Petreceri în curte și în ansambluri rezidențiale",
+        "content": {
+          "body": "<p>Organizarea unei petreceri în curte oferă avantajul unui spațiu generos, fie că vorbim de gazon, terase sau spații exterioare amenajate. Echipa noastră este special pregătită să coordoneze grupuri de copii în aer liber, captându-le atenția cu activități dinamice care previn dispersarea grupului. De la concursuri energice până la jocuri interactive de echipă, adaptăm activitățile la spațiul disponibil fiecărei locații pentru ca cei mici să se bucure într-un spațiu bine organizat.</p>",
+          "image_alt": "Activități pentru copii organizate în curte la petrecere",
+          "image_url": "/images/locatii/voluntari_joc_aer_liber_1782299069678.png?v=1",
+          "is_active": true,
+          "subheading": "Organizare clară pentru grupuri de copii în aer liber"
+        },
+        "order_index": 20,
+        "created_at": "2026-06-24T11:07:43.161009+00:00",
+        "updated_at": "2026-06-24T12:21:38.691585+00:00"
+      },
+      {
+        "id": "b4c570d2-edad-474a-9ebe-6393b34cf6f9",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_left",
+        "heading": "Jocuri și activități potrivite pentru grupuri de copii",
+        "content": {
+          "body": "<p>Programele noastre includ o selecție variată de jocuri dinamice, activități interactive, modelaj de baloane, concursuri, dansuri și activități tematice. Fiecare moment este gândit pentru a încuraja lucrul în echipă, socializarea și bucuria. Animatorul menține ritmul programului și ritmul petrecerii este mereu unul alert, dar echilibrat, cu momente de relaxare și ateliere simple la măsuță, potrivite pentru terase acoperite.</p>",
+          "cta_url": "/animatori-petreceri-copii/",
+          "cta_text": "Detalii pentru programele cu animatori",
+          "image_alt": "Animator coordonând jocuri pentru copii în aer liber",
+          "image_url": "/images/locatii/voluntari_atelier_terasa_1782299087573.png?v=1",
+          "is_active": true,
+          "subheading": "Distracție adaptată vârstei"
+        },
+        "order_index": 30,
+        "created_at": "2026-06-24T11:07:43.277831+00:00",
+        "updated_at": "2026-06-24T12:21:38.863942+00:00"
+      },
+      {
+        "id": "8215fdad-3536-4aeb-88fb-1af2267c3fc4",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_right",
+        "heading": "Personaje și mascote pentru tematici diferite",
+        "content": {
+          "body": "<p>O petrecere tematică prinde viață atunci când personajul preferat își face apariția. Oferim o gamă largă de personaje și mascote potrivite atât pentru fetițe, cât și pentru băieței. Fie că este vorba despre eroi curajoși, prințese grațioase sau mascote colorate, personajul va interacționa cu invitații, va conduce jocurile și va participa la momentul mult așteptat al tortului.</p>",
+          "cta_url": "/personaje-petreceri-copii-bucuresti/",
+          "cta_text": "Vezi toate personajele",
+          "image_alt": "Personaj pentru copii la eveniment în Voluntari",
+          "image_url": "/images/locatii/voluntari_mascota_elegant_1782299078537.png?v=1",
+          "is_active": true,
+          "subheading": "Adaptare la preferințele copilului"
+        },
+        "order_index": 40,
+        "created_at": "2026-06-24T11:07:43.387184+00:00",
+        "updated_at": "2026-06-24T12:21:39.011892+00:00"
+      },
+      {
+        "id": "194c45e2-f744-4bc0-ac21-c15bc0bece21",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_right",
+        "heading": "Zone în care adaptăm programul",
+        "content": {
+          "body": "\n<p>Suntem activi și prezenți frecvent la evenimente private în toată <strong>zona de nord București / Ilfov</strong>. Dispunem de logistica necesară pentru a interveni rapid și pentru a adapta atelierele în funcție de specificul fiecărui cartier:</p>\n<div style=\"display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:1.5rem;\">\n  <span style=\"background:var(--bg-light); border:1px solid #e2e8f0; padding:0.5rem 1rem; border-radius:999px; font-weight:600; color:var(--primary-dark);\">📍 Voluntari</span>\n  <span style=\"background:var(--bg-light); border:1px solid #e2e8f0; padding:0.5rem 1rem; border-radius:999px; font-weight:600; color:var(--primary-dark);\">📍 Pipera</span>\n  <span style=\"background:var(--bg-light); border:1px solid #e2e8f0; padding:0.5rem 1rem; border-radius:999px; font-weight:600; color:var(--primary-dark);\">📍 Iancu Nicolae</span>\n  <span style=\"background:var(--bg-light); border:1px solid #e2e8f0; padding:0.5rem 1rem; border-radius:999px; font-weight:600; color:var(--primary-dark);\">📍 Andronache</span>\n</div>\n\n<div style=\"margin-top: 3rem; background:linear-gradient(135deg, rgba(168,85,247,0.1) 0%, rgba(236,72,153,0.1) 100%); padding:2rem; border-radius:16px; text-align:center;\">\n  <h3 style=\"margin-bottom:1.5rem; font-size:1.35rem; color:var(--text-main); margin-top:0;\">Scrie-ne pe WhatsApp și îți spunem rapid ce variantă se potrivește locației.</h3>\n  <a href=\"https://wa.me/40722301980\" target=\"_blank\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:0.5rem;\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" viewBox=\"0 0 16 16\"><path d=\"M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z\"/></svg>\n    Discută pe WhatsApp\n  </a>\n</div>\n  ",
+          "image_alt": "Petreceri copii Pipera Iancu Nicolae",
+          "image_url": "/images/locatii/voluntari_zone_adaptare.png"
+        },
+        "order_index": 45,
+        "created_at": "2026-06-25T10:25:31.429427+00:00",
+        "updated_at": "2026-06-25T10:25:31.429427+00:00"
+      },
+      {
+        "id": "89fbc7d6-451d-4168-863d-8b3e26b7a9a9",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "section_type": "split_image_left",
+        "heading": "Întrebări frecvente despre organizarea petrecerii în Voluntari și Pipera",
+        "content": {
+          "body": "<p>Planificarea unui eveniment la domiciliu sau în spații rezidențiale necesită o organizare atentă. Pentru a vă ajuta să pregătiți fiecare detaliu al vizitei echipei de animație, am răspuns mai jos la cele mai importante întrebări legate de logistică, spații exterioare și program.</p>",
+          "image_alt": "Interacțiune între animator, copii și părinți la petrecere",
+          "image_url": "/images/locatii/voluntari_interactiune_naturala_1782299099268.png?v=1",
+          "is_active": true,
+          "subheading": "Asistență pentru părinți"
+        },
+        "order_index": 50,
+        "created_at": "2026-06-24T11:07:43.498448+00:00",
+        "updated_at": "2026-06-24T12:21:39.131351+00:00"
+      }
+    ],
+    "faqs": [
+      {
+        "id": "64a116f0-fe7b-40fb-8d5d-fdb8f8b2db71",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Vă deplasați la domiciliu în Voluntari și Pipera?",
+        "answer": "Da, echipa noastră se deplasează la domiciliul clienților din Voluntari și Pipera, fie că este vorba de o casă individuală, o vilă cu curte sau un apartament într-un ansamblu rezidențial.",
+        "order_index": 10,
+        "created_at": "2026-06-24T11:07:43.610919+00:00",
+        "updated_at": "2026-06-24T12:21:39.637326+00:00"
+      },
+      {
+        "id": "c1594362-a9a3-495c-a308-0ed0f96c092d",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Putem organiza programul într-o curte sau într-un spațiu exterior?",
+        "answer": "Da. Spațiile exterioare și curțile generoase sunt excelente pentru activități. Animatorul va adapta jocurile dinamice pentru spațiul pe care îl aveți la dispoziție, menținând atenția grupului.",
+        "order_index": 20,
+        "created_at": "2026-06-24T11:07:43.729803+00:00",
+        "updated_at": "2026-06-24T12:21:39.73414+00:00"
+      },
+      {
+        "id": "edc68ea8-7d5d-4ada-90f8-da5362e28f34",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Ce facem dacă vremea se schimbă și petrecerea era planificată în curte?",
+        "answer": "Este recomandat să aveți mereu un plan de rezervă la interior sau o terasă acoperită. În cazul în care plouă sau vremea devine nefavorabilă, animatorul va muta rapid activitățile la interior, adaptând jocurile pentru noul spațiu.",
+        "order_index": 30,
+        "created_at": "2026-06-24T11:07:43.833373+00:00",
+        "updated_at": "2026-06-24T12:21:39.840987+00:00"
+      },
+      {
+        "id": "081b1327-f9d2-4559-a080-66e145a03a24",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Ce este util să pregătim înainte de sosirea animatorilor?",
+        "answer": "Nu trebuie să pregătiți echipamente speciale, deoarece animatorul vine cu toate materialele necesare. Este util doar să eliberați o zonă din curte sau din casă pentru jocurile de grup, astfel încât copiii să poată alerga într-un spațiu bine organizat.",
+        "order_index": 40,
+        "created_at": "2026-06-24T11:07:43.940983+00:00",
+        "updated_at": "2026-06-24T12:21:39.993812+00:00"
+      },
+      {
+        "id": "b43b9dd6-2d1d-444c-ad19-15288a5d5764",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Este util să existe acces auto sau loc de parcare în apropiere?",
+        "answer": "Deoarece animatorul sosește cu echipamente (boxă audio, accesorii pentru jocuri), un loc de parcare în apropierea locației sau accesul auto în ansamblul rezidențial ne ajută să ajungem și să ne pregătim mai rapid pentru eveniment.",
+        "order_index": 50,
+        "created_at": "2026-06-24T11:07:44.06334+00:00",
+        "updated_at": "2026-06-24T12:21:40.148429+00:00"
+      },
+      {
+        "id": "2e10601d-9112-4606-b486-af966153d5ad",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Cum alegem personajul potrivit pentru petrecerea copilului?",
+        "answer": "Vă putem recomanda personajul potrivit în funcție de vârsta copilului și tema petrecerii. Fie că doriți o mascotă colorată pentru un eveniment de 1 an sau un erou curajos pentru copiii mai mari, avem o selecție variată din care puteți alege.",
+        "order_index": 60,
+        "created_at": "2026-06-24T11:07:44.176353+00:00",
+        "updated_at": "2026-06-24T12:21:40.308584+00:00"
+      },
+      {
+        "id": "1129ac53-ecec-4aec-b681-7adcc8946328",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Cum adaptați activitățile pentru grupuri diferite de copii?",
+        "answer": "Programul este structurat pe loc în funcție de vârsta participanților și de energia grupului. Alternăm jocurile statice cu cele dinamice pentru a menține implicarea atât a copiilor mici, cât și a celor mai mari.",
+        "order_index": 70,
+        "created_at": "2026-06-24T11:07:44.285237+00:00",
+        "updated_at": "2026-06-24T12:21:40.468962+00:00"
+      },
+      {
+        "id": "1d2f1a9e-567c-496b-a7c3-50852feed5ac",
+        "page_id": "ab1e48b1-f898-4ddc-bd39-e479d5181674",
+        "question": "Cum facem rezervarea pentru programul cu animatori?",
+        "answer": "Ne puteți contacta telefonic sau prin WhatsApp. După ce discutăm detaliile despre locație (Voluntari/Pipera), numărul de copii și preferințele pentru personaj, vom stabili împreună intervalul orar și vom confirma rezervarea.",
+        "order_index": 80,
+        "created_at": "2026-06-24T11:07:44.407208+00:00",
+        "updated_at": "2026-06-24T12:21:40.616031+00:00"
+      }
+    ],
+    "secErr": null,
+    "faqErr": null
+  },
+  "animatori-petreceri-copii-sector-6": {
+    "page": {
+      "id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "slug": "animatori-petreceri-copii-sector-6",
+      "path": "/animatori-petreceri-copii-sector-6/",
+      "page_type": "animatori",
+      "status": "published",
+      "index_status": "index",
+      "include_in_sitemap": true,
+      "title": "Animatori copii Sector 6 | Drumul Taberei și Militari",
+      "h1": "Animatori pentru petreceri de copii în Sector 6",
+      "meta_title": "Animatori pentru petreceri de copii în Sector 6 | Kassia",
+      "meta_description": "Activități pentru petreceri de copii în Sector 6, adaptate pentru Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+      "canonical_url": "https://www.kassia.ro/animatori-petreceri-copii-sector-6/",
+      "parent_page_id": null,
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-06-20T05:35:59.463586+00:00",
+      "updated_at": "2026-06-23T17:52:51.171397+00:00",
+      "published_at": null,
+      "show_pricing_preview": false
+    },
+    "sections": [
+      {
+        "id": "7c52cd91-7423-483e-b316-a745230771f6",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "hero",
+        "heading": "Hero Section",
+        "content": {
+          "body": "Petreceri pentru copii în Sector 6, cu jocuri de grup, personaje tematice și activități adaptate pentru spații din Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+          "cta_url": "/contact/",
+          "cta_text": "Trimite detaliile petrecerii",
+          "image_alt": "Animatori copii în Sectorul 6",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+        },
+        "order_index": 0,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-23T20:23:14.62788+00:00"
+      },
+      {
+        "id": "50d01a0e-86af-41ad-a2c7-9d0ccc81f683",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "service_details",
+        "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+        "content": {
+          "body": "Animatorul ajută grupul de copii să intre mai ușor în ritmul petrecerii, prin jocuri, momente de mișcare, activități creative și interacțiuni adaptate vârstei. În funcție de spațiul ales în Sector 6, programul poate fi construit mai dinamic sau mai așezat, astfel încât copiii să participe natural, fără presiune. Recuzita de joc, muzica și activitățile sunt pregătite în funcție de tematica evenimentului și de numărul de invitați. Pentru organizare, poți trimite detaliile prin pagina de <a href=\"/contact/\">Contact</a>.",
+          "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+          "image_alt": "Animator interacționând cu copii la petrecere",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+        },
+        "order_index": 1,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-23T20:23:12.940432+00:00"
+      },
+      {
+        "id": "4497cbf5-7439-4eb9-85bb-c3fa6acbbb7d",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "activities_grid",
+        "heading": "Activități care se pot integra în program",
+        "content": {
+          "cards": [
+            {
+              "body": "Jocuri de echipă, ștafete ușoare și probe de atenție, gândite pentru grupuri de copii cu energie diferită și pentru spațiul disponibil la petrecere.",
+              "title": "Jocuri interactive",
+              "image_alt": "Jocuri de grup la petrecere",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+            },
+            {
+              "body": "Modele inspirate din personaje, animale sau teme colorate, realizate cu materiale potrivite pentru copii. Mai multe detalii găsești pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">activități creative</a>.",
+              "title": "activități creative",
+              "image_alt": "activități creative cu desene colorate",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+            },
+            {
+              "body": "Figurine din baloane, precum flori, săbii sau animăluțe, pregătite ca moment creativ în program. Mai multe detalii găsești pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+              "title": "Modelaj de baloane",
+              "image_alt": "Figurine din baloane modelate pe loc",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+            },
+            {
+              "body": "Dansuri ghidate, mișcări simple și momente muzicale care ajută copiii să participe împreună, indiferent de nivelul lor de energie. Mai multe detalii găsești pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+              "title": "Mini-disco",
+              "image_alt": "Copii dansând la mini-disco",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+            },
+            {
+              "body": "Mascotele pot intra în program pentru întâmpinare, fotografii și interacțiuni scurte cu cei mici. Mai multe detalii despre personaje găsești pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+              "title": "Mascote îndrăgite",
+              "image_alt": "Mascotă la petrecerea aniversară",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+            },
+            {
+              "body": "Activități de desen, lucru manual și creație tematică, potrivite pentru momente mai liniștite în cadrul petrecerii.",
+              "title": "Ateliere creative",
+              "image_alt": "Copii lucrând la ateliere creative",
+              "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+            }
+          ],
+          "heading": "Activități care se pot integra în program"
+        },
+        "order_index": 2,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-24T15:43:32.709658+00:00"
+      },
+      {
+        "id": "e099a715-6a84-4f29-8ce8-220a43cacf77",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "service_details",
+        "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+        "content": {
+          "body": "Sectorul 6 include contexte diferite de organizare, de la petreceri în apartamente și spații de joacă, până la restaurante, grădinițe sau locații private. Pentru Drumul Taberei, Militari, Crângași, Giulești, Ghencea, Regie și Grozăvești, structura programului se stabilește în funcție de spațiul disponibil, vârsta copiilor și ritmul evenimentului. Într-un spațiu restrâns, accentul poate fi pus pe jocuri de atenție, activități creative, modelaj de baloane și jocuri statice adaptate spațiului. Într-un spațiu mai generos, programul poate include mai multă mișcare, dans și jocuri de grup.",
+          "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+          "image_alt": "Planificare program animatori copii Sector 6",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+        },
+        "order_index": 3,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-24T18:29:38.438808+00:00"
+      },
+      {
+        "id": "466b6039-f616-42c0-baee-ac9b0d81416a",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "service_details",
+        "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+        "content": {
+          "body": "Pentru petrecerile din Sector 6, organizarea depinde mult de tipul locației. În apartamente sau camere mai mici, activitățile sunt alese astfel încât copiii să poată participa fără aglomerație. În restaurante, terase sau spații de joacă, programul poate fi împărțit între momente de mișcare, dans, jocuri de grup și activități creative. Pentru evenimente în grădinițe sau spații educaționale, detaliile se stabilesc în funcție de regulile locației și de modul în care copiii sunt deja obișnuiți să interacționeze. În zone precum Ghencea, Regie sau Grozăvești, verificarea accesului în locație și a spațiului disponibil ajută la pregătirea unui program mai bine așezat.",
+          "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+          "image_alt": "Animatori copii în diverse locații din Sector 6",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+        },
+        "order_index": 4,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-23T20:23:14.710999+00:00"
+      },
+      {
+        "id": "b7b38c9b-41fa-461d-99c7-bb73915307d0",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "service_details",
+        "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+        "content": {
+          "body": "Programul cu animatori poate fi integrat în aniversări, zile de naștere, petreceri tematice, întâlniri de familie, serbări sau evenimente organizate pentru grupuri de copii. Pentru fiecare context, activitățile se aleg în funcție de vârsta participanților, spațiul disponibil și felul în care părinții doresc să se desfășoare petrecerea. În Sector 6, aceeași structură poate fi adaptată diferit pentru o petrecere acasă, o întâlnire într-un restaurant sau o activitate într-un spațiu de joacă.",
+          "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+          "image_alt": "Botez și evenimente de familie cu animatori",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+        },
+        "order_index": 5,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-23T20:23:13.034495+00:00"
+      },
+      {
+        "id": "d10eeaa0-4c7b-4e42-b296-301eb577d1cd",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "service_details",
+        "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+        "content": {
+          "body": "Punem accent pe buna dispoziție a celor mici, pe comunicare clară cu părinții și pe alegerea activităților în funcție de grup. Înainte de eveniment, discutăm zona din Sector 6, tipul locației, vârstele copiilor și tematica preferată. Materialele pentru activități creative sunt potrivite pentru copii, iar recuzita de joc este igienizată periodic. Programul poate fi completat cu decoruri tematice din baloane, prezentate pe pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+          "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+          "image_alt": "Detalii program de animație pentru copii",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+        },
+        "order_index": 6,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-24T15:41:31.018098+00:00"
+      },
+      {
+        "id": "427b403f-b418-48eb-b156-87f5febf8d2b",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "process_steps",
+        "heading": "Cum pregătim programul pentru petrecere",
+        "content": {
+          "steps": [
+            {
+              "body": "Ne transmiți data, zona din Sector 6, tipul locației și numărul estimat de copii invitați.",
+              "title": "Primim detaliile evenimentului"
+            },
+            {
+              "body": "Discutăm vârsta copiilor, tematica preferată și felul în care sărbătoritul se simte cel mai bine într-un grup.",
+              "title": "Stabilim profilul grupului"
+            },
+            {
+              "body": "Configurăm combinația de jocuri, activități creative, modelaj de baloane, mini-disco, mascote sau activități creative.",
+              "title": "Alegem activitățile potrivite"
+            },
+            {
+              "body": "Adaptăm ordinea momentelor în funcție de spațiul disponibil, accesul în locație și ritmul general al petrecerii.",
+              "title": "Așezăm programul în contextul locației"
+            }
+          ],
+          "heading": "Cum pregătim programul pentru petrecere",
+          "image_alt": "Etapele planificării evenimentului cu animatori",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+        },
+        "order_index": 7,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-24T15:42:03.54865+00:00"
+      },
+      {
+        "id": "ed05cd53-08b1-476f-a745-279c0a15941b",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "cta_final",
+        "heading": "Pregătește petrecerea copilului în Sector 6",
+        "content": {
+          "body": "Trimite detaliile despre eveniment, zona din Sector 6 și vârsta copiilor, iar Kassia poate propune o structură de activități adaptată spațiului și tematicii alese.",
+          "cta_url": "/contact/",
+          "heading": "Pregătește petrecerea copilului în Sector 6",
+          "cta_text": "Trimite detaliile petrecerii",
+          "image_alt": "Planifică petrecerea în Sector 6 cu Kassia",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+        },
+        "order_index": 8,
+        "created_at": "2026-06-20T05:35:59.619133+00:00",
+        "updated_at": "2026-06-23T20:23:13.353855+00:00"
+      },
+      {
+        "id": "1f3afb92-5428-4efb-a832-c97db6f2728a",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "content_block",
+        "heading": null,
+        "content": {
+          "body": "<p>Petrecerile organizate în Drumul Taberei, Militari sau Crângași (Sector 6) pot include personaje din colecția noastră de peste 300 de costume, în funcție de disponibilitatea pentru data aleasă. Consultă opțiunile de prințese, supereroi și personaje la modă pentru a pregăti o atmosferă potrivită copiilor invitați.</p>",
+          "title": "Alege personajul preferat",
+          "cta_url": "/personaje-animatori-copii-bucuresti/",
+          "cta_text": "Vezi personajele disponibile →"
+        },
+        "order_index": 9,
+        "created_at": "2026-06-23T20:23:59.967687+00:00",
+        "updated_at": "2026-06-23T20:23:59.967687+00:00"
+      },
+      {
+        "id": "4329ea71-cb50-4b54-b624-55bf19594b70",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "section_type": "content",
+        "heading": "Detalii pentru programul de animație",
+        "content": {
+          "body": "<p>Înainte de rezervare, poți consulta variantele de program disponibile pentru animatori copii în București și Ilfov, în funcție de durata evenimentului și tipul de animație dorit.</p>",
+          "cta_url": "/preturi-animatori-copii-bucuresti/",
+          "cta_text": "Vezi detaliile pentru animatori"
+        },
+        "order_index": 19,
+        "created_at": "2026-06-23T21:25:02.876232+00:00",
+        "updated_at": "2026-06-23T21:25:02.876232+00:00"
+      }
+    ],
+    "faqs": [
+      {
+        "id": "7aa0d2bc-7842-44c6-b437-a238614ac475",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Ce activități se pot include la o petrecere în Sector 6?",
+        "answer": "Programul poate include jocuri interactive, mini-disco, activități creative, modelaj de baloane, mascote sau ateliere creative. Alegerea activităților se face în funcție de vârsta copiilor, spațiul disponibil și tematica evenimentului.",
+        "order_index": 1,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-24T18:15:40.810223+00:00"
+      },
+      {
+        "id": "99207477-df47-4754-b5bd-f06c52199303",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Când este bine să trimitem detaliile petrecerii?",
+        "answer": "Este recomandat să transmiteți detaliile din timp, pentru ca data, zona, locația și activitățile dorite să poată fi verificate înainte de stabilirea programului.",
+        "order_index": 2,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.081055+00:00"
+      },
+      {
+        "id": "2b159ade-f328-43a2-9061-75e15540b16a",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "În ce zone din Sector 6 puteți veni?",
+        "answer": "Putem pregăti activități pentru petreceri în zone precum Drumul Taberei, Militari, Crângași, Giulești, Ghencea, Regie și Grozăvești, în funcție de locația aleasă pentru eveniment.",
+        "order_index": 3,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.19025+00:00"
+      },
+      {
+        "id": "ae58be46-96bf-4a24-97c0-8eb56c680b93",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Cum se adaptează programul la un apartament sau la un restaurant?",
+        "answer": "Într-un apartament, programul este orientat către jocuri mai compacte, activități creative, modelaj de baloane și jocuri statice adaptate spațiului. Într-un restaurant sau spațiu mai mare, se pot integra mai multe jocuri de mișcare, dansuri și activități de grup.",
+        "order_index": 4,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-24T18:29:38.721136+00:00"
+      },
+      {
+        "id": "d7c1b814-9a0c-4b79-924f-935cb3430b8d",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Activitățile pot fi adaptate pentru copii cu vârste diferite?",
+        "answer": "Da. Pentru copiii mai mici se aleg activități simple, jocuri de rol și momente ghidate pas cu pas. Pentru copiii mai mari se pot propune jocuri de echipă, probe dinamice, dansuri și activități cu reguli mai clare.",
+        "order_index": 5,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.406574+00:00"
+      },
+      {
+        "id": "e5809890-5eb5-430d-8e5f-b026d031f569",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Putem combina animația cu decoruri din baloane?",
+        "answer": "Da. Programul cu animatori poate fi asociat cu decoruri tematice, ghirlande sau zone foto, astfel încât activitățile copiilor și decorul petrecerii să urmeze aceeași direcție vizuală.",
+        "order_index": 6,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.525628+00:00"
+      },
+      {
+        "id": "384d27cc-469e-4428-9c7e-f0ce3a2ad3ed",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Programul este potrivit și pentru grădinițe sau serbări?",
+        "answer": "Da. Activitățile pot fi pregătite și pentru grădinițe, serbări, petreceri școlare sau întâlniri de familie, cu adaptări în funcție de regulile locației și de structura grupului de copii.",
+        "order_index": 7,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.652026+00:00"
+      },
+      {
+        "id": "4e1e8915-5fa3-4699-815d-7bedd04d2f65",
+        "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+        "question": "Ce informații sunt necesare pentru pregătirea programului?",
+        "answer": "Sunt utile data evenimentului, zona din Sector 6, tipul locației, numărul estimat de copii, vârstele acestora, tematica dorită și activitățile pe care părinții vor să le includă.",
+        "order_index": 8,
+        "created_at": "2026-06-20T05:35:59.776948+00:00",
+        "updated_at": "2026-06-21T20:08:46.756346+00:00"
+      }
+    ],
+    "secErr": null,
+    "faqErr": null
+  }
+}

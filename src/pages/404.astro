@@ -1,0 +1,84 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import { supabase } from '../lib/supabase';
+
+const title = "Ups! Pagina a zburat ca un balon | Kassia";
+const description = "Pagina pe care o cauți nu a putut fi găsită. Întoarce-te pe pagina principală pentru a descoperi serviciile Kassia.";
+const canonical = import.meta.env.PUBLIC_SITE_URL ? `${import.meta.env.PUBLIC_SITE_URL}/404/` : 'https://www.kassia.ro/404/';
+
+// Fetch footer internal links for the Footer component
+// Usually we'd fetch for this specific page, but for 404 we can just fetch random/published links or empty
+const { data: internalLinks } = await supabase
+  .from('kassia_internal_links')
+  .select(`
+    anchor_text,
+    target_page:kassia_pages!target_page_id(path, status)
+  `)
+  .limit(10);
+
+const publishedLinks = internalLinks 
+  ? internalLinks.filter(link => link.target_page && link.target_page.status === 'published')
+  : [];
+---
+
+<Layout title={title} description={description} canonical={canonical} robots="noindex, follow">
+  <div class="kassia-premium-page">
+    
+    <section class="hero-section text-center" style="padding: 10rem 2rem 6rem; min-height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <h1 class="page-title" style="font-size: clamp(4rem, 10vw, 8rem); margin-bottom: 0;">404</h1>
+      <h2 class="section-heading" style="margin-bottom: 1.5rem;">Ups! Pagina a zburat...</h2>
+      <p class="hero-subtitle" style="margin-bottom: 2.5rem;">Ne pare rău, dar pagina pe care o cauți nu există sau a fost mutată.</p>
+      
+      <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-bottom: 4rem;">
+        <a href="/" class="btn-primary">Înapoi la Prima Pagină</a>
+        <a href="/contact/" class="btn-primary" style="background: white; color: var(--primary); border: 2px solid var(--primary); box-shadow: none;">Contactează-ne</a>
+      </div>
+
+      <div class="service-links" style="max-width: 600px; width: 100%;">
+        <h3 class="section-subheading">Câteva servicii populare:</h3>
+        <ul style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+          <li><a href="/decoratiuni-baloane-bucuresti/" style="color: var(--primary); text-decoration: none; font-weight: 600;">Decorațiuni Baloane</a></li>
+          <li><a href="/arcada-baloane-bucuresti/" style="color: var(--primary); text-decoration: none; font-weight: 600;">Arcadă Baloane</a></li>
+          <li><a href="/baloane-heliu-bucuresti/" style="color: var(--primary); text-decoration: none; font-weight: 600;">Baloane cu Heliu</a></li>
+          <li><a href="/panou-foto-baloane-bucuresti/" style="color: var(--primary); text-decoration: none; font-weight: 600;">Panouri Foto</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <Footer internalLinks={publishedLinks} />
+  </div>
+</Layout>
+
+<style>
+  :root {
+    --primary: #a855f7;
+    --accent: #ec4899;
+    --text-main: #1e293b;
+    --text-muted: #475569;
+  }
+  .hero-section {
+    background: linear-gradient(135deg, rgba(168,85,247,0.05) 0%, rgba(236,72,153,0.05) 100%);
+  }
+  .page-title {
+    background: linear-gradient(to right, var(--primary), var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+  }
+  .btn-primary {
+    display: inline-block;
+    padding: 1rem 2.5rem;
+    background: linear-gradient(to right, var(--primary), var(--accent));
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-weight: 700;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 10px 15px -3px rgba(168,85,247,0.3);
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 20px 25px -5px rgba(168,85,247,0.4);
+  }
+</style>

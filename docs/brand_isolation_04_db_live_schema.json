@@ -1,0 +1,7 @@
+{
+  "zouka_data_in_kassia": "NU (schema complet separată, zouka folosește seo_registry_*, kassia folosește pages standard)",
+  "kassia_data_in_zouka": "NU",
+  "shared_pages_table": true,
+  "brand_discriminator_if_shared": "NU SE APLICĂ",
+  "live_db_contamination_risk": false
+}

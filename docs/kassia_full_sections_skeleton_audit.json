@@ -1,0 +1,842 @@
+[
+  {
+    "path": "/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/despre-noi/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/contact/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/galerie/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/preturi-decoratiuni-baloane/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/intrebari-frecvente/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/recenzii/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/portofoliu-evenimente/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/termeni-si-conditii/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/politica-de-confidentialitate/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/blog/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": false
+  },
+  {
+    "path": "/decoratiuni-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/aranjamente-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/arcada-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/baloane-heliu-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/panou-foto-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/buchete-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/baloane-personalizate-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/baloane-cifre-litere-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/ghirlande-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/stalpi-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/perete-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decor-baloane-candy-bar-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/livrare-baloane-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-botez-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-mot-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-turta-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/arcada-baloane-nunta-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-paste-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-1/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-2/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-3/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-4/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-5/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-6/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-aviatiei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-baneasa/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-domenii/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-herastrau/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-victoriei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-colentina/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-obor/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-tei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-dristor/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-titan/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-vitan/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-unirii/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-dudesti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-tineretului/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-piata-sudului/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-oltenitei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-rahova/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-cotroceni/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-13-septembrie/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-ferentari/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-sebastian/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-drumul-taberei/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-militari/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-crangasi/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-giulesti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-grozavesti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-ilfov/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-voluntari/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-pipera/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-otopeni/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-tunari/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-corbeanca/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-balotesti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-mogosoaia/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-chitila/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-chiajna/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-domnesti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-bragadiru/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-magurele/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-popesti-leordeni/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni-ilfov/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-cernica/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-afumati/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-dascalu/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-snagov/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-clinceni/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-jilava/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-1-decembrie/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/arcada-baloane-botez-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/arcada-baloane-majorat-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/arcada-baloane-nunta-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/panou-foto-baloane-botez-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/panou-foto-baloane-majorat-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/baloane-heliu-majorat-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/baloane-heliu-aniversare-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/buchete-baloane-aniversare-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  },
+  {
+    "path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "required_sections_exist": true,
+    "missing_sections": [],
+    "cta_section_exists": true,
+    "faq_section_exists": true
+  }
+]

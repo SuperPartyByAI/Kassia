@@ -1,0 +1,335 @@
+[
+  {
+    "id": "409c4422-b4d0-4c54-b68d-9e26c607b0c9",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-hero.webp",
+    "alt_text": "Baloane heliu Bucuresti 0",
+    "order_index": 1,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "e84c785b-eefd-441a-966a-dd0a5249febf",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "url": "/images/panou-foto.webp",
+    "alt_text": "Panou foto cu baloane pentru eveniment în București și Ilfov",
+    "order_index": 1,
+    "created_at": "2026-05-21T18:35:26.035789+00:00",
+    "updated_at": "2026-05-21T19:09:38.34551+00:00"
+  },
+  {
+    "id": "76c45ace-012f-4163-97a1-c2caf6170a64",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "url": "/images/panou-foto-botez.webp",
+    "alt_text": "Panou foto botez cu baloane",
+    "order_index": 2,
+    "created_at": "2026-05-21T18:54:57.644858+00:00",
+    "updated_at": "2026-05-21T19:09:38.478583+00:00"
+  },
+  {
+    "id": "0a75a77a-a62c-4a64-a284-cce4c6e7f9bf",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "url": "/images/panou-foto-aniversare.webp",
+    "alt_text": "Panou foto aniversare majorat",
+    "order_index": 3,
+    "created_at": "2026-05-21T18:54:57.644858+00:00",
+    "updated_at": "2026-05-21T19:09:38.602751+00:00"
+  },
+  {
+    "id": "caeb3fa2-fb30-41a5-b281-f74a0205c385",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "url": "/images/panou-foto-culori.webp",
+    "alt_text": "Culori panou foto baloane",
+    "order_index": 4,
+    "created_at": "2026-05-21T19:02:45.677365+00:00",
+    "updated_at": "2026-05-21T19:09:38.716013+00:00"
+  },
+  {
+    "id": "bba47480-deed-4d1e-a317-8a9803b512b1",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "url": "/images/panou-foto-locatie.webp",
+    "alt_text": "Montaj panou foto locatie",
+    "order_index": 5,
+    "created_at": "2026-05-21T19:02:45.677365+00:00",
+    "updated_at": "2026-05-21T19:09:38.799393+00:00"
+  },
+  {
+    "id": "bd701eb9-26ed-4a79-a774-08ea50082f67",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-decor-hero.webp",
+    "alt_text": "Decorațiuni cu baloane pentru botez în București și Ilfov",
+    "order_index": 1,
+    "created_at": "2026-05-21T19:15:04.728479+00:00",
+    "updated_at": "2026-05-21T19:15:04.728479+00:00"
+  },
+  {
+    "id": "4393d7c7-8ae3-458f-b06e-a83110d1cdf8",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-panou-foto.webp",
+    "alt_text": "Panou foto cu baloane pentru botez",
+    "order_index": 2,
+    "created_at": "2026-05-21T19:15:04.728479+00:00",
+    "updated_at": "2026-05-21T19:15:04.728479+00:00"
+  },
+  {
+    "id": "149bb156-6e79-4c36-a922-51e19f9fb237",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-candy-bar.webp",
+    "alt_text": "Candy bar decorat cu baloane pentru botez",
+    "order_index": 3,
+    "created_at": "2026-05-21T19:15:04.728479+00:00",
+    "updated_at": "2026-05-21T19:15:04.728479+00:00"
+  },
+  {
+    "id": "1d2c3a5b-445c-449a-be6a-2fd0cb027600",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-detalii-baloane.webp",
+    "alt_text": "Detalii de baloane pastelate pentru botez",
+    "order_index": 4,
+    "created_at": "2026-05-21T19:15:04.728479+00:00",
+    "updated_at": "2026-05-21T19:15:04.728479+00:00"
+  },
+  {
+    "id": "106b667f-1b0f-4816-911d-d4a795de331f",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-culori-mix.webp",
+    "alt_text": "Decor botez culori neutre",
+    "order_index": 5,
+    "created_at": "2026-05-21T19:19:03.323735+00:00",
+    "updated_at": "2026-05-21T19:19:03.323735+00:00"
+  },
+  {
+    "id": "782fc8a0-b05f-492c-81a4-7f710ae8b6ae",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-montaj-locatie.webp",
+    "alt_text": "Montaj locatie decor botez",
+    "order_index": 6,
+    "created_at": "2026-05-21T19:19:03.323735+00:00",
+    "updated_at": "2026-05-21T19:19:03.323735+00:00"
+  },
+  {
+    "id": "543eddab-db62-47f3-9596-44a76d3b7455",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "url": "/images/botez-fotografii.webp",
+    "alt_text": "Panou foto memorabil botez",
+    "order_index": 7,
+    "created_at": "2026-05-21T19:19:03.323735+00:00",
+    "updated_at": "2026-05-21T19:19:03.323735+00:00"
+  },
+  {
+    "id": "9c6f030f-e699-4e9b-b920-c8f4351749c3",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-decor-hero.webp",
+    "alt_text": "Decor elegant cu baloane pentru nuntă în salon luxos",
+    "order_index": 1,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "31905b0f-00a6-4f02-a429-0315efd3a2e7",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-arcada.webp",
+    "alt_text": "Arcadă baloane intrare nuntă culori neutre",
+    "order_index": 2,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "d78130cf-b98f-44ab-b22d-7fbcbcd41802",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-panou-foto.webp",
+    "alt_text": "Panou foto photo corner nuntă cu baloane premium",
+    "order_index": 3,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "4dc5fa28-5b4a-4064-af50-2398921a4548",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-candy-bar.webp",
+    "alt_text": "Decor baloane candy bar nuntă champagne și ivory",
+    "order_index": 4,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "603c345d-7be4-42b7-b5e7-3da00a48452b",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-detalii-baloane.webp",
+    "alt_text": "Detalii baloane premium culori calde nuntă",
+    "order_index": 5,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "e3a61a39-7bc4-407c-acfb-dde696f36947",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "url": "/images/nunta-locatie.webp",
+    "alt_text": "Montaj decor baloane nuntă la restaurant în București",
+    "order_index": 6,
+    "created_at": "2026-05-22T02:15:54.609519+00:00",
+    "updated_at": "2026-05-22T02:15:54.609519+00:00"
+  },
+  {
+    "id": "80c20ea0-f408-4501-9ba4-e35a70f6145f",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-hero.webp",
+    "alt_text": "Decor cu baloane București 0",
+    "order_index": 1,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "fef962c6-1e84-45b7-a43d-c52c00aed197",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-servicii.webp",
+    "alt_text": "Decor cu baloane București 1",
+    "order_index": 2,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "cda13cd1-f6ce-41a2-94fc-e9f80448dd0f",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-arcada.webp",
+    "alt_text": "Decor cu baloane București 2",
+    "order_index": 3,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "a20ce2dc-35dc-4bd1-a8df-f4b881f5b2d4",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-panou-foto.webp",
+    "alt_text": "Decor cu baloane București 3",
+    "order_index": 4,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "0d7b1e04-abd2-435b-8e70-f93814346348",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-heliu.webp",
+    "alt_text": "Decor cu baloane București 4",
+    "order_index": 5,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "e50d8e3a-45d7-417e-a247-b8c91acb4c7d",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-locatie.webp",
+    "alt_text": "Decor cu baloane București 5",
+    "order_index": 6,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "3383a924-4a9d-4d30-b31d-e2e5ac248538",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "url": "/images/decoratiuni-baloane-hub-detalii.webp",
+    "alt_text": "Decor cu baloane București 6",
+    "order_index": 7,
+    "created_at": "2026-05-22T02:31:00.863084+00:00",
+    "updated_at": "2026-05-22T02:31:00.863084+00:00"
+  },
+  {
+    "id": "5731afac-62fe-41cc-8dad-609a252691ac",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-tipuri.webp",
+    "alt_text": "Baloane heliu Bucuresti 1",
+    "order_index": 2,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "a98ef140-c2b8-4203-85b6-9a8d9e105ffd",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-buchete.webp",
+    "alt_text": "Baloane heliu Bucuresti 2",
+    "order_index": 3,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "3858b5ab-27f4-446c-8697-f8be640a657d",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-evenimente.webp",
+    "alt_text": "Baloane heliu Bucuresti 3",
+    "order_index": 4,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "75f7bd6e-6ec1-4f63-bd33-6b34eb6d8135",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-culori.webp",
+    "alt_text": "Baloane heliu Bucuresti 4",
+    "order_index": 5,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "3a30180a-43ef-4f6a-a360-c2c30ff3b86b",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "url": "/images/baloane-heliu-comanda.webp",
+    "alt_text": "Baloane heliu Bucuresti 5",
+    "order_index": 6,
+    "created_at": "2026-05-22T02:52:46.449816+00:00",
+    "updated_at": "2026-05-22T02:52:46.449816+00:00"
+  },
+  {
+    "id": "87dc7b74-d777-423c-8dfb-3542fa93dd01",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-hero.webp",
+    "alt_text": "Arcada baloane Bucuresti 0",
+    "order_index": 1,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  },
+  {
+    "id": "d6f794a5-d4f4-4221-9e22-d42c2952c72b",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-intrare.webp",
+    "alt_text": "Arcada baloane Bucuresti 1",
+    "order_index": 2,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  },
+  {
+    "id": "83bf31c3-944b-4c55-83e3-8779712de236",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-organica.webp",
+    "alt_text": "Arcada baloane Bucuresti 2",
+    "order_index": 3,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  },
+  {
+    "id": "a9b0e097-650b-4a56-ba65-3df6a2078195",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-botez-nunta.webp",
+    "alt_text": "Arcada baloane Bucuresti 3",
+    "order_index": 4,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  },
+  {
+    "id": "3b915421-f9b6-4852-a91c-70b54680b59c",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-culori.webp",
+    "alt_text": "Arcada baloane Bucuresti 4",
+    "order_index": 5,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  },
+  {
+    "id": "33a38223-8a56-4d17-813f-6675aca52cf7",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "url": "/images/arcada-baloane-montaj.webp",
+    "alt_text": "Arcada baloane Bucuresti 5",
+    "order_index": 6,
+    "created_at": "2026-05-22T02:46:09.409411+00:00",
+    "updated_at": "2026-05-22T02:46:09.409411+00:00"
+  }
+]

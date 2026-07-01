@@ -1,0 +1,115 @@
+[
+  {
+    "id": "d0496e2b-1b9f-4bbf-8149-8f0af45e34d3",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Detalii pentru programele cu animatori copii",
+    "content": {
+      "body": "<p>Pentru petrecerile copiilor, programul de animație poate fi adaptat în funcție de vârsta invitaților, spațiul disponibil și momentele dorite în cadrul evenimentului. Dacă vrei să vezi toate variantele de <a href=\"/animatori-petreceri-copii/\">animatori pentru petreceri de copii</a> disponibile pentru evenimente în București și Ilfov, poți consulta și pagina principală dedicată programelor de animație. Mai jos găsești variantele de program pentru animație, cu 1 personaj animator, 2 personaje animatoare și animatori pe picioroange.</p>",
+      "cta_url": "/contact/",
+      "cta_text": "Trimite detaliile petrecerii"
+    },
+    "order_index": 10,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.598369+00:00"
+  },
+  {
+    "id": "f38cc1a3-fbaf-40dd-95e9-d94054ebfc61",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Program cu 1 personaj animator",
+    "content": {
+      "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animator-petrecere-1.png\" alt=\"1 personaj animator la petrecere copii București\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 oră</td><td style=\"padding: 0.75rem;\">280 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 ore</td><td style=\"padding: 0.75rem;\">490 lei — include moment Balloon Exploder</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">3 ore</td><td style=\"padding: 0.75rem;\">640 lei — include pinata</td></tr>\n          </table>\n          <p>Această variantă este potrivită pentru petreceri restrânse, aniversări acasă sau evenimente unde copiii au nevoie de jocuri, dansuri și activități coordonate într-un format clar.</p>\n        ",
+      "image_alt": "Program cu un personaj animator pentru petrecere de copii",
+      "image_url": "/images/animatori/pret-program-1-animator-copii.webp"
+    },
+    "order_index": 20,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.965502+00:00"
+  },
+  {
+    "id": "941b4db8-a2eb-40e7-80c3-8f0678fa65dc",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Program cu 2 personaje animatoare",
+    "content": {
+      "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animatori-petrecere-2.png\" alt=\"2 personaje animatoare la petrecere copii mari cu jocuri interactive\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 oră</td><td style=\"padding: 0.75rem;\">490 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 ore</td><td style=\"padding: 0.75rem;\">830 lei — include pinata</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">3 ore</td><td style=\"padding: 0.75rem;\">1.120 lei — include pinata + Balloon Exploder</td></tr>\n          </table>\n          <p>Varianta cu 2 personaje animatoare este potrivită pentru grupuri mai mari de copii sau pentru evenimente unde activitățile trebuie susținute în paralel, cu mai multă interacțiune și dinamism.</p>\n        ",
+      "image_alt": "Program cu două personaje animatoare pentru petreceri de copii",
+      "image_url": "/images/animatori/pret-program-2-animatori-copii.webp"
+    },
+    "order_index": 30,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.259344+00:00"
+  },
+  {
+    "id": "d54b7417-ca4b-4fc0-8aa7-174125c59e14",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Animatori pe picioroange",
+    "content": {
+      "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animatori-picioroange.png\" alt=\"Animatori pe picioroange primire invitati botez si petreceri copii\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 personaj pe picioroange / 1 oră</td><td style=\"padding: 0.75rem;\">1.450 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 personaje pe picioroange / 1 oră</td><td style=\"padding: 0.75rem;\">2.750 lei</td></tr>\n          </table>\n          <p>Animatorii pe picioroange sunt potriviți pentru momente de primire, apariții tematice, fotografii și evenimente unde se dorește un impact vizual puternic.</p>\n        ",
+      "image_alt": "Animator pe picioroange la eveniment pentru copii",
+      "image_url": "/images/animatori/pret-animatori-picioroange-evenimente.webp"
+    },
+    "order_index": 40,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.348758+00:00"
+  },
+  {
+    "id": "fd79da6e-697c-4b41-a796-6fcc57f06dba",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Transport pentru București și Ilfov",
+    "content": {
+      "body": "<p>Pentru programele cu 1 personaj animator sau 2 personaje animatoare, transportul este inclus în București. Pentru evenimentele din Ilfov, transportul se calculează separat, în funcție de distanță: 2 lei/km, dus-întors, de la Piața Unirii / km 0 până la locația evenimentului și înapoi. Pentru locațiile din Ilfov aflate la distanță mică, transportul minim este 50 lei.</p><p>Pentru animatorii pe picioroange, transportul este inclus în București și Ilfov.</p>"
+    },
+    "order_index": 50,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.170858+00:00"
+  },
+  {
+    "id": "fbdfcef7-451d-4790-aa67-651fb3cd526e",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Ce poate include programul de animație",
+    "content": {
+      "body": "<p>În funcție de varianta aleasă, programul poate include jocuri interactive, concursuri, dansuri, <a href=\"/pictura-pe-fata-copii-bucuresti/\">pictură pe față</a>, <a href=\"/modelaj-baloane-copii-bucuresti/\">modelaj de baloane</a>, pinata sau moment Balloon Exploder. Structura finală se stabilește în funcție de vârsta copiilor, locație și tematica petrecerii.<br><br>Spune-ne data evenimentului, zona, vârsta copiilor și varianta de program dorită, iar echipa Kassia te ajută să stabilești detaliile potrivite pentru petrecere.</p>",
+      "cta_url": "/contact/",
+      "cta_text": "Trimite detaliile petrecerii",
+      "image_alt": "Activități cu animatori copii pictură pe față și modelaj baloane",
+      "image_url": "/images/animatori/activitati-incluse-program-animatie.webp"
+    },
+    "order_index": 60,
+    "created_at": "2026-06-23T08:03:05.008483+00:00",
+    "updated_at": "2026-06-23T20:23:15.433516+00:00"
+  },
+  {
+    "id": "67b663b2-ed40-441a-b283-94d181f9c142",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "text",
+    "heading": "Cum alegi varianta potrivită pentru petrecere",
+    "content": {
+      "body": "<p>Pentru o aniversare restrânsă, programul cu 1 personaj animator poate fi suficient atunci când copiii au vârste apropiate și activitățile se desfășoară într-un spațiu compact. Pentru evenimente mai mari, cu invitați de vârste diferite sau cu mai multe momente în desfășurare, varianta cu 2 personaje animatoare oferă mai multă susținere în coordonarea jocurilor, dansurilor și momentelor tematice. Animatorii pe picioroange sunt potriviți pentru apariții vizuale, primirea invitaților, fotografii și momente speciale în cadrul evenimentului.</p>",
+      "image_alt": "Balloon Exploder cu bomboane la petrecere de copii",
+      "image_url": "/images/animatori/pret-balloon-exploder-petrecere.webp"
+    },
+    "order_index": 70,
+    "created_at": "2026-06-23T08:41:52.764999+00:00",
+    "updated_at": "2026-06-23T20:23:15.688053+00:00"
+  },
+  {
+    "id": "66970345-d7ac-40b0-b1cd-65531c1bc187",
+    "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+    "section_type": "content_block",
+    "heading": null,
+    "content": {
+      "body": "<p>Alegerea personajului se confirmă separat, în funcție de disponibilitatea costumului dorit pentru data evenimentului. Ai la dispoziție o gamă variată din care să alegi.</p>",
+      "title": "",
+      "cta_url": "/personaje-animatori-copii-bucuresti/",
+      "cta_text": "Vezi personajele disponibile →"
+    },
+    "order_index": 71,
+    "created_at": "2026-06-23T20:24:00.282086+00:00",
+    "updated_at": "2026-06-23T20:24:00.282086+00:00"
+  }
+]

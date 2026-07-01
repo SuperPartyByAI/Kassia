@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "draft -> noindex, sitemap=false",
+    "published + index -> sitemap=true, robots=index,follow",
+    "canonical -> domain + path"
+  ]
+}

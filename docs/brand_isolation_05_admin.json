@@ -1,0 +1,8 @@
+{
+  "tests_executed": true,
+  "results": {
+    "port_3000_admin_fetch": "OFFLINE",
+    "port_4321_admin_has_kassia": false,
+    "port_4321_admin_has_zouka": true
+  }
+}

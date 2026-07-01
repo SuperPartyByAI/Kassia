@@ -1,0 +1,34 @@
+{
+  "task1": {
+    "backupCreated": true,
+    "pagesIncluded": 10,
+    "dbModifiedUntilHere": false
+  },
+  "task3": {
+    "dryRunContentInserted": true,
+    "pagesStatusChanged": false,
+    "indexChanged": false,
+    "sitemapChanged": false
+  },
+  "task4": {
+    "batch1AdminRoutesLoad": 10,
+    "testContentVisibleInAdmin": 10,
+    "testContentVisibleInPreviewAdmin": 10
+  },
+  "task5": {
+    "publicDraft404": 10,
+    "sitemapExcludesDraftTestPages": true,
+    "publicLeaksTestContent": false,
+    "publishedPages": 0,
+    "indexPages": 0,
+    "sitemapPages": 0
+  },
+  "task6": {
+    "publishButtonDisabledInUI": true,
+    "unpublishHiddenInUI": true,
+    "manualPostPublishBlockedWhereExpected": true,
+    "publishedCountAfterPostTests": 0,
+    "indexCountAfterPostTests": 0,
+    "sitemapCountAfterPostTests": 0
+  }
+}

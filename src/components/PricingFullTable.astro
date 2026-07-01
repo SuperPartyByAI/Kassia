@@ -1,0 +1,47 @@
+---
+import { createClient } from '@supabase/supabase-js';
+import PricingProgramCard from './PricingProgramCard.astro';
+
+// Bypass SSR Cache in Astro/Node
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+const supabase = createClient(supabaseUrl, supabaseKey, {
+  global: {
+    fetch: (url, init) => fetch(url, { ...init, cache: 'no-store' })
+  }
+});
+
+Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+Astro.response.headers.set('Pragma', 'no-cache');
+Astro.response.headers.set('Expires', '0');
+
+// Fetch programs from the centralized Supabase table
+const { data: programs, error } = await supabase
+  .from('kassia_pricing_programs')
+  .select('*')
+  .eq('is_active', true)
+  .eq('is_test', false)
+  .eq('show_on_pricing_page', true)
+  .order('order_index');
+
+if (error) {
+  console.error("Error fetching pricing full table:", error);
+}
+
+---
+
+{programs && programs.length > 0 && (
+  <section class="content-section bg-white pricing-full-table">
+    <div class="container section-grid text-only">
+      <div class="section-text" style="width: 100%;">
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+          {programs.map((program) => (
+            <PricingProgramCard program={program} variant="full" />
+          ))}
+        </div>
+        
+      </div>
+    </div>
+  </section>
+)}

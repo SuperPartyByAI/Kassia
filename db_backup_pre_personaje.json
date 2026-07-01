@@ -1,0 +1,1873 @@
+{
+  "timestamp": "2026-06-23T20:17:43.918Z",
+  "pages": [
+    {
+      "id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "path": "/"
+    },
+    {
+      "id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "path": "/animatori-petreceri-copii-sector-1/"
+    },
+    {
+      "id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "path": "/animatori-petreceri-copii-sector-2/"
+    },
+    {
+      "id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "path": "/animatori-petreceri-copii-sector-3/"
+    },
+    {
+      "id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "path": "/animatori-petreceri-copii-sector-4/"
+    },
+    {
+      "id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "path": "/animatori-petreceri-copii-sector-5/"
+    },
+    {
+      "id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "path": "/animatori-petreceri-copii-sector-6/"
+    },
+    {
+      "id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "path": "/animatori-petreceri-copii/"
+    },
+    {
+      "id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "path": "/preturi-animatori-copii-bucuresti/"
+    }
+  ],
+  "sections": [
+    {
+      "id": "51914727-2894-4a9a-a60a-17da7a72887c",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Programe interactive cu animatori pentru copii, jocuri tematice și personaje îndrăgite pentru petreceri în Sectorul 2.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 2",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-19T18:36:20.829511+00:00"
+    },
+    {
+      "id": "5efc2546-600c-464a-8a44-63e2cf14935d",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Botez",
+      "content": {
+        "cta_url": "/decoratiuni-baloane-botez-bucuresti/",
+        "alt_text": "Botez",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/botez-hub-hero.webp",
+        "subheading": "Arcade organice, panouri foto și decor candy bar."
+      },
+      "order_index": 31,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.462467+00:00"
+    },
+    {
+      "id": "1d404b29-d420-4902-b3a0-faa4dad9c842",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "hero",
+      "heading": "Animatori pentru petreceri copii și decoruri cu baloane în București și Ilfov",
+      "content": {
+        "body": "Echipa Kassia îți transformă evenimentul într-o amintire de neuitat. Oferim programe de animație pentru copii cu mascote și jocuri interactive, completate de decoruri din baloane.",
+        "cta_url": "/contact/",
+        "alt_text": null,
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_url": null
+      },
+      "order_index": 1,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-23T14:19:07.463428+00:00"
+    },
+    {
+      "id": "ad8d2366-39f3-4094-af80-07e9ca61cc5c",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Aniversări Copii",
+      "content": {
+        "cta_url": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+        "alt_text": "Aniversări Copii",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-aniversare-copii.webp",
+        "subheading": "Tematici colorate și baloane adaptate vârstei copilului."
+      },
+      "order_index": 33,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.604806+00:00"
+    },
+    {
+      "id": "1b438251-1229-4b9f-8cee-25f35c32ba0b",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Nuntă",
+      "content": {
+        "cta_url": "/decoratiuni-baloane-nunta-bucuresti/",
+        "alt_text": "Nuntă",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-nunta.webp",
+        "subheading": "Aranjamente elegante, ghirlande și decor intrare."
+      },
+      "order_index": 32,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.536115+00:00"
+    },
+    {
+      "id": "1bf94a95-d621-4473-bf0e-adc724b5dc1a",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Aniversări și majorate",
+      "content": {
+        "cta_url": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+        "alt_text": "Aniversări și majorate",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-aniversari-adulti.webp",
+        "subheading": "Decoruri cu baloane pentru petreceri private și aniversări."
+      },
+      "order_index": 34,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.679843+00:00"
+    },
+    {
+      "id": "5366cb20-5375-4eda-81b3-3433170f419b",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Panouri Foto",
+      "content": {
+        "cta_url": "/panou-foto-baloane-bucuresti/",
+        "alt_text": "Panouri Foto",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-panou-foto.webp",
+        "subheading": "Fundal pregătit pentru fotografii de familie și invitați."
+      },
+      "order_index": 35,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.749493+00:00"
+    },
+    {
+      "id": "904d4b5a-2042-4d10-9bfc-62aad2060dc8",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Baloane cu Heliu",
+      "content": {
+        "cta_url": "/baloane-heliu-bucuresti/",
+        "alt_text": "Baloane cu Heliu",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-heliu.webp",
+        "subheading": "Buchete și baloane plutitoare pentru o atmosferă plină de culoare."
+      },
+      "order_index": 37,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.892725+00:00"
+    },
+    {
+      "id": "3fad6bdf-98d7-461d-923d-399cf48f28eb",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Corporate",
+      "content": {
+        "cta_url": "/decoratiuni-baloane-corporate-bucuresti/",
+        "alt_text": "Corporate",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/home-card-corporate.webp",
+        "subheading": "Lansări, inaugurări și petreceri de companie."
+      },
+      "order_index": 38,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.957705+00:00"
+    },
+    {
+      "id": "a238bc54-0de2-45f8-881c-849600c88f56",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Arcade Baloane",
+      "content": {
+        "cta_url": "/arcada-baloane-bucuresti/",
+        "alt_text": "Arcade Baloane",
+        "category": "Decorațiuni cu baloane",
+        "image_url": "/images/arcada-baloane-hero.webp",
+        "subheading": "Decor pentru intrare, scenă sau ringul de dans."
+      },
+      "order_index": 36,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:41.823207+00:00"
+    },
+    {
+      "id": "9306b3d0-b90d-4c53-82eb-62f3ec6292e4",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "cta",
+      "heading": "Trimite detaliile petrecerii",
+      "content": {
+        "body": "Contactează-ne pentru a discuta detaliile evenimentului tău și a stabili împreună activitățile de animație și decorul dorit.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii"
+      },
+      "order_index": 50,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:42.29891+00:00"
+    },
+    {
+      "id": "72a0abe0-3236-4059-8a0a-aadeee7cee07",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "default",
+      "heading": "Etapele unei colaborări",
+      "content": {
+        "body": "Totul începe cu o discuție inițială despre dorințele tale. Alegem împreună paleta de culori și conceptul vizual, stabilim detaliile finale, iar în ziua evenimentului echipa noastră se ocupă integral de montaj la locație.",
+        "alt_text": "Etapele unei colaborări",
+        "image_url": "/images/home-workflow.webp"
+      },
+      "order_index": 44,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-23T14:19:08.616603+00:00"
+    },
+    {
+      "id": "e8dffe10-14b9-4db3-b3d7-bdb0d9279201",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "default",
+      "heading": "Decoruri pentru momente speciale",
+      "content": {
+        "body": "Fie că planifici o nuntă, o petrecere de majorat sau o aniversare restrânsă, ne ocupăm de amenajarea spațiului. Integrăm baloanele natural în arhitectura locației.",
+        "alt_text": "Decoruri pentru momente speciale",
+        "image_url": "/images/home-private-events.webp"
+      },
+      "order_index": 42,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:42.092364+00:00"
+    },
+    {
+      "id": "52da8bbe-384a-457c-ac25-b2b506293996",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "default",
+      "heading": "Decor pentru compania ta",
+      "content": {
+        "body": "Atragem atenția asupra brandului tău prin arcade în culorile companiei sau stâlpi din baloane pentru lansări de produs și inaugurări de magazine.",
+        "cta_url": "/decoratiuni-baloane-corporate-bucuresti/",
+        "alt_text": "Decor pentru compania ta",
+        "cta_text": "Soluții Corporate",
+        "image_url": "/images/corporate-baloane-hero.webp"
+      },
+      "order_index": 43,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-19T06:12:42.160129+00:00"
+    },
+    {
+      "id": "5d14e47e-6e00-4d15-9736-366021876e37",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "default",
+      "heading": "Primul eveniment important",
+      "content": {
+        "body": "Botezul este o zi plină de emoție. Te ajutăm să o pui în valoare cu decorațiuni complete pentru botez, de la o arcadă organică la intrare, până la un panou foto unde invitații pot face fotografii într-un cadru pregătit.",
+        "cta_url": "/decoratiuni-baloane-botez-bucuresti/",
+        "alt_text": "Primul eveniment important",
+        "cta_text": "Vezi detaliile pentru Botez",
+        "image_url": "/images/botez-hub-candy-bar.webp"
+      },
+      "order_index": 41,
+      "created_at": "2026-05-24T03:30:34.868908+00:00",
+      "updated_at": "2026-06-23T19:54:11.004732+00:00"
+    },
+    {
+      "id": "dd88e601-c0be-482d-8046-4f8a36e2c465",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Programe interactive cu animatori pentru copii, jocuri tematice și personaje îndrăgite pentru petreceri în Sectorul 3.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 3",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-19T19:02:14.665556+00:00"
+    },
+    {
+      "id": "60b43cf4-353e-40bb-a8b2-33f62a535fd3",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Programe interactive cu animatori pentru copii, jocuri tematice și personaje îndrăgite pentru petreceri în Sectorul 4.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 4",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T04:50:14.175109+00:00"
+    },
+    {
+      "id": "40ed8c6a-4ea9-4dcd-a7d3-21e8112e6d2b",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Programe interactive cu animatori pentru copii, jocuri tematice și personaje îndrăgite pentru petreceri în Sectorul 5.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 5",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T05:24:52.791861+00:00"
+    },
+    {
+      "id": "f835ec0e-0c7b-452a-83ac-45ba9b9369ff",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Mascote pentru petreceri copii",
+      "content": {
+        "cta_url": "/mascote-petreceri-copii-bucuresti/",
+        "alt_text": "Mascote pentru petreceri copii",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp",
+        "subheading": "Apariții cu mascote generice, potrivite pentru aniversări, botezuri și evenimente pentru copii."
+      },
+      "order_index": 13,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-19T06:12:40.329739+00:00"
+    },
+    {
+      "id": "4c8ba169-4983-4cf6-afc8-b1afbf636cec",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Modelaj baloane",
+      "content": {
+        "cta_url": "/modelaj-baloane-copii-bucuresti/",
+        "alt_text": "Modelaj baloane",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp",
+        "subheading": "Figurine din baloane modelabile, integrate în programul de animație."
+      },
+      "order_index": 15,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-19T06:12:40.626462+00:00"
+    },
+    {
+      "id": "fe5f1416-c8a5-4a00-8392-4d42e37866da",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Jocuri interactive",
+      "content": {
+        "cta_url": "/jocuri-interactive-copii-bucuresti/",
+        "alt_text": "Jocuri interactive",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp",
+        "subheading": "Activități de grup, concursuri și momente dinamice pentru copii."
+      },
+      "order_index": 16,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-19T06:12:40.791449+00:00"
+    },
+    {
+      "id": "ad4467d8-c6d8-4f54-937d-76520a9e32f8",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Mini-disco",
+      "content": {
+        "cta_url": "/mini-disco-copii-bucuresti/",
+        "alt_text": "Mini-disco",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp",
+        "subheading": "Muzică, dans și momente animate pentru petreceri pline de energie."
+      },
+      "order_index": 17,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-19T06:12:40.919606+00:00"
+    },
+    {
+      "id": "bf38a954-b873-4822-801f-7d7634727f76",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Animatori petreceri copii",
+      "content": {
+        "cta_url": "/animatori-petreceri-copii/",
+        "alt_text": "Animatori petreceri copii",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp",
+        "subheading": "Jocuri interactive, dans, concursuri și activități adaptate vârstei copiilor."
+      },
+      "order_index": 12,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-22T10:30:10.828019+00:00"
+    },
+    {
+      "id": "0c7a2236-b146-4ed7-bde4-805156e57d78",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Pictură pe față",
+      "content": {
+        "cta_url": "/pictura-pe-fata-copii-bucuresti/",
+        "alt_text": "Pictură pe față",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp",
+        "subheading": "Modele colorate pentru copii, adaptate tematicii evenimentului."
+      },
+      "order_index": 14,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-23T14:19:08.728961+00:00"
+    },
+    {
+      "id": "1e34fdcc-8c10-410a-9d9e-108cb92fa31a",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "testimonials_section",
+      "heading": "Ce spun clienții noștri",
+      "content": {
+        "body": "\n<style>\n  [id*=\"ce-spun-clien-ii-no-tri\"] .section-grid {\n    display: block !important;\n  }\n  .aprecieri-clienti-container {\n    padding: 4rem 0;\n    overflow: hidden;\n    background: #fff;\n    width: 100%;\n  }\n  .aprecieri-slider-container {\n    width: 100%;\n    overflow: hidden;\n    padding-bottom: 2rem;\n  }\n  .aprecieri-track-container {\n    display: flex;\n    gap: 1.5rem;\n    width: max-content;\n    padding: 0.5rem;\n    animation: scroll-carousel-main 50s linear infinite;\n  }\n  .aprecieri-track-container:hover {\n    animation-play-state: paused;\n  }\n  @keyframes scroll-carousel-main {\n    0% { transform: translate3d(0, 0, 0); }\n    100% { transform: translate3d(calc(-50% - 0.75rem), 0, 0); }\n  }\n  .apreciere-item-card {\n    background: white;\n    border-radius: 12px;\n    padding: 1.5rem;\n    width: 300px;\n    box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n    border: 1px solid #f1f5f9;\n    transition: transform 0.2s ease, box-shadow 0.2s ease;\n    white-space: normal;\n    box-sizing: border-box;\n  }\n  .apreciere-item-card:hover {\n    transform: translateY(-4px);\n    box-shadow: 0 8px 24px rgba(0,0,0,0.08);\n  }\n  .apreciere-head-card {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    margin-bottom: 12px;\n  }\n  .apreciere-avatar-card {\n    width: 44px;\n    height: 44px;\n    min-width: 44px;\n    border-radius: 50%;\n    overflow: hidden;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    box-shadow: inset 0 0 0 1px rgba(0,0,0,0.05);\n    background: #f1f5f9;\n  }\n  .apreciere-avatar-card img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n  .apreciere-info-card {\n    flex-grow: 1;\n    text-align: left;\n  }\n  .apreciere-nume-card {\n    margin: 0;\n    font-size: 0.95rem;\n    font-weight: 700;\n    color: #1e293b;\n    line-height: 1.2;\n  }\n  .apreciere-data-card {\n    font-size: 0.75rem;\n    color: #64748b;\n  }\n  .apreciere-text-card {\n    margin: 12px 0 0 0;\n    font-size: 0.9rem;\n    line-height: 1.5;\n    color: #334155;\n    font-style: italic;\n    text-align: left;\n  }\n  @media (max-width: 768px) {\n    .apreciere-item-card {\n      width: 280px;\n    }\n  }\n</style>\n\n<div class=\"aprecieri-clienti-container\">\n  <div class=\"aprecieri-slider-container\">\n    <div class=\"aprecieri-track-container\">\n      \n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_001.jpg\" alt=\"Andreea M.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Andreea M.</h4>\n              <span class=\"apreciere-data-card\">Acum 8 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatoarea Elsa a fost minunată, copiii s-au bucurat de jocuri și dansuri pe tot parcursul petrecerii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_002.jpg\" alt=\"Mihai C.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Mihai C.</h4>\n              <span class=\"apreciere-data-card\">Acum 8 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Spiderman a ținut toți băieții în priză cu concursuri și activități interactive super amuzante.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_003.jpg\" alt=\"Elena R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Elena R.</h4>\n              <span class=\"apreciere-data-card\">Acum 7 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Arcada de baloane organică a fost deosebită, culorile s-au potrivit de minune cu tema aleasă de noi.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_004.jpg\" alt=\"Raluca I.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Raluca I.</h4>\n              <span class=\"apreciere-data-card\">Acum 7 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Pictura pe față a fost realizată cu mult talent și vopsele potrivite pentru piele. Copiii au fost încântați!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_005.jpg\" alt=\"Alexandru V.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Alexandru V.</h4>\n              <span class=\"apreciere-data-card\">Acum 6 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Modelajul de baloane sub formă de săbii și animale a adus multă bucurie tuturor copiilor prezenți.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_006.jpg\" alt=\"Ioana S.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Ioana S.</h4>\n              <span class=\"apreciere-data-card\">Acum 6 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Mini-disco plin de energie, copiii au dansat și s-au distrat pe cinste cu animatoarea preferată.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_007.jpg\" alt=\"George R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">George R.</h4>\n              <span class=\"apreciere-data-card\">Acum 5 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatorul a fost extrem de răbdător și a știut cum să implice chiar și copiii mai timizi în jocuri.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_008.jpg\" alt=\"Simona A.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Simona A.</h4>\n              <span class=\"apreciere-data-card\">Acum 5 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Jocurile interactive de grup au fost adaptate deosebit de bine pentru vârsta celor mici. Mulțumim Kassia!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_009.jpg\" alt=\"Ștefan G.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Ștefan G.</h4>\n              <span class=\"apreciere-data-card\">Acum 4 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Panoul foto decorat cu baloane pastelate a fost punctul de atracție la botezul fetiței noastre.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_010.jpg\" alt=\"Alina D.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Alina D.</h4>\n              <span class=\"apreciere-data-card\">Acum 4 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Rapunzel a fost o prezență caldă și dulce, fetițele au fost absolut fascinate de povestea ei.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_011.jpg\" alt=\"Andrei R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Andrei R.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Mascota Mickey Mouse a făcut o mare surpriză tuturor copiilor la momentul tortului. Superb!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_012.jpg\" alt=\"Diana M.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Diana M.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"O petrecere foarte reușită, animatorii au venit pregătiți cu recuzită diversă și au făcut atmosferă.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_013.jpg\" alt=\"Cătălin D.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Cătălin D.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Am avut o echipă de animatori energici care au organizat jocuri dinamice și concursuri foarte distractive.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_014.jpg\" alt=\"Mihaela L.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Mihaela L.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Dansurile și coregrafiile de la mini-disco au ridicat toți copiii în picioare. Recomand cu drag!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_015.jpg\" alt=\"Daniel P.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Daniel P.</h4>\n              <span class=\"apreciere-data-card\">Acum un an</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Decorul de baloane pentru evenimentul nostru a fost executat deosebit de bine și montat la timp.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_016.jpg\" alt=\"Laura O.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Laura O.</h4>\n              <span class=\"apreciere-data-card\">Acum un an</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Un program de animație grozav care a ținut copiii ocupați și fericiți pe tot parcursul evenimentului.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_017.jpg\" alt=\"Marius A.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Marius A.</h4>\n              <span class=\"apreciere-data-card\">Acum o lună</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatorul costumat în pirat a organizat o vânătoare de comori antrenantă pentru copii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_018.jpg\" alt=\"Adina B.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Adina B.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 săptămâni</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Costumele animatorilor au fost curate, îngrijite și foarte fidele personajelor iubite de copii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_019.jpg\" alt=\"Bogdan V.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Bogdan V.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 săptămâni</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Ghirlandele din baloane organice au fost extrem de bine fixate și au rezistat foarte bine toată seara.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_020.jpg\" alt=\"Bianca C.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Bianca C.</h4>\n              <span class=\"apreciere-data-card\">Acum o săptămână</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Recomand Kassia Events pentru punctualitate, energie pozitivă și animatori deosebiți!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_001.jpg\" alt=\"Andreea M.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Andreea M.</h4>\n              <span class=\"apreciere-data-card\">Acum 8 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatoarea Elsa a fost minunată, copiii s-au bucurat de jocuri și dansuri pe tot parcursul petrecerii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_002.jpg\" alt=\"Mihai C.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Mihai C.</h4>\n              <span class=\"apreciere-data-card\">Acum 8 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Spiderman a ținut toți băieții în priză cu concursuri și activități interactive super amuzante.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_003.jpg\" alt=\"Elena R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Elena R.</h4>\n              <span class=\"apreciere-data-card\">Acum 7 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Arcada de baloane organică a fost deosebită, culorile s-au potrivit de minune cu tema aleasă de noi.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_004.jpg\" alt=\"Raluca I.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Raluca I.</h4>\n              <span class=\"apreciere-data-card\">Acum 7 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Pictura pe față a fost realizată cu mult talent și vopsele potrivite pentru piele. Copiii au fost încântați!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_005.jpg\" alt=\"Alexandru V.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Alexandru V.</h4>\n              <span class=\"apreciere-data-card\">Acum 6 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Modelajul de baloane sub formă de săbii și animale a adus multă bucurie tuturor copiilor prezenți.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_006.jpg\" alt=\"Ioana S.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Ioana S.</h4>\n              <span class=\"apreciere-data-card\">Acum 6 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Mini-disco plin de energie, copiii au dansat și s-au distrat pe cinste cu animatoarea preferată.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_007.jpg\" alt=\"George R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">George R.</h4>\n              <span class=\"apreciere-data-card\">Acum 5 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatorul a fost extrem de răbdător și a știut cum să implice chiar și copiii mai timizi în jocuri.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_008.jpg\" alt=\"Simona A.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Simona A.</h4>\n              <span class=\"apreciere-data-card\">Acum 5 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Jocurile interactive de grup au fost adaptate deosebit de bine pentru vârsta celor mici. Mulțumim Kassia!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_009.jpg\" alt=\"Ștefan G.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Ștefan G.</h4>\n              <span class=\"apreciere-data-card\">Acum 4 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Panoul foto decorat cu baloane pastelate a fost punctul de atracție la botezul fetiței noastre.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_010.jpg\" alt=\"Alina D.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Alina D.</h4>\n              <span class=\"apreciere-data-card\">Acum 4 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Rapunzel a fost o prezență caldă și dulce, fetițele au fost absolut fascinate de povestea ei.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_011.jpg\" alt=\"Andrei R.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Andrei R.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Mascota Mickey Mouse a făcut o mare surpriză tuturor copiilor la momentul tortului. Superb!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_012.jpg\" alt=\"Diana M.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Diana M.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"O petrecere foarte reușită, animatorii au venit pregătiți cu recuzită diversă și au făcut atmosferă.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_013.jpg\" alt=\"Cătălin D.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Cătălin D.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Am avut o echipă de animatori energici care au organizat jocuri dinamice și concursuri foarte distractive.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_014.jpg\" alt=\"Mihaela L.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Mihaela L.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 ani</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Dansurile și coregrafiile de la mini-disco au ridicat toți copiii în picioare. Recomand cu drag!\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_015.jpg\" alt=\"Daniel P.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Daniel P.</h4>\n              <span class=\"apreciere-data-card\">Acum un an</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Decorul de baloane pentru evenimentul nostru a fost executat deosebit de bine și montat la timp.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_016.jpg\" alt=\"Laura O.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Laura O.</h4>\n              <span class=\"apreciere-data-card\">Acum un an</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Un program de animație grozav care a ținut copiii ocupați și fericiți pe tot parcursul evenimentului.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_017.jpg\" alt=\"Marius A.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Marius A.</h4>\n              <span class=\"apreciere-data-card\">Acum o lună</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Animatorul costumat în pirat a organizat o vânătoare de comori antrenantă pentru copii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_018.jpg\" alt=\"Adina B.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Adina B.</h4>\n              <span class=\"apreciere-data-card\">Acum 3 săptămâni</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Costumele animatorilor au fost curate, îngrijite și foarte fidele personajelor iubite de copii.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_019.jpg\" alt=\"Bogdan V.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Bogdan V.</h4>\n              <span class=\"apreciere-data-card\">Acum 2 săptămâni</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Ghirlandele din baloane organice au fost extrem de bine fixate și au rezistat foarte bine toată seara.\"</p>\n        </div>\n        <div class=\"apreciere-item-card\">\n          <div class=\"apreciere-head-card\">\n            <div class=\"apreciere-avatar-card\">\n              <img src=\"/images/avatars/avatar_020.jpg\" alt=\"Bianca C.\" width=\"44\" height=\"44\" />\n            </div>\n            <div class=\"apreciere-info-card\">\n              <h4 class=\"apreciere-nume-card\">Bianca C.</h4>\n              <span class=\"apreciere-data-card\">Acum o săptămână</span>\n            </div>\n            <div class=\"apreciere-status-card\" style=\"display: flex; align-items: center; gap: 4px; font-size: 0.75rem; color: #10b981; font-weight: 600; background: rgba(16, 185, 129, 0.08); padding: 4px 8px; border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.15);\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" width=\"12\" height=\"12\" stroke-width=\"2.5\">\n                <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13l4 4L19 7\" />\n              </svg>\n              <span>Verificat</span>\n            </div>\n          </div>\n          <p class=\"apreciere-text-card\">\"Recomand Kassia Events pentru punctualitate, energie pozitivă și animatori deosebiți!\"</p>\n        </div>\n    </div>\n  </div>\n</div>"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-22T00:37:50.402974+00:00",
+      "updated_at": "2026-06-22T00:37:50.402974+00:00"
+    },
+    {
+      "id": "6a88deb2-a6c3-4a33-9a2c-0311634936fa",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "content": {
+        "body": "Echipa Kassia se deplasează la locația aleasă de tine în Sector 1, cu organizare adaptată tipului de spațiu disponibil. Fie că petrecerea are loc acasă, într-un restaurant, la grădiniță, într-un spațiu de joacă sau într-o sală de evenimente din zone precum Primăverii, Dorobanți, Floreasca, Băneasa, Domenii sau Aviației, structura programului se adaptează spațiului și vârstei copiilor, astfel încât cei mici să rămână implicați pe parcursul programului de animație.",
+        "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+        "image_alt": "Deplasare animatori la locații în Sector 1 București",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-21T17:39:15.138597+00:00"
+    },
+    {
+      "id": "5e144c66-5d73-447f-a65a-7be7bc56fecb",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": null,
+      "content": {
+        "cta_url": "/animatori-petreceri-copii/",
+        "alt_text": "Animatori tematici",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp",
+        "subheading": "Animatori pregătiți cu activități adaptate specific pentru tematica evenimentului tău."
+      },
+      "order_index": 19,
+      "created_at": "2026-06-18T15:15:42.175028+00:00",
+      "updated_at": "2026-06-22T10:30:10.952091+00:00"
+    },
+    {
+      "id": "1ff2b4b8-267d-4738-aced-a700593f21e0",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": null,
+      "content": {
+        "cta_url": "/personaje-petreceri-copii-bucuresti/",
+        "alt_text": "Personaje petreceri copii",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp",
+        "subheading": "O gamă variată de personaje îndrăgite pentru a bucura copiii la orice eveniment."
+      },
+      "order_index": 18,
+      "created_at": "2026-06-18T15:15:42.175028+00:00",
+      "updated_at": "2026-06-23T14:19:09.93773+00:00"
+    },
+    {
+      "id": "be5eaec6-7daa-4f11-92d9-5f9b99dd88e4",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": null,
+      "content": {
+        "cta_url": "/animatori-cu-mascote-petreceri-copii-bucuresti/",
+        "alt_text": "Animatori cu mascote",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi activitățile",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp",
+        "subheading": "Un program antrenant care combină jocurile interactive cu o vizită surpriză a unei mascote."
+      },
+      "order_index": 20,
+      "created_at": "2026-06-18T15:15:42.175028+00:00",
+      "updated_at": "2026-06-19T06:12:41.398909+00:00"
+    },
+    {
+      "id": "55aa1627-ef3d-4c3e-8f19-33ab62ff8b54",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "content": {
+        "body": "Programul de animație poate fi adaptat pentru aniversări de copii, petreceri tematice, botezuri unde sunt invitați copii, petreceri la grădiniță, evenimente de familie sau petreceri organizate într-un spațiu de joacă. Indiferent de ocazie, prezența unui animator aduce echilibru evenimentului: părinții se pot bucura de socializare, în timp ce copiii participă la activități ghidate, potrivite vârstei și spațiului disponibil. Pentru o viziune de ansamblu asupra serviciilor noastre de animație din Capitală, poți vizita pagina <a href=\"/animatori-petreceri-copii/\">Animatori petreceri copii București</a>.",
+        "heading": "Pentru ce tipuri de petreceri este potrivit",
+        "image_alt": "Tipuri de evenimente cu animatori copii Sector 1",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-22T10:20:54.746582+00:00"
+    },
+    {
+      "id": "77cc3849-ae5f-6e5f-ab3f-55cd84bb0d76",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Completezi formularul nostru de contact sau ne trimiți un mesaj cu data, locația și numărul estimativ de copii invitați.",
+            "title": "Trimiți detaliile petrecerii"
+          },
+          {
+            "body": "Discutăm preferințele sărbătoritului, specificul spațiului ales și caracteristicile grupului de invitați.",
+            "title": "Stabilim vârsta copiilor, locația și tematica"
+          },
+          {
+            "body": "Stabilim mixul potrivit de jocuri, momente de mini-disco, pictură pe față sau alte activități dorite de cel mic.",
+            "title": "Alegem activitățile potrivite"
+          },
+          {
+            "body": "Definim desfășurarea programului pas cu pas pentru ca programul să fie clar, potrivit contextului și ușor de integrat în desfășurarea evenimentului.",
+            "title": "Pregătim structura programului pentru eveniment"
+          }
+        ],
+        "image_alt": "Echipa Kassia planificând programul de animație",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-21T07:13:17.273233+00:00"
+    },
+    {
+      "id": "88dd4950-bf6a-7f6f-bc4f-66de95cc1e87",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "cta_final",
+      "heading": "Planifică petrecerea copilului în Sector 1",
+      "content": {
+        "body": "Trimite detaliile evenimentului, iar echipa Kassia te ajută să stabilești activitățile potrivite pentru vârsta copiilor, locație și tematica petrecerii.",
+        "cta_url": "/contact/",
+        "heading": "Planifică petrecerea copilului în Sector 1",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea copilului în Sector 1 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-19T09:40:35.23898+00:00"
+    },
+    {
+      "id": "13321937-c24f-4bcd-a731-ebe4d24ec239",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 1",
+      "content": {
+        "body": "Structura programului se stabilește în funcție de vârsta copiilor, spațiul disponibil, tematica petrecerii și activitățile dorite. Pentru copiii de vârstă preșcolară, punem accentul pe jocuri muzicale simple, interacțiune blândă și povești interactive. Pentru copiii din clasele primare și școală gimnazială, dezvoltăm concursuri de echipă, ștafete antrenante și provocări adaptate dinamicii lor. Fiecare detaliu contează pentru a oferi o atmosferă în care toți copiii se simt incluși, motiv pentru care adaptăm constant ritmul activităților. Pentru detalii adiționale despre modul în care personalizăm programele, poți consulta secțiunea <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 1",
+        "image_alt": "Activități adaptate pe categorii de vârstă în Sector 1",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-21T17:39:15.020339+00:00"
+    },
+    {
+      "id": "7d39f3bb-6758-4ecf-ac26-b7b4a7cb5328",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "content": {
+        "body": "Rolul animatorului la o petrecere este de a capta atenția celor mici și de a-i ghida în activități dinamice. Acesta aduce recuzită de joc, propune momente de mișcare și oferă sprijin în coordonarea micilor invitați pe parcursul evenimentului. Prin activități interactive adaptate, copiii pot fi implicați într-o atmosferă relaxantă și primitoare. Acest lucru oferă părinților posibilitatea de a socializa în timp ce micuții participă la programe educative și recreative. Dacă doriți să discutați mai multe detalii despre organizare, ne puteți contacta prin pagina dedicată de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce face un animator la petrecerea copilului",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-19T18:36:20.829511+00:00"
+    },
+    {
+      "id": "61840254-5341-46ac-ae66-0aad6ab1de8f",
+      "page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "section_type": "service_card",
+      "heading": "Programe animatori copii",
+      "content": {
+        "cta_url": "/pachete-animatori-copii-bucuresti/",
+        "alt_text": "Programe animatori copii",
+        "category": "Animatori și activități pentru copii",
+        "cta_text": "Vezi programele",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp",
+        "subheading": "Vezi programele de animație și activitățile interactive care pot fi adaptate în funcție de vârsta copiilor, spațiu, tematică și detaliile evenimentului."
+      },
+      "order_index": 11,
+      "created_at": "2026-06-18T11:04:10.919751+00:00",
+      "updated_at": "2026-06-19T06:12:39.933343+00:00"
+    },
+    {
+      "id": "4e8fb3c2-9b02-409f-a0be-3229ed3567fd",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Organizăm programe de animație pentru petreceri de copii în Sector 1, cu jocuri interactive, activități creative, mascote și momente adaptate vârstei copiilor, spațiului și tematicii evenimentului.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori pentru petreceri de copii în Sector 1 Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-19T09:40:34.231639+00:00"
+    },
+    {
+      "id": "17493caa-ab66-46f5-85f1-96dd35a2e3b7",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "content": {
+        "body": "Animatorul ghidează copiii prin jocuri, dansuri, momente creative și activități de grup, astfel încât petrecerea să aibă ritm, energie și interacțiune. Programul poate include momente de poveste, jocuri cu reguli simple, concursuri fizice și momente artistice. Fiecare moment este completat de servicii îndrăgite precum sesiuni vesele de <a href=\"/pictura-pe-fata-copii-bucuresti/\">pictură pe față</a> și creații inedite prin <a href=\"/modelaj-baloane-copii-bucuresti/\">modelaj baloane pentru copii</a>, oferind o experiență variată care îi ține pe copii implicați activ pe parcursul programului de animație.",
+        "heading": "Ce face un animator la petrecerea copilului",
+        "image_alt": "Program activități distractive cu animatori în Sector 1",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-19T09:40:34.569538+00:00"
+    },
+    {
+      "id": "e1f8ba36-0568-450f-a38e-09dcba821bc1",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Activitățile cu animatori aduc energie și destindere la petrecerile celor mici, transformând timpul de joacă într-o experiență plină de culoare. Structurat în mod echilibrat, programul combină jocurile dinamice cu atelierele de creație, oferind un cadru de socializare plăcut și adecvat pentru copii.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori pentru petreceri de copii în București și Ilfov",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-19T17:47:28.628211+00:00",
+      "updated_at": "2026-06-22T00:37:49.31158+00:00"
+    },
+    {
+      "id": "d4b15f67-4567-789a-bcde-f0123456789a",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "Cum se desfășoară un program de animație pentru copii",
+      "content": {
+        "body": "<p>Pentru a menține implicarea celor mici, activitățile sunt structurate pe etape clare, adaptate la ritmul copiilor:</p>\n<ol>\n  <li><strong>Acomodarea și familiarizarea:</strong> Întâlnirea inițială și dialogurile de acomodare cu personajele de poveste clădesc încrederea celor mici.</li>\n  <li><strong>Jocuri dinamice și concursuri:</strong> Provocări de grup și jocuri active, adaptate la spațiul evenimentului și la vârsta invitaților.</li>\n  <li><strong>Pictură pe față și modelaj de baloane:</strong> Momente creative unde copiii primesc transformări tematice și figurine din baloane colorate.</li>\n  <li><strong>Mini-disco și dansuri colective:</strong> Reprize muzicale vesele care susțin buna dispoziție a celor mici.</li>\n  <li><strong>Momentul festiv și fotografiile:</strong> Coordonarea grupului la servirea tortului și realizarea de fotografii alături de personaje.</li>\n</ol>",
+        "heading": "Cum se desfășoară un program de animație pentru copii",
+        "image_alt": "Program de animație pentru copii cu jocuri dinamice și dans",
+        "image_url": "/images/animatori/desfasurare-program-animatie-copii.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-19T17:47:30.795368+00:00",
+      "updated_at": "2026-06-23T11:45:17.173814+00:00"
+    },
+    {
+      "id": "a1d82f34-1234-4567-89ab-cdef01234567",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "activities_grid",
+      "heading": "Activități tematice și divertisment interactiv",
+      "content": {
+        "cards": [
+          {
+            "body": "Ștafete distractive, concursuri de grup și provocări pline de haz care încurajează mișcarea și spiritul de echipă.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri interactive pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Transformări inedite în personaje îndrăgite, realizate cu culori potrivite pentru copii și ușor de curățat. Detaliile specifice sunt disponibile pentru pictura pe față.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Figurine colorate sub formă de flori, săbii sau animăluțe, modelate pe loc și care pot fi oferite copiilor ca amintire. Detalii sunt disponibile pe pagina dedicată pentru <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj din baloane",
+            "image_alt": "Figurine din baloane modelate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii simple, muzică veselă și mișcări accesibile care susțin implicarea micilor dansatori. Detaliile specifice sunt disponibile pentru mini-disco.",
+            "title": "Mini-disco și dansuri",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Apariții simpatice ale personajelor îndrăgite din desene animate, oferind momente potrivite pentru fotografii. Detalii despre personaje găsiți pe pagina de <a href=\"/animatori-cu-mascote-petreceri-copii-bucuresti/\">Mascote pentru petreceri</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă pentru petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități creative de crafting și modelaj manual, unde copiii își pot dezvolta imaginația și pot realiza mici decorațiuni tematice.",
+            "title": "Ateliere practice",
+            "image_alt": "Atelier de creație pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ]
+      },
+      "order_index": 2,
+      "created_at": "2026-06-19T17:47:29.638906+00:00",
+      "updated_at": "2026-06-21T22:37:49.445824+00:00"
+    },
+    {
+      "id": "b2e93f45-2345-5678-9abc-def012345678",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "Cum alegi personajele potrivite în funcție de vârstă",
+      "content": {
+        "body": "Alegerea personajelor potrivite reprezintă cheia unei petreceri reușite, fiind important să ținem cont de profilul grupului. Pentru copiii foarte mici sau mai timizi, se recomandă personaje blânde, o prezență discretă și activități relaxante bazate pe povești simple. Pentru copiii plini de energie, supereroii sau personajele dinamice pot susține ritmul prin concursuri active. De asemenea, tematica trebuie adaptată spațiului de desfășurare: jocurile în aer liber permit o desfășurare mai amplă, în timp ce spațiile restrânse necesită activități de atenție și crafting. Detalii despre varietatea personajelor găsiți pe pagina dedicată pentru <a href=\"/animatori-cu-mascote-petreceri-copii-bucuresti/\">Mascote pentru petreceri</a>.",
+        "heading": "Cum alegi personajele potrivite în funcție de vârstă",
+        "image_alt": "Personaje animatoare alese în funcție de vârsta copiilor",
+        "image_url": "/images/animatori/personaje-animatori-copii-varste.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-19T17:47:29.968655+00:00",
+      "updated_at": "2026-06-23T11:45:16.675245+00:00"
+    },
+    {
+      "id": "c3a04f56-3456-6789-abcd-ef0123456789",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "Tipuri de evenimente unde animatorii pot susține programul copiilor",
+      "content": {
+        "body": "Activitățile coordonate de animatori se integrează ușor în diverse contexte familiale sau educaționale. La aniversări, aceștia ajută la menținerea energiei grupului pe parcursul jocurilor. La botezuri sau nunți, prezența lor le oferă copiilor activități dedicate, aducând un plus de confort părinților invitați. De asemenea, animatorii organizează programe dedicate în grădinițe sau la serbări școlare, adaptându-se cu ușurință la evenimente private desfășurate acasă sau în locații special amenajate.",
+        "heading": "Tipuri de evenimente unde animatorii pot susține programul copiilor",
+        "image_alt": "Animator pentru copii la eveniment privat în București și Ilfov",
+        "image_url": "/images/animatori/animatori-evenimente-private-copii.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-19T17:47:30.265047+00:00",
+      "updated_at": "2026-06-23T11:45:16.919077+00:00"
+    },
+    {
+      "id": "e5c26f78-5678-89ab-cdef-0123456789ab",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "Servicii conexe care completează atmosfera de petrecere",
+      "content": {
+        "body": "Pentru o experiență completă, activitățile de animație pot fi însoțite de elemente decorative și divertisment diversificat. Decorurile realizate din baloane modelate sau panourile tematice oferă un cadru potrivit pentru amintiri. De asemenea, jocul cu pinata, dansurile coordonate din cadrul mini-disco sau apariția mascotelor preferate completează atmosfera. Aceste detalii conexe sunt stabilite în funcție de specificul evenimentului și preferințele copiilor.",
+        "heading": "Servicii conexe care completează atmosfera de petrecere",
+        "image_alt": "Pictură pe față și modelaj de baloane la petrecere de copii",
+        "image_url": "/images/animatori/servicii-conexe-pictura-fata-baloane.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-19T17:47:30.984388+00:00",
+      "updated_at": "2026-06-23T11:45:17.339121+00:00"
+    },
+    {
+      "id": "88be89eb-a254-4fb8-9e1c-a6040d437fd6",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 2",
+      "content": {
+        "body": "Planificarea programului de animație ține cont de profilul grupului de copii, de specificul spațiului ales din Sectorul 2 și de dorințele sărbătoritului. De la petreceri desfășurate în apartamente, până la activități în spații din Colentina, Obor, Pantelimon sau Tei, echipa adaptează activitățile pentru a susține o atmosferă caldă. Se stabilesc din timp tipurile de jocuri, melodiile pentru mini-disco și materialele pregătite, facilitând integrarea în programul general al evenimentului.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 2",
+        "image_alt": "Planificare program animatori copii Sector 2",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-19T18:36:20.829511+00:00"
+    },
+    {
+      "id": "bc950de8-02c0-49ee-822e-7d8bbd12d799",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "content": {
+        "body": "Serviciile de animație pot fi incluse într-o multitudine de evenimente de familie. Fie că organizați o aniversare, o petrecere tematică sau o zi de naștere, prezența animatorilor ajută la desfășurarea activităților pentru copii. De asemenea, aceștia sunt solicitați pentru serbări școlare, activități unde părinții participă însoțiți de copii sau petreceri la grădinițele din Sectorul 2, oferind celor mici activități organizate într-un mod prietenos.",
+        "heading": "Pentru ce tipuri de petreceri este potrivit",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-19T18:36:20.829511+00:00"
+    },
+    {
+      "id": "6b6a0903-4a2b-4f2e-9745-594d4f5f77a7",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "cta_final",
+      "heading": "Planifică petrecerea copilului în Sector 2",
+      "content": {
+        "body": "Trimite-ne detaliile despre eveniment, iar echipa Kassia te va ajuta să organizezi activitățile în funcție de vârsta copiilor, locație și tematica aleasă.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 2 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-19T18:36:20.829511+00:00"
+    },
+    {
+      "id": "03b94f09-fe17-4e6d-8694-611b1ab33444",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Ștafete, jocuri de grup și provocări distractive care încurajează comunicarea și colaborarea.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate în formă de flori, săbii sau animăluțe, oferite micilor invitați la finalul programului. Mai multe detalii pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii adaptate pe ritmuri vesele, gândite pentru a susține mișcarea și interacțiunea dintre copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Prezența mascotelor simpatice din desene animate, oferind momente potrivite pentru fotografii. Detalii despre personaje găsiți pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, modelaj și creație manuală, unde imaginația celor mici este susținută prin realizarea unor mici decorațiuni tematice.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care pot fi incluse în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-21T18:08:11.850841+00:00"
+    },
+    {
+      "id": "a3ea587f-a8c9-412d-8e0e-ff3e83f91370",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 2. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-23T14:35:30.064785+00:00"
+    },
+    {
+      "id": "3ec02068-6175-4edb-a11c-5767af05b960",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne trimiți data evenimentului, locația din Sectorul 2 și numărul estimat de copii invitați prin formularul nostru.",
+            "title": "Preluarea detaliilor inițiale"
+          },
+          {
+            "body": "Stabilim particularitățile grupului și preferințele sărbătoritului pentru a alege tematica potrivită.",
+            "title": "Discuția privind vârsta și tematica"
+          },
+          {
+            "body": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco).",
+            "title": "Mixul de activități creative și dinamice"
+          },
+          {
+            "body": "Finalizăm scenariul și ora de începere pentru a pregăti structura programului în funcție de detaliile evenimentului.",
+            "title": "Stabilirea detaliilor logistice"
+          }
+        ],
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-20T14:44:47.92117+00:00"
+    },
+    {
+      "id": "a0521fbd-ae70-4f34-a7d0-df993b743741",
+      "page_id": "f1e7d23a-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "content": {
+        "body": "Fiecare tip de locație din Sectorul 2 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, <a href=\"/modelaj-baloane-copii-bucuresti/\">modelaj de baloane</a>, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 2, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Pantelimon, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+        "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 2",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-19T18:36:20.829511+00:00",
+      "updated_at": "2026-06-20T15:04:43.91621+00:00"
+    },
+    {
+      "id": "589ba18c-6758-4425-a7de-f3b84d7b2bf0",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "content": {
+        "body": "Rolul animatorului la o petrecere este de a capta atenția celor mici și de a-i ghida în activități dinamice. Acesta aduce recuzită de joc, propune momente de mișcare și oferă sprijin în coordonarea micilor invitați pe parcursul evenimentului. Prin activități interactive adaptate, copiii pot fi implicați într-o atmosferă relaxantă și primitoare. Acest lucru oferă părinților posibilitatea de a socializa în timp ce micuții participă la programe educative și recreative. Dacă doriți să discutați mai multe detalii despre organizare, ne puteți contacta prin pagina dedicată de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce face un animator la petrecerea copilului",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-19T19:02:14.665556+00:00"
+    },
+    {
+      "id": "67aaa31e-540b-4cd2-afe2-122a9426b982",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 3",
+      "content": {
+        "body": "Planificarea programului de animație ține cont de profilul grupului de copii, de specificul spațiului ales din Sectorul 3 și de dorințele sărbătoritului. De la petreceri desfășurate în apartamente, până la activități în spații din Titan, Vitan, Dristor sau Balta Albă, echipa adaptează activitățile pentru a susține o atmosferă caldă. Se stabilesc din timp tipurile de jocuri, melodiile pentru mini-disco și materialele pregătite, facilitând integrarea în programul general al evenimentului.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 3",
+        "image_alt": "Planificare program animatori copii Sector 3",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-19T19:02:14.665556+00:00"
+    },
+    {
+      "id": "363d8e0d-2af4-49cc-9d1f-1746f22d9fbc",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "content": {
+        "body": "Serviciile de animație pot fi incluse într-o multitudine de evenimente de familie. Fie că organizați o aniversare, o petrecere tematică sau o zi de naștere, prezența animatorilor ajută la desfășurarea activităților pentru copii. De asemenea, aceștia sunt solicitați pentru serbări școlare, activități unde părinții participă însoțiți de copii sau petreceri la grădinițele din Sectorul 3, oferind celor mici activități organizate într-un mod prietenos.",
+        "heading": "Pentru ce tipuri de petreceri este potrivit",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-19T19:02:14.665556+00:00"
+    },
+    {
+      "id": "ba8fd096-b56e-4054-a6be-21d54d64efb4",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "cta_final",
+      "heading": "Planifică petrecerea copilului în Sector 3",
+      "content": {
+        "body": "Trimite-ne detaliile despre eveniment, iar echipa Kassia te va ajuta să organizezi activitățile în funcție de vârsta copiilor, locație și tematica aleasă.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 3 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-19T19:02:14.665556+00:00"
+    },
+    {
+      "id": "a0425785-549b-4034-94f3-6a23497eebfd",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 3. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-21T18:08:12.220382+00:00"
+    },
+    {
+      "id": "d9d22056-48d8-490e-a1a5-f6bad4292eeb",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne trimiți data evenimentului, locația din Sectorul 3 și numărul estimat de copii invitați prin formularul nostru.",
+            "title": "Preluarea detaliilor inițiale"
+          },
+          {
+            "body": "Stabilim particularitățile grupului și preferințele sărbătoritului pentru a alege tematica potrivită.",
+            "title": "Discuția privind vârsta și tematica"
+          },
+          {
+            "body": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco).",
+            "title": "Mixul de activități creative și dinamice"
+          },
+          {
+            "body": "Finalizăm scenariul și ora de începere pentru a pregăti structura programului în funcție de detaliile evenimentului.",
+            "title": "Stabilirea detaliilor logistice"
+          }
+        ],
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-20T14:44:48.383651+00:00"
+    },
+    {
+      "id": "640826af-4dd9-4b3e-9e28-f94237a6dd68",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "service_details",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "content": {
+        "body": "Rolul animatorului la o petrecere este de a capta atenția celor mici și de a-i ghida în activități dinamice. Acesta aduce recuzită de joc, propune momente de mișcare și oferă sprijin în coordonarea micilor invitați pe parcursul evenimentului. Prin activități interactive adaptate, copiii pot fi implicați într-o atmosferă relaxantă și primitoare. Acest lucru oferă părinților posibilitatea de a socializa în timp ce micuții participă la programe educative și recreative. Dacă doriți să discutați mai multe detalii despre organizare, ne puteți contacta prin pagina dedicată de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce face un animator la petrecerea copilului",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T04:50:14.175109+00:00"
+    },
+    {
+      "id": "f49b1ae1-0b2b-4365-800f-8196a23839c3",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 4",
+      "content": {
+        "body": "Planificarea programului de animație ține cont de profilul grupului de copii, de specificul spațiului ales din Sectorul 4 și de dorințele sărbătoritului. De la petreceri desfășurate în apartamente, până la activități în spații din Berceni, Tineretului, Timpuri Noi sau Văcărești, echipa adaptează activitățile pentru a susține o atmosferă caldă. Se stabilesc din timp tipurile de jocuri, melodiile pentru mini-disco și materialele pregătite, facilitând integrarea în programul general al evenimentului.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 4",
+        "image_alt": "Planificare program animatori copii Sector 4",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T04:50:14.175109+00:00"
+    },
+    {
+      "id": "7ea3042f-dd71-4461-aded-f457b0d1147a",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "service_details",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "content": {
+        "body": "Serviciile de animație pot fi incluse într-o multitudine de evenimente de familie. Fie că organizați o aniversare, o petrecere tematică sau o zi de naștere, prezența animatorilor ajută la desfășurarea activităților pentru copii. De asemenea, aceștia sunt solicitați pentru serbări școlare, activități unde părinții participă însoțiți de copii sau petreceri la grădinițele din Sectorul 4, oferind celor mici activități organizate într-un mod prietenos.",
+        "heading": "Pentru ce tipuri de petreceri este potrivit",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T04:50:14.175109+00:00"
+    },
+    {
+      "id": "d3e62a82-d340-4454-badf-15f6148de481",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "cta_final",
+      "heading": "Planifică petrecerea copilului în Sector 4",
+      "content": {
+        "body": "Trimite-ne detaliile despre eveniment, iar echipa Kassia te va ajuta să organizezi activitățile în funcție de vârsta copiilor, locație și tematica aleasă.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 4 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T04:50:14.175109+00:00"
+    },
+    {
+      "id": "33201e4f-f15a-4030-88fa-485bbe3eed2f",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 4. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-21T18:39:03.729078+00:00"
+    },
+    {
+      "id": "fcad532c-ec71-43f7-92a3-2b1443deeba7",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne trimiți data evenimentului, locația din Sectorul 4 și numărul estimat de copii invitați prin formularul nostru.",
+            "title": "Preluarea detaliilor inițiale"
+          },
+          {
+            "body": "Stabilim particularitățile grupului și preferințele sărbătoritului pentru a alege tematica potrivită.",
+            "title": "Discuția privind vârsta și tematica"
+          },
+          {
+            "body": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco).",
+            "title": "Mixul de activități creative și dinamice"
+          },
+          {
+            "body": "Finalizăm scenariul și ora de începere pentru a pregăti structura programului în funcție de detaliile evenimentului.",
+            "title": "Stabilirea detaliilor logistice"
+          }
+        ],
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T14:44:48.791392+00:00"
+    },
+    {
+      "id": "48a644c2-1e15-489d-9553-07afed5f095e",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "service_details",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "content": {
+        "body": "Rolul animatorului la o petrecere este de a capta atenția celor mici și de a-i ghida în activități dinamice. Acesta aduce recuzită de joc, propune momente de mișcare și oferă sprijin în coordonarea micilor invitați pe parcursul evenimentului. Prin activități interactive adaptate, copiii pot fi implicați într-o atmosferă relaxantă și primitoare. Acest lucru oferă părinților posibilitatea de a socializa în timp ce micuții participă la programe educative și recreative. Dacă doriți să discutați mai multe detalii despre organizare, ne puteți contacta prin pagina dedicată de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce face un animator la petrecerea copilului",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T05:24:52.791861+00:00"
+    },
+    {
+      "id": "78e984a0-b166-4407-88a7-0efb1fb1c049",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 5",
+      "content": {
+        "body": "Planificarea programului de animație ține cont de profilul grupului de copii, de specificul spațiului ales din Sectorul 5 și de dorințele sărbătoritului. De la petreceri desfășurate în apartamente, până la activități în spații din Cotroceni, Rahova, Sebastian sau 13 Septembrie, echipa adaptează activitățile pentru a susține o atmosferă caldă. Se stabilesc din timp tipurile de jocuri, melodiile pentru mini-disco și materialele pregătite, facilitând integrarea în programul general al evenimentului.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 5",
+        "image_alt": "Planificare program animatori copii Sector 5",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T05:24:52.791861+00:00"
+    },
+    {
+      "id": "5e782309-dc95-44fb-a306-d3bc53d5e639",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "service_details",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "content": {
+        "body": "Serviciile de animație pot fi incluse într-o multitudine de evenimente de familie. Fie că organizați o aniversare, o petrecere tematică sau o zi de naștere, prezența animatorilor ajută la desfășurarea activităților pentru copii. De asemenea, aceștia sunt solicitați pentru serbări școlare, activități unde părinții participă însoțiți de copii sau petreceri la grădinițele din Sectorul 5, oferind celor mici activități organizate într-un mod prietenos.",
+        "heading": "Pentru ce tipuri de petreceri este potrivit",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T05:24:52.791861+00:00"
+    },
+    {
+      "id": "04a544cf-3a86-48e3-877a-dd30ec08f44a",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "cta_final",
+      "heading": "Planifică petrecerea copilului în Sector 5",
+      "content": {
+        "body": "Trimite-ne detaliile despre eveniment, iar echipa Kassia te va ajuta să organizezi activitățile în funcție de vârsta copiilor, locație și tematica aleasă.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 5 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T05:24:52.791861+00:00"
+    },
+    {
+      "id": "696a88ae-168a-413d-bd27-4b4f0d4eaf59",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne trimiți data evenimentului, locația din Sectorul 5 și numărul estimat de copii invitați prin formularul nostru.",
+            "title": "Preluarea detaliilor inițiale"
+          },
+          {
+            "body": "Stabilim particularitățile grupului și preferințele sărbătoritului pentru a alege tematica potrivită.",
+            "title": "Discuția privind vârsta și tematica"
+          },
+          {
+            "body": "Configurăm activitățile (jocuri interactive, pictură pe față, baloane modelate sau mini-disco).",
+            "title": "Mixul de activități creative și dinamice"
+          },
+          {
+            "body": "Finalizăm scenariul și ora de începere pentru a pregăti structura programului în funcție de detaliile evenimentului.",
+            "title": "Stabilirea detaliilor logistice"
+          }
+        ],
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T14:44:49.218663+00:00"
+    },
+    {
+      "id": "68ab8528-f8a1-4267-852d-c41a2ac5799a",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "service_details",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "content": {
+        "body": "Fiecare tip de locație din Sectorul 5 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe <a href=\"/jocuri-interactive-copii-bucuresti/\">jocuri interactive</a>, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 5 (cum ar fi cele din zonele Alexandriei, Sălaj sau Panduri), se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+        "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 5",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-20T15:04:44.198174+00:00"
+    },
+    {
+      "id": "50d01a0e-86af-41ad-a2c7-9d0ccc81f683",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+      "content": {
+        "body": "Animatorul ajută grupul de copii să intre mai ușor în ritmul petrecerii, prin jocuri, momente de mișcare, activități creative și interacțiuni adaptate vârstei. În funcție de spațiul ales în Sector 6, programul poate fi construit mai dinamic sau mai așezat, astfel încât copiii să participe natural, fără presiune. Recuzita de joc, muzica și activitățile sunt pregătite în funcție de tematica evenimentului și de numărul de invitați. Pentru organizare, poți trimite detaliile prin pagina de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.02146+00:00"
+    },
+    {
+      "id": "b7b38c9b-41fa-461d-99c7-bb73915307d0",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+      "content": {
+        "body": "Programul cu animatori poate fi integrat în aniversări, zile de naștere, petreceri tematice, întâlniri de familie, serbări sau evenimente organizate pentru grupuri de copii. Pentru fiecare context, activitățile se aleg în funcție de vârsta participanților, spațiul disponibil și felul în care părinții doresc să se desfășoare petrecerea. În Sector 6, aceeași structură poate fi adaptată diferit pentru o petrecere acasă, o întâlnire într-un restaurant sau o activitate într-un spațiu de joacă.",
+        "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.523504+00:00"
+    },
+    {
+      "id": "e099a715-6a84-4f29-8ce8-220a43cacf77",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+      "content": {
+        "body": "Sectorul 6 include contexte diferite de organizare, de la petreceri în apartamente și spații de joacă, până la restaurante, grădinițe sau locații private. Pentru Drumul Taberei, Militari, Crângași, Giulești, Ghencea, Regie și Grozăvești, structura programului se stabilește în funcție de spațiul disponibil, vârsta copiilor și ritmul evenimentului. Într-un spațiu restrâns, accentul poate fi pus pe jocuri de atenție, pictură pe față, modelaj de baloane și activități creative. Într-un spațiu mai generos, programul poate include mai multă mișcare, dans și jocuri de grup.",
+        "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+        "image_alt": "Planificare program animatori copii Sector 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.311019+00:00"
+    },
+    {
+      "id": "427b403f-b418-48eb-b156-87f5febf8d2b",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "process_steps",
+      "heading": "Cum pregătim programul pentru petrecere",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne transmiți data, zona din Sector 6, tipul locației și numărul estimat de copii invitați.",
+            "title": "Primim detaliile evenimentului"
+          },
+          {
+            "body": "Discutăm vârsta copiilor, tematica preferată și felul în care sărbătoritul se simte cel mai bine într-un grup.",
+            "title": "Stabilim profilul grupului"
+          },
+          {
+            "body": "Configurăm combinația de jocuri, pictură pe față, modelaj de baloane, mini-disco, mascote sau activități creative.",
+            "title": "Alegem activitățile potrivite"
+          },
+          {
+            "body": "Adaptăm ordinea momentelor în funcție de spațiul disponibil, accesul în locație și ritmul general al petrecerii.",
+            "title": "Așezăm programul în contextul locației"
+          }
+        ],
+        "heading": "Cum pregătim programul pentru petrecere",
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.742443+00:00"
+    },
+    {
+      "id": "ed05cd53-08b1-476f-a745-279c0a15941b",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "cta_final",
+      "heading": "Pregătește petrecerea copilului în Sector 6",
+      "content": {
+        "body": "Trimite detaliile despre eveniment, zona din Sector 6 și vârsta copiilor, iar Kassia poate propune o structură de activități adaptată spațiului și tematicii alese.",
+        "cta_url": "/contact/",
+        "heading": "Pregătește petrecerea copilului în Sector 6",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 6 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.847009+00:00"
+    },
+    {
+      "id": "44e3ce70-b545-4306-b473-826a3594144f",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Ștafete, jocuri de grup și provocări distractive care încurajează comunicarea și colaborarea.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate în formă de flori, săbii sau animăluțe, oferite micilor invitați la finalul programului. Mai multe detalii pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii adaptate pe ritmuri vesele, gândite pentru a susține mișcarea și interacțiunea dintre copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Prezența mascotelor simpatice din desene animate, oferind momente potrivite pentru fotografii. Detalii despre personaje găsiți pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, modelaj și creație manuală, unde imaginația celor mici este susținută prin realizarea unor mici decorațiuni tematice.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care pot fi incluse în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-21T18:39:03.58004+00:00"
+    },
+    {
+      "id": "f696d2bb-62e4-461c-95a4-8e08aa906439",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Programe dinamice cu ștafete, jocuri de echipă și probe distractive adaptate vârstei copiilor și spațiului disponibil.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri interactive de echipă la petreceri pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Întâlniri vesele cu personaje îndrăgite de cei mici, care aduc un plus de culoare și momente potrivite atmosferei petrecerii pentru invitați.",
+            "title": "Mascote și personaje",
+            "image_alt": "Mascote și personaje din desene animate pentru aniversări",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Transformări în desene colorate și personaje îndrăgite cu materiale potrivite pentru copii, realizate rapid.",
+            "title": "Pictură pe față",
+            "image_alt": "Modele colorate de pictură pe față pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate rapid în formă de sabie, animăluțe, flori sau inimi, oferite fiecărui copil ca amintire de la petrecere.",
+            "title": "Modelaj din baloane",
+            "image_alt": "Figurine obținute prin modelaj din baloane",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii simple pe ritmuri vesele, muzică antrenantă și momente pline de mișcare care implică toți copiii în dans.",
+            "title": "Dansuri și mini-disco",
+            "image_alt": "Program de dansuri și mini-disco pentru grupuri de copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Ateliere practice unde copiii pot realiza decorațiuni, desene tematice sau accesorii pe care le pot lua apoi acasă.",
+            "title": "Activități creative",
+            "image_alt": "Ateliere creative și activități practice pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ]
+      },
+      "order_index": 2,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-21T07:13:16.915694+00:00"
+    },
+    {
+      "id": "2c9f2b82-69ca-41ed-975d-e8d1132af81c",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Ștafete, jocuri de grup și provocări distractive care încurajează comunicarea și colaborarea.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate în formă de flori, săbii sau animăluțe, oferite micilor invitați la finalul programului. Mai multe detalii pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii adaptate pe ritmuri vesele, gândite pentru a susține mișcarea și interacțiunea dintre copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Prezența mascotelor simpatice din desene animate, oferind momente potrivite pentru fotografii. Detalii despre personaje găsiți pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, modelaj și creație manuală, unde imaginația celor mici este susținută prin realizarea unor mici decorațiuni tematice.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care pot fi incluse în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-21T18:08:12.055228+00:00"
+    },
+    {
+      "id": "dbe9c96a-f660-48be-92c9-d14dc9267979",
+      "page_id": "2f7a01d4-839f-4375-8022-de54ad9fa404",
+      "section_type": "service_details",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "content": {
+        "body": "Fiecare tip de locație din Sectorul 4 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe jocuri statice, modelaj de baloane, pictură pe față și <a href=\"/ateliere-creative-copii-bucuresti/\">ateliere creative</a>. La restaurante, terase sau spații deschise din Sectorul 4, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Olteniței sau Apărătorii Patriei, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+        "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 4",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-20T04:50:14.175109+00:00",
+      "updated_at": "2026-06-20T15:04:44.113306+00:00"
+    },
+    {
+      "id": "f7595ad1-7497-44dd-9309-3c4ea6821d02",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Ștafete, jocuri de grup și provocări distractive care încurajează comunicarea și colaborarea.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Transformări în personaje îndrăgite, realizate cu materiale potrivite pentru copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate în formă de flori, săbii sau animăluțe, oferite micilor invitați la finalul programului. Mai multe detalii pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii adaptate pe ritmuri vesele, gândite pentru a susține mișcarea și interacțiunea dintre copii. Mai multe detalii găsiți pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Prezența mascotelor simpatice din desene animate, oferind momente potrivite pentru fotografii. Detalii despre personaje găsiți pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, modelaj și creație manuală, unde imaginația celor mici este susținută prin realizarea unor mici decorațiuni tematice.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care pot fi incluse în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-21T18:39:03.853589+00:00"
+    },
+    {
+      "id": "4497cbf5-7439-4eb9-85bb-c3fa6acbbb7d",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "activities_grid",
+      "heading": "Activități care se pot integra în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Jocuri de echipă, ștafete ușoare și probe de atenție, gândite pentru grupuri de copii cu energie diferită și pentru spațiul disponibil la petrecere.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Modele inspirate din personaje, animale sau teme colorate, realizate cu materiale potrivite pentru copii. Mai multe detalii găsești pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">Pictură pe față</a>.",
+            "title": "Pictură pe față",
+            "image_alt": "Pictură pe față cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Figurine din baloane, precum flori, săbii sau animăluțe, pregătite ca moment creativ în program. Mai multe detalii găsești pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Dansuri ghidate, mișcări simple și momente muzicale care ajută copiii să participe împreună, indiferent de nivelul lor de energie. Mai multe detalii găsești pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Mascotele pot intra în program pentru întâmpinare, fotografii și interacțiuni scurte cu cei mici. Mai multe detalii despre personaje găsești pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, lucru manual și creație tematică, potrivite pentru momente mai liniștite în cadrul petrecerii.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care se pot integra în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.186925+00:00"
+    },
+    {
+      "id": "34d37618-377f-4ea8-85fb-e5633bbf3d7a",
+      "page_id": "e3d23a4b-c1a7-4c92-b4ff-5716df63309a",
+      "section_type": "service_details",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "content": {
+        "body": "Fiecare tip de locație din Sectorul 3 implică anumite adaptări logistice. Într-un apartament sau spațiu mai restrâns, animatorii se concentrează pe <a href=\"/jocuri-interactive-copii-bucuresti/\">jocuri interactive</a>, modelaj de baloane, pictură pe față și ateliere creative. La restaurante, terase sau spații deschise din Sectorul 3, se pot organiza activități de mișcare, jocuri de grup și dansuri. Pentru serbări în grădinițe sau petreceri în spații de joacă din Titan sau Sălăjan, coordonarea se face în colaborare cu personalul locației, adaptând programul la regulile și orarul specific.",
+        "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 3",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-19T19:02:14.665556+00:00",
+      "updated_at": "2026-06-20T15:04:44.004206+00:00"
+    },
+    {
+      "id": "c6de0b47-5fdb-4d5b-a10b-191c036585c1",
+      "page_id": "5f8a01d5-840f-4476-8033-de65ad9fa505",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, dinamica pozitivă și interacțiunea caldă. Programele noastre se stabilesc în funcție de numărul de copii și de particularitățile locației din Sectorul 5. Materialele folosite pentru pictură pe față sunt potrivite pentru pielea copiilor, iar recuzita de joc este igienizată periodic. În plus, puteți asocia programul cu servicii conexe precum decoruri tematice de ghirlande din baloane, disponibile prin pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-20T05:24:52.791861+00:00",
+      "updated_at": "2026-06-21T18:39:04.010729+00:00"
+    },
+    {
+      "id": "66bb2738-fd4e-5d4f-9a2f-44bc73aa9c65",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe activități potrivite vârstei, interacțiune naturală cu cei mici și o structură de program adaptată evenimentului. Spre deosebire de alte servicii, nu promovăm variante fixe afișate, ci programul se stabilește în funcție de detaliile evenimentului tău. De la selecția jocurilor până la ritmul dansurilor, fiecare pas este discutat în prealabil pentru a evita momentele plictisitoare sau obositoare. Pentru a adăuga un element interactiv, poți integra în program și <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote pentru petreceri copii</a>, aducând bucuria personajelor preferate direct în fața micilor invitați.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Animator Kassia zâmbind la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-21T07:13:17.09185+00:00"
+    },
+    {
+      "id": "7c52cd91-7423-483e-b316-a745230771f6",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Petreceri pentru copii în Sector 6, cu jocuri de grup, personaje tematice și activități adaptate pentru spații din Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:44.880855+00:00"
+    },
+    {
+      "id": "466b6039-f616-42c0-baee-ac9b0d81416a",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+      "content": {
+        "body": "Pentru petrecerile din Sector 6, organizarea depinde mult de tipul locației. În apartamente sau camere mai mici, activitățile sunt alese astfel încât copiii să poată participa fără aglomerație. În restaurante, terase sau spații de joacă, programul poate fi împărțit între momente de mișcare, dans, jocuri de grup și activități creative. Pentru evenimente în grădinițe sau spații educaționale, detaliile se stabilesc în funcție de regulile locației și de modul în care copiii sunt deja obișnuiți să interacționeze. În zone precum Ghencea, Regie sau Grozăvești, verificarea accesului în locație și a spațiului disponibil ajută la pregătirea unui program mai bine așezat.",
+        "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.415139+00:00"
+    },
+    {
+      "id": "d10eeaa0-4c7b-4e42-b296-301eb577d1cd",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, pe comunicare clară cu părinții și pe alegerea activităților în funcție de grup. Înainte de eveniment, discutăm zona din Sector 6, tipul locației, vârstele copiilor și tematica preferată. Materialele pentru pictură pe față sunt potrivite pentru copii, iar recuzita de joc este igienizată periodic. Programul poate fi completat cu decoruri tematice din baloane, prezentate pe pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-21T20:08:45.626033+00:00"
+    },
+    {
+      "id": "a7e48fa0-789a-a123-b456-c789d0123456",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "cta_final",
+      "heading": "Planifică activitățile pentru petrecerea copilului",
+      "content": {
+        "body": "Ne puteți transmite detaliile evenimentului, cum ar fi data, categoriile de vârstă ale invitaților și tematica pe care o doriți, iar noi vă vom ajuta să structurați programul adecvat de joacă. Dacă doriți informații specifice pentru o anumită zonă, puteți accesa paginile noastre destinate comunităților locale, cum sunt cele pentru Animatori petreceri copii București sau <a href=\"/animatori-petreceri-copii-sector-1/\">Animatori petreceri copii Sector 1</a>.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Formular de contact pentru petrecerea copilului",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 10,
+      "created_at": "2026-06-19T17:47:31.499385+00:00",
+      "updated_at": "2026-06-22T10:20:54.832736+00:00"
+    },
+    {
+      "id": "f6d37f89-6789-9abc-def0-123456789abc",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "process_steps",
+      "heading": "Ghid pentru planificarea programului de animație",
+      "content": {
+        "steps": [
+          {
+            "body": "Numărul de copii și vârsta acestora - sunt utile pentru alegerea jocurilor adecvate grupului.",
+            "title": "Stabilirea profilului invitaților"
+          },
+          {
+            "body": "Locația și spațiul disponibil - adaptarea programului pentru acasă, restaurant sau aer liber.",
+            "title": "Alegerea tematicii și a personajelor"
+          },
+          {
+            "body": "Momentul tortului și pauzele - integrarea personajelor în momentele cheie ale petrecerii.",
+            "title": "Configurarea activităților în locație"
+          },
+          {
+            "body": "Preferințele și tematica - stabilirea din timp a personajelor îndrăgite de cel sărbătorit.",
+            "title": "Pregătirea accesoriilor și a materialelor"
+          }
+        ],
+        "image_alt": "Planificarea programului de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp"
+      },
+      "order_index": 9,
+      "created_at": "2026-06-19T17:47:31.1705+00:00",
+      "updated_at": "2026-06-22T00:37:49.937921+00:00"
+    },
+    {
+      "id": "f3d5ba42-789a-412d-b0a3-a612dfba98e1",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "Ce rol are un animator la un eveniment pentru copii",
+      "content": {
+        "body": "Prezența unui animator aduce energie și sprijin organizatoric, oferind copiilor oportunități de interacțiune și joacă structurată. Rolul principal este de a capta atenția celor mici și de a-i ghida prin activități adaptate dinamicii grupului. Animatorul coordonează jocurile, propune activități interactive și ajută la crearea unei atmosfere prietenoase. În timp ce copiii explorează activitățile propuse, adulții se pot bucura de timp dedicat discuțiilor. Pentru detalii despre desfășurare sau întrebări specifice, puteți accesa pagina de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce rol are un animator la un eveniment pentru copii",
+        "image_alt": "Animator copii coordonând activități de grup la petrecere",
+        "image_url": "/images/animatori/rol-animator-petrecere-copii.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-19T17:47:28.814618+00:00",
+      "updated_at": "2026-06-23T11:45:16.373815+00:00"
+    },
+    {
+      "id": "fd79da6e-697c-4b41-a796-6fcc57f06dba",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Transport pentru București și Ilfov",
+      "content": {
+        "body": "<p>Pentru programele cu 1 personaj animator sau 2 personaje animatoare, transportul este inclus în București. Pentru evenimentele din Ilfov, transportul se calculează separat, în funcție de distanță: 2 lei/km, dus-întors, de la Piața Unirii / km 0 până la locația evenimentului și înapoi. Pentru locațiile din Ilfov aflate la distanță mică, transportul minim este 50 lei.</p><p>Pentru animatorii pe picioroange, transportul este inclus în București și Ilfov.</p>"
+      },
+      "order_index": 50,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T08:22:09.224087+00:00"
+    },
+    {
+      "id": "941b4db8-a2eb-40e7-80c3-8f0678fa65dc",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Program cu 2 personaje animatoare",
+      "content": {
+        "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animatori-petrecere-2.png\" alt=\"2 personaje animatoare la petrecere copii mari cu jocuri interactive\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 oră</td><td style=\"padding: 0.75rem;\">490 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 ore</td><td style=\"padding: 0.75rem;\">830 lei — include pinata</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">3 ore</td><td style=\"padding: 0.75rem;\">1.120 lei — include pinata + Balloon Exploder</td></tr>\n          </table>\n          <p>Varianta cu 2 personaje animatoare este potrivită pentru grupuri mai mari de copii sau pentru evenimente unde activitățile trebuie susținute în paralel, cu mai multă interacțiune și dinamism.</p>\n        ",
+        "image_alt": "Program cu două personaje animatoare pentru petreceri de copii",
+        "image_url": "/images/animatori/pret-program-2-animatori-copii.webp"
+      },
+      "order_index": 30,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T11:45:18.082564+00:00"
+    },
+    {
+      "id": "d54b7417-ca4b-4fc0-8aa7-174125c59e14",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Animatori pe picioroange",
+      "content": {
+        "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animatori-picioroange.png\" alt=\"Animatori pe picioroange primire invitati botez si petreceri copii\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 personaj pe picioroange / 1 oră</td><td style=\"padding: 0.75rem;\">1.450 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 personaje pe picioroange / 1 oră</td><td style=\"padding: 0.75rem;\">2.750 lei</td></tr>\n          </table>\n          <p>Animatorii pe picioroange sunt potriviți pentru momente de primire, apariții tematice, fotografii și evenimente unde se dorește un impact vizual puternic.</p>\n        ",
+        "image_alt": "Animator pe picioroange la eveniment pentru copii",
+        "image_url": "/images/animatori/pret-animatori-picioroange-evenimente.webp"
+      },
+      "order_index": 40,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T11:45:18.256009+00:00"
+    },
+    {
+      "id": "fbdfcef7-451d-4790-aa67-651fb3cd526e",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Ce poate include programul de animație",
+      "content": {
+        "body": "<p>În funcție de varianta aleasă, programul poate include jocuri interactive, concursuri, dansuri, <a href=\"/pictura-pe-fata-copii-bucuresti/\">pictură pe față</a>, <a href=\"/modelaj-baloane-copii-bucuresti/\">modelaj de baloane</a>, pinata sau moment Balloon Exploder. Structura finală se stabilește în funcție de vârsta copiilor, locație și tematica petrecerii.<br><br>Spune-ne data evenimentului, zona, vârsta copiilor și varianta de program dorită, iar echipa Kassia te ajută să stabilești detaliile potrivite pentru petrecere.</p>",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Activități cu animatori copii pictură pe față și modelaj baloane",
+        "image_url": "/images/animatori/activitati-incluse-program-animatie.webp"
+      },
+      "order_index": 60,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T11:45:18.428573+00:00"
+    },
+    {
+      "id": "d0496e2b-1b9f-4bbf-8149-8f0af45e34d3",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Detalii pentru programele cu animatori copii",
+      "content": {
+        "body": "<p>Pentru petrecerile copiilor, programul de animație poate fi adaptat în funcție de vârsta invitaților, spațiul disponibil și momentele dorite în cadrul evenimentului. Dacă vrei să vezi toate variantele de <a href=\"/animatori-petreceri-copii/\">animatori pentru petreceri de copii</a> disponibile pentru evenimente în București și Ilfov, poți consulta și pagina principală dedicată programelor de animație. Mai jos găsești variantele de program pentru animație, cu 1 personaj animator, 2 personaje animatoare și animatori pe picioroange.</p>",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii"
+      },
+      "order_index": 10,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T09:51:21.086212+00:00"
+    },
+    {
+      "id": "67b663b2-ed40-441a-b283-94d181f9c142",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Cum alegi varianta potrivită pentru petrecere",
+      "content": {
+        "body": "<p>Pentru o aniversare restrânsă, programul cu 1 personaj animator poate fi suficient atunci când copiii au vârste apropiate și activitățile se desfășoară într-un spațiu compact. Pentru evenimente mai mari, cu invitați de vârste diferite sau cu mai multe momente în desfășurare, varianta cu 2 personaje animatoare oferă mai multă susținere în coordonarea jocurilor, dansurilor și momentelor tematice. Animatorii pe picioroange sunt potriviți pentru apariții vizuale, primirea invitaților, fotografii și momente speciale în cadrul evenimentului.</p>",
+        "image_alt": "Balloon Exploder cu bomboane la petrecere de copii",
+        "image_url": "/images/animatori/pret-balloon-exploder-petrecere.webp"
+      },
+      "order_index": 70,
+      "created_at": "2026-06-23T08:41:52.764999+00:00",
+      "updated_at": "2026-06-23T11:45:18.645957+00:00"
+    },
+    {
+      "id": "2a39f6df-b924-4f0f-8f81-80a57e62a19d",
+      "page_id": "3a754972-74d7-4632-9dfa-2aa9be7682db",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia Events pentru petrecerea copilului",
+      "content": {
+        "body": "<p>Organizarea unui eveniment reușit pornește de la atenția acordată fiecărui detaliu. Echipa Kassia Events își propune să susțină o atmosferă veselă prin activități adaptate vârstei copiilor. Fiecare etapă a programului este gândită să implice participanții în mod natural, oferindu-le momente de mișcare și relaxare.</p><p>Ne adaptăm structura programului în funcție de locație și spațiul disponibil. Fie că evenimentul se desfășoară într-un apartament privat, într-o curte exterioară, restaurant sau sală dedicată din București și Ilfov, animatorii coordonează jocurile ținând cont de limitările fizice ale locului. Recuzita potrivită activităților și comunicarea clară înainte de eveniment ne ajută să pregătim fiecare moment în detaliu, oferind o bună coordonare pe tot parcursul activităților.</p><p>Pentru a completa programul, puteți alege și integrarea unor servicii conexe îndrăgite, precum sesiunile de pictură pe față sau modelajul de baloane. Toate detaliile organizatorice sunt stabilite înainte de începerea petrecerii, oferind o bună coordonare pe tot parcursul activităților.</p><p>Pentru variantele de program și detaliile comerciale actualizate, consultă pagina dedicată cu <a href=\"/preturi-animatori-copii-bucuresti/\">detalii pentru programele cu animatori copii</a>.</p><h3>Animatori pentru petreceri de copii în sectoarele Bucureștiului</h3><p>Pentru evenimente organizate în București, poți consulta și paginile dedicate pentru sectoarele unde echipa Kassia poate susține programe de animație pentru copii: <a href=\"/animatori-petreceri-copii-sector-1/\">animatori petreceri copii Sector 1</a>, <a href=\"/animatori-petreceri-copii-sector-2/\">animatori petreceri copii Sector 2</a>, <a href=\"/animatori-petreceri-copii-sector-3/\">animatori petreceri copii Sector 3</a>, <a href=\"/animatori-petreceri-copii-sector-4/\">animatori petreceri copii Sector 4</a>, <a href=\"/animatori-petreceri-copii-sector-5/\">animatori petreceri copii Sector 5</a>, <a href=\"/animatori-petreceri-copii-sector-6/\">animatori petreceri copii Sector 6</a>.</p>",
+        "heading": "De ce să alegi Kassia Events pentru petrecerea copilului",
+        "image_alt": "Echipă de animatori copii pregătind activități pentru petrecere",
+        "image_url": "/images/animatori/echipa-animatori-kassia-events.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-22T00:37:50.193327+00:00",
+      "updated_at": "2026-06-23T11:45:17.583286+00:00"
+    },
+    {
+      "id": "f38cc1a3-fbaf-40dd-95e9-d94054ebfc61",
+      "page_id": "49cf0ab3-2299-4d4f-8230-9f2ef0903813",
+      "section_type": "text",
+      "heading": "Program cu 1 personaj animator",
+      "content": {
+        "body": "\n<div style=\"margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.12);\">\n  <img src=\"/images/animatori/animator-petrecere-1.png\" alt=\"1 personaj animator la petrecere copii București\" style=\"width: 100%; height: auto; display: block;\" loading=\"lazy\" />\n</div>\n\n          <table style=\"width:100%; border-collapse: collapse; margin-bottom: 1.5rem;\">\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Variantă</th><th style=\"padding: 0.75rem; text-align: left; font-weight: 600;\">Detalii</th></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">1 oră</td><td style=\"padding: 0.75rem;\">280 lei</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">2 ore</td><td style=\"padding: 0.75rem;\">490 lei — include moment Balloon Exploder</td></tr>\n            <tr style=\"border-bottom: 1px solid #e2e8f0;\"><td style=\"padding: 0.75rem;\">3 ore</td><td style=\"padding: 0.75rem;\">640 lei — include pinata</td></tr>\n          </table>\n          <p>Această variantă este potrivită pentru petreceri restrânse, aniversări acasă sau evenimente unde copiii au nevoie de jocuri, dansuri și activități coordonate într-un format clar.</p>\n        ",
+        "image_alt": "Program cu un personaj animator pentru petrecere de copii",
+        "image_url": "/images/animatori/pret-program-1-animator-copii.webp"
+      },
+      "order_index": 20,
+      "created_at": "2026-06-23T08:03:05.008483+00:00",
+      "updated_at": "2026-06-23T11:45:17.892714+00:00"
+    }
+  ]
+}

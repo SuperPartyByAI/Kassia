@@ -1,0 +1,25 @@
+#!/bin/bash
+cliclick c:420,530
+sleep 0.1
+cliclick c:440,530
+sleep 0.1
+cliclick c:460,530
+sleep 0.1
+cliclick c:420,550
+sleep 0.1
+cliclick c:440,550
+sleep 0.1
+cliclick c:460,550
+sleep 0.1
+cliclick c:420,570
+sleep 0.1
+cliclick c:440,570
+sleep 0.1
+cliclick c:460,570
+sleep 0.1
+cliclick c:480,530
+sleep 0.1
+cliclick c:480,550
+sleep 0.1
+cliclick c:480,570
+echo "Clicked"

@@ -1,0 +1,2150 @@
+[
+  {
+    "source": "/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/despre-noi/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/despre-noi/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/despre-noi/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/contact/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/contact/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/contact/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/galerie/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/galerie/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/galerie/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/preturi-decoratiuni-baloane/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/preturi-decoratiuni-baloane/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/preturi-decoratiuni-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/intrebari-frecvente/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/intrebari-frecvente/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/intrebari-frecvente/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/recenzii/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/recenzii/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/recenzii/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/termeni-si-conditii/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/termeni-si-conditii/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/termeni-si-conditii/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/politica-de-confidentialitate/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/politica-de-confidentialitate/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/politica-de-confidentialitate/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/blog/",
+    "target": "/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/blog/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/blog/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "type": "breadcrumb_up",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/contact/",
+    "type": "conversion",
+    "is_required": true
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "type": "commercial",
+    "is_required": true
+  }
+]

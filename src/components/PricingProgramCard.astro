@@ -1,0 +1,92 @@
+---
+const { program, variant, locationName } = Astro.props;
+
+// Determine if we should show the price based on variant and program flags
+const showPrice = variant === 'full' 
+  ? program.show_price_on_pricing_page 
+  : program.show_price_on_local_preview;
+---
+
+<div class={`pricing-card pricing-card-${variant}`} style="background: white; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06); overflow: hidden; display: flex; flex-direction: column; border: 1px solid #e2e8f0; margin-bottom: 2rem;">
+  
+  {/* Header Section */}
+  <div class="pricing-card-header" style="background: var(--primary); color: white; padding: 1.5rem; text-align: center;">
+    <h3 style="margin: 0; font-size: 1.5rem; font-weight: 700;">{program.title}</h3>
+    {program.duration_label && (
+      <div style="font-size: 1rem; margin-top: 0.5rem; opacity: 0.9;">
+        ⏱ {program.duration_label}
+      </div>
+    )}
+  </div>
+
+  {/* Content Section */}
+  <div class="pricing-card-content" style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+    
+    {/* Description */}
+    {program.short_description && (
+      <p style="color: #475569; font-size: 1rem; line-height: 1.5; margin-top: 0; margin-bottom: 1.5rem; text-align: center;">
+        {program.short_description}
+      </p>
+    )}
+
+    {/* Includes List (Full variant only) */}
+    {variant === 'full' && program.includes_list && program.includes_list.length > 0 && (
+      <div class="pricing-card-includes" style="margin-bottom: 1.5rem; flex: 1;">
+        <h4 style="font-size: 1.1rem; color: #1e293b; margin-top: 0; margin-bottom: 1rem; border-bottom: 2px solid #f1f5f9; padding-bottom: 0.5rem;">
+          Ce include:
+        </h4>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          {program.includes_list.map((item) => (
+            <li style="display: flex; align-items: flex-start; margin-bottom: 0.75rem; color: #475569;">
+              <span style="color: var(--primary); font-weight: bold; margin-right: 0.75rem;">✓</span>
+              <span style="line-height: 1.4;">{item}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {/* Price Display */}
+    {showPrice && program.price_amount && (
+      <div class="pricing-card-price" style="text-align: center; margin-top: auto; padding-top: 1.5rem; border-top: 1px solid #f1f5f9; margin-bottom: 1.5rem;">
+        <div style="font-size: 2rem; font-weight: 800; color: var(--primary);">
+          {`${program.price_prefix || ''} ${program.price_amount} ${program.currency || 'lei'}`.trim()}
+        </div>
+        {program.price_suffix && (
+          <div style="font-size: 0.9rem; color: #64748b; margin-top: 0.25rem;">
+            {program.price_suffix}
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* CTAs */}
+    <div class="pricing-card-actions" style="display: flex; flex-direction: column; gap: 1rem; margin-top: auto;">
+      {variant === 'compact' ? (
+        <>
+          <a href="/preturi-animatori-copii-bucuresti/" class="btn-secondary" style="display: block; width: 100%; text-align: center; padding: 0.75rem 1.5rem; background-color: #f1f5f9; color: #334155; text-decoration: none; border-radius: 8px; font-weight: 600; border: 1px solid #cbd5e1; transition: all 0.2s ease;">
+            Vezi detaliile programelor cu animatori
+          </a>
+          <a href={`https://wa.me/40768098268?text=${encodeURIComponent(`Bună! Aș dori detalii despre programele cu animatori pentru ${locationName || 'petrecerea mea'}.`)}`} target="_blank" rel="noopener noreferrer" class="btn-primary" style="display: block; width: 100%; text-align: center; padding: 0.75rem 1.5rem; background-color: #25D366; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 6px -1px rgba(37, 211, 102, 0.2); transition: all 0.2s ease;">
+            Scrie-ne pe WhatsApp pentru recomandarea potrivită
+          </a>
+        </>
+      ) : (
+        <a href={`https://wa.me/40768098268?text=${encodeURIComponent(`Bună! Aș dori detalii despre programul "${program.title}".`)}`} target="_blank" rel="noopener noreferrer" class="btn-primary" style="display: block; width: 100%; text-align: center; padding: 1rem 1.5rem; background-color: var(--primary); color: white; text-decoration: none; border-radius: 8px; font-weight: 700; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: transform 0.2s ease;">
+          Rezervă acest program
+        </a>
+      )}
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px -1px rgba(0,0,0,0.15) !important;
+  }
+  .btn-secondary:hover {
+    background-color: #e2e8f0 !important;
+  }
+</style>

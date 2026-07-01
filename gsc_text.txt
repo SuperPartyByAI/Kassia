@@ -1,0 +1,87 @@
+
+	
+17
+Indexarea paginilor
+
+EXPORTĂ
+Toate paginile cunoscute
+Ultima actualizare: 12.06.2026
+
+Neindexate
+27
+3 motive
+
+
+Indexate
+3
+
+Expuneri
+Pagini
+25.03.2026
+15.04.2026
+06.05.2026
+27.05.2026
+45
+30
+15
+0
+1
+1
+2
+2
+2
+1
+1
+check_circle
+Vezi date despre paginile indexate
+
+info_filled
+De ce există pagini neindexate
+Paginile care nu sunt indexate nu se pot difuza pe Google
+
+Motiv
+	Sursă
+
+	Validare
+	Tendință	
+Pagini
+Exclusă pe baza etichetei „noindex”	Site	
+
+Nu a început
+		17
+Nu a fost găsită (404)	Site	
+
+Nu a început
+		9
+Blocată din cauza accesului interzis (403)	Site	
+
+Nu a început
+		1
+Blocată din cauza unei alte erori 4xx	Site	
+Nu este cazul
+		0
+Pagină cu redirecționare	Site	
+Nu este cazul
+		0
+Pagină alternativă cu etichetă canonică corespunzătoare	Site	
+Nu este cazul
+		0
+Dublură, Google a ales o altă pagină canonică față de cea selectată de utilizator	Sistemele Google	
+Nu este cazul
+		0
+Descoperită – nu este indexată	Sistemele Google	
+Nu este cazul
+		0
+Accesată cu crawlere – nu este indexată	Sistemele Google	
+Nu este cazul
+		0
+Rânduri per pagină:
+5
+10
+25
+50
+100
+250
+500
+1 – 9 din 9
+

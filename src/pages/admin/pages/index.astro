@@ -1,0 +1,76 @@
+---
+import AdminLayout from '../../../layouts/AdminLayout.astro';
+import { supabaseAdmin as supabase } from '../../../lib/supabaseAdmin';
+
+const statusFilter = Astro.url.searchParams.get('status');
+const typeFilter = Astro.url.searchParams.get('page_type');
+const indexFilter = Astro.url.searchParams.get('index_status');
+
+let query = supabase.from('kassia_pages').select('*').order('path');
+
+if (statusFilter) query = query.eq('status', statusFilter);
+if (typeFilter) query = query.eq('page_type', typeFilter);
+if (indexFilter) query = query.eq('index_status', indexFilter);
+
+const { data: pages, error } = await query;
+---
+
+<AdminLayout title="Pages">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+    <h1>Pages</h1>
+  </div>
+  
+  <div class="card" style="margin-bottom: 1rem; display: flex; gap: 1rem;">
+    <strong>Filters:</strong>
+    <a href="/admin/pages" class="badge">All</a>
+    <a href="/admin/pages?status=draft" class="badge draft">Draft</a>
+    <a href="/admin/pages?status=published" class="badge published">Published</a>
+    <a href="/admin/pages?index_status=noindex" class="badge">Noindex</a>
+    <a href="/admin/pages?page_type=service" class="badge">Service</a>
+    <a href="/admin/pages?page_type=event" class="badge">Event</a>
+    <a href="/admin/pages?page_type=location" class="badge">Location</a>
+  </div>
+
+  <div class="card" style="overflow-x: auto;">
+    <table>
+      <thead>
+        <tr>
+          <th>Path</th>
+          <th>Type</th>
+          <th>Status</th>
+          <th>Index</th>
+          <th>Sitemap</th>
+          <th>H1</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {pages && pages.map(page => (
+          <tr>
+            <td style="font-family: monospace; font-size: 0.9em;">{page.path}</td>
+            <td>{page.page_type}</td>
+            <td>
+              <span class={`badge ${page.status === 'published' ? 'published' : 'draft'}`}>
+                {page.status}
+              </span>
+            </td>
+            <td>{page.index_status}</td>
+            <td>{page.include_in_sitemap ? 'Yes' : 'No'}</td>
+            <td style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+              {page.h1 || <span style="color: #94a3b8;">Missing</span>}
+            </td>
+            <td style="display: flex; gap: 0.5rem;">
+              <a href={`/admin/visual/${page.id}`} class="btn" style="padding: 0.25rem 0.5rem; font-size: 0.8rem; background-color: #ec4899; color: white; border: none; border-radius: 4px; text-decoration: none;">Editează Vizual ✨</a>
+              <a href={`/admin/pages/${page.id}`} class="btn" style="padding: 0.25rem 0.5rem; font-size: 0.8rem; background: #e2e8f0; color: #475569; border-radius: 4px; text-decoration: none;">Tech</a>
+            </td>
+          </tr>
+        ))}
+        {(!pages || pages.length === 0) && (
+          <tr>
+            <td colspan="7" style="text-align: center; padding: 2rem;">No pages found</td>
+          </tr>
+        )}
+      </tbody>
+    </table>
+  </div>
+</AdminLayout>

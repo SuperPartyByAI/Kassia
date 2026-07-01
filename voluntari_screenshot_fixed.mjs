@@ -1,0 +1,20 @@
+import puppeteer from 'puppeteer';
+
+(async () => {
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+  const page = await browser.newPage();
+  
+  // Desktop
+  await page.setViewport({ width: 1440, height: 2500 });
+  await page.goto('https://www.kassia.ro/animatori-petreceri-copii-voluntari/', { waitUntil: 'networkidle0' });
+  await page.screenshot({ path: '/Users/universparty/.gemini/antigravity/brain/6d86611f-e938-48db-98c9-3bb7d0b0f227/voluntari_desktop_fixed.png', fullPage: true });
+  console.log("Desktop full page screenshot saved");
+
+  // Mobile
+  await page.setViewport({ width: 390, height: 844, isMobile: true, hasTouch: true });
+  await page.goto('https://www.kassia.ro/animatori-petreceri-copii-voluntari/', { waitUntil: 'networkidle0' });
+  await page.screenshot({ path: '/Users/universparty/.gemini/antigravity/brain/6d86611f-e938-48db-98c9-3bb7d0b0f227/voluntari_mobile_fixed.png', fullPage: true });
+  console.log("Mobile full page screenshot saved");
+
+  await browser.close();
+})();

@@ -1,0 +1,1202 @@
+[
+  {
+    "path": "/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/despre-noi/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/contact/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/galerie/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/preturi-decoratiuni-baloane/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/intrebari-frecvente/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/recenzii/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/portofoliu-evenimente/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/termeni-si-conditii/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/politica-de-confidentialitate/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/blog/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/aranjamente-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/arcada-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/baloane-heliu-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/panou-foto-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/buchete-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/baloane-personalizate-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/baloane-cifre-litere-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/ghirlande-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/stalpi-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/perete-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decor-baloane-candy-bar-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/livrare-baloane-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-botez-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-mot-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-turta-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/arcada-baloane-nunta-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-paste-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-1/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-2/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-3/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-4/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-5/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-6/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aviatiei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-baneasa/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-domenii/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-herastrau/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-victoriei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-colentina/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-obor/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dristor/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-titan/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-vitan/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-unirii/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dudesti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tineretului/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-piata-sudului/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-oltenitei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-rahova/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cotroceni/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-13-septembrie/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-ferentari/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sebastian/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-drumul-taberei/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-militari/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-crangasi/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-giulesti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-grozavesti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-ilfov/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-voluntari/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pipera/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-otopeni/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tunari/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-corbeanca/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-balotesti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-mogosoaia/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-chitila/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-chiajna/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-domnesti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-bragadiru/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-magurele/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-popesti-leordeni/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni-ilfov/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cernica/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-afumati/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dascalu/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-snagov/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-clinceni/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-jilava/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-1-decembrie/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/arcada-baloane-botez-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/arcada-baloane-majorat-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/arcada-baloane-nunta-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/panou-foto-baloane-botez-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/panou-foto-baloane-majorat-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/baloane-heliu-majorat-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/baloane-heliu-aniversare-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/buchete-baloane-aniversare-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  },
+  {
+    "path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "structure_score": 100,
+    "internal_link_score": 100,
+    "sections_score": 100,
+    "publish_validation_score": 100,
+    "overall_skeleton_score": 100,
+    "ready_for_content_entry": true,
+    "issues": []
+  }
+]

@@ -1,0 +1,17 @@
+TipBunNecesită îmbunătățireSlabeTendință
+Detalii de funcționare de bază pentru webMobileDesktopNu există dateNu există dateNu există dateNu există dateNu există dateNu există date
+HTTPSFără HTTPS
+HTTPS30chevron_right
+TipValideNevalideTendință
+Căi de navigare40chevron_right
+Fragmentele de recenzii00chevron_right
+Motiv | 	Sursă |  | 	Validare | 	Tendință	 | Pagini
+Exclusă pe baza etichetei „noindex”	Site	 |  | Nu a început | 		17
+Nu a fost găsită (404)	Site	 |  | Nu a început | 		9
+Blocată din cauza accesului interzis (403)	Site	 |  | Nu a început | 		1
+Blocată din cauza unei alte erori 4xx	Site	 | Nu este cazul | 		0
+Pagină cu redirecționare	Site	 | Nu este cazul | 		0
+Pagină alternativă cu etichetă canonică corespunzătoare	Site	 | Nu este cazul | 		0
+Dublură, Google a ales o altă pagină canonică față de cea selectată de utilizator	Sistemele Google	 | Nu este cazul | 		0
+Descoperită – nu este indexată	Sistemele Google	 | Nu este cazul | 		0
+Accesată cu crawlere – nu este indexată	Sistemele Google	 | Nu este cazul | 		0

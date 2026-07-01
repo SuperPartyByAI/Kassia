@@ -1,0 +1,1669 @@
+{
+  "Homepage": {
+    "targetUrl": "https://www.kassia.ro/",
+    "queries": [
+      {
+        "query": "organizare petreceri copii București",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://magicparty.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          },
+          {
+            "url": "https://zambetdinbaloane.ro/",
+            "title": "Competitor 7",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "petreceri copii București decoruri baloane",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://magicparty.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          },
+          {
+            "url": "https://zambetdinbaloane.ro/",
+            "title": "Competitor 7",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "decoruri baloane petreceri copii București",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://magicparty.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          },
+          {
+            "url": "https://zambetdinbaloane.ro/",
+            "title": "Competitor 7",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/",
+      "status": 200,
+      "title": "Organizare petreceri copii și decoruri baloane București | Kassia Events",
+      "metaDesc": "Kassia Events organizează petreceri pentru copii în București și Ilfov, cu animatori, mascote, activități interactive și decoruri cu baloane adaptate evenimentului.",
+      "h1": "Kassia Events: organizare petreceri pentru copii și decoruri cu baloane",
+      "h2s": [
+        "Alege Serviciul Dorit",
+        "Primul eveniment important",
+        "Decoruri pentru momente speciale"
+      ],
+      "wordCount": 1496,
+      "faqCount": 10,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "bucurești",
+        "ilfov"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București – SuperParty (8.000+ petreceri)",
+        "metaDesc": "Animatori petreceri copii București & Ilfov. 8.000+ petreceri organizate. Personaje, jocuri interactive și baloane. Disponibilitate rapidă – sună acum sau WhatsApp.",
+        "h1": "Animatori petreceri copii București",
+        "h2s": [
+          "De ce copiii adoră SuperParty",
+          "Servicii SuperParty",
+          "Pachete & Prețuri"
+        ],
+        "wordCount": 1348,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti",
+          "ilfov"
+        ]
+      },
+      {
+        "url": "https://ursulla.ro/",
+        "status": 200,
+        "title": "Ursitoare botez & animatori petreceri copii",
+        "metaDesc": "Ursulla este taramul celor mai interesante ursitoare de botez din Bucuresti. Ursulla.ro va pune la dispozitie cei mai priceputi animatori petreceri copii!",
+        "h1": "Ursitoare botez si animatori petreceri copii",
+        "h2s": [
+          "Servicii ursitoare botez Bucuresti si animatori petreceri copii",
+          "Animatori petreceri copii",
+          "Pachete animatori petreceri copii"
+        ],
+        "wordCount": 1521,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti"
+        ]
+      },
+      {
+        "url": "https://clownparty.ro/",
+        "status": 200,
+        "title": "Animatori Copii Bucuresti | Petreceri Copii | ClownParty.ro",
+        "metaDesc": "Firma organizari petreceri copii Bucuresti din 2007. Animatori copii profesionisti, decoratiuni baloane, accesorii petreceri. Peste 25.000 evenimente realizate. Rezerva acum!",
+        "h1": "Animatori Copii Bucuresti | Petreceri Copii cu Personaje Profesioniste",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 2041,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucuresti",
+          "ilfov"
+        ]
+      },
+      {
+        "url": "https://kidszone.ro/",
+        "status": 200,
+        "title": "KidsZone.ro - Descoperă un univers al copiilor",
+        "metaDesc": "Intră într-un univers dedicat copiilor pe KidsZone.ro. Găsește articole fascinante, idei creative și activități captivante pentru a încuraja creșterea și dezvoltarea armonioasă a copiilor tăi.",
+        "h1": "Kids Zone",
+        "h2s": [],
+        "wordCount": 1440,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti"
+        ]
+      },
+      {
+        "url": "https://magicparty.ro/",
+        "status": 200,
+        "title": "MagicParty.ro | Iasi",
+        "metaDesc": "MagicParty.ro, Iași. 409 aprecieri · 122 discută despre asta · 17 au fost aici. Locația este a ta pentru 3 ore, să te bucuri în tihnă de petrecerea ta,...",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 1103,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": false,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://dizemanepe.ro/",
+        "status": 200,
+        "title": "Organizare Petreceri Copii Bucuresti ▷ DizemanepeFacebookInstagramTwitter",
+        "metaDesc": "Organizare Petreceri Copii ✓ Sute de personaje la alegere ✓ Program de petrecere diversificat ✓ Consultanta pentru organizarea petrecerii ⭐ Dizemanepe.ro.",
+        "h1": "Organizare Petreceri Copii",
+        "h2s": [
+          "Organizare petreceri și aniversări copii în București. Pentru petreceri de neuitat!",
+          "Alege să creezi în București petreceri aniversare de neuitat  pentru copii , cu personaje de poveste",
+          "Iubim să creăm aniversări pline de voie bună și activități distractive pentru copii în București"
+        ],
+        "wordCount": 2446,
+        "faqCount": 4,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti"
+        ]
+      },
+      {
+        "url": "https://zambetdinbaloane.ro/",
+        "status": "Failed",
+        "error": "request to https://zambetdinbaloane.ro/ failed, reason: getaddrinfo ENOTFOUND zambetdinbaloane.ro"
+      }
+    ]
+  },
+  "Animatori Main Hub": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii București",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://www.funevents.ro/animatori-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii București",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://www.funevents.ro/animatori-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori pentru copii București",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://www.funevents.ro/animatori-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 6",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în București și Ilfov",
+      "metaDesc": "Personaje de poveste, pictură pe față, modelaj de baloane, mini-disco și jocuri interactive. Adaugă magie la petreceri de copii în București și Ilfov.",
+      "h1": "Animatori pentru petreceri de copii în București și Ilfov",
+      "h2s": [
+        "Ce rol are un animator la un eveniment pentru copii",
+        "Activități tematice și divertisment interactiv",
+        "Cum alegi personajele potrivite în funcție de vârstă"
+      ],
+      "wordCount": 1698,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "bucurești",
+        "ilfov"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti",
+          "ilfov"
+        ]
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti",
+          "ilfov"
+        ]
+      },
+      {
+        "url": "https://ursulla.ro/animatori-petreceri-copii/",
+        "status": 404,
+        "title": "404 Not Found",
+        "metaDesc": "",
+        "h1": "404",
+        "h2s": [
+          "Not Found"
+        ],
+        "wordCount": 15,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": false,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kidszone.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - Kids Zone",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 420,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": false,
+        "matchedZones": [
+          "bucurești",
+          "bucuresti"
+        ]
+      },
+      {
+        "url": "https://www.funevents.ro/animatori-copii/",
+        "status": 200,
+        "title": "",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 998,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": false,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://animatorpetrecericopii.ro/",
+        "status": 200,
+        "title": "Servicii animatori copii Bucuresti si Ilfov - Animator Petreceri Copiicall-answercall-answermail-black-envelope-symbol",
+        "metaDesc": "Reusim zi de zi sa facem copiii fericiti, cu ajutorul celor mai buni animatori copii Bucuresti. Caldura emanata de personalul nostru, rabdarea si atentia la detalii cat si stabilirea unei atmosfere legendare de la inceputul colaborarii, va reusi sa bucure fiecare prichindel. Acum, cel mic va avea sansa sa se intalneasca cu eroii sai preferati, jucati de cei mai simpatici animatori gradinita sau animatori tabare. Cu o singura aruncatura de click veti putea intra in posesia acestora, chiar daca veti cere animatori copii sectorul 1,2,3,4,5, sau 6!",
+        "h1": "Organizam cele mai tari petreceri cu animatori pentru copilul tau!",
+        "h2s": [
+          "Bine ati venit!",
+          "Cele mai cautate oferte",
+          "Galerie"
+        ],
+        "wordCount": 1295,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "bucuresti",
+          "ilfov"
+        ]
+      }
+    ]
+  },
+  "Sector 1": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-1/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 1",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://cool-events.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 1",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://cool-events.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-1/",
+      "status": 200,
+      "title": "Animatori petreceri copii Sector 1 | Kassia Events",
+      "metaDesc": "Animatori pentru petreceri de copii în Sector 1, cu jocuri interactive, mascote, pictură pe față și activități adaptate evenimentului.",
+      "h1": "Animatori pentru petreceri de copii în Sector 1",
+      "h2s": [
+        "Ce face un animator la petrecerea copilului",
+        "Activități care pot fi incluse în program",
+        "Cum adaptăm programul pentru petrecerile din Sector 1"
+      ],
+      "wordCount": 1401,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "dorobanți",
+        "primăverii",
+        "floreasca",
+        "băneasa",
+        "bucureștii noi",
+        "dămăroaia",
+        "pajura",
+        "grivița",
+        "domenii",
+        "victoriei",
+        "romană"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "pipera"
+        ]
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "romana"
+        ]
+      },
+      {
+        "url": "https://animatorpetrecericopii.ro/",
+        "status": 200,
+        "title": "Servicii animatori copii Bucuresti si Ilfov - Animator Petreceri Copiicall-answercall-answermail-black-envelope-symbol",
+        "metaDesc": "Reusim zi de zi sa facem copiii fericiti, cu ajutorul celor mai buni animatori copii Bucuresti. Caldura emanata de personalul nostru, rabdarea si atentia la detalii cat si stabilirea unei atmosfere legendare de la inceputul colaborarii, va reusi sa bucure fiecare prichindel. Acum, cel mic va avea sansa sa se intalneasca cu eroii sai preferati, jucati de cei mai simpatici animatori gradinita sau animatori tabare. Cu o singura aruncatura de click veti putea intra in posesia acestora, chiar daca veti cere animatori copii sectorul 1,2,3,4,5, sau 6!",
+        "h1": "Organizam cele mai tari petreceri cu animatori pentru copilul tau!",
+        "h2s": [
+          "Bine ati venit!",
+          "Cele mai cautate oferte",
+          "Galerie"
+        ],
+        "wordCount": 1295,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://dizemanepe.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - DizemanepeFacebookInstagramTwitter",
+        "metaDesc": "",
+        "h1": "Eroare 404. Te-ai pierdut?",
+        "h2s": [
+          "Ne gasesti si pe:",
+          "Informatii",
+          "Creare site"
+        ],
+        "wordCount": 1007,
+        "faqCount": 4,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://cool-events.ro/",
+        "status": 200,
+        "title": "Cool Events - servicii de animatie pentru copii Bucuresti",
+        "metaDesc": "",
+        "h1": "Ursitoare botez si Animatori petreceri copii",
+        "h2s": [
+          "Zane Ursitoare La Botez In Bucuresti",
+          "Animatori La Petreceri Pentru Copii",
+          "Fotograf De Nunta Si Botez – Profesionist"
+        ],
+        "wordCount": 1773,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      }
+    ]
+  },
+  "Sector 2": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-2/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 2",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 2",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-2/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în Sector 2 | Kassia",
+      "metaDesc": "Cauți animatori pentru copii în Sectorul 2? Oferim programe interactive cu personaje îndrăgite, jocuri distractive, pictură pe față și modelaj de baloane adaptate evenimentului.",
+      "h1": "Animatori pentru petreceri de copii în Sector 2",
+      "h2s": [
+        "Ce face un animator la petrecerea copilului",
+        "Activități care pot fi incluse în program",
+        "Cum adaptăm programul pentru petrecerile din Sector 2"
+      ],
+      "wordCount": 1392,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "colentina",
+        "tei",
+        "pantelimon",
+        "obor",
+        "iancului",
+        "fundeni",
+        "ștefan cel mare"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "tei"
+        ]
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kidszone.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - Kids Zone",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 420,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://animatorpetrecericopii.ro/",
+        "status": 200,
+        "title": "Servicii animatori copii Bucuresti si Ilfov - Animator Petreceri Copiicall-answercall-answermail-black-envelope-symbol",
+        "metaDesc": "Reusim zi de zi sa facem copiii fericiti, cu ajutorul celor mai buni animatori copii Bucuresti. Caldura emanata de personalul nostru, rabdarea si atentia la detalii cat si stabilirea unei atmosfere legendare de la inceputul colaborarii, va reusi sa bucure fiecare prichindel. Acum, cel mic va avea sansa sa se intalneasca cu eroii sai preferati, jucati de cei mai simpatici animatori gradinita sau animatori tabare. Cu o singura aruncatura de click veti putea intra in posesia acestora, chiar daca veti cere animatori copii sectorul 1,2,3,4,5, sau 6!",
+        "h1": "Organizam cele mai tari petreceri cu animatori pentru copilul tau!",
+        "h2s": [
+          "Bine ati venit!",
+          "Cele mai cautate oferte",
+          "Galerie"
+        ],
+        "wordCount": 1295,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://ursulla.ro/animatori-petreceri-copii/",
+        "status": 404,
+        "title": "404 Not Found",
+        "metaDesc": "",
+        "h1": "404",
+        "h2s": [
+          "Not Found"
+        ],
+        "wordCount": 15,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": false,
+        "contact": false,
+        "matchedZones": []
+      }
+    ]
+  },
+  "Sector 3": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-3/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 3",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://gosharksplayground.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://www.funevents.ro/animatori-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 3",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://gosharksplayground.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://www.funevents.ro/animatori-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-3/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în Sector 3 | Kassia",
+      "metaDesc": "Cauți animatori pentru copii în Sectorul 3? Oferim programe interactive cu personaje îndrăgite, jocuri distractive, pictură pe față și modelaj de baloane adaptate evenimentului.",
+      "h1": "Animatori pentru petreceri de copii în Sector 3",
+      "h2s": [
+        "Ce face un animator la petrecerea copilului",
+        "Activități care pot fi incluse în program",
+        "Cum adaptăm programul pentru petrecerile din Sector 3"
+      ],
+      "wordCount": 1393,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "dristor",
+        "titan",
+        "vitan",
+        "balta albă",
+        "sălăjan"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "muncii"
+        ]
+      },
+      {
+        "url": "https://gosharksplayground.ro/",
+        "status": 200,
+        "title": "Loc de joacă pentru copiii din Sector 4 - Go Sharks",
+        "metaDesc": "Cel mai nou si vesel Loc de joacă pentru copiii din Sector 4 București. Avem diverse ateliere de lucru sau chiar Yoga pentru mame și bebeluși",
+        "h1": "Acasă",
+        "h2s": [
+          "Credem în acest proiect și ținem mult la el: copilul nr. 4",
+          "Venim cum câteva propuneri atât pentru pitici, cât și pentru mămici",
+          "Pachete pentru cei mai fericiți copii"
+        ],
+        "wordCount": 1962,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kidszone.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - Kids Zone",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 419,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://www.funevents.ro/animatori-copii/",
+        "status": 200,
+        "title": "",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 998,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": false,
+        "contact": false,
+        "matchedZones": []
+      }
+    ]
+  },
+  "Sector 4": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-4/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 4",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://sohoplay.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://partybooking.ro/boom-play-land/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 4",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://sohoplay.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://partybooking.ro/boom-play-land/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-4/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în Sector 4 | Kassia",
+      "metaDesc": "Cauți animatori pentru copii în Sectorul 4? Oferim programe interactive cu personaje îndrăgite, jocuri distractive, pictură pe față și modelaj de baloane.",
+      "h1": "Animatori pentru petreceri de copii în Sector 4",
+      "h2s": [
+        "Ce face un animator la petrecerea copilului",
+        "Activități care pot fi incluse în program",
+        "Cum adaptăm programul pentru petrecerile din Sector 4"
+      ],
+      "wordCount": 1395,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "tineretului",
+        "berceni",
+        "giurgiului",
+        "apărătorii patriei",
+        "olteniței",
+        "văcărești",
+        "progresul"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://sohoplay.ro/",
+        "status": 200,
+        "title": "Loc de joacă Sector 4 - Petreceri pentru copii 1-8 ani 🌈 Soho Play",
+        "metaDesc": "Loc de joacă Sector 4 București, dedicat petrecerilor pentru copii 1-8 ani. Distracție, veselie și multa joacă. Rezervă o petrecere! 🌈",
+        "h1": "Loc de joacă copii",
+        "h2s": [
+          "Un loc de joacă diferit",
+          "Petreceri mari pentru cei mici",
+          "Descoperă locul de joacă"
+        ],
+        "wordCount": 2092,
+        "faqCount": 9,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": [
+          "tineretului"
+        ]
+      },
+      {
+        "url": "https://partybooking.ro/boom-play-land/",
+        "status": 200,
+        "title": "Boom Play Land, petreceri private copii Sector 4",
+        "metaDesc": "Boom Play Land din Sector 4 este o locație pentru petreceri private de copii, cu joacă indoor, animator, jocuri interactive, meniu pentru copii și intervale clare, ușor de organizat.",
+        "h1": "Boom Play Land",
+        "h2s": [
+          "Experiențele mămicilor",
+          "Ai fost aici și vrei să ne spui cum a fost?",
+          "De ce aleg părinții Boom Play Land"
+        ],
+        "wordCount": 2548,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://animatorpetrecericopii.ro/",
+        "status": 200,
+        "title": "Servicii animatori copii Bucuresti si Ilfov - Animator Petreceri Copiicall-answercall-answermail-black-envelope-symbol",
+        "metaDesc": "Reusim zi de zi sa facem copiii fericiti, cu ajutorul celor mai buni animatori copii Bucuresti. Caldura emanata de personalul nostru, rabdarea si atentia la detalii cat si stabilirea unei atmosfere legendare de la inceputul colaborarii, va reusi sa bucure fiecare prichindel. Acum, cel mic va avea sansa sa se intalneasca cu eroii sai preferati, jucati de cei mai simpatici animatori gradinita sau animatori tabare. Cu o singura aruncatura de click veti putea intra in posesia acestora, chiar daca veti cere animatori copii sectorul 1,2,3,4,5, sau 6!",
+        "h1": "Organizam cele mai tari petreceri cu animatori pentru copilul tau!",
+        "h2s": [
+          "Bine ati venit!",
+          "Cele mai cautate oferte",
+          "Galerie"
+        ],
+        "wordCount": 1295,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      }
+    ]
+  },
+  "Sector 5": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-5/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 5",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/animatori-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 5",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://dizemanepe.ro/animatori-copii/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://ursulla.ro/animatori-petreceri-copii/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-5/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în Sector 5 | Kassia",
+      "metaDesc": "Cauți animatori pentru copii în Sectorul 5? Oferim programe interactive cu personaje îndrăgite, jocuri distractive, pictură pe față și modelaj de baloane.",
+      "h1": "Animatori pentru petreceri de copii în Sector 5",
+      "h2s": [
+        "Ce face un animator la petrecerea copilului",
+        "Activități care pot fi incluse în program",
+        "Cum adaptăm programul pentru petrecerile din Sector 5"
+      ],
+      "wordCount": 1398,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "rahova",
+        "ferentari",
+        "13 septembrie",
+        "panduri",
+        "cotroceni",
+        "sălaj"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://dizemanepe.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - DizemanepeFacebookInstagramTwitter",
+        "metaDesc": "",
+        "h1": "Eroare 404. Te-ai pierdut?",
+        "h2s": [
+          "Ne gasesti si pe:",
+          "Informatii",
+          "Creare site"
+        ],
+        "wordCount": 1007,
+        "faqCount": 4,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kidszone.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - Kids Zone",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 421,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://ursulla.ro/animatori-petreceri-copii/",
+        "status": 404,
+        "title": "404 Not Found",
+        "metaDesc": "",
+        "h1": "404",
+        "h2s": [
+          "Not Found"
+        ],
+        "wordCount": 15,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": false,
+        "contact": false,
+        "matchedZones": []
+      }
+    ]
+  },
+  "Sector 6": {
+    "targetUrl": "https://www.kassia.ro/animatori-petreceri-copii-sector-6/",
+    "queries": [
+      {
+        "query": "animatori petreceri copii Sector 6",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kyp.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      },
+      {
+        "query": "animatori copii Sector 6",
+        "source": "SEARCH API FALLBACK + LIVE BROWSER INSPECTION",
+        "results": [
+          {
+            "url": "https://superparty.ro/animatori-petreceri-copii/",
+            "title": "Competitor 1",
+            "snippet": "..."
+          },
+          {
+            "url": "https://clownparty.ro/animatori-copii/",
+            "title": "Competitor 2",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kyp.ro/",
+            "title": "Competitor 3",
+            "snippet": "..."
+          },
+          {
+            "url": "https://kidszone.ro/animatori-copii/",
+            "title": "Competitor 4",
+            "snippet": "..."
+          },
+          {
+            "url": "https://animatorpetrecericopii.ro/",
+            "title": "Competitor 5",
+            "snippet": "..."
+          }
+        ]
+      }
+    ],
+    "kassia": {
+      "url": "https://www.kassia.ro/animatori-petreceri-copii-sector-6/",
+      "status": 200,
+      "title": "Animatori pentru petreceri de copii în Sector 6 | Kassia",
+      "metaDesc": "Activități pentru petreceri de copii în Sector 6, adaptate pentru Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+      "h1": "Animatori pentru petreceri de copii în Sector 6",
+      "h2s": [
+        "Ce rol are animatorul la o petrecere în Sector 6",
+        "Activități care se pot integra în program",
+        "Cum adaptăm programul pentru zonele din Sector 6"
+      ],
+      "wordCount": 1466,
+      "faqCount": 8,
+      "faqSchema": true,
+      "reviewSchema": true,
+      "cta": true,
+      "contact": true,
+      "matchedZones": [
+        "drumul taberei",
+        "militari",
+        "ghencea",
+        "crângași",
+        "giulești",
+        "regie",
+        "grozăvești"
+      ]
+    },
+    "competitors": [
+      {
+        "url": "https://superparty.ro/animatori-petreceri-copii/",
+        "status": 200,
+        "title": "Animatori Petreceri Copii București | Personaje & Pachete | SuperParty",
+        "metaDesc": "Animatori pentru petreceri copii în București și Ilfov. Pachete complete cu personaje, jocuri, baloane și pictură pe față. Rezervă rapid SuperParty.",
+        "h1": "Animatori Petreceri Copii București",
+        "h2s": [
+          "Pachete Animatori Petreceri Copii",
+          "De ce aleg părinții SuperParty?",
+          "Zone Acoperite în București & Ilfov"
+        ],
+        "wordCount": 1465,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://clownparty.ro/animatori-copii/",
+        "status": 200,
+        "title": "Inchiriere Animatori Copii Bucuresti | ClownParty.ro",
+        "metaDesc": "Inchiriere animatori copii Bucuresti cu experienta. Personaje copii, jocuri, animatie. Peste 25.000 evenimente realizate. Preturi competitive. Contacteaza-ne!",
+        "h1": "Animatori petreceri copii: animație, jocuri, face-painting și distracție – Clown Party Bucuresti",
+        "h2s": [
+          "Inchiriere animatori copii",
+          "Animatie si jocuri pentru copii",
+          "Evenimente botez"
+        ],
+        "wordCount": 1403,
+        "faqCount": 0,
+        "faqSchema": true,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kyp.ro/",
+        "status": 200,
+        "title": "Petreceri pentru Copii Bucuresti",
+        "metaDesc": "Petreceri pentru Copii Bucuresti, petreceri copii, organizare petreceri copii, organizare petreceri, loc de joaca copii. Petreceri de copii Bucuresti.",
+        "h1": "OFERTA SPECIALA",
+        "h2s": [
+          "",
+          "",
+          "SUCURI SI APA PLATA – NELIMITATE"
+        ],
+        "wordCount": 1089,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": true,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      },
+      {
+        "url": "https://kidszone.ro/animatori-copii/",
+        "status": 404,
+        "title": "Page not found - Kids Zone",
+        "metaDesc": "",
+        "h1": "NO H1",
+        "h2s": [],
+        "wordCount": 421,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": false,
+        "matchedZones": []
+      },
+      {
+        "url": "https://animatorpetrecericopii.ro/",
+        "status": 200,
+        "title": "Servicii animatori copii Bucuresti si Ilfov - Animator Petreceri Copiicall-answercall-answermail-black-envelope-symbol",
+        "metaDesc": "Reusim zi de zi sa facem copiii fericiti, cu ajutorul celor mai buni animatori copii Bucuresti. Caldura emanata de personalul nostru, rabdarea si atentia la detalii cat si stabilirea unei atmosfere legendare de la inceputul colaborarii, va reusi sa bucure fiecare prichindel. Acum, cel mic va avea sansa sa se intalneasca cu eroii sai preferati, jucati de cei mai simpatici animatori gradinita sau animatori tabare. Cu o singura aruncatura de click veti putea intra in posesia acestora, chiar daca veti cere animatori copii sectorul 1,2,3,4,5, sau 6!",
+        "h1": "Organizam cele mai tari petreceri cu animatori pentru copilul tau!",
+        "h2s": [
+          "Bine ati venit!",
+          "Cele mai cautate oferte",
+          "Galerie"
+        ],
+        "wordCount": 1295,
+        "faqCount": 0,
+        "faqSchema": false,
+        "reviewSchema": false,
+        "cta": true,
+        "contact": true,
+        "matchedZones": []
+      }
+    ]
+  }
+}

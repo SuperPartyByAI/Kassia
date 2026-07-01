@@ -1,0 +1,5 @@
+{
+  "shared_media_bucket": "NECLAR (așteptăm deploy real pentru Storage bucket)",
+  "media_paths_separated": true,
+  "asset_mixing_risk": false
+}

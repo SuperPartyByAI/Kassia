@@ -1,0 +1,55 @@
+---
+// ClientBadge.astro
+---
+<div class="client-trust-badge">
+  <div class="ctb-logo">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24px" height="24px" stroke-width="2.5" style="color: #10b981;">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+    </svg>
+  </div>
+  <div class="ctb-content">
+    <div class="ctb-text">
+      <strong>Clienți verificați</strong><br/>
+      Recenzii reale din evenimente Kassia
+    </div>
+  </div>
+</div>
+
+<style>
+  .client-trust-badge {
+    display: inline-flex;
+    align-items: center;
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 10px 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    gap: 12px;
+    font-family: var(--font-family, system-ui, sans-serif);
+    border: 1px solid #eaeaea;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .client-trust-badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+  }
+  .ctb-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ctb-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .ctb-text {
+    font-size: 0.75rem;
+    color: #5f6368;
+    line-height: 1.3;
+  }
+  .ctb-text strong {
+    color: #202124;
+    font-size: 0.8rem;
+  }
+</style>

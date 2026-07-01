@@ -1,0 +1,12 @@
+{
+  "repo_isolation_score": 100,
+  "env_isolation_score": 0,
+  "db_isolation_score": 0,
+  "route_isolation_score": 100,
+  "admin_isolation_score": 100,
+  "media_isolation_score": 100,
+  "link_isolation_score": 100,
+  "publish_guard_score": 100,
+  "deploy_isolation_score": 100,
+  "overall_brand_isolation_score": 0
+}

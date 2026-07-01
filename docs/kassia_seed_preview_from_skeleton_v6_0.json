@@ -1,0 +1,4689 @@
+{
+  "summary": {
+    "total_planned_pages": 169,
+    "total_planned_links": 914,
+    "safe_for_manual_sql_review": true,
+    "safe_for_seed_run": false
+  },
+  "pages": [
+    {
+      "path": "/",
+      "page_type": "homepage",
+      "parent_path": null,
+      "main_keyword": "agentie decoratiuni baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/despre-noi/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "despre noi",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/contact/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "contact",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/galerie/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "galerie",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/preturi-decoratiuni-baloane/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "preturi decoratiuni baloane",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/intrebari-frecvente/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "intrebari frecvente",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/recenzii/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "recenzii",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/portofoliu-evenimente/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "portofoliu evenimente",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/termeni-si-conditii/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "termeni si conditii",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/politica-de-confidentialitate/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "politica de confidentialitate",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "blog",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/politica-cookies/",
+      "page_type": "support",
+      "parent_path": "/",
+      "main_keyword": "politica cookies",
+      "search_intent": "navigational",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "content",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 0,
+      "media_slots_to_create": [
+        "hero_image"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-bucuresti/",
+      "page_type": "service_pillar",
+      "parent_path": null,
+      "main_keyword": "decoratiuni baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/aranjamente-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "aranjamente baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/arcada-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "arcada baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/baloane-heliu-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "baloane heliu bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/panou-foto-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "panou foto baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/buchete-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "buchete baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/baloane-personalizate-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "baloane personalizate bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/baloane-cifre-litere-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "baloane cifre litere bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/ghirlande-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "ghirlande baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/stalpi-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "stalpi baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/perete-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "perete baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decor-baloane-candy-bar-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decor baloane candy bar bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/livrare-baloane-bucuresti/",
+      "page_type": "service",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "livrare baloane bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "service_features"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-botez-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane botez bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-mot-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane mot bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-turta-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane turta bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-nunta-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane nunta bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-8-martie-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane 8 martie bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-cununie-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane cununie bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-majorat-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane majorat bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane aniversare copii bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane aniversare adulti bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-petrecere-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane petrecere bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-corporate-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane corporate bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane deschidere magazin bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane deschidere restaurant bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane lansare produs bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-showroom-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane showroom bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-gradinita-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane gradinita bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-scoala-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane scoala bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane baby shower bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane gender reveal bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-craciun-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane craciun bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-revelion-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane revelion bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-paste-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane paste bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-halloween-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane halloween bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane 1 iunie bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-absolvire-bucuresti/",
+      "page_type": "event",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane absolvire bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "event_use_cases"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-1/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 1",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-2/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 2",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-3/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 3",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-4/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 4",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-5/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 5",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sector-6/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sector 6",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-aviatiei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane aviatiei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-baneasa/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane baneasa",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-domenii/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane domenii",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-herastrau/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane herastrau",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-victoriei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane victoriei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-colentina/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane colentina",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-obor/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane obor",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-pantelimon/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane pantelimon",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-tei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane tei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-stefan-cel-mare/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane stefan cel mare",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-dristor/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane dristor",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-titan/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane titan",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-vitan/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane vitan",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-unirii/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane unirii",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-dudesti/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane dudesti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-berceni/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane berceni",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-tineretului/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane tineretului",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-piata-sudului/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane piata sudului",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-aparatorii-patriei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane aparatorii patriei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-oltenitei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane oltenitei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-rahova/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane rahova",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-cotroceni/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane cotroceni",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-13-septembrie/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane 13 septembrie",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-ferentari/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane ferentari",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-sebastian/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane sebastian",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-drumul-taberei/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane drumul taberei",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-militari/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane militari",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-crangasi/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane crangasi",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-giulesti/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane giulesti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-grozavesti/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane grozavesti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-ilfov/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane ilfov",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-voluntari/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane voluntari",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-pipera/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane pipera",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-otopeni/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane otopeni",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-tunari/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane tunari",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-corbeanca/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane corbeanca",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-balotesti/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane balotesti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-mogosoaia/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane mogosoaia",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-chitila/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane chitila",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-chiajna/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane chiajna",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-domnesti/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane domnesti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-bragadiru/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane bragadiru",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-magurele/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane magurele",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-popesti-leordeni/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane popesti leordeni",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-berceni-ilfov/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane berceni ilfov",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-pantelimon-ilfov/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane pantelimon ilfov",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-cernica/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane cernica",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-afumati/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane afumati",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-stefanestii-de-jos/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane stefanestii de jos",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-dascalu/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane dascalu",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-snagov/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane snagov",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-clinceni/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane clinceni",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-dragomiresti-vale/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane dragomiresti vale",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-jilava/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane jilava",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-1-decembrie/",
+      "page_type": "location",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane 1 decembrie",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta",
+        "available_services",
+        "nearby_areas"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/arcada-baloane-botez-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-botez-bucuresti/",
+      "main_keyword": "arcada baloane botez bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/arcada-baloane-majorat-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+      "main_keyword": "arcada baloane majorat bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/arcada-baloane-nunta-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-nunta-bucuresti/",
+      "main_keyword": "arcada baloane nunta bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/panou-foto-baloane-botez-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-botez-bucuresti/",
+      "main_keyword": "panou foto baloane botez bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/panou-foto-baloane-majorat-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+      "main_keyword": "panou foto baloane majorat bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/baloane-heliu-majorat-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+      "main_keyword": "baloane heliu majorat bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/baloane-heliu-aniversare-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+      "main_keyword": "baloane heliu aniversare bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/buchete-baloane-aniversare-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+      "main_keyword": "buchete baloane aniversare bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane roz auriu bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+      "page_type": "satellite",
+      "parent_path": "/decoratiuni-baloane-bucuresti/",
+      "main_keyword": "decoratiuni baloane alb auriu bucuresti",
+      "search_intent": "commercial",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "gallery",
+        "pricing",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă decorațiunile cu baloane",
+      "search_intent": "informativ / preț",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-o-arcada-de-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă o arcadă de baloane",
+      "search_intent": "informativ / preț serviciu",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-baloanele-cu-heliu/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă baloanele cu heliu",
+      "search_intent": "informativ / preț produs",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă un panou foto cu baloane",
+      "search_intent": "informativ / preț serviciu",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă decor baloane botez",
+      "search_intent": "informativ / preț eveniment",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât costă decor baloane nuntă",
+      "search_intent": "informativ / preț eveniment",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/ce-include-un-pachet-decor-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "ce include un pachet decor baloane",
+      "search_intent": "informativ / decizie",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cum alegi pachetul de decorațiuni baloane",
+      "search_intent": "informativ / decizie",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-alegi-arcada-de-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cum alegi arcada de baloane",
+      "search_intent": "ghid informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/arcada-baloane-organica-sau-clasica/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "arcadă baloane organică sau clasică",
+      "search_intent": "comparație",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "dimensiune arcadă baloane",
+      "search_intent": "informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "unde se poate monta o arcadă de baloane",
+      "search_intent": "logistic / informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cat-rezista-o-arcada-de-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cât rezistă o arcadă de baloane",
+      "search_intent": "informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei arcadă baloane evenimente",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/baloane-heliu-cat-rezista/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "baloane heliu cât rezistă",
+      "search_intent": "informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/baloane-heliu-latex-sau-folie/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "baloane heliu latex sau folie",
+      "search_intent": "comparație",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "câte baloane cu heliu sunt necesare pentru o cameră",
+      "search_intent": "informativ / calcul",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cum se transportă baloanele cu heliu",
+      "search_intent": "logistic",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "baloane cu heliu pentru copii idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "baloane cu heliu pentru majorat idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-botez/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane botez",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-mot-si-turta/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane moț și turtă",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-nunta/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane nuntă",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-cununie/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane cununie",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-majorat/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane majorat",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-aniversare-copii/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane aniversare copii",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-aniversare-adulti/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane aniversare adulți",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-baby-shower/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane baby shower",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-gender-reveal/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane gender reveal",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/idei-decor-baloane-corporate/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "idei decor baloane corporate",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cum alegi culorile pentru decorul cu baloane",
+      "search_intent": "informativ / design",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/decor-baloane-roz-auriu-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decor baloane roz auriu idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/decor-baloane-alb-auriu-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decor baloane alb auriu idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/decor-baloane-pastel-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decor baloane pastel idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/decor-baloane-luxury-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decor baloane luxury idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decor baloane minimalist sau spectaculos",
+      "search_intent": "comparație / inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cum comanzi decorațiuni cu baloane",
+      "search_intent": "logistic / conversie",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cu cât timp înainte se comandă decorul cu baloane",
+      "search_intent": "logistic",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "ce informații trebuie să trimiți pentru ofertă decor baloane",
+      "search_intent": "logistic / conversie",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "montaj decorațiuni baloane",
+      "search_intent": "logistic / informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "decorațiuni baloane exterior",
+      "search_intent": "logistic / informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "ce se întâmplă cu decorul după eveniment",
+      "search_intent": "logistic / informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "panou foto cu baloane idei",
+      "search_intent": "informativ / inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "candy bar cu decor de baloane idei",
+      "search_intent": "inspirațional",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "foto corner cu baloane pentru evenimente",
+      "search_intent": "inspirațional / informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "cifre și litere din baloane",
+      "search_intent": "informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/buchete-baloane-cand-se-potrivesc/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "buchete baloane când se potrivesc",
+      "search_intent": "informativ",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    },
+    {
+      "path": "/blog/baloane-personalizate-pentru-evenimente/",
+      "page_type": "guide",
+      "parent_path": "/blog/",
+      "main_keyword": "baloane personalizate pentru evenimente",
+      "search_intent": "informativ / comercial suport",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "sections_to_create": [
+        "hero",
+        "intro",
+        "toc",
+        "main_answer",
+        "examples",
+        "mistakes_to_avoid",
+        "recommended_services",
+        "faq",
+        "final_cta"
+      ],
+      "faq_slots_to_create": 3,
+      "media_slots_to_create": [
+        "hero_image",
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4"
+      ],
+      "internal_links_to_create": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kassia_page_sections": [],
+  "kassia_faqs": [
+    {
+      "id": "0a75b204-ecce-4749-b8b2-bd073eb3509e",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "question": "Cât timp durează montajul unui decor cu baloane?",
+      "answer": "Timpul de montaj variază între 1 și 3 ore, în funcție de complexitatea aranjamentelor și structurile folosite.",
+      "order_index": 1,
+      "created_at": "2026-05-24T04:33:11.881475+00:00",
+      "updated_at": "2026-05-24T04:33:11.881475+00:00"
+    },
+    {
+      "id": "d4e681b1-3c2e-4b04-800a-56179e52ba3e",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "question": "Cu cât timp înainte trebuie să dau comanda?",
+      "answer": "Recomandăm să ne contactezi cu cel puțin 2 săptămâni înainte de eveniment pentru a verifica disponibilitatea materialelor și a echipei.",
+      "order_index": 5,
+      "created_at": "2026-05-24T04:33:11.881475+00:00",
+      "updated_at": "2026-05-24T04:33:11.881475+00:00"
+    },
+    {
+      "id": "ed8c6c95-c750-4961-90a4-0d4760016211",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "Cu cât timp înainte trebuie să fac rezervarea?",
+      "answer": "Este recomandat să ne contactezi cu 3-4 săptămâni înainte de data botezului, mai ales în perioadele aglomerate de primăvară-vară, pentru a ne putea verifica disponibilitatea în ziua respectivă.",
+      "order_index": 2,
+      "created_at": "2026-05-23T18:21:17.983146+00:00",
+      "updated_at": "2026-05-23T18:34:27.755922+00:00"
+    },
+    {
+      "id": "4a31ec9e-410e-4204-ad0a-52f296623e85",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "Asigurați montajul și demontajul la locație?",
+      "answer": "Da, echipa noastră vine la restaurantul sau locația aleasă din București și Ilfov pentru a asambla decorul. Tot noi ne ocupăm de ridicarea structurilor închiriate (precum suportul pentru panou) la finalul evenimentului sau a doua zi.",
+      "order_index": 3,
+      "created_at": "2026-05-23T18:21:17.983146+00:00",
+      "updated_at": "2026-05-23T18:34:27.902851+00:00"
+    },
+    {
+      "id": "9ba4579e-af0f-424b-910d-c17410717bbc",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "Cum pot obține o estimare pentru un decor cu baloane pentru botez?",
+      "answer": "Estimarea variază în funcție de complexitatea aranjamentelor, tipul baloanelor folosite și accesoriile dorite (panou, suport arcadă, cilindri). Ne poți trimite o poză de referință pentru a primi o ofertă adaptată.",
+      "order_index": 1,
+      "created_at": "2026-05-23T18:21:17.983146+00:00",
+      "updated_at": "2026-06-22T15:55:23.894286+00:00"
+    },
+    {
+      "id": "66def1c7-56fd-47e2-a77b-62c2eeff313d",
+      "page_id": "173c35d7-6109-49aa-9c7d-a5560c268cd1",
+      "question": "Cum se obține o estimare pentru decorul cu baloane de majorat?",
+      "answer": "Estimarea depinde de dimensiunea decorului, elementele incluse, locație, culori, accesorii și timpul necesar pentru montaj. Pentru o ofertă corectă, trimite-ne data petrecerii, locația și câteva poze de inspirație.",
+      "order_index": 1,
+      "created_at": "2026-05-22T06:10:20.108335+00:00",
+      "updated_at": "2026-06-22T15:55:24.555607+00:00"
+    },
+    {
+      "id": "d7282a11-0bc4-49d4-8340-b0aaa05809ba",
+      "page_id": "173c35d7-6109-49aa-9c7d-a5560c268cd1",
+      "question": "Cu cât timp înainte trebuie să cer oferta?",
+      "answer": "Recomandăm să ne contactezi cât mai devreme, Recomandăm să ne contactezi cât mai devreme, pentru a stabili detaliile decorului și disponibilitatea datei., pentru a verifica disponibilitatea și pentru a pregăti decorul potrivit.",
+      "order_index": 6,
+      "created_at": "2026-05-22T06:10:20.108335+00:00",
+      "updated_at": "2026-06-22T15:55:24.645826+00:00"
+    },
+    {
+      "id": "99097e2b-3fdb-49f1-8148-cccce0d6f919",
+      "page_id": "2f32b22f-6c11-441e-833a-500beec6ce10",
+      "question": "Cu cât timp înainte trebuie să cer oferta?",
+      "answer": "Recomandăm să ne contactezi cât mai devreme, Recomandăm să ne contactezi cât mai devreme, pentru a stabili detaliile decorului și disponibilitatea datei., pentru a verifica disponibilitatea și pentru a pregăti decorul potrivit temei alese.",
+      "order_index": 60,
+      "created_at": "2026-05-22T06:54:53.81775+00:00",
+      "updated_at": "2026-06-22T15:55:23.761747+00:00"
+    },
+    {
+      "id": "3fa2057b-6564-4b00-ad7b-ec6b5b017d2c",
+      "page_id": "170a9e6d-261d-4f49-b982-74d0ecfb21a1",
+      "question": "Cu cât timp înainte trebuie să cer oferta?",
+      "answer": "Recomandăm să ne contactezi cât mai devreme, Recomandăm să ne contactezi cât mai devreme, pentru a stabili detaliile decorului și disponibilitatea datei., pentru a verifica disponibilitatea și pentru a pregăti decorul potrivit.",
+      "order_index": 60,
+      "created_at": "2026-05-22T09:57:44.594146+00:00",
+      "updated_at": "2026-06-22T15:55:23.539823+00:00"
+    }
+  ],
+  "kassia_pages": []
+}

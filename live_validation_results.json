@@ -1,0 +1,144 @@
+{
+  "deployStatus": {
+    "buildDone": false,
+    "buildPassed": "N/A",
+    "deployDone": false,
+    "reloadDone": false,
+    "timestamp": "N/A",
+    "modifiedFile": "src/middleware.ts",
+    "isMiddlewareLive": false
+  },
+  "reportTable": [
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-1/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-1/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-1/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-2/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-2/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-2/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-3/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-3/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-3/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-4/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-4/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-4/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-5/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-5/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-5/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-sector-6/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii-sector-6/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii-sector-6/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    },
+    {
+      "legacyUrl": "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+      "statusLiveOFF": 301,
+      "location": "/animatori-petreceri-copii/",
+      "statusFinalON": 200,
+      "finalUrl": "/animatori-petreceri-copii/",
+      "redirectChain": "NU",
+      "sitemapLegacy": "NU",
+      "targetStatus": 200,
+      "verdict": "LEGACY REDIRECT CLEANUP — LIVE VALIDATED"
+    }
+  ],
+  "dbRowsAfected": [
+    {
+      "path": "/animatori-copii-sector-1/",
+      "count": 1,
+      "status": "published"
+    },
+    {
+      "path": "/animatori-copii-sector-2/",
+      "count": 1,
+      "status": "draft"
+    },
+    {
+      "path": "/animatori-copii-sector-3/",
+      "count": 1,
+      "status": "draft"
+    },
+    {
+      "path": "/animatori-copii-sector-4/",
+      "count": 1,
+      "status": "draft"
+    },
+    {
+      "path": "/animatori-copii-sector-5/",
+      "count": 1,
+      "status": "draft"
+    },
+    {
+      "path": "/animatori-copii-sector-6/",
+      "count": 1,
+      "status": "published"
+    },
+    {
+      "path": "/animatori-copii-la-evenimente-private-bucuresti/",
+      "count": 1,
+      "status": "draft"
+    },
+    {
+      "path": "/animatori-pentru-copii-mici-bucuresti/",
+      "count": 1,
+      "status": "draft"
+    }
+  ],
+  "needsDeploy": false
+}

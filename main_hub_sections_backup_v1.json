@@ -1,0 +1,238 @@
+[
+  {
+    "id": "df4b0bbe-34e9-4f62-927f-98567598a83e",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "hero",
+    "heading": "Hero Section",
+    "content": {
+      "body": "Organizăm programe de animație premium pentru petreceri de copii în București și Ilfov, cu jocuri interactive, activități captivante, mascote și momente adaptate vârstei copiilor, spațiului și tematicii evenimentului.",
+      "cta_url": "/contact/",
+      "cta_text": "Trimite detaliile petrecerii",
+      "image_alt": "Animatori pentru petreceri de copii în București și Ilfov",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+    },
+    "order_index": 0,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:49.044209+00:00"
+  },
+  {
+    "id": "f3f02f2f-a335-464d-9cf0-9d86552b8b33",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "service_details",
+    "heading": "Ce face un animator la petrecerea copilului",
+    "content": {
+      "body": "Animatorul ghidează copiii prin jocuri, dansuri, activități de grup și momente distractive, asigurându-se că petrecerea are ritm și energie. Programul poate include provocări fizice simple, concursuri și momente artistice. Fiecare moment este completat de activități îndrăgite de cei mici, cum ar fi sesiuni de <a href=\"/pictura-pe-fata-copii-bucuresti/\">pictură pe față</a> și creații prin <a href=\"/modelaj-baloane-copii-bucuresti/\">modelaj de baloane</a>, oferind o desfășurare variată care îi menține pe toți participanții implicați activ.",
+      "heading": "Ce face un animator la petrecerea copilului",
+      "image_alt": "Activități interactive cu animatori petreceri copii",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+    },
+    "order_index": 1,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-20T15:04:43.347119+00:00"
+  },
+  {
+    "id": "4cc74718-abdf-4291-b5e0-4eddfc6e0723",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "activities_grid",
+    "heading": "Activități care pot fi incluse în program",
+    "content": {
+      "cards": [
+        {
+          "body": "Ștafete, jocuri de echipă și probe distractive adaptate vârstei copiilor și spațiului disponibil.",
+          "title": "Jocuri interactive",
+          "image_alt": "Jocuri interactive pentru copii",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+        },
+        {
+          "body": "Întâlniri magice cu personaje preferate, aducând bucurie și momente speciale pentru fotografii.",
+          "title": "Mascote și personaje",
+          "image_alt": "Mascote petreceri copii",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+        },
+        {
+          "body": "Transformări spectaculoase în personajele dorite, cu culori potrivite pentru copii.",
+          "title": "Pictură pe față",
+          "image_alt": "Pictură pe față copii",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+        },
+        {
+          "body": "Figurine colorate (săbii, flori, animăluțe) oferite fiecărui copil ca amintire din partea echipei.",
+          "title": "Modelaj din baloane",
+          "image_alt": "Modelaj din baloane",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+        },
+        {
+          "body": "Coregrafii simple și muzică veselă care antrenează toți copiii în mișcare și dans.",
+          "title": "Dansuri și mini-disco",
+          "image_alt": "Mini disco cu animatori",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+        },
+        {
+          "body": "Crafting și activități practice tematice unde cei mici își pot dezvolta imaginația.",
+          "title": "Ateliere creative",
+          "image_alt": "Atelier creativ petrecere copii",
+          "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+        }
+      ]
+    },
+    "order_index": 2,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-20T14:44:47.106951+00:00"
+  },
+  {
+    "id": "bee16c50-8319-403c-9d18-3fcdd9715d76",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "service_details",
+    "heading": "Cum adaptăm programul pentru petrecerile din București și Ilfov",
+    "content": {
+      "body": "Structura fiecărui program este adaptată în funcție de vârsta participanților și dinamica grupului. Pentru preșcolari, prioritizăm activități senzoriale, jocuri muzicale blânde și interacțiune caldă. Pentru școlari și copii mai mari, construim competiții tematice, ștafete și provocări potrivite lor. Această adaptare asigură că toți participanții se simt implicați. Detalii suplimentare despre opțiuni sunt disponibile pe pagina de prezentare pentru <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+      "heading": "Cum adaptăm programul pentru petrecerile din București și Ilfov",
+      "image_alt": "Activități adaptate după vârstă",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+    },
+    "order_index": 3,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:49.63989+00:00"
+  },
+  {
+    "id": "2ec4a920-11d9-4b12-befd-611745779278",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "service_details",
+    "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+    "content": {
+      "body": "Echipa Kassia se deplasează la locația aleasă de dumneavoastră în București sau Ilfov. Fie că evenimentul are loc în sufragerie, în curtea casei, într-o sală de clasă la grădiniță sau la un restaurant primitor, adaptăm recuzita și modul de desfășurare a jocurilor pentru siguranța copiilor. Organizăm jocuri potrivite pentru spații restrânse sau activități în aer liber, menținând energia la cote ridicate.",
+      "heading": "Petreceri acasă, la restaurant, grădiniță sau spațiu de joacă",
+      "image_alt": "Deplasare animatori la locații",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+    },
+    "order_index": 4,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:49.789991+00:00"
+  },
+  {
+    "id": "7644b9a1-0e4c-4a50-8d93-50466f4c2a97",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "service_details",
+    "heading": "Pentru ce tipuri de petreceri este potrivit",
+    "content": {
+      "body": "Programele noastre sunt potrivite pentru aniversări, botezuri, evenimente de familie unde sunt mulți copii invitați sau serbări. Prezența unui animator oferă un echilibru excelent: adulții se pot relaxa și socializa, știind că cei mici sunt supravegheați și implicați în activități creative. Pentru detalii specifice despre servicii locale din anumite sectoare, poți consulta pagina <a href=\"/animatori-petreceri-copii-sector-1/\">Animatori petreceri copii Sector 1</a>.",
+      "heading": "Pentru ce tipuri de petreceri este potrivit",
+      "image_alt": "Tipuri de evenimente pentru copii",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+    },
+    "order_index": 5,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:50.207714+00:00"
+  },
+  {
+    "id": "7c36af14-c261-4809-adec-a23642ef83ee",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "service_details",
+    "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+    "content": {
+      "body": "Punem accent pe activități potrivite fiecărui context, comunicare blândă și costume îngrijite. Structurăm desfășurarea programului împreună cu dumneavoastră pentru a ne asigura că ritmul este cel dorit. Pentru un plus de culoare, puteți opta și pentru prezența unei <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote pentru petreceri copii</a>, aducând personajele preferate direct în mijlocul petrecerii.",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "image_alt": "De ce să alegi Kassia",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+    },
+    "order_index": 6,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:29:25.769756+00:00"
+  },
+  {
+    "id": "0def1f16-9493-44c1-a6d2-1ee1c10f24cb",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "process_steps",
+    "heading": "Cum stabilim programul",
+    "content": {
+      "steps": [
+        {
+          "body": "Ne transmiteți data, ora și numărul estimat de copii invitați prin formularul nostru de pe site sau direct pe WhatsApp.",
+          "title": "Ne contactați cu detaliile petrecerii"
+        },
+        {
+          "body": "Discutăm despre vârsta copiilor, specificul spațiului unde se desfășoară petrecerea și preferințele sărbătoritului.",
+          "title": "Stabilim profilul invitaților și locația"
+        },
+        {
+          "body": "Selectăm personajele dorite, dansurile, pictura pe față sau modelajul de baloane.",
+          "title": "Alegem mixul potrivit de activități"
+        },
+        {
+          "body": "Definim structura programului pas cu pas pentru ca totul să decurgă fluid și potrivit contextului.",
+          "title": "Pregătim desfășurarea evenimentului"
+        }
+      ],
+      "image_alt": "Etape planificare program",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+    },
+    "order_index": 7,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:51.26543+00:00"
+  },
+  {
+    "id": "5dc0631e-082d-43e2-ae13-e2aaa602ff1e",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "cta_final",
+    "heading": "Planifică petrecerea copilului în București și Ilfov",
+    "content": {
+      "body": "Ne puteți trimite detaliile evenimentului dumneavoastră, iar echipa noastră vă ajută să stabiliți activitățile potrivite în funcție de vârsta copiilor, locație și tematica petrecerii.",
+      "cta_url": "/contact/",
+      "heading": "Planifică petrecerea copilului în București și Ilfov",
+      "cta_text": "Trimite detaliile petrecerii",
+      "image_alt": "Planifică petrecerea cu Kassia",
+      "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+    },
+    "order_index": 8,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:51.484816+00:00"
+  },
+  {
+    "id": "247757f4-97d6-48c3-ae13-927504390ec2",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "draft",
+    "heading": null,
+    "content": {
+      "body": ""
+    },
+    "order_index": 9,
+    "created_at": "2026-06-18T14:26:13.107153+00:00",
+    "updated_at": "2026-06-19T16:15:51.8698+00:00"
+  },
+  {
+    "id": "ec37c767-cf2f-4c96-9561-8f4b59bbdb8b",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "draft",
+    "heading": null,
+    "content": {
+      "body": ""
+    },
+    "order_index": 10,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:52.159909+00:00"
+  },
+  {
+    "id": "77a299b3-9230-4434-a69d-62f9b48ad6a3",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "draft",
+    "heading": null,
+    "content": {
+      "body": ""
+    },
+    "order_index": 11,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:52.27865+00:00"
+  },
+  {
+    "id": "e1dd2eb4-288b-46b3-98a1-6e7caa7706f6",
+    "page_id": "160e370f-0540-4501-b50f-62f88b6c8e83",
+    "section_type": "draft",
+    "heading": null,
+    "content": {
+      "body": ""
+    },
+    "order_index": 12,
+    "created_at": "2026-06-18T10:32:15.078406+00:00",
+    "updated_at": "2026-06-19T16:15:52.480052+00:00"
+  }
+]

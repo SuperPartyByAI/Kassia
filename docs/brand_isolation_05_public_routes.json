@@ -1,0 +1,5 @@
+{
+  "kassia_routes_on_zouka_host": false,
+  "zouka_routes_on_kassia_host": false,
+  "cross_brand_public_leak": false
+}

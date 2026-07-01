@@ -1,0 +1,37 @@
+[2026-06-29T12:32:01.612Z] Images verified. DRY_RUN is true
+[2026-06-29T12:32:01.623Z] ERROR: Forbidden string "lux" found in payload for Corporate Data Payload.
+[2026-06-29T12:32:14.190Z] Images verified. DRY_RUN is true
+[2026-06-29T12:32:14.191Z] Starting Batch A V3.1 Validation & Update process via REST...
+[2026-06-29T12:32:14.758Z] PAGE DB OK: animatori-copii-la-restaurant-bucuresti (BEFORE H1: Animatori pentru copii la restaurant în București)
+[2026-06-29T12:32:14.888Z] PAGE DB OK: animatori-eveniment-corporate-copii-bucuresti (BEFORE H1: Animatori pentru copii la evenimente corporate în București)
+[2026-06-29T12:32:14.889Z] 
+--- Processing Page ID: b7038460-b34d-4b2d-ba76-d448a6e8fd84 ---
+[2026-06-29T12:32:14.890Z] PAGES UPDATE: [title, meta_title, meta_description, h1]
+[2026-06-29T12:32:15.058Z] SECTION UPDATE: a761ca10-0a3a-49ab-8aa2-54865df57f0a (BEFORE: De ce să chemi animatori pentru copii la o petrecere la restaurant?) -> (AFTER: Cum ținem copiii implicați la o petrecere în restaurant)
+[2026-06-29T12:32:15.208Z] SECTION UPDATE: 37bfdbff-c4e3-4172-b954-25b6ed75d8d8 (BEFORE: Activități incluse în pachetele de animație) -> (AFTER: Activități potrivite pentru spații de interior)
+[2026-06-29T12:32:15.314Z] SECTION UPDATE: 43524001-2cb7-4ec4-a2d1-178e6d671462 (BEFORE: Personalizare în funcție de vârstă) -> (AFTER: Ce facem dacă restaurantul nu are loc de joacă separat)
+[2026-06-29T12:32:15.421Z] SECTION UPDATE: c4c88e12-ba48-4999-855a-755b351b5ed4 (BEFORE: Rezervă animatori pentru petrecerea la restaurant în București) -> (AFTER: Rezervă animatori pentru petrecerea la restaurant în București)
+[2026-06-29T12:32:15.569Z] FAQ UPDATE: d053616f-1f22-4595-9d57-063ebbf03054 (BEFORE: Cât timp stă un animator la o petrecere organizată la restaurant?) -> (AFTER: Animatorul are nevoie de un loc de joacă separat în restaurant?)
+[2026-06-29T12:32:15.698Z] FAQ UPDATE: 7b0f12f7-85cf-44c3-ba6f-ddd05f1541b4 (BEFORE: Ce jocuri organizează animatorii?) -> (AFTER: Ce activități se potrivesc într-un restaurant?)
+[2026-06-29T12:32:15.787Z] FAQ UPDATE: 05ebf189-048c-4650-a3f4-2adc1adbd9a5 (BEFORE: Cum aleg personajul potrivit?) -> (AFTER: Se poate organiza programul dacă restaurantul are spațiu mic?)
+[2026-06-29T12:32:15.890Z] FAQ UPDATE: f214f33b-a217-4594-858f-38fabbaa4ce2 (BEFORE: Este inclusă și pictura pe față?) -> (AFTER: Cât timp este potrivit un program cu animator la restaurant?)
+[2026-06-29T12:32:15.991Z] FAQ UPDATE: 1604427f-fef7-4af7-97a7-4cdf35fe3c42 (BEFORE: Cu cât timp înainte trebuie să fac rezervarea?) -> (AFTER: Copiii de vârste diferite pot participa la același program?)
+[2026-06-29T12:32:16.081Z] FAQ UPDATE: 17b2861d-f7a9-4795-8a26-8205e4c40f1b (BEFORE: Animatorul aduce recuzita necesară?) -> (AFTER: Ce detalii trebuie să trimitem înainte de rezervare?)
+[2026-06-29T12:32:16.209Z] FAQ UPDATE: 0f37187b-fe52-4e60-8fac-f873ae617d32 (BEFORE: Pentru ce grupe de vârstă sunt potrivite programele?) -> (AFTER: Ce fel de muzică va fi pe fundal în timpul jocurilor?)
+[2026-06-29T12:32:16.293Z] FAQ UPDATE: 2ee95be9-d4cf-4f90-8936-2634a870c646 (BEFORE: Câți copii pot participa la activități cu un singur animator?) -> (AFTER: Puteți aduce un sistem karaoke pentru copii la restaurant?)
+[2026-06-29T12:32:16.293Z] 
+--- Processing Page ID: 44ccceb6-1404-4438-84ea-f7e51debe94e ---
+[2026-06-29T12:32:16.293Z] PAGES UPDATE: [title, meta_title, meta_description, h1]
+[2026-06-29T12:32:16.412Z] SECTION UPDATE: d82bfd88-3a36-4717-ad8a-d159f1a299ea (BEFORE: De ce să inviți animatori pentru copiii prezenți la un eveniment corporate?) -> (AFTER: Activități pentru copiii invitați la evenimente corporate)
+[2026-06-29T12:32:16.496Z] SECTION UPDATE: 36203511-1f48-41b8-9ac9-9bdc818490d4 (BEFORE: Activități incluse în pachetele de animație) -> (AFTER: Program adaptat pentru grupuri și vârste diferite)
+[2026-06-29T12:32:16.597Z] SECTION UPDATE: a63c22ea-53ee-4719-9d77-1cab4b21c4c4 (BEFORE: Personalizare în funcție de vârstă) -> (AFTER: Organizare pentru sediu, sală de evenimente sau spațiu exterior)
+[2026-06-29T12:32:16.676Z] SECTION UPDATE: f676e5bf-accd-4d77-94ac-d94ec7b61770 (BEFORE: Rezervă animatori pentru evenimentul corporate în București) -> (AFTER: Cere o propunere pentru evenimentul companiei)
+[2026-06-29T12:32:16.757Z] FAQ UPDATE: f817e008-1d11-473c-985e-f85f8cf3f27d (BEFORE: Cât timp durează un program de animație la un eveniment corporate?) -> (AFTER: Pentru ce tipuri de evenimente corporate se potrivesc animatorii pentru copii?)
+[2026-06-29T12:32:16.842Z] FAQ UPDATE: 4f16899a-4c38-454c-9ece-28eef1c55135 (BEFORE: Ce jocuri organizează animatorii?) -> (AFTER: Câți animatori sunt necesari pentru un eveniment corporate?)
+[2026-06-29T12:32:16.938Z] FAQ UPDATE: 9a5f3b7d-706f-4795-b265-d03f94eb91e2 (BEFORE: Cum aleg personajul potrivit?) -> (AFTER: Puteți veni la sediul companiei?)
+[2026-06-29T12:32:17.032Z] FAQ UPDATE: 26015ca4-8654-4b43-b806-e4fdd25ab3a5 (BEFORE: Este inclusă și pictura pe față?) -> (AFTER: Ce activități pot fi incluse pentru copiii angajaților?)
+[2026-06-29T12:32:17.120Z] FAQ UPDATE: a5996fc4-fb0e-4507-b526-cfc8ad5b8bfc (BEFORE: Cu cât timp înainte trebuie să fac rezervarea?) -> (AFTER: Se poate adapta programul la agenda evenimentului?)
+[2026-06-29T12:32:17.209Z] FAQ UPDATE: 89eeb4b2-d5fa-4256-b1ba-6fa767fc241a (BEFORE: Animatorul aduce recuzita necesară?) -> (AFTER: Ce detalii trebuie trimise pentru o propunere?)
+[2026-06-29T12:32:17.287Z] FAQ UPDATE: 45e0d028-8112-43b6-8f64-44e25d8406ac (BEFORE: Pentru ce grupe de vârstă sunt potrivite programele?) -> (AFTER: Putem organiza activitățile copiilor într-o sală de meeting separată?)
+[2026-06-29T12:32:17.379Z] FAQ UPDATE: 2850f4d0-3b86-4df8-b324-e9613f5c2ef7 (BEFORE: Câți copii pot participa la activități cu un singur animator?) -> (AFTER: În ce limbă se desfășoară activitățile cu copiii?)
+[2026-06-29T12:32:17.379Z] Done. DRY_RUN was true

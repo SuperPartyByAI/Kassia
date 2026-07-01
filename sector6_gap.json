@@ -1,0 +1,39 @@
+--- Sector 6 ---
+{
+  "hasPricing": false,
+  "hasReviews": true,
+  "faqCount": 8,
+  "hasWhatsApp": true,
+  "hasLinkToMainHub": false,
+  "hasLinkToPersonaje": true,
+  "robots": "index, follow",
+  "canonical": "https://www.kassia.ro/animatori-petreceri-copii-sector-6/",
+  "wordCount": 95
+}
+
+--- Voluntari ---
+{
+  "hasPricing": false,
+  "hasReviews": true,
+  "faqCount": 8,
+  "hasWhatsApp": true,
+  "hasLinkToMainHub": true,
+  "hasLinkToPersonaje": true,
+  "robots": "index, follow",
+  "canonical": "https://www.kassia.ro/animatori-petreceri-copii-voluntari/",
+  "wordCount": 752
+}
+
+--- Main Hub ---
+{
+  "hasPricing": false,
+  "hasReviews": true,
+  "faqCount": 12,
+  "hasWhatsApp": true,
+  "hasLinkToMainHub": true,
+  "hasLinkToPersonaje": true,
+  "robots": "index, follow",
+  "canonical": "https://www.kassia.ro/animatori-petreceri-copii/",
+  "wordCount": 94
+}
+

@@ -1,0 +1,9 @@
+{
+  "tests_executed": true,
+  "results": {
+    "port_3000_kassia_route": "OFFLINE",
+    "port_3000_zouka_route": "OFFLINE",
+    "port_4321_kassia_route": 404,
+    "port_4321_zouka_route": 404
+  }
+}

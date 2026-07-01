@@ -1,0 +1,138 @@
+---
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title} - Kassia Admin</title>
+    <style is:global>
+      :root {
+        --color-primary: #a855f7;
+        --color-bg: #f8fafc;
+        --color-surface: #ffffff;
+        --color-text: #0f172a;
+        --color-border: #e2e8f0;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        background-color: var(--color-bg);
+        color: var(--color-text);
+        display: flex;
+        min-height: 100vh;
+      }
+      .admin-sidebar {
+        width: 250px;
+        background-color: var(--color-surface);
+        border-right: 1px solid var(--color-border);
+        padding: 2rem 1rem;
+      }
+      .admin-sidebar a {
+        display: block;
+        padding: 0.75rem 1rem;
+        color: var(--color-text);
+        text-decoration: none;
+        border-radius: 4px;
+        margin-bottom: 0.5rem;
+      }
+      .admin-sidebar a:hover {
+        background-color: var(--color-bg);
+        color: var(--color-primary);
+      }
+      .admin-main {
+        flex: 1;
+        padding: 2rem;
+        overflow-y: auto;
+      }
+      .card {
+        background: var(--color-surface);
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        margin-bottom: 1.5rem;
+      }
+      .btn {
+        padding: 0.5rem 1rem;
+        background: var(--color-primary);
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
+      }
+      .btn:hover {
+        opacity: 0.9;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 0.75rem;
+        border-bottom: 1px solid var(--color-border);
+        text-align: left;
+      }
+      th {
+        font-weight: 600;
+      }
+      .badge {
+        padding: 0.25rem 0.5rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        background: #e2e8f0;
+      }
+      .badge.published { background: #dcfce7; color: #166534; }
+      .badge.draft { background: #fef9c3; color: #854d0e; }
+      .form-group {
+        margin-bottom: 1rem;
+      }
+      .form-group label {
+        display: block;
+        font-weight: 500;
+        margin-bottom: 0.25rem;
+      }
+      .form-group input, .form-group select, .form-group textarea {
+        width: 100%;
+        padding: 0.5rem;
+        border: 1px solid var(--color-border);
+        border-radius: 4px;
+      }
+      .form-group textarea {
+        min-height: 100px;
+      }
+      .warning-box {
+        background: #fef2f2;
+        border: 1px solid #fecaca;
+        color: #991b1b;
+        padding: 1rem;
+        border-radius: 4px;
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <aside class="admin-sidebar">
+      <h2 style="margin-top: 0; color: var(--color-primary);">Kassia Admin</h2>
+      <nav>
+        <a href="/admin">Dashboard</a>
+        <a href="/admin/pages">Pages</a>
+      </nav>
+      
+      <div style="margin-top: auto; padding-top: 2rem;">
+        <p style="font-size: 0.8rem; color: #64748b;">TODO: Secure this panel with authentication before production.</p>
+      </div>
+    </aside>
+    <main class="admin-main">
+      <slot />
+    </main>
+  </body>
+</html>

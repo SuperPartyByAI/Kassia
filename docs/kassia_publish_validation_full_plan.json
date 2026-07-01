@@ -1,0 +1,18 @@
+{
+  "function_name": "kassia_validate_page_for_publish",
+  "checks": [
+    "h1_exists",
+    "meta_title_exists",
+    "meta_description_exists",
+    "main_keyword_exists",
+    "search_intent_valid",
+    "page_type_valid",
+    "parent_valid",
+    "required_sections_present",
+    "cta_present",
+    "faq_count_met",
+    "media_slots_filled",
+    "no_test_strings",
+    "canonical_valid"
+  ]
+}

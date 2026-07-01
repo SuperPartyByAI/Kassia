@@ -1,0 +1,112 @@
+{
+  "kassia_pages": {
+    "required": [
+      "id",
+      "slug",
+      "path",
+      "page_type",
+      "status",
+      "index_status",
+      "include_in_sitemap",
+      "title",
+      "h1",
+      "meta_title",
+      "meta_description",
+      "priority"
+    ],
+    "columns": [
+      "id",
+      "slug",
+      "path",
+      "page_type",
+      "status",
+      "index_status",
+      "include_in_sitemap",
+      "title",
+      "h1",
+      "meta_title",
+      "meta_description",
+      "canonical_url",
+      "parent_page_id",
+      "service_type",
+      "event_type",
+      "location_type",
+      "city",
+      "sector",
+      "neighborhood",
+      "priority",
+      "created_at",
+      "updated_at",
+      "published_at"
+    ]
+  },
+  "kassia_page_sections": {
+    "required": [
+      "id",
+      "page_id",
+      "section_type",
+      "content",
+      "order_index"
+    ],
+    "columns": [
+      "id",
+      "page_id",
+      "section_type",
+      "heading",
+      "content",
+      "order_index",
+      "created_at",
+      "updated_at"
+    ]
+  },
+  "kassia_faqs": {
+    "required": [
+      "id",
+      "page_id",
+      "question",
+      "answer",
+      "order_index"
+    ],
+    "columns": [
+      "id",
+      "page_id",
+      "question",
+      "answer",
+      "order_index",
+      "created_at",
+      "updated_at"
+    ]
+  },
+  "kassia_gallery_items": {
+    "required": [
+      "id",
+      "page_id",
+      "url",
+      "order_index"
+    ],
+    "columns": [
+      "id",
+      "page_id",
+      "url",
+      "alt_text",
+      "order_index",
+      "created_at",
+      "updated_at"
+    ]
+  },
+  "kassia_internal_links": {
+    "required": [
+      "id",
+      "source_page_id",
+      "target_page_id",
+      "anchor_text"
+    ],
+    "columns": [
+      "id",
+      "source_page_id",
+      "target_page_id",
+      "anchor_text",
+      "created_at"
+    ]
+  }
+}

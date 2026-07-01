@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-21T07:13:16.838Z",
+  "kassia_page_sections": [
+    {
+      "id": "f696d2bb-62e4-461c-95a4-8e08aa906439",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "activities_grid",
+      "heading": "Activități care pot fi incluse în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Programe dinamice cu ștafete, jocuri de echipă și probe distractive adaptate vârstei copiilor și spațiului disponibil.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri interactive de echipă la petreceri pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Întâlniri magice cu personaje îndrăgite de cei mici, care aduc un plus de culoare și momente potrivite atmosferei petrecerii pentru invitați.",
+            "title": "Mascote și personaje",
+            "image_alt": "Mascote și personaje din desene animate pentru aniversări",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Transformări în desene colorate și personaje îndrăgite cu materiale potrivite pentru copii, realizate rapid.",
+            "title": "Pictură pe față",
+            "image_alt": "Modele colorate de pictură pe față pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Baloane modelate rapid în formă de sabie, animăluțe, flori sau inimi, oferite fiecărui copil ca amintire de la petrecere.",
+            "title": "Modelaj din baloane",
+            "image_alt": "Figurine obținute prin modelaj din baloane",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Coregrafii simple pe ritmuri vesele, muzică antrenantă și momente pline de mișcare care implică toți copiii în dans.",
+            "title": "Dansuri și mini-disco",
+            "image_alt": "Program de dansuri și mini-disco pentru grupuri de copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Ateliere practice unde copiii pot realiza decorațiuni, desene tematice sau accesorii pe care le pot lua apoi acasă.",
+            "title": "Activități creative",
+            "image_alt": "Ateliere creative și activități practice pentru copii",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ]
+      },
+      "order_index": 2,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-20T22:06:22.107925+00:00"
+    },
+    {
+      "id": "66bb2738-fd4e-5d4f-9a2f-44bc73aa9c65",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+      "content": {
+        "body": "Punem accent pe activități potrivite vârstei, interacțiune naturală cu cei mici și o structură de program adaptată evenimentului. Spre deosebire de alte servicii, nu promovăm variante fixe afișate, ci programul se stabilește în funcție de detaliile evenimentului tău. De la selecția jocurilor până la ritmul dansurilor, fiecare pas este discutat în prealabil pentru a evita momentele plictisitoare sau obositoare. Pentru a adăuga un element spectaculos, poți integra în program și <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote pentru petreceri copii</a>, aducând bucuria personajelor preferate direct în fața micilor invitați.",
+        "heading": "De ce să alegi Kassia pentru petrecerea copilului",
+        "image_alt": "Animator profesionist zâmbind la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-19T09:40:35.052422+00:00"
+    },
+    {
+      "id": "77cc3849-ae5f-6e5f-ab3f-55cd84bb0d76",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "process_steps",
+      "heading": "Cum stabilim programul",
+      "content": {
+        "steps": [
+          {
+            "body": "Completezi formularul nostru de contact sau ne trimiți un mesaj cu data, locația și numărul estimativ de copii invitați.",
+            "title": "Trimiți detaliile petrecerii"
+          },
+          {
+            "body": "Discutăm preferințele sărbătoritului, specificul spațiului ales și caracteristicile grupului de invitați.",
+            "title": "Stabilim vârsta copiilor, locația și tematica"
+          },
+          {
+            "body": "Stabilim mixul ideal de jocuri, momente de mini-disco, pictură pe față sau alte activități dorite de cel mic.",
+            "title": "Alegem activitățile potrivite"
+          },
+          {
+            "body": "Definim desfășurarea programului pas cu pas pentru ca programul să fie clar, potrivit contextului și ușor de integrat în desfășurarea evenimentului.",
+            "title": "Pregătim structura programului pentru eveniment"
+          }
+        ],
+        "image_alt": "Echipa Kassia planificând programul de animație",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-19T09:40:35.122723+00:00"
+    },
+    {
+      "id": "13321937-c24f-4bcd-a731-ebe4d24ec239",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru petrecerile din Sector 1",
+      "content": {
+        "body": "Structura programului se stabilește în funcție de vârsta copiilor, spațiul disponibil, tematica petrecerii și activitățile dorite. Pentru copiii de vârstă preșcolară, punem accentul pe jocuri muzicale simple, interacțiune blândă și povești interactive. Pentru copiii din clasele primare și școală gimnazială, dezvoltăm concursuri de echipă, ștafete captivante și provocări adaptate dinamicii lor. Fiecare detaliu contează pentru a asigura o atmosferă în care toți copiii se simt incluși, motiv pentru care adaptăm constant ritmul activităților. Pentru detalii suplimentare despre modul în care personalizăm programele, poți consulta secțiunea <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "Cum adaptăm programul pentru petrecerile din Sector 1",
+        "image_alt": "Activități adaptate pe categorii de vârstă în Sector 1",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-19T08:39:52.415017+00:00",
+      "updated_at": "2026-06-19T09:40:34.763371+00:00"
+    }
+  ],
+  "kassia_faqs": [
+    {
+      "id": "bbee50f9-0155-55f9-8ff9-04c8cbbebf59",
+      "page_id": "33f0d4ca-9c60-4b2a-8fc5-c5cf7eb904f4",
+      "question": "Pentru ce tipuri de petreceri sunt potriviți animatorii?",
+      "answer": "Animatorii sunt ideali pentru aniversări, botezuri, evenimente de familie unde sunt mulți copii invitați, petreceri școlare sau serbări la grădință.",
+      "order_index": 7,
+      "created_at": "2026-06-19T09:08:18.095012+00:00",
+      "updated_at": "2026-06-19T09:08:18.095012+00:00"
+    }
+  ]
+}

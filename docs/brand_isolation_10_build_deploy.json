@@ -1,0 +1,6 @@
+{
+  "same_deploy_app": false,
+  "same_dist_folder": false,
+  "sitemap_separated": true,
+  "deploy_overwrite_risk": false
+}

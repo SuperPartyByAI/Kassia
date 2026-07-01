@@ -1,0 +1,10 @@
+BEGIN;
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'contact';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'preturi-decoratiuni-baloane';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'decoratiuni-baloane-botez-bucuresti';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'decoratiuni-baloane-nunta-bucuresti';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'baloane-heliu-bucuresti';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'panou-foto-baloane-bucuresti';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'decoratiuni-baloane-bucuresti';
+UPDATE kassia_pages SET status = 'published', index_status = 'index', include_in_sitemap = true WHERE slug = 'arcada-baloane-bucuresti';
+COMMIT;

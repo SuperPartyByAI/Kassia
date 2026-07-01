@@ -1,0 +1,158 @@
+{
+  "batches": [
+    {
+      "batch": 1,
+      "name": "Core Content Entry",
+      "pages": [
+        {
+          "order": 1,
+          "url": "/contact/",
+          "page_type": "support",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "body"],
+          "required_images": false,
+          "required_faq": false,
+          "required_cta": false,
+          "owner_notes": "Date contact, formular",
+          "review_notes": ""
+        },
+        {
+          "order": 2,
+          "url": "/preturi-decoratiuni-baloane/",
+          "page_type": "support",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "body"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Listă prețuri orientative, pachete",
+          "review_notes": ""
+        },
+        {
+          "order": 3,
+          "url": "/decoratiuni-baloane-bucuresti/",
+          "page_type": "service_pillar",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "intro_real", "servicii_incluse"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Pilon principal. Intro general, legături.",
+          "review_notes": ""
+        },
+        {
+          "order": 4,
+          "url": "/arcada-baloane-bucuresti/",
+          "page_type": "service",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "descriere_serviciu", "beneficii", "cum_se_comanda", "pret_orientativ"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Descriere arcadă, prețuri per m liniar.",
+          "review_notes": ""
+        },
+        {
+          "order": 5,
+          "url": "/baloane-heliu-bucuresti/",
+          "page_type": "service",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "descriere_serviciu", "beneficii", "cum_se_comanda", "pret_orientativ"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Oferta heliu, pachete, detalii transport.",
+          "review_notes": ""
+        },
+        {
+          "order": 6,
+          "url": "/panou-foto-baloane-bucuresti/",
+          "page_type": "service",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "descriere_serviciu", "beneficii", "cum_se_comanda", "pret_orientativ"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Tipuri panouri (rotund, pătrat, organic).",
+          "review_notes": ""
+        },
+        {
+          "order": 7,
+          "url": "/decoratiuni-baloane-botez-bucuresti/",
+          "page_type": "event",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "descriere_eveniment", "idei_decor", "servicii_recomandate"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Context botez, idei ursuleți, etc.",
+          "review_notes": ""
+        },
+        {
+          "order": 8,
+          "url": "/decoratiuni-baloane-nunta-bucuresti/",
+          "page_type": "event",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "descriere_eveniment", "idei_decor", "servicii_recomandate"],
+          "required_images": true,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Context nuntă, foto corner, intrare.",
+          "review_notes": ""
+        },
+        {
+          "order": 9,
+          "url": "/galerie/",
+          "page_type": "support",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description", "categorii_clare"],
+          "required_images": true,
+          "required_faq": false,
+          "required_cta": true,
+          "owner_notes": "Hub vizual principal. Poze top.",
+          "review_notes": ""
+        },
+        {
+          "order": 10,
+          "url": "/intrebari-frecvente/",
+          "page_type": "support",
+          "content_status": "needs_content",
+          "required_fields": ["h1", "meta_title", "meta_description"],
+          "required_images": false,
+          "required_faq": true,
+          "required_cta": true,
+          "owner_notes": "Hub FAQ general (livrare, comenzi).",
+          "review_notes": ""
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "name": "Secondary Services & Events",
+      "pages": []
+    },
+    {
+      "batch": 3,
+      "name": "Locations & Geotargeting",
+      "pages": []
+    },
+    {
+      "batch": 4,
+      "name": "Blog & Information Guides",
+      "pages": []
+    },
+    {
+      "batch": 5,
+      "name": "Long-tail & Consolidation",
+      "pages": []
+    }
+  ],
+  "rules": {
+    "save_does_not_publish": true,
+    "publish_global_allowed": false,
+    "owner_can_modify_internal_links": false,
+    "owner_can_modify_status": false,
+    "owner_can_modify_urls_or_page_types": false,
+    "must_pass_post_content_audit": true
+  }
+}

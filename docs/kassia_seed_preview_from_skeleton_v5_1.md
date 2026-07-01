@@ -1,0 +1,10 @@
+# Kassia Seed Preview V5.1 (169 Pages)
+
+- Total planned pages: 169
+- Planned sections: 1284
+- Planned FAQ slots: 474
+- Planned media slots: 691
+- Planned internal links: 934
+- Duplicate links logic issues: 0
+- Orphan risk: 0
+

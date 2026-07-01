@@ -1,0 +1,249 @@
+{
+  "page": {
+    "id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+    "slug": "animatori-petreceri-copii-sector-6",
+    "path": "/animatori-petreceri-copii-sector-6/",
+    "page_type": "animatori",
+    "status": "published",
+    "index_status": "index",
+    "include_in_sitemap": true,
+    "title": "Animatori copii Sector 6 | Drumul Taberei și Militari",
+    "h1": "Animatori pentru petreceri de copii în Sector 6",
+    "meta_title": "Animatori pentru petreceri de copii în Sector 6 | Kassia",
+    "meta_description": "Activități pentru petreceri de copii în Sector 6, adaptate pentru Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+    "canonical_url": "https://www.kassia.ro/animatori-petreceri-copii-sector-6/",
+    "parent_page_id": null,
+    "service_type": null,
+    "event_type": null,
+    "location_type": null,
+    "city": null,
+    "sector": null,
+    "neighborhood": null,
+    "priority": 0.5,
+    "created_at": "2026-06-20T05:35:59.463586+00:00",
+    "updated_at": "2026-06-23T17:52:51.171397+00:00",
+    "published_at": null,
+    "show_pricing_preview": false
+  },
+  "sections": [
+    {
+      "id": "7c52cd91-7423-483e-b316-a745230771f6",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "hero",
+      "heading": "Hero Section",
+      "content": {
+        "body": "Petreceri pentru copii în Sector 6, cu jocuri de grup, personaje tematice și activități adaptate pentru spații din Drumul Taberei, Militari, Ghencea, Crângași, Giulești, Regie și Grozăvești.",
+        "cta_url": "/contact/",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Animatori copii în Sectorul 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-hero.webp"
+      },
+      "order_index": 0,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-23T20:23:14.62788+00:00"
+    },
+    {
+      "id": "50d01a0e-86af-41ad-a2c7-9d0ccc81f683",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+      "content": {
+        "body": "Animatorul ajută grupul de copii să intre mai ușor în ritmul petrecerii, prin jocuri, momente de mișcare, activități creative și interacțiuni adaptate vârstei. În funcție de spațiul ales în Sector 6, programul poate fi construit mai dinamic sau mai așezat, astfel încât copiii să participe natural, fără presiune. Recuzita de joc, muzica și activitățile sunt pregătite în funcție de tematica evenimentului și de numărul de invitați. Pentru organizare, poți trimite detaliile prin pagina de <a href=\"/contact/\">Contact</a>.",
+        "heading": "Ce rol are animatorul la o petrecere în Sector 6",
+        "image_alt": "Animator interacționând cu copii la petrecere",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-program-animatie.webp"
+      },
+      "order_index": 1,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-23T20:23:12.940432+00:00"
+    },
+    {
+      "id": "4497cbf5-7439-4eb9-85bb-c3fa6acbbb7d",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "activities_grid",
+      "heading": "Activități care se pot integra în program",
+      "content": {
+        "cards": [
+          {
+            "body": "Jocuri de echipă, ștafete ușoare și probe de atenție, gândite pentru grupuri de copii cu energie diferită și pentru spațiul disponibil la petrecere.",
+            "title": "Jocuri interactive",
+            "image_alt": "Jocuri de grup la petrecere",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp"
+          },
+          {
+            "body": "Modele inspirate din personaje, animale sau teme colorate, realizate cu materiale potrivite pentru copii. Mai multe detalii găsești pe pagina dedicată de <a href=\"/pictura-pe-fata-copii-bucuresti/\">activități creative</a>.",
+            "title": "activități creative",
+            "image_alt": "activități creative cu desene colorate",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp"
+          },
+          {
+            "body": "Figurine din baloane, precum flori, săbii sau animăluțe, pregătite ca moment creativ în program. Mai multe detalii găsești pe pagina dedicată de <a href=\"/modelaj-baloane-copii-bucuresti/\">Modelaj de baloane</a>.",
+            "title": "Modelaj de baloane",
+            "image_alt": "Figurine din baloane modelate pe loc",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp"
+          },
+          {
+            "body": "Dansuri ghidate, mișcări simple și momente muzicale care ajută copiii să participe împreună, indiferent de nivelul lor de energie. Mai multe detalii găsești pe pagina dedicată de <a href=\"/mini-disco-copii-bucuresti/\">Mini-disco</a>.",
+            "title": "Mini-disco",
+            "image_alt": "Copii dansând la mini-disco",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mini-disco.webp"
+          },
+          {
+            "body": "Mascotele pot intra în program pentru întâmpinare, fotografii și interacțiuni scurte cu cei mici. Mai multe detalii despre personaje găsești pe pagina dedicată de <a href=\"/mascote-petreceri-copii-bucuresti/\">Mascote petreceri copii</a>.",
+            "title": "Mascote îndrăgite",
+            "image_alt": "Mascotă la petrecerea aniversară",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-mascota-generica.webp"
+          },
+          {
+            "body": "Activități de desen, lucru manual și creație tematică, potrivite pentru momente mai liniștite în cadrul petrecerii.",
+            "title": "Ateliere creative",
+            "image_alt": "Copii lucrând la ateliere creative",
+            "image_url": "/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp"
+          }
+        ],
+        "heading": "Activități care se pot integra în program"
+      },
+      "order_index": 2,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-24T15:43:32.709658+00:00"
+    },
+    {
+      "id": "e099a715-6a84-4f29-8ce8-220a43cacf77",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+      "content": {
+        "body": "Sectorul 6 include contexte diferite de organizare, de la petreceri în apartamente și spații de joacă, până la restaurante, grădinițe sau locații private. Pentru Drumul Taberei, Militari, Crângași, Giulești, Ghencea, Regie și Grozăvești, structura programului se stabilește în funcție de spațiul disponibil, vârsta copiilor și ritmul evenimentului. Într-un spațiu restrâns, accentul poate fi pus pe jocuri de atenție, activități creative, modelaj de baloane și jocuri statice adaptate spațiului. Într-un spațiu mai generos, programul poate include mai multă mișcare, dans și jocuri de grup.",
+        "heading": "Cum adaptăm programul pentru zonele din Sector 6",
+        "image_alt": "Planificare program animatori copii Sector 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-varste-copii.webp"
+      },
+      "order_index": 3,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-24T18:29:38.438808+00:00"
+    },
+    {
+      "id": "466b6039-f616-42c0-baee-ac9b0d81416a",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+      "content": {
+        "body": "Pentru petrecerile din Sector 6, organizarea depinde mult de tipul locației. În apartamente sau camere mai mici, activitățile sunt alese astfel încât copiii să poată participa fără aglomerație. În restaurante, terase sau spații de joacă, programul poate fi împărțit între momente de mișcare, dans, jocuri de grup și activități creative. Pentru evenimente în grădinițe sau spații educaționale, detaliile se stabilesc în funcție de regulile locației și de modul în care copiii sunt deja obișnuiți să interacționeze. În zone precum Ghencea, Regie sau Grozăvești, verificarea accesului în locație și a spațiului disponibil ajută la pregătirea unui program mai bine așezat.",
+        "heading": "Petreceri în apartamente, restaurante, grădinițe și spații de joacă",
+        "image_alt": "Animatori copii în diverse locații din Sector 6",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp"
+      },
+      "order_index": 4,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-23T20:23:14.710999+00:00"
+    },
+    {
+      "id": "b7b38c9b-41fa-461d-99c7-bb73915307d0",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+      "content": {
+        "body": "Programul cu animatori poate fi integrat în aniversări, zile de naștere, petreceri tematice, întâlniri de familie, serbări sau evenimente organizate pentru grupuri de copii. Pentru fiecare context, activitățile se aleg în funcție de vârsta participanților, spațiul disponibil și felul în care părinții doresc să se desfășoare petrecerea. În Sector 6, aceeași structură poate fi adaptată diferit pentru o petrecere acasă, o întâlnire într-un restaurant sau o activitate într-un spațiu de joacă.",
+        "heading": "Pentru ce evenimente din Sector 6 se pot pregăti activitățile",
+        "image_alt": "Botez și evenimente de familie cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-evenimente.webp"
+      },
+      "order_index": 5,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-23T20:23:13.034495+00:00"
+    },
+    {
+      "id": "d10eeaa0-4c7b-4e42-b296-301eb577d1cd",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "service_details",
+      "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+      "content": {
+        "body": "Punem accent pe buna dispoziție a celor mici, pe comunicare clară cu părinții și pe alegerea activităților în funcție de grup. Înainte de eveniment, discutăm zona din Sector 6, tipul locației, vârstele copiilor și tematica preferată. Materialele pentru activități creative sunt potrivite pentru copii, iar recuzita de joc este igienizată periodic. Programul poate fi completat cu decoruri tematice din baloane, prezentate pe pagina dedicată de <a href=\"/pachete-animatori-copii-bucuresti/\">Programe animatori copii</a>.",
+        "heading": "De ce să alegi Kassia pentru o petrecere în Sector 6",
+        "image_alt": "Detalii program de animație pentru copii",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp"
+      },
+      "order_index": 6,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-24T15:41:31.018098+00:00"
+    },
+    {
+      "id": "427b403f-b418-48eb-b156-87f5febf8d2b",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "process_steps",
+      "heading": "Cum pregătim programul pentru petrecere",
+      "content": {
+        "steps": [
+          {
+            "body": "Ne transmiți data, zona din Sector 6, tipul locației și numărul estimat de copii invitați.",
+            "title": "Primim detaliile evenimentului"
+          },
+          {
+            "body": "Discutăm vârsta copiilor, tematica preferată și felul în care sărbătoritul se simte cel mai bine într-un grup.",
+            "title": "Stabilim profilul grupului"
+          },
+          {
+            "body": "Configurăm combinația de jocuri, activități creative, modelaj de baloane, mini-disco, mascote sau activități creative.",
+            "title": "Alegem activitățile potrivite"
+          },
+          {
+            "body": "Adaptăm ordinea momentelor în funcție de spațiul disponibil, accesul în locație și ritmul general al petrecerii.",
+            "title": "Așezăm programul în contextul locației"
+          }
+        ],
+        "heading": "Cum pregătim programul pentru petrecere",
+        "image_alt": "Etapele planificării evenimentului cu animatori",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp"
+      },
+      "order_index": 7,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-24T15:42:03.54865+00:00"
+    },
+    {
+      "id": "ed05cd53-08b1-476f-a745-279c0a15941b",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "cta_final",
+      "heading": "Pregătește petrecerea copilului în Sector 6",
+      "content": {
+        "body": "Trimite detaliile despre eveniment, zona din Sector 6 și vârsta copiilor, iar Kassia poate propune o structură de activități adaptată spațiului și tematicii alese.",
+        "cta_url": "/contact/",
+        "heading": "Pregătește petrecerea copilului în Sector 6",
+        "cta_text": "Trimite detaliile petrecerii",
+        "image_alt": "Planifică petrecerea în Sector 6 cu Kassia",
+        "image_url": "/images/animatori/animatori-copii-bucuresti-cta-final.webp"
+      },
+      "order_index": 8,
+      "created_at": "2026-06-20T05:35:59.619133+00:00",
+      "updated_at": "2026-06-23T20:23:13.353855+00:00"
+    },
+    {
+      "id": "1f3afb92-5428-4efb-a832-c97db6f2728a",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "content_block",
+      "heading": null,
+      "content": {
+        "body": "<p>Petrecerile organizate în Drumul Taberei, Militari sau Crângași (Sector 6) pot include personaje din colecția noastră de peste 300 de costume, în funcție de disponibilitatea pentru data aleasă. Consultă opțiunile de prințese, supereroi și personaje la modă pentru a pregăti o atmosferă potrivită copiilor invitați.</p>",
+        "title": "Alege personajul preferat",
+        "cta_url": "/personaje-animatori-copii-bucuresti/",
+        "cta_text": "Vezi personajele disponibile →"
+      },
+      "order_index": 9,
+      "created_at": "2026-06-23T20:23:59.967687+00:00",
+      "updated_at": "2026-06-23T20:23:59.967687+00:00"
+    },
+    {
+      "id": "4329ea71-cb50-4b54-b624-55bf19594b70",
+      "page_id": "6b8b02e6-951f-4587-9144-de76ae0fa606",
+      "section_type": "content",
+      "heading": "Detalii pentru programul de animație",
+      "content": {
+        "body": "<p>Înainte de rezervare, poți consulta variantele de program disponibile pentru animatori copii în București și Ilfov, în funcție de durata evenimentului și tipul de animație dorit.</p>",
+        "cta_url": "/preturi-animatori-copii-bucuresti/",
+        "cta_text": "Vezi detaliile pentru animatori"
+      },
+      "order_index": 19,
+      "created_at": "2026-06-23T21:25:02.876232+00:00",
+      "updated_at": "2026-06-23T21:25:02.876232+00:00"
+    }
+  ]
+}

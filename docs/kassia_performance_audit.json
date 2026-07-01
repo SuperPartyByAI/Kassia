@@ -1,0 +1,49 @@
+{
+  "audit_info": {
+    "date": "2026-05-20",
+    "mode_tested": "Production (Node Standalone) via local build",
+    "build_passed": true,
+    "db_modified": false
+  },
+  "metrics": {
+    "average_ttfb": "0.507 s",
+    "slowest_page": "/panou-foto-baloane-bucuresti/",
+    "slowest_request_ttfb": "0.695 s",
+    "average_load_time": "0.64 s",
+    "total_image_weight_worst_page": "N/A (Placeholders used mostly, HTML size is ~22KB)"
+  },
+  "issues": {
+    "blocker": [
+      {
+        "type": "Sequential SSR Queries",
+        "location": "src/pages/[...slug].astro",
+        "description": "6 separate Supabase queries are running sequentially, causing TTFB to exceed 500ms."
+      }
+    ],
+    "high": [
+      {
+        "type": "Overfetching",
+        "location": "src/pages/[...slug].astro",
+        "description": "Using select('*') on kassia_page_sections, kassia_faqs, and kassia_gallery_items fetches unnecessary data payloads."
+      }
+    ],
+    "medium": [
+      {
+        "type": "Missing explicit Lazy Loading on <Image>",
+        "location": "src/pages/[...slug].astro",
+        "description": "The Astro <Image> component calls for valid URLs do not have loading='lazy' explicitly set."
+      }
+    ],
+    "low": [
+      {
+        "type": "Admin Client JS",
+        "location": "Admin Dashboard",
+        "description": "Potential delays in Save/Preview logic due to waiting on synchronous SSR renders."
+      }
+    ]
+  },
+  "flags": {
+    "safe_for_owner_content_entry": true,
+    "safe_for_publish": false
+  }
+}

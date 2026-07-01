@@ -1,0 +1,1619 @@
+[
+  {
+    "path": "/",
+    "primary_keyword": "agentie decoratiuni baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "homepage",
+    "parent_path": null,
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/despre-noi/",
+    "primary_keyword": "despre noi",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/contact/",
+    "primary_keyword": "contact",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/galerie/",
+    "primary_keyword": "galerie",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/preturi-decoratiuni-baloane/",
+    "primary_keyword": "preturi decoratiuni baloane",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/intrebari-frecvente/",
+    "primary_keyword": "intrebari frecvente",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/recenzii/",
+    "primary_keyword": "recenzii",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/portofoliu-evenimente/",
+    "primary_keyword": "portofoliu evenimente",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/termeni-si-conditii/",
+    "primary_keyword": "termeni si conditii",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/politica-de-confidentialitate/",
+    "primary_keyword": "politica de confidentialitate",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/blog/",
+    "primary_keyword": "blog",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/politica-cookies/",
+    "primary_keyword": "politica cookies",
+    "search_intent": "navigational",
+    "page_type": "support",
+    "parent_path": "/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-bucuresti/",
+    "primary_keyword": "decoratiuni baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service_pillar",
+    "parent_path": null,
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/aranjamente-baloane-bucuresti/",
+    "primary_keyword": "aranjamente baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/arcada-baloane-bucuresti/",
+    "primary_keyword": "arcada baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/baloane-heliu-bucuresti/",
+    "primary_keyword": "baloane heliu bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/panou-foto-baloane-bucuresti/",
+    "primary_keyword": "panou foto baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/buchete-baloane-bucuresti/",
+    "primary_keyword": "buchete baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/baloane-personalizate-bucuresti/",
+    "primary_keyword": "baloane personalizate bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/baloane-cifre-litere-bucuresti/",
+    "primary_keyword": "baloane cifre litere bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/ghirlande-baloane-bucuresti/",
+    "primary_keyword": "ghirlande baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/stalpi-baloane-bucuresti/",
+    "primary_keyword": "stalpi baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/perete-baloane-bucuresti/",
+    "primary_keyword": "perete baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decor-baloane-candy-bar-bucuresti/",
+    "primary_keyword": "decor baloane candy bar bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/livrare-baloane-bucuresti/",
+    "primary_keyword": "livrare baloane bucuresti",
+    "search_intent": "commercial",
+    "page_type": "service",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-botez-bucuresti/",
+    "primary_keyword": "decoratiuni baloane botez bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-mot-bucuresti/",
+    "primary_keyword": "decoratiuni baloane mot bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-turta-bucuresti/",
+    "primary_keyword": "decoratiuni baloane turta bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "primary_keyword": "decoratiuni baloane nunta bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "primary_keyword": "decoratiuni baloane 8 martie bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cununie-bucuresti/",
+    "primary_keyword": "decoratiuni baloane cununie bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "primary_keyword": "decoratiuni baloane majorat bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "primary_keyword": "decoratiuni baloane aniversare copii bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "primary_keyword": "decoratiuni baloane aniversare adulti bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "primary_keyword": "decoratiuni baloane petrecere bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-corporate-bucuresti/",
+    "primary_keyword": "decoratiuni baloane corporate bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "primary_keyword": "decoratiuni baloane deschidere magazin bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "primary_keyword": "decoratiuni baloane deschidere restaurant bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "primary_keyword": "decoratiuni baloane lansare produs bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-showroom-bucuresti/",
+    "primary_keyword": "decoratiuni baloane showroom bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "primary_keyword": "decoratiuni baloane gradinita bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-scoala-bucuresti/",
+    "primary_keyword": "decoratiuni baloane scoala bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "primary_keyword": "decoratiuni baloane baby shower bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "primary_keyword": "decoratiuni baloane gender reveal bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-craciun-bucuresti/",
+    "primary_keyword": "decoratiuni baloane craciun bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-revelion-bucuresti/",
+    "primary_keyword": "decoratiuni baloane revelion bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-paste-bucuresti/",
+    "primary_keyword": "decoratiuni baloane paste bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-halloween-bucuresti/",
+    "primary_keyword": "decoratiuni baloane halloween bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "primary_keyword": "decoratiuni baloane 1 iunie bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "primary_keyword": "decoratiuni baloane absolvire bucuresti",
+    "search_intent": "commercial",
+    "page_type": "event",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-1/",
+    "primary_keyword": "decoratiuni baloane sector 1",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-2/",
+    "primary_keyword": "decoratiuni baloane sector 2",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-3/",
+    "primary_keyword": "decoratiuni baloane sector 3",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-4/",
+    "primary_keyword": "decoratiuni baloane sector 4",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-5/",
+    "primary_keyword": "decoratiuni baloane sector 5",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sector-6/",
+    "primary_keyword": "decoratiuni baloane sector 6",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aviatiei/",
+    "primary_keyword": "decoratiuni baloane aviatiei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-baneasa/",
+    "primary_keyword": "decoratiuni baloane baneasa",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-domenii/",
+    "primary_keyword": "decoratiuni baloane domenii",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-herastrau/",
+    "primary_keyword": "decoratiuni baloane herastrau",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-victoriei/",
+    "primary_keyword": "decoratiuni baloane victoriei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-colentina/",
+    "primary_keyword": "decoratiuni baloane colentina",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-obor/",
+    "primary_keyword": "decoratiuni baloane obor",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon/",
+    "primary_keyword": "decoratiuni baloane pantelimon",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tei/",
+    "primary_keyword": "decoratiuni baloane tei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-stefan-cel-mare/",
+    "primary_keyword": "decoratiuni baloane stefan cel mare",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dristor/",
+    "primary_keyword": "decoratiuni baloane dristor",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-titan/",
+    "primary_keyword": "decoratiuni baloane titan",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-vitan/",
+    "primary_keyword": "decoratiuni baloane vitan",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-unirii/",
+    "primary_keyword": "decoratiuni baloane unirii",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dudesti/",
+    "primary_keyword": "decoratiuni baloane dudesti",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni/",
+    "primary_keyword": "decoratiuni baloane berceni",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tineretului/",
+    "primary_keyword": "decoratiuni baloane tineretului",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-piata-sudului/",
+    "primary_keyword": "decoratiuni baloane piata sudului",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-aparatorii-patriei/",
+    "primary_keyword": "decoratiuni baloane aparatorii patriei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-oltenitei/",
+    "primary_keyword": "decoratiuni baloane oltenitei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-rahova/",
+    "primary_keyword": "decoratiuni baloane rahova",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cotroceni/",
+    "primary_keyword": "decoratiuni baloane cotroceni",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-13-septembrie/",
+    "primary_keyword": "decoratiuni baloane 13 septembrie",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-ferentari/",
+    "primary_keyword": "decoratiuni baloane ferentari",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-sebastian/",
+    "primary_keyword": "decoratiuni baloane sebastian",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-drumul-taberei/",
+    "primary_keyword": "decoratiuni baloane drumul taberei",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-militari/",
+    "primary_keyword": "decoratiuni baloane militari",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-crangasi/",
+    "primary_keyword": "decoratiuni baloane crangasi",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-giulesti/",
+    "primary_keyword": "decoratiuni baloane giulesti",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-grozavesti/",
+    "primary_keyword": "decoratiuni baloane grozavesti",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-ilfov/",
+    "primary_keyword": "decoratiuni baloane ilfov",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-voluntari/",
+    "primary_keyword": "decoratiuni baloane voluntari",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pipera/",
+    "primary_keyword": "decoratiuni baloane pipera",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-otopeni/",
+    "primary_keyword": "decoratiuni baloane otopeni",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-tunari/",
+    "primary_keyword": "decoratiuni baloane tunari",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-corbeanca/",
+    "primary_keyword": "decoratiuni baloane corbeanca",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-balotesti/",
+    "primary_keyword": "decoratiuni baloane balotesti",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-mogosoaia/",
+    "primary_keyword": "decoratiuni baloane mogosoaia",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-chitila/",
+    "primary_keyword": "decoratiuni baloane chitila",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-chiajna/",
+    "primary_keyword": "decoratiuni baloane chiajna",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-domnesti/",
+    "primary_keyword": "decoratiuni baloane domnesti",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-bragadiru/",
+    "primary_keyword": "decoratiuni baloane bragadiru",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-magurele/",
+    "primary_keyword": "decoratiuni baloane magurele",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-popesti-leordeni/",
+    "primary_keyword": "decoratiuni baloane popesti leordeni",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-berceni-ilfov/",
+    "primary_keyword": "decoratiuni baloane berceni ilfov",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "primary_keyword": "decoratiuni baloane pantelimon ilfov",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-cernica/",
+    "primary_keyword": "decoratiuni baloane cernica",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-afumati/",
+    "primary_keyword": "decoratiuni baloane afumati",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "primary_keyword": "decoratiuni baloane stefanestii de jos",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dascalu/",
+    "primary_keyword": "decoratiuni baloane dascalu",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-snagov/",
+    "primary_keyword": "decoratiuni baloane snagov",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-clinceni/",
+    "primary_keyword": "decoratiuni baloane clinceni",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-dragomiresti-vale/",
+    "primary_keyword": "decoratiuni baloane dragomiresti vale",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-jilava/",
+    "primary_keyword": "decoratiuni baloane jilava",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-1-decembrie/",
+    "primary_keyword": "decoratiuni baloane 1 decembrie",
+    "search_intent": "commercial",
+    "page_type": "location",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/arcada-baloane-botez-bucuresti/",
+    "primary_keyword": "arcada baloane botez bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/arcada-baloane-majorat-bucuresti/",
+    "primary_keyword": "arcada baloane majorat bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/arcada-baloane-nunta-bucuresti/",
+    "primary_keyword": "arcada baloane nunta bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-nunta-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/panou-foto-baloane-botez-bucuresti/",
+    "primary_keyword": "panou foto baloane botez bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-botez-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/panou-foto-baloane-majorat-bucuresti/",
+    "primary_keyword": "panou foto baloane majorat bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/baloane-heliu-majorat-bucuresti/",
+    "primary_keyword": "baloane heliu majorat bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-majorat-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/baloane-heliu-aniversare-bucuresti/",
+    "primary_keyword": "baloane heliu aniversare bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/buchete-baloane-aniversare-bucuresti/",
+    "primary_keyword": "buchete baloane aniversare bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "primary_keyword": "decoratiuni baloane roz auriu bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "primary_keyword": "decoratiuni baloane alb auriu bucuresti",
+    "search_intent": "commercial",
+    "page_type": "satellite",
+    "parent_path": "/decoratiuni-baloane-bucuresti/",
+    "commercial_target": null,
+    "forbidden_primary_keywords": []
+  },
+  {
+    "path": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "primary_keyword": "cât costă decorațiunile cu baloane",
+    "search_intent": "informativ / preț",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa decoratiunile cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/cat-costa-o-arcada-de-baloane/",
+    "primary_keyword": "cât costă o arcadă de baloane",
+    "search_intent": "informativ / preț serviciu",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa o arcada de baloane"
+    ]
+  },
+  {
+    "path": "/blog/cat-costa-baloanele-cu-heliu/",
+    "primary_keyword": "cât costă baloanele cu heliu",
+    "search_intent": "informativ / preț produs",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa baloanele cu heliu"
+    ]
+  },
+  {
+    "path": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "primary_keyword": "cât costă un panou foto cu baloane",
+    "search_intent": "informativ / preț serviciu",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/panou-foto-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa un panou foto cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "primary_keyword": "cât costă decor baloane botez",
+    "search_intent": "informativ / preț eveniment",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-botez-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa un decor de baloane pentru botez"
+    ]
+  },
+  {
+    "path": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "primary_keyword": "cât costă decor baloane nuntă",
+    "search_intent": "informativ / preț eveniment",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat costa un decor de baloane pentru nunta"
+    ]
+  },
+  {
+    "path": "/blog/ce-include-un-pachet-decor-baloane/",
+    "primary_keyword": "ce include un pachet decor baloane",
+    "search_intent": "informativ / decizie",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/galerie/",
+    "forbidden_primary_keywords": [
+      "ce include un pachet decor baloane"
+    ]
+  },
+  {
+    "path": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "primary_keyword": "cum alegi pachetul de decorațiuni baloane",
+    "search_intent": "informativ / decizie",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cum alegi pachetul de decoratiuni baloane"
+    ]
+  },
+  {
+    "path": "/blog/cum-alegi-arcada-de-baloane/",
+    "primary_keyword": "cum alegi arcada de baloane",
+    "search_intent": "ghid informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cum alegi arcada de baloane"
+    ]
+  },
+  {
+    "path": "/blog/arcada-baloane-organica-sau-clasica/",
+    "primary_keyword": "arcadă baloane organică sau clasică",
+    "search_intent": "comparație",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "arcada baloane organica sau clasica"
+    ]
+  },
+  {
+    "path": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "primary_keyword": "dimensiune arcadă baloane",
+    "search_intent": "informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "ce dimensiune trebuie sa aiba o arcada de baloane"
+    ]
+  },
+  {
+    "path": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "primary_keyword": "unde se poate monta o arcadă de baloane",
+    "search_intent": "logistic / informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "unde se poate monta o arcada de baloane"
+    ]
+  },
+  {
+    "path": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "primary_keyword": "cât rezistă o arcadă de baloane",
+    "search_intent": "informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cat rezista o arcada de baloane"
+    ]
+  },
+  {
+    "path": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "primary_keyword": "idei arcadă baloane evenimente",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei arcada baloane pentru evenimente"
+    ]
+  },
+  {
+    "path": "/blog/baloane-heliu-cat-rezista/",
+    "primary_keyword": "baloane heliu cât rezistă",
+    "search_intent": "informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "baloane heliu cat rezista"
+    ]
+  },
+  {
+    "path": "/blog/baloane-heliu-latex-sau-folie/",
+    "primary_keyword": "baloane heliu latex sau folie",
+    "search_intent": "comparație",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "baloane heliu latex sau folie"
+    ]
+  },
+  {
+    "path": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "primary_keyword": "câte baloane cu heliu sunt necesare pentru o cameră",
+    "search_intent": "informativ / calcul",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cate baloane cu heliu sunt necesare pentru o camera"
+    ]
+  },
+  {
+    "path": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "primary_keyword": "cum se transportă baloanele cu heliu",
+    "search_intent": "logistic",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cum se transporta baloanele cu heliu"
+    ]
+  },
+  {
+    "path": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "primary_keyword": "baloane cu heliu pentru copii idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "baloane cu heliu pentru copii idei"
+    ]
+  },
+  {
+    "path": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "primary_keyword": "baloane cu heliu pentru majorat idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-heliu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "baloane cu heliu pentru majorat idei"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-botez/",
+    "primary_keyword": "idei decor baloane botez",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-botez-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane botez"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-mot-si-turta/",
+    "primary_keyword": "idei decor baloane moț și turtă",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-mot-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane mot si turta"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-nunta/",
+    "primary_keyword": "idei decor baloane nuntă",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane nunta"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-cununie/",
+    "primary_keyword": "idei decor baloane cununie",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-cununie-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane cununie"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-majorat/",
+    "primary_keyword": "idei decor baloane majorat",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane majorat"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-aniversare-copii/",
+    "primary_keyword": "idei decor baloane aniversare copii",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane aniversare copii"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "primary_keyword": "idei decor baloane aniversare adulți",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane aniversare adulti"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-baby-shower/",
+    "primary_keyword": "idei decor baloane baby shower",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane baby shower"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-gender-reveal/",
+    "primary_keyword": "idei decor baloane gender reveal",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane gender reveal"
+    ]
+  },
+  {
+    "path": "/blog/idei-decor-baloane-corporate/",
+    "primary_keyword": "idei decor baloane corporate",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-corporate-bucuresti/",
+    "forbidden_primary_keywords": [
+      "idei decor baloane corporate"
+    ]
+  },
+  {
+    "path": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "primary_keyword": "cum alegi culorile pentru decorul cu baloane",
+    "search_intent": "informativ / design",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/galerie/",
+    "forbidden_primary_keywords": [
+      "cum alegi culorile pentru decorul cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/decor-baloane-roz-auriu-idei/",
+    "primary_keyword": "decor baloane roz auriu idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "decor baloane roz auriu idei"
+    ]
+  },
+  {
+    "path": "/blog/decor-baloane-alb-auriu-idei/",
+    "primary_keyword": "decor baloane alb auriu idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "forbidden_primary_keywords": [
+      "decor baloane alb auriu idei"
+    ]
+  },
+  {
+    "path": "/blog/decor-baloane-pastel-idei/",
+    "primary_keyword": "decor baloane pastel idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/galerie/",
+    "forbidden_primary_keywords": [
+      "decor baloane pastel idei"
+    ]
+  },
+  {
+    "path": "/blog/decor-baloane-luxury-idei/",
+    "primary_keyword": "decor baloane luxury idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/galerie/",
+    "forbidden_primary_keywords": [
+      "decor baloane luxury idei"
+    ]
+  },
+  {
+    "path": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "primary_keyword": "decor baloane minimalist sau spectaculos",
+    "search_intent": "comparație / inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/galerie/",
+    "forbidden_primary_keywords": [
+      "decor baloane minimalist sau spectaculos"
+    ]
+  },
+  {
+    "path": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "primary_keyword": "cum comanzi decorațiuni cu baloane",
+    "search_intent": "logistic / conversie",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cum comanzi decoratiuni cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "primary_keyword": "cu cât timp înainte se comandă decorul cu baloane",
+    "search_intent": "logistic",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/intrebari-frecvente/",
+    "forbidden_primary_keywords": [
+      "cu cat timp inainte se comanda decorul cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "primary_keyword": "ce informații trebuie să trimiți pentru ofertă decor baloane",
+    "search_intent": "logistic / conversie",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decoratiuni-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "ce informatii trebuie sa trimiti pentru o oferta"
+    ]
+  },
+  {
+    "path": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "primary_keyword": "montaj decorațiuni baloane",
+    "search_intent": "logistic / informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cum se face montajul decoratiunilor cu baloane"
+    ]
+  },
+  {
+    "path": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "primary_keyword": "decorațiuni baloane exterior",
+    "search_intent": "logistic / informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/arcada-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "se pot monta decoratiuni cu baloane in exterior"
+    ]
+  },
+  {
+    "path": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "primary_keyword": "ce se întâmplă cu decorul după eveniment",
+    "search_intent": "logistic / informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/intrebari-frecvente/",
+    "forbidden_primary_keywords": [
+      "ce se intampla cu decorul dupa eveniment"
+    ]
+  },
+  {
+    "path": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "primary_keyword": "panou foto cu baloane idei",
+    "search_intent": "informativ / inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/panou-foto-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "panou foto cu baloane idei si recomandari"
+    ]
+  },
+  {
+    "path": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "primary_keyword": "candy bar cu decor de baloane idei",
+    "search_intent": "inspirațional",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/decor-baloane-candy-bar-bucuresti/",
+    "forbidden_primary_keywords": [
+      "candy bar cu decor de baloane idei"
+    ]
+  },
+  {
+    "path": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "primary_keyword": "foto corner cu baloane pentru evenimente",
+    "search_intent": "inspirațional / informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/panou-foto-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "foto corner cu baloane pentru evenimente"
+    ]
+  },
+  {
+    "path": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "primary_keyword": "cifre și litere din baloane",
+    "search_intent": "informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-cifre-litere-bucuresti/",
+    "forbidden_primary_keywords": [
+      "cifre si litere din baloane cand se folosesc"
+    ]
+  },
+  {
+    "path": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "primary_keyword": "buchete baloane când se potrivesc",
+    "search_intent": "informativ",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/buchete-baloane-bucuresti/",
+    "forbidden_primary_keywords": [
+      "buchete baloane cand se potrivesc"
+    ]
+  },
+  {
+    "path": "/blog/baloane-personalizate-pentru-evenimente/",
+    "primary_keyword": "baloane personalizate pentru evenimente",
+    "search_intent": "informativ / comercial suport",
+    "page_type": "guide",
+    "parent_path": "/blog/",
+    "commercial_target": "/baloane-personalizate-bucuresti/",
+    "forbidden_primary_keywords": [
+      "baloane personalizate pentru evenimente"
+    ]
+  }
+]

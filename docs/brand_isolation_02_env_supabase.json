@@ -1,0 +1,8 @@
+{
+  "zouka_supabase_hash": "75074d56",
+  "kassia_supabase_hash": "e3b0c442",
+  "same_supabase_project": "NECLAR (lipsesc variabile pe disk)",
+  "env_files_separate": true,
+  "secret_leak_in_report": false,
+  "env_collision_risk": false
+}

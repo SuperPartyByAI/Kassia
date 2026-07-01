@@ -1,0 +1,9 @@
+{
+  "zouka_repo_exists": true,
+  "kassia_repo_exists": false,
+  "same_repo": false,
+  "separate_dirs": true,
+  "framework_zouka": "Astro",
+  "framework_kassia": "Unknown",
+  "repo_collision_risk": false
+}

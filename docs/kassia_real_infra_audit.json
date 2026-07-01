@@ -1,0 +1,22 @@
+{
+  "db": {
+    "kassia_pages": 169,
+    "kassia_internal_links": 913,
+    "kassia_seo_map": 169,
+    "published_pages": 0,
+    "index_pages": 0,
+    "sitemap_pages": 0
+  },
+  "code_scan": {
+    "bad_table_references": 0
+  },
+  "public_draft_guard": true,
+  "sitemap_no_drafts": true,
+  "publish_guard": {
+    "blocks_empty_faq": true,
+    "blocks_empty_media": true,
+    "blocks_empty_content": true,
+    "blocks_missing_meta": true
+  },
+  "safe_for_owner_content_entry": true
+}

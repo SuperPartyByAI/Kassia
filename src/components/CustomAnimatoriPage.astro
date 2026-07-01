@@ -1,0 +1,373 @@
+---
+const { page, sections } = Astro.props;
+
+const slugDataMap = {
+  'animatori-cu-mascote-petreceri-copii-bucuresti': {
+    heroSubtitle1: "Bucurați-vă de un program de animație adaptat evenimentului, cu animatori profesioniști și mascote care aduc zâmbete și energie pozitivă.",
+    heroSubtitle2: "Variante flexibile, configurate în funcție de locație, număr de copii și activități dorite.",
+    heroImage: "/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp",
+    ctaSecondary: "Opțiuni de configurare",
+    servicesHeading: "Activități disponibile",
+    services: [
+      { t: 'Animator jocuri interactive', p: 'Jocuri de grup dinamice', i: '/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp' },
+      { t: 'Mascotă la cerere', p: 'Personaje surpriză', i: '/images/animatori/animatori-copii-bucuresti-mascota-generica.webp' },
+      { t: 'Pictură pe față', p: 'Zâmbete colorate', i: '/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp' },
+      { t: 'Modelaj baloane', p: 'Sabii și animăluțe', i: '/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp' },
+      { t: 'Mini-disco', p: 'Muzică și coregrafii', i: '/images/animatori/animatori-copii-bucuresti-mini-disco.webp' },
+      { t: 'Moment foto / tort', p: 'Momente foto memorabile', i: '/images/animatori/animatori-copii-bucuresti-evenimente.webp' }
+    ],
+    packagesHeading: "Opțiuni de configurare",
+    packages: [
+      {
+        title: "Animator pentru jocuri",
+        color: "#9333ea",
+        features: ["Echipa se stabilește în funcție de detaliile evenimentului", "Jocuri interactive", "Pictură pe față", "Modelaj baloane"]
+      },
+      {
+        title: "Mascotă la cerere",
+        color: "#ec4899",
+        features: ["Apariția mascotei surpriză", "Prezență la momentul tortului", "Sesiune foto cu mascota", "Adaptare la tema petrecerii"],
+        scale: true
+      },
+      {
+        title: "Grupuri și evenimente",
+        color: "#9333ea",
+        features: ["Numărul de animatori se adaptează", "Activități pe grupe de vârstă", "Ofertă personalizată", "Activități interactive adaptate"]
+      }
+    ],
+    galleryHeading: "Imagini din evenimente",
+    galleryImages: [
+      '/images/animatori/animatori-copii-bucuresti-mascota-generica.webp',
+      '/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp',
+      '/images/animatori/animatori-copii-bucuresti-evenimente.webp'
+    ]
+  },
+  'animatori-petreceri-copii-bucuresti': {
+    heroSubtitle1: "Program complet cu animatori pentru aniversări, botezuri și evenimente pentru copii.",
+    heroSubtitle2: "Activități antrenante și jocuri dinamice, adaptate pentru fiecare grupă de vârstă.",
+    heroImage: "/images/animatori/animatori-copii-bucuresti-program-animatie.webp",
+    ctaSecondary: "Vezi activitățile",
+    servicesHeading: "Servicii de animație",
+    services: [
+      { t: 'Jocuri și concursuri', p: 'Competiții amuzante', i: '/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp' },
+      { t: 'Pictură pe față', p: 'Modele atractive', i: '/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp' },
+      { t: 'Modelaj baloane', p: 'Figurine colorate', i: '/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp' },
+      { t: 'Mini-disco', p: 'Dans și muzică', i: '/images/animatori/animatori-copii-bucuresti-mini-disco.webp' },
+      { t: 'Ateliere creative', p: 'Activități practice', i: '/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp' },
+      { t: 'Asistență eveniment', p: 'Coordonare și foto', i: '/images/animatori/animatori-copii-bucuresti-evenimente.webp' }
+    ],
+    packagesHeading: "Opțiuni de configurare",
+    packages: [
+      {
+        title: "Jocuri și activități de grup",
+        color: "#9333ea",
+        features: ["Jocuri interactive", "Competiții pe echipe", "Dans / mini-disco", "Adaptare după vârstă"]
+      },
+      {
+        title: "Pictură pe față și modelaj",
+        color: "#ec4899",
+        features: ["Modele colorate sigure", "Figurine din baloane", "Momente de creativitate", "Recuzită inclusă"],
+        scale: true
+      },
+      {
+        title: "Program adaptat locației",
+        color: "#9333ea",
+        features: ["Pentru apartamente", "Pentru restaurante/terase", "Pentru spații de joacă", "Activități în aer liber"]
+      }
+    ],
+    galleryHeading: "Bucuria copiilor",
+    galleryImages: [
+      '/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp',
+      '/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp',
+      '/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp'
+    ]
+  },
+  'pachete-animatori-copii-bucuresti': {
+    heroSubtitle1: "Alegeți variantele potrivite în funcție de numărul de copii, locație și activitățile dorite.",
+    heroSubtitle2: "Ofertă personalizată pentru a asigura bucuria copiilor la orice tip de eveniment.",
+    heroImage: "/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp",
+    ctaSecondary: "Cum alegem programul",
+    servicesHeading: "Activități pentru petrecere",
+    services: [
+      { t: 'Animație de bază', p: 'Jocuri și coordonare', i: '/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp' },
+      { t: 'Face painting', p: 'Culori sigure', i: '/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp' },
+      { t: 'Baloane modelate', p: 'Bucurie pentru copii', i: '/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp' },
+      { t: 'Mascotă', p: 'Surpriza petrecerii', i: '/images/animatori/animatori-copii-bucuresti-mascota-generica.webp' },
+      { t: 'Echipamente', p: 'Boxă și microfon', i: '/images/animatori/animatori-copii-bucuresti-mini-disco.webp' },
+      { t: 'Ateliere', p: 'Crafting și imaginație', i: '/images/animatori/animatori-copii-bucuresti-atelier-creativ.webp' }
+    ],
+    packagesHeading: "Cum se construiește oferta",
+    packages: [
+      {
+        title: "Detalii Eveniment",
+        color: "#9333ea",
+        features: ["Numărul estimat de copii", "Vârsta medie a invitaților", "Tipul locației adecvat", "Zona de deplasare"]
+      },
+      {
+        title: "Activitățile Dorite",
+        color: "#ec4899",
+        features: ["Animație și jocuri", "Pictură pe față / modelaj", "Mini-disco și dans", "Mascotă la cerere"],
+        scale: true
+      },
+      {
+        title: "Personalizare",
+        color: "#9333ea",
+        features: ["Timp adaptat nevoilor", "Număr potrivit de animatori", "Program complet personalizat", "Transparență completă"]
+      }
+    ],
+    galleryHeading: "Amintiri frumoase",
+    galleryImages: [
+      '/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp',
+      '/images/animatori/animatori-copii-bucuresti-mascota-generica.webp',
+      '/images/animatori/animatori-copii-bucuresti-program-animatie.webp'
+    ]
+  }
+};
+
+const currentData = slugDataMap[page?.slug] || slugDataMap['animatori-cu-mascote-petreceri-copii-bucuresti'];
+
+// Filter unique content from DB, excluding hero, gallery, faq, and service_card
+const dbSections = sections?.filter(s => 
+  !['hero', 'gallery', 'faq', 'service_card'].includes(s.section_type) && 
+  s.heading && 
+  s.content?.body
+) || [];
+---
+<div class="custom-animatori-page">
+  {/* HERO SECTION */}
+  <header class="hero-section has-image">
+    <div class="hero-overlay"></div>
+    <div class="container hero-content-wrapper">
+      <div class="hero-text-content">
+        <h1 class="page-title">{page.h1}</h1>
+        <p class="hero-subtitle">{currentData.heroSubtitle1}</p>
+        <p class="hero-subtitle">{currentData.heroSubtitle2}</p>
+        <div class="hero-actions">
+          <a href="https://wa.me/40768098268?text=Buna!%20As%20dori%20detalii%20despre%20animatori%20pentru%20petrecere%20copii." class="btn-primary" target="_blank" rel="noopener">Trimite detaliile petrecerii</a>
+          <a href="#pachete" class="btn-secondary-custom">{currentData.ctaSecondary}</a>
+        </div>
+      </div>
+      <div class="hero-image-wrapper">
+        <img src={currentData.heroImage} alt={page.title || "Animatori copii"} class="hero-image" loading="eager" />
+      </div>
+    </div>
+  </header>
+
+  {/* SERVICII (CARDURI) */}
+  <section class="service-cards-section bg-white" id="servicii">
+    <div class="container">
+      <h2 class="section-heading text-center" style="margin-bottom: 3rem;">{currentData.servicesHeading}</h2>
+      <div class="service-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
+        {currentData.services.map(c => (
+          <div class="service-card">
+            <div class="service-card-media">
+              <img src={c.i} alt={c.t} loading="lazy" />
+            </div>
+            <div class="service-card-body">
+              <h3>{c.t}</h3>
+              <p>{c.p}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* CONTINUT UNIC DB */}
+  {dbSections.map((section, index) => (
+    <section class={`content-section ${index % 2 === 0 ? 'bg-light' : 'bg-white'}`}>
+      <div class="container section-grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
+        <div class="section-text text-center" style="max-width: 900px; margin: 0 auto;">
+          <h2 class="section-heading" style="font-size: 2rem; font-weight: 800; margin-bottom: 1.5rem;">{section.heading}</h2>
+          <div class="prose unique-db-content" set:html={section.content.body} style="font-size: 1.125rem; color: #475569; line-height: 1.8; text-align: left;" />
+        </div>
+      </div>
+    </section>
+  ))}
+
+  {/* PACHETE - CARDURI */}
+  <section class="content-section bg-white" id="pachete">
+    <div class="container">
+      <h2 class="section-heading text-center" style="margin-bottom:3rem; font-size: 2.5rem; font-weight: 800;">{currentData.packagesHeading}</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+        
+        {currentData.packages.map(pkg => (
+          <div class="pricing-detail-card" style={`background: white; padding: 2rem; border-radius: 16px; box-shadow: ${pkg.scale ? '0 10px 15px -3px rgba(0,0,0,0.1)' : '0 4px 6px -1px rgba(0,0,0,0.1)'}; border: 1px solid #e2e8f0; ${pkg.scale ? 'border-top: 4px solid ' + pkg.color + ';' : ''} display: flex; flex-direction: column; ${pkg.scale ? 'transform: scale(1.02);' : ''}`}>
+            <h3 style={`font-size: 1.5rem; font-weight: 800; color: ${pkg.color}; margin-bottom: 1.5rem;`}>{pkg.title}</h3>
+            <ul style="list-style: none; padding: 0; margin-bottom: 2rem; flex-grow: 1; color:#475569; line-height:1.8;">
+              {pkg.features.map(f => (
+                <li>✓ {f}</li>
+              ))}
+            </ul>
+            <a href="https://wa.me/40768098268?text=Buna!%20As%20dori%20o%20oferta%20pentru%20animatori." target="_blank" rel="noopener" class="btn-primary" style={`text-align:center; background: ${pkg.color}; color: white; padding: 0.75rem; border-radius: 999px; text-decoration: none; font-weight: 600;`}>Cere ofertă personalizată</a>
+          </div>
+        ))}
+
+      </div>
+    </div>
+  </section>
+
+  {/* GALERIE */}
+  <section class="gallery-section content-section bg-light" id="galerie">
+    <div class="container">
+      <h2 class="section-heading text-center" style="font-size: 2.5rem; font-weight: 800; margin-bottom: 3rem;">{currentData.galleryHeading}</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+        {currentData.galleryImages.map(img => (
+          <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+            <img src={img} alt="Imagini din evenimente Kassia" loading="lazy" style="width:100%; height:100%; object-fit:cover; aspect-ratio: 4/3;" />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<style>
+/* Base Desktop Styles */
+.hero-actions {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.btn-secondary-custom {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  border-radius: 999px;
+  font-weight: 700;
+  background: white;
+  color: #9333ea;
+  border: 2px solid #9333ea;
+  text-decoration: none;
+}
+.service-card {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px -5px rgba(0,0,0,0.1);
+  background: white;
+}
+.service-card-body {
+  padding: 1.5rem;
+}
+.service-card-body h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 0.5rem;
+}
+.service-card-body p {
+  color: #475569;
+}
+.service-card-media {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: 16px 16px 0 0;
+  background: #f3f4f6;
+  position: relative;
+}
+.service-card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* Mobile Overrides */
+@media (max-width: 767px) {
+  .container,
+  .hero-content-wrapper,
+  .custom-animatori-page section > div {
+    width: 100%;
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+  }
+
+  .section-grid { grid-template-columns: 1fr !important; }
+
+  .hero-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .hero-text-content {
+    display: grid;
+    gap: 12px;
+  }
+
+  .hero-subtitle {
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  .hero-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-top: 1rem;
+    width: 100%;
+  }
+
+  .hero-actions a {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .service-cards-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+  }
+
+  .service-card {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .hero-image-wrapper,
+  .hero-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+  }
+}
+
+/* Ensure standard list items from unique DB content look ok */
+.unique-db-content ul, .unique-db-content ol {
+  padding-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+.unique-db-content p {
+  margin-bottom: 1rem;
+}
+</style>
+
+<style is:global>
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+img, video, picture {
+  max-width: 100%;
+}
+</style>

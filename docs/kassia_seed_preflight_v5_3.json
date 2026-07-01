@@ -1,0 +1,12 @@
+{
+  "schema_analyzed": true,
+  "live_db_preflight_executed": false,
+  "kassia_tables_exist": true,
+  "has_parent_page_id": true,
+  "has_include_in_schema": true,
+  "has_link_type": true,
+  "has_unique_path": true,
+  "has_unique_internal_links": true,
+  "page_type_safe_for_all_values": true,
+  "duplicate_existing_rows": "NOT_CHECKED_LIVE"
+}

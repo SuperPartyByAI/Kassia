@@ -1,0 +1,33 @@
+{
+  "zouka_sql_tables": [
+    "page_practical_info",
+    "page_content_blocks",
+    "page_versions",
+    "publishing_checks",
+    "pages",
+    "seo_meta",
+    "keywords",
+    "page_content_rules",
+    "page_sections",
+    "internal_links",
+    "faq_items",
+    "media_assets",
+    "content_requirements",
+    "content_quality_checks"
+  ],
+  "kassia_sql_tables": [
+    "kassia_pages",
+    "kassia_page_sections",
+    "kassia_faqs",
+    "kassia_gallery_items",
+    "kassia_internal_links",
+    "kassia_services",
+    "kassia_events",
+    "kassia_locations",
+    "kassia_pricing_packages"
+  ],
+  "shared_sql_table_names": [],
+  "shared_enum_names": [],
+  "conflicting_table_definitions": "NU",
+  "conflicting_enum_definitions": "NU"
+}

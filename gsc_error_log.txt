@@ -1,0 +1,20 @@
+
+	
+18
+https://www.kassia.ro/
+Verificarea adresei URL
+TESTEAZĂ ADRESA URL LIVE
+check_circle
+Adresa URL este pe Google
+Poate apărea în rezultatele Căutării Google (dacă nu este supusă unei acțiuni manuale sau unei solicitări de eliminare) cu toate îmbunătățirile relevante. Aflați mai multe
+AFIȘEAZĂ PAGINA ACCESATĂ CU CRAWLERE
+SOLICITĂ INDEXAREA
+check_circle
+Indexarea paginilor
+Pagina este indexată
+
+Îmbunătățiri și experiență
+check_circle
+HTTPS
+Pagina se difuzează prin HTTPS
+

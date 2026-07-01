@@ -1,0 +1,5636 @@
+[
+  {
+    "source": "/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "prețuri",
+    "reason": "commercial"
+  },
+  {
+    "source": "/",
+    "target": "/despre-noi/",
+    "anchor": "despre noi",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/intrebari-frecvente/",
+    "anchor": "intrebari frecvente",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/recenzii/",
+    "anchor": "recenzii",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/portofoliu-evenimente/",
+    "anchor": "portofoliu evenimente",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/termeni-si-conditii/",
+    "anchor": "termeni si conditii",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/politica-de-confidentialitate/",
+    "anchor": "politica de confidentialitate",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/blog/",
+    "anchor": "blog",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/",
+    "target": "/politica-cookies/",
+    "anchor": "politica cookies",
+    "reason": "footer_nav"
+  },
+  {
+    "source": "/despre-noi/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/despre-noi/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-1/",
+    "anchor": "decoratiuni baloane sector 1",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-2/",
+    "anchor": "decoratiuni baloane sector 2",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-3/",
+    "anchor": "decoratiuni baloane sector 3",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-4/",
+    "anchor": "decoratiuni baloane sector 4",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-5/",
+    "anchor": "decoratiuni baloane sector 5",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sector-6/",
+    "anchor": "decoratiuni baloane sector 6",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-aviatiei/",
+    "anchor": "decoratiuni baloane aviatiei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-baneasa/",
+    "anchor": "decoratiuni baloane baneasa",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-domenii/",
+    "anchor": "decoratiuni baloane domenii",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-herastrau/",
+    "anchor": "decoratiuni baloane herastrau",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-victoriei/",
+    "anchor": "decoratiuni baloane victoriei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-colentina/",
+    "anchor": "decoratiuni baloane colentina",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-obor/",
+    "anchor": "decoratiuni baloane obor",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-pantelimon/",
+    "anchor": "decoratiuni baloane pantelimon",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-tei/",
+    "anchor": "decoratiuni baloane tei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-stefan-cel-mare/",
+    "anchor": "decoratiuni baloane stefan cel mare",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-dristor/",
+    "anchor": "decoratiuni baloane dristor",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-titan/",
+    "anchor": "decoratiuni baloane titan",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-vitan/",
+    "anchor": "decoratiuni baloane vitan",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-unirii/",
+    "anchor": "decoratiuni baloane unirii",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-dudesti/",
+    "anchor": "decoratiuni baloane dudesti",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-berceni/",
+    "anchor": "decoratiuni baloane berceni",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-tineretului/",
+    "anchor": "decoratiuni baloane tineretului",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-piata-sudului/",
+    "anchor": "decoratiuni baloane piata sudului",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-aparatorii-patriei/",
+    "anchor": "decoratiuni baloane aparatorii patriei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-oltenitei/",
+    "anchor": "decoratiuni baloane oltenitei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-rahova/",
+    "anchor": "decoratiuni baloane rahova",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-cotroceni/",
+    "anchor": "decoratiuni baloane cotroceni",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-13-septembrie/",
+    "anchor": "decoratiuni baloane 13 septembrie",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-ferentari/",
+    "anchor": "decoratiuni baloane ferentari",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-sebastian/",
+    "anchor": "decoratiuni baloane sebastian",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-drumul-taberei/",
+    "anchor": "decoratiuni baloane drumul taberei",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-militari/",
+    "anchor": "decoratiuni baloane militari",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-crangasi/",
+    "anchor": "decoratiuni baloane crangasi",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-giulesti/",
+    "anchor": "decoratiuni baloane giulesti",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-grozavesti/",
+    "anchor": "decoratiuni baloane grozavesti",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-ilfov/",
+    "anchor": "decoratiuni baloane ilfov",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-voluntari/",
+    "anchor": "decoratiuni baloane voluntari",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-pipera/",
+    "anchor": "decoratiuni baloane pipera",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-otopeni/",
+    "anchor": "decoratiuni baloane otopeni",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-tunari/",
+    "anchor": "decoratiuni baloane tunari",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-corbeanca/",
+    "anchor": "decoratiuni baloane corbeanca",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-balotesti/",
+    "anchor": "decoratiuni baloane balotesti",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-mogosoaia/",
+    "anchor": "decoratiuni baloane mogosoaia",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-chitila/",
+    "anchor": "decoratiuni baloane chitila",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-chiajna/",
+    "anchor": "decoratiuni baloane chiajna",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-domnesti/",
+    "anchor": "decoratiuni baloane domnesti",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-bragadiru/",
+    "anchor": "decoratiuni baloane bragadiru",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-magurele/",
+    "anchor": "decoratiuni baloane magurele",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-popesti-leordeni/",
+    "anchor": "decoratiuni baloane popesti leordeni",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-berceni-ilfov/",
+    "anchor": "decoratiuni baloane berceni ilfov",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "anchor": "decoratiuni baloane pantelimon ilfov",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-cernica/",
+    "anchor": "decoratiuni baloane cernica",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-afumati/",
+    "anchor": "decoratiuni baloane afumati",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "anchor": "decoratiuni baloane stefanestii de jos",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-dascalu/",
+    "anchor": "decoratiuni baloane dascalu",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-snagov/",
+    "anchor": "decoratiuni baloane snagov",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-clinceni/",
+    "anchor": "decoratiuni baloane clinceni",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-dragomiresti-vale/",
+    "anchor": "decoratiuni baloane dragomiresti vale",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-jilava/",
+    "anchor": "decoratiuni baloane jilava",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/contact/",
+    "target": "/decoratiuni-baloane-1-decembrie/",
+    "anchor": "decoratiuni baloane 1 decembrie",
+    "reason": "area_covered"
+  },
+  {
+    "source": "/galerie/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/galerie/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/preturi-decoratiuni-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/preturi-decoratiuni-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/intrebari-frecvente/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/intrebari-frecvente/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/recenzii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/recenzii/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-mot-bucuresti/",
+    "anchor": "decoratiuni baloane mot bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-turta-bucuresti/",
+    "anchor": "decoratiuni baloane turta bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "decoratiuni baloane nunta bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "anchor": "decoratiuni baloane 8 martie bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-cununie-bucuresti/",
+    "anchor": "decoratiuni baloane cununie bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "decoratiuni baloane majorat bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare copii bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare adulti bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "anchor": "decoratiuni baloane petrecere bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-corporate-bucuresti/",
+    "anchor": "decoratiuni baloane corporate bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "anchor": "decoratiuni baloane deschidere magazin bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "anchor": "decoratiuni baloane deschidere restaurant bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "anchor": "decoratiuni baloane lansare produs bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-showroom-bucuresti/",
+    "anchor": "decoratiuni baloane showroom bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "anchor": "decoratiuni baloane gradinita bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-scoala-bucuresti/",
+    "anchor": "decoratiuni baloane scoala bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "anchor": "decoratiuni baloane baby shower bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "anchor": "decoratiuni baloane gender reveal bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-craciun-bucuresti/",
+    "anchor": "decoratiuni baloane craciun bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-revelion-bucuresti/",
+    "anchor": "decoratiuni baloane revelion bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-paste-bucuresti/",
+    "anchor": "decoratiuni baloane paste bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-halloween-bucuresti/",
+    "anchor": "decoratiuni baloane halloween bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "anchor": "decoratiuni baloane 1 iunie bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "anchor": "decoratiuni baloane absolvire bucuresti",
+    "reason": "portfolio_event"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/arcada-baloane-botez-bucuresti/",
+    "anchor": "arcada baloane botez bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/arcada-baloane-majorat-bucuresti/",
+    "anchor": "arcada baloane majorat bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/arcada-baloane-nunta-bucuresti/",
+    "anchor": "arcada baloane nunta bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/panou-foto-baloane-botez-bucuresti/",
+    "anchor": "panou foto baloane botez bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/panou-foto-baloane-majorat-bucuresti/",
+    "anchor": "panou foto baloane majorat bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/baloane-heliu-majorat-bucuresti/",
+    "anchor": "baloane heliu majorat bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/baloane-heliu-aniversare-bucuresti/",
+    "anchor": "baloane heliu aniversare bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/buchete-baloane-aniversare-bucuresti/",
+    "anchor": "buchete baloane aniversare bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "anchor": "decoratiuni baloane roz auriu bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/portofoliu-evenimente/",
+    "target": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "anchor": "decoratiuni baloane alb auriu bucuresti",
+    "reason": "portfolio_satellite"
+  },
+  {
+    "source": "/termeni-si-conditii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/termeni-si-conditii/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/politica-de-confidentialitate/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/politica-de-confidentialitate/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "anchor": "cât costă decorațiunile cu baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-o-arcada-de-baloane/",
+    "anchor": "cât costă o arcadă de baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-baloanele-cu-heliu/",
+    "anchor": "cât costă baloanele cu heliu",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "anchor": "cât costă un panou foto cu baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "anchor": "cât costă decor baloane botez",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "anchor": "cât costă decor baloane nuntă",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/ce-include-un-pachet-decor-baloane/",
+    "anchor": "ce include un pachet decor baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "anchor": "cum alegi pachetul de decorațiuni baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-alegi-arcada-de-baloane/",
+    "anchor": "cum alegi arcada de baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/arcada-baloane-organica-sau-clasica/",
+    "anchor": "arcadă baloane organică sau clasică",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "anchor": "dimensiune arcadă baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "anchor": "unde se poate monta o arcadă de baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "anchor": "cât rezistă o arcadă de baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "anchor": "idei arcadă baloane evenimente",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/baloane-heliu-cat-rezista/",
+    "anchor": "baloane heliu cât rezistă",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/baloane-heliu-latex-sau-folie/",
+    "anchor": "baloane heliu latex sau folie",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "anchor": "câte baloane cu heliu sunt necesare pentru o cameră",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "anchor": "cum se transportă baloanele cu heliu",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "anchor": "baloane cu heliu pentru copii idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "anchor": "baloane cu heliu pentru majorat idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-botez/",
+    "anchor": "idei decor baloane botez",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-mot-si-turta/",
+    "anchor": "idei decor baloane moț și turtă",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-nunta/",
+    "anchor": "idei decor baloane nuntă",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-cununie/",
+    "anchor": "idei decor baloane cununie",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-majorat/",
+    "anchor": "idei decor baloane majorat",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-aniversare-copii/",
+    "anchor": "idei decor baloane aniversare copii",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "anchor": "idei decor baloane aniversare adulți",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-baby-shower/",
+    "anchor": "idei decor baloane baby shower",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-gender-reveal/",
+    "anchor": "idei decor baloane gender reveal",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/idei-decor-baloane-corporate/",
+    "anchor": "idei decor baloane corporate",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "anchor": "cum alegi culorile pentru decorul cu baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/decor-baloane-roz-auriu-idei/",
+    "anchor": "decor baloane roz auriu idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/decor-baloane-alb-auriu-idei/",
+    "anchor": "decor baloane alb auriu idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/decor-baloane-pastel-idei/",
+    "anchor": "decor baloane pastel idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/decor-baloane-luxury-idei/",
+    "anchor": "decor baloane luxury idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "anchor": "decor baloane minimalist sau spectaculos",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "anchor": "cum comanzi decorațiuni cu baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "anchor": "cu cât timp înainte se comandă decorul cu baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "anchor": "ce informații trebuie să trimiți pentru ofertă decor baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "anchor": "montaj decorațiuni baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "anchor": "decorațiuni baloane exterior",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "anchor": "ce se întâmplă cu decorul după eveniment",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "anchor": "panou foto cu baloane idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "anchor": "candy bar cu decor de baloane idei",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "anchor": "foto corner cu baloane pentru evenimente",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "anchor": "cifre și litere din baloane",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "anchor": "buchete baloane când se potrivesc",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog/baloane-personalizate-pentru-evenimente/",
+    "anchor": "baloane personalizate pentru evenimente",
+    "reason": "hub_article"
+  },
+  {
+    "source": "/politica-cookies/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/politica-cookies/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/aranjamente-baloane-bucuresti/",
+    "anchor": "aranjamente baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/baloane-personalizate-bucuresti/",
+    "anchor": "baloane personalizate bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/baloane-cifre-litere-bucuresti/",
+    "anchor": "baloane cifre litere bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/ghirlande-baloane-bucuresti/",
+    "anchor": "ghirlande baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/stalpi-baloane-bucuresti/",
+    "anchor": "stalpi baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/perete-baloane-bucuresti/",
+    "anchor": "perete baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/decor-baloane-candy-bar-bucuresti/",
+    "anchor": "decor baloane candy bar bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/livrare-baloane-bucuresti/",
+    "anchor": "livrare baloane bucuresti",
+    "reason": "all_services"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "core_event"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "decoratiuni baloane nunta bucuresti",
+    "reason": "core_event"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-sector-1/",
+    "anchor": "decoratiuni baloane sector 1",
+    "reason": "core_location"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-ilfov/",
+    "anchor": "decoratiuni baloane ilfov",
+    "reason": "core_location"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie decor",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contact rapid",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "prețuri decorațiuni",
+    "reason": "commercial"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/aranjamente-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/arcada-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-heliu-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/panou-foto-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/buchete-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/baloane-personalizate-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/baloane-cifre-litere-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/ghirlande-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/stalpi-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/perete-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/decor-baloane-candy-bar-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/contact/",
+    "anchor": "cere ofertă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "verifică prețurile",
+    "reason": "commercial"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "vezi galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "baloane botez",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "baloane majorat",
+    "reason": "relevant_event"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă baloane",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/livrare-baloane-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "complementary_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-botez-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mot-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-turta-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-nunta-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-8-martie-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cununie-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-majorat-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-petrecere-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corporate-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-deschidere-restaurant-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-lansare-produs-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-showroom-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gradinita-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-scoala-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-craciun-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-revelion-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-paste-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-halloween-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-iunie-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/contact/",
+    "anchor": "contactează-ne",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie evenimente",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcadă foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-absolvire-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-1/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-2/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-3/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-4/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-5/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sector-6/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aviatiei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-baneasa/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domenii/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-herastrau/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-victoriei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-colentina/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-obor/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefan-cel-mare/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dristor/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-titan/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-vitan/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-unirii/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dudesti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tineretului/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-piata-sudului/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-aparatorii-patriei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-oltenitei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-rahova/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cotroceni/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-13-septembrie/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ferentari/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-sebastian/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-drumul-taberei/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-militari/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-crangasi/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-giulesti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-grozavesti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-ilfov/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-voluntari/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pipera/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-otopeni/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-tunari/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-corbeanca/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-balotesti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-mogosoaia/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chitila/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-chiajna/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-domnesti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-bragadiru/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-magurele/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-popesti-leordeni/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-berceni-ilfov/",
+    "target": "/decoratiuni-baloane-ilfov/",
+    "anchor": "decorațiuni Ilfov",
+    "reason": "parent_location"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-pantelimon-ilfov/",
+    "target": "/decoratiuni-baloane-ilfov/",
+    "anchor": "decorațiuni Ilfov",
+    "reason": "parent_location"
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-cernica/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-afumati/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-stefanestii-de-jos/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dascalu/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-snagov/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-clinceni/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-dragomiresti-vale/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-jilava/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane București",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/contact/",
+    "anchor": "comandă acum",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade din baloane",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "heliu",
+    "reason": "core_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-1-decembrie/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "core_service"
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/arcada-baloane-botez-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade baloane",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/arcada-baloane-majorat-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade baloane",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/arcada-baloane-nunta-bucuresti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcade baloane",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/panou-foto-baloane-botez-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/panou-foto-baloane-majorat-bucuresti/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panouri foto",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/baloane-heliu-majorat-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/baloane-heliu-aniversare-bucuresti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "anchor": "înapoi la eveniment",
+    "reason": "parent_link"
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/buchete-baloane-aniversare-bucuresti/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane",
+    "reason": "relevant_service"
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decorațiuni baloane",
+    "reason": "pillar_link"
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/contact/",
+    "anchor": "rezervă",
+    "reason": "conversion"
+  },
+  {
+    "source": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "inspiration"
+  },
+  {
+    "source": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-decoratiunile-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-o-arcada-de-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-o-arcada-de-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-o-arcada-de-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-baloanele-cu-heliu/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-baloanele-cu-heliu/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-baloanele-cu-heliu/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-baloanele-cu-heliu/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-panou-foto-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "target": "/arcada-baloane-botez-bucuresti/",
+    "anchor": "arcada baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-botez/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "decoratiuni baloane nunta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "target": "/arcada-baloane-nunta-bucuresti/",
+    "anchor": "arcada baloane nunta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-costa-un-decor-de-baloane-pentru-nunta/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-include-un-pachet-decor-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-include-un-pachet-decor-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-include-un-pachet-decor-baloane/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-include-un-pachet-decor-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-pachetul-de-decoratiuni-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-arcada-de-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-arcada-de-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-arcada-de-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/arcada-baloane-organica-sau-clasica/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/arcada-baloane-organica-sau-clasica/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/arcada-baloane-organica-sau-clasica/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-dimensiune-trebuie-sa-aiba-o-arcada-de-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/unde-se-poate-monta-o-arcada-de-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cat-rezista-o-arcada-de-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "decoratiuni baloane nunta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-arcada-baloane-pentru-evenimente/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-cat-rezista/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-cat-rezista/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-cat-rezista/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-latex-sau-folie/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-latex-sau-folie/",
+    "target": "/baloane-personalizate-bucuresti/",
+    "anchor": "baloane personalizate bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-heliu-latex-sau-folie/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cate-baloane-cu-heliu-sunt-necesare-pentru-o-camera/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "target": "/livrare-baloane-bucuresti/",
+    "anchor": "livrare baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-transporta-baloanele-cu-heliu/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare copii bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-copii-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "decoratiuni baloane majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "target": "/baloane-heliu-majorat-bucuresti/",
+    "anchor": "baloane heliu majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-cu-heliu-pentru-majorat-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-botez/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-botez/",
+    "target": "/arcada-baloane-botez-bucuresti/",
+    "anchor": "arcada baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-botez/",
+    "target": "/panou-foto-baloane-botez-bucuresti/",
+    "anchor": "panou foto baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-botez/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-mot-si-turta/",
+    "target": "/decoratiuni-baloane-mot-bucuresti/",
+    "anchor": "decoratiuni baloane mot bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-mot-si-turta/",
+    "target": "/decoratiuni-baloane-turta-bucuresti/",
+    "anchor": "decoratiuni baloane turta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-mot-si-turta/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-mot-si-turta/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-nunta/",
+    "target": "/decoratiuni-baloane-nunta-bucuresti/",
+    "anchor": "decoratiuni baloane nunta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-nunta/",
+    "target": "/arcada-baloane-nunta-bucuresti/",
+    "anchor": "arcada baloane nunta bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-nunta/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-nunta/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-cununie/",
+    "target": "/decoratiuni-baloane-cununie-bucuresti/",
+    "anchor": "decoratiuni baloane cununie bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-cununie/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-cununie/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-majorat/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "decoratiuni baloane majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-majorat/",
+    "target": "/arcada-baloane-majorat-bucuresti/",
+    "anchor": "arcada baloane majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-majorat/",
+    "target": "/baloane-heliu-majorat-bucuresti/",
+    "anchor": "baloane heliu majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-majorat/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-copii/",
+    "target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare copii bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-copii/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-copii/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "target": "/decoratiuni-baloane-aniversare-adulti-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare adulti bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-aniversare-adulti/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-baby-shower/",
+    "target": "/decoratiuni-baloane-baby-shower-bucuresti/",
+    "anchor": "decoratiuni baloane baby shower bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-baby-shower/",
+    "target": "/baloane-personalizate-bucuresti/",
+    "anchor": "baloane personalizate bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-baby-shower/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-gender-reveal/",
+    "target": "/decoratiuni-baloane-gender-reveal-bucuresti/",
+    "anchor": "decoratiuni baloane gender reveal bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-gender-reveal/",
+    "target": "/baloane-personalizate-bucuresti/",
+    "anchor": "baloane personalizate bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-gender-reveal/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-gender-reveal/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-corporate/",
+    "target": "/decoratiuni-baloane-corporate-bucuresti/",
+    "anchor": "decoratiuni baloane corporate bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-corporate/",
+    "target": "/decoratiuni-baloane-deschidere-magazin-bucuresti/",
+    "anchor": "decoratiuni baloane deschidere magazin bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/idei-decor-baloane-corporate/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-alegi-culorile-pentru-decorul-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-roz-auriu-idei/",
+    "target": "/decoratiuni-baloane-roz-auriu-bucuresti/",
+    "anchor": "decoratiuni baloane roz auriu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-roz-auriu-idei/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-roz-auriu-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-alb-auriu-idei/",
+    "target": "/decoratiuni-baloane-alb-auriu-bucuresti/",
+    "anchor": "decoratiuni baloane alb auriu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-alb-auriu-idei/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-alb-auriu-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-pastel-idei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-pastel-idei/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-pastel-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-luxury-idei/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-luxury-idei/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-luxury-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "target": "/galerie/",
+    "anchor": "galerie",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/decor-baloane-minimalist-sau-spectaculos/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-comanzi-decoratiuni-cu-baloane/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cu-cat-timp-inainte-se-comanda-decorul-cu-baloane/",
+    "target": "/intrebari-frecvente/",
+    "anchor": "intrebari frecvente",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "target": "/preturi-decoratiuni-baloane/",
+    "anchor": "preturi decoratiuni baloane",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-informatii-trebuie-sa-trimiti-pentru-o-oferta/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cum-se-face-montajul-decoratiunilor-cu-baloane/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/se-pot-monta-decoratiuni-cu-baloane-in-exterior/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "target": "/intrebari-frecvente/",
+    "anchor": "intrebari frecvente",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/ce-se-intampla-cu-decorul-dupa-eveniment/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "target": "/decoratiuni-baloane-bucuresti/",
+    "anchor": "decoratiuni baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/panou-foto-cu-baloane-idei-si-recomandari/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "target": "/decor-baloane-candy-bar-bucuresti/",
+    "anchor": "decor baloane candy bar bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "target": "/decoratiuni-baloane-botez-bucuresti/",
+    "anchor": "decoratiuni baloane botez bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare copii bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/candy-bar-cu-decor-de-baloane-idei/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "target": "/panou-foto-baloane-bucuresti/",
+    "anchor": "panou foto baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "target": "/arcada-baloane-bucuresti/",
+    "anchor": "arcada baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/foto-corner-cu-baloane-pentru-evenimente/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "target": "/baloane-cifre-litere-bucuresti/",
+    "anchor": "baloane cifre litere bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "target": "/decoratiuni-baloane-majorat-bucuresti/",
+    "anchor": "decoratiuni baloane majorat bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "target": "/decoratiuni-baloane-aniversare-copii-bucuresti/",
+    "anchor": "decoratiuni baloane aniversare copii bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/cifre-si-litere-din-baloane-cand-se-folosesc/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "target": "/buchete-baloane-bucuresti/",
+    "anchor": "buchete baloane bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/buchete-baloane-cand-se-potrivesc/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-personalizate-pentru-evenimente/",
+    "target": "/baloane-personalizate-bucuresti/",
+    "anchor": "baloane personalizate bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-personalizate-pentru-evenimente/",
+    "target": "/baloane-heliu-bucuresti/",
+    "anchor": "baloane heliu bucuresti",
+    "reason": "recommended_service"
+  },
+  {
+    "source": "/blog/baloane-personalizate-pentru-evenimente/",
+    "target": "/contact/",
+    "anchor": "contact",
+    "reason": "recommended_service"
+  }
+]

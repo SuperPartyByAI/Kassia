@@ -1,0 +1,362 @@
+[
+  {
+    "id": "8c4c1f23-712c-4cf6-91ee-b65d73d5b897",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "question": "Cât timp durează montajul unui decor cu baloane?",
+    "answer": "Timpul de montaj variază între 1 și 3 ore, în funcție de complexitatea și dimensiunea decorului. Discutăm aceste detalii în prealabil pentru a ajunge la locație la momentul oportun.",
+    "order_index": 1,
+    "created_at": "2026-05-21T09:25:13.844376+00:00",
+    "updated_at": "2026-05-21T09:25:13.844376+00:00"
+  },
+  {
+    "id": "a4ba05b9-034d-4cc9-a9b9-d981f07bf33b",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "question": "Puteți adapta decorul după o poză de inspirație?",
+    "answer": "Da. Ne poți trimite poze de inspirație, culori preferate și detalii despre locație, iar noi adaptăm decorul cu baloane în funcție de spațiu, temă și buget.",
+    "order_index": 4,
+    "created_at": "2026-05-21T10:19:20.584461+00:00",
+    "updated_at": "2026-05-21T10:19:20.584461+00:00"
+  },
+  {
+    "id": "e0910731-e271-4982-b7a6-1d12eb42b58d",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "question": "Vă ocupați și de demontarea decorului după eveniment?",
+    "answer": "În general, baloanele rămân la tine! În cazul panourilor foto cu cadru metalic închiriate, stabilim de comun acord ridicarea recuzitei după terminarea petrecerii sau a doua zi.",
+    "order_index": 2,
+    "created_at": "2026-05-21T09:25:13.844376+00:00",
+    "updated_at": "2026-05-21T09:25:13.844376+00:00"
+  },
+  {
+    "id": "3662a3fe-14fa-4c72-a968-8a1119ee1a0a",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "question": "Oferiți decorațiuni și în Ilfov?",
+    "answer": "Da, asigurăm transport și montaj oriunde în București și Ilfov. Costurile de transport se calculează în funcție de distanța exactă până la locație.",
+    "order_index": 3,
+    "created_at": "2026-05-21T09:25:13.844376+00:00",
+    "updated_at": "2026-05-21T09:25:13.844376+00:00"
+  },
+  {
+    "id": "d57a9d37-ca89-47fe-b1fe-070aca3f835f",
+    "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "question": "Ce este inclus în oferta finală?",
+    "answer": "Oferta finală include prețul baloanelor, elementele de structură închiriate (cadre, panouri, suporți), manopera pentru realizarea decorului, precum și costurile de transport și montaj la locație.",
+    "order_index": 1,
+    "created_at": "2026-05-21T10:02:40.427225+00:00",
+    "updated_at": "2026-05-21T10:02:40.427225+00:00"
+  },
+  {
+    "id": "fb2a2409-ebd8-4506-aa24-4b8ee6158244",
+    "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "question": "Se percepe avans pentru rezervare?",
+    "answer": "Da, pentru a bloca ferm data și ora evenimentului tău în calendarul nostru, precum și pentru achiziția materialelor necesare, percepem un avans. Restul sumei se achită de obicei în ziua montajului.",
+    "order_index": 2,
+    "created_at": "2026-05-21T10:02:40.427225+00:00",
+    "updated_at": "2026-05-21T10:02:40.427225+00:00"
+  },
+  {
+    "id": "c25d3168-a331-4e3c-9453-5235131fb631",
+    "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+    "question": "De ce prețurile diferă de la un eveniment la altul?",
+    "answer": "Costul unui decor variază în funcție de dimensiunea acestuia, tipul baloanelor folosite (standard, cromate, dublate), complexitatea asamblării și accesoriile adăugate (flori, decupaje tematice, neoane). De asemenea, logistica locației poate influența prețul.",
+    "order_index": 3,
+    "created_at": "2026-05-21T10:02:40.427225+00:00",
+    "updated_at": "2026-05-21T10:02:40.427225+00:00"
+  },
+  {
+    "id": "e9af8409-efbe-4282-bd68-91a9a164ac94",
+    "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+    "question": "Cu cât timp înainte trebuie să vă contactez?",
+    "answer": "Recomandăm să ne contactezi cât mai devreme, mai ales pentru weekenduri și perioade aglomerate. Dacă data este apropiată, ne poți scrie pe WhatsApp și verificăm rapid disponibilitatea.",
+    "order_index": 5,
+    "created_at": "2026-05-21T10:19:20.584461+00:00",
+    "updated_at": "2026-05-21T10:19:20.584461+00:00"
+  },
+  {
+    "id": "728a0f35-4b63-41b4-a362-cec6cab197b6",
+    "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "question": "Pot trimite poze de inspirație pe WhatsApp?",
+    "answer": "Da. Pozele de inspirație ne ajută să înțelegem stilul dorit, culorile, dimensiunea decorului și tipul de aranjament potrivit pentru evenimentul tău.",
+    "order_index": 20,
+    "created_at": "2026-05-21T07:11:50.953579+00:00",
+    "updated_at": "2026-05-21T07:11:50.953579+00:00"
+  },
+  {
+    "id": "bbce5ef2-21c5-4e5f-aedd-8565673de633",
+    "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "question": "Realizați decoruri cu baloane și în Ilfov?",
+    "answer": "Da, realizăm decoruri cu baloane în București și în zonele apropiate din Ilfov. Transportul și montajul se confirmă în funcție de locație.",
+    "order_index": 30,
+    "created_at": "2026-05-21T07:11:50.953579+00:00",
+    "updated_at": "2026-05-21T07:11:50.953579+00:00"
+  },
+  {
+    "id": "aa9e2992-f4a2-4047-98c4-b09454f286c6",
+    "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+    "question": "Cu cât timp înainte trebuie să vă contactez?",
+    "answer": "Recomandăm să ne contactezi cât mai devreme, mai ales pentru weekenduri și perioade aglomerate. Disponibilitatea se confirmă în funcție de data evenimentului și complexitatea decorului.",
+    "order_index": 10,
+    "created_at": "2026-05-21T07:11:50.953579+00:00",
+    "updated_at": "2026-05-21T07:32:03.692825+00:00"
+  },
+  {
+    "id": "8da4a1f8-f094-40c0-b34c-2e4770420700",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "question": "Cât costă o arcadă din baloane în București?",
+    "answer": "Prețul depinde de dimensiune, complexitate, tipul de baloane, accesorii, locație și montaj. Pentru o estimare corectă, este util să trimiți data evenimentului, locația, culorile dorite și o poză cu zona unde vrei arcada.",
+    "order_index": 1,
+    "created_at": "2026-05-21T18:17:06.729364+00:00",
+    "updated_at": "2026-05-21T18:17:06.729364+00:00"
+  },
+  {
+    "id": "a6fe8e97-4ecb-484f-bf8a-90a660019fd1",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "question": "Pentru ce evenimente se potrivesc arcadele din baloane?",
+    "answer": "Arcadele din baloane sunt potrivite pentru botezuri, nunți, cununii, aniversări, majorate, petreceri private, evenimente corporate, deschideri de locații și decoruri pentru candy bar sau panou foto.",
+    "order_index": 2,
+    "created_at": "2026-05-21T18:17:06.729364+00:00",
+    "updated_at": "2026-05-21T18:17:06.729364+00:00"
+  },
+  {
+    "id": "13096ca9-d0ae-4bdf-8704-74d9ffe5af01",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "question": "Se poate face arcada în culorile dorite?",
+    "answer": "Da, arcada poate fi personalizată în funcție de temă, culori, locație și tipul evenimentului. Se pot folosi combinații pastelate, elegante, neutre, colorate sau nuanțe apropiate de identitatea unui brand.",
+    "order_index": 3,
+    "created_at": "2026-05-21T18:17:06.729364+00:00",
+    "updated_at": "2026-05-21T18:17:06.729364+00:00"
+  },
+  {
+    "id": "00389d28-c41a-4201-8bfa-eccb0a8b6371",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "question": "Cât durează montajul unei arcade din baloane?",
+    "answer": "Montajul poate dura de la aproximativ o oră până la câteva ore, în funcție de dimensiune, complexitate și condițiile din locație. Ora exactă se stabilește înainte de eveniment.",
+    "order_index": 4,
+    "created_at": "2026-05-21T18:17:06.729364+00:00",
+    "updated_at": "2026-05-21T18:17:06.729364+00:00"
+  },
+  {
+    "id": "08b212bb-6eb8-4a12-959b-0501d05a5d9e",
+    "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+    "question": "Puteți monta arcada la restaurant sau salon?",
+    "answer": "Da, montajul se poate face la restaurant, salon, acasă, în showroom, spațiu corporate sau altă locație din București și Ilfov, în funcție de acces și programul evenimentului.",
+    "order_index": 5,
+    "created_at": "2026-05-21T18:17:06.729364+00:00",
+    "updated_at": "2026-05-21T18:17:06.729364+00:00"
+  },
+  {
+    "id": "8fd728a8-c6f0-4f45-8cb0-7c815bda2778",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Cât costă baloanele cu heliu în București?",
+    "answer": "Prețul depinde de tipul baloanelor, dimensiune, număr, accesorii, personalizare și modul în care sunt integrate în decor. Pentru o estimare corectă, trimite-ne detaliile evenimentului pe WhatsApp.",
+    "order_index": 1,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "57e4c23a-a6b3-4de2-8ca7-e18af070ee1b",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Ce tipuri de baloane cu heliu se pot folosi?",
+    "answer": "Se pot folosi baloane latex, baloane folie, cifre, litere, forme tematice, baloane transparente și buchete de baloane. Alegerea se face în funcție de eveniment, culori și efectul vizual dorit.",
+    "order_index": 2,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "ac4ba997-cb28-4b92-8ccc-72c86b881051",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Sunt potrivite baloanele cu heliu pentru botez?",
+    "answer": "Da, baloanele cu heliu pot completa foarte bine decorul pentru botez, mai ales în zona de candy bar, intrare, mese festive sau panou foto. Culorile și formele se pot adapta pentru fetiță, băiețel sau temă neutră.",
+    "order_index": 3,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "9b9687e5-6eb4-4318-8a14-4ecf3e5ea1ff",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Pot comanda baloane cu heliu pentru aniversare sau majorat?",
+    "answer": "Da, baloanele cu heliu sunt potrivite pentru aniversări, majorate și petreceri private. Se pot include cifre, litere, buchete de baloane sau combinații personalizate în funcție de vârstă și temă.",
+    "order_index": 4,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "7f547a53-dce6-447b-9302-0459e6e942c5",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Cum aleg culorile pentru baloanele cu heliu?",
+    "answer": "Culorile se aleg în funcție de locație, temă, vârstă, tipul evenimentului și preferințe. Dacă nu ai o combinație stabilită, putem recomanda variante potrivite pentru decor și fotografii.",
+    "order_index": 5,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "9f5dc89c-5c40-481e-af88-77557c4d81f1",
+    "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+    "question": "Pot combina baloanele cu heliu cu arcadă sau panou foto?",
+    "answer": "Da, baloanele cu heliu pot fi combinate cu arcade din baloane, panouri foto, ghirlande organice și alte elemente decorative pentru un decor complet și coerent.",
+    "order_index": 6,
+    "created_at": "2026-05-21T18:21:59.09748+00:00",
+    "updated_at": "2026-05-21T18:21:59.09748+00:00"
+  },
+  {
+    "id": "4f13ce3b-734c-4393-81ee-fbcdb5f2a5a2",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Cât costă un panou foto cu baloane în București?",
+    "answer": "Prețul depinde de tipul panoului, dimensiune, decorul cu baloane, accesorii, locație și timpul necesar pentru montaj. Pentru o estimare corectă, trimite-ne data evenimentului, locația și câteva poze de inspirație.",
+    "order_index": 1,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "d11c41b5-4897-40cc-b1f6-9705e6c3b10c",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Pentru ce evenimente se potrivește un panou foto cu baloane?",
+    "answer": "Un panou foto cu baloane se potrivește pentru botezuri, nunți, cununii, aniversări, majorate, petreceri private, evenimente corporate, lansări și deschideri de locații.",
+    "order_index": 2,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "b1a48d42-5d0c-46d0-a45e-2a2fefcc2804",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Se poate personaliza panoul foto în culorile dorite?",
+    "answer": "Da, panoul foto poate fi personalizat în funcție de culori, temă, locație și tipul evenimentului. Se pot folosi baloane pastelate, elegante, metalizate, neutre sau combinații mai colorate.",
+    "order_index": 3,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "8343334e-9f88-48cd-afd3-24d90c16aab6",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Puteți combina panoul foto cu arcadă sau baloane cu heliu?",
+    "answer": "Da, panoul foto poate fi combinat cu arcadă din baloane, semi-arcadă, baloane cu heliu, cifre, litere, flori artificiale sau alte elemente decorative pentru un decor complet.",
+    "order_index": 4,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "e1e2a6d2-8296-4933-94b7-e6e83fb4c7e0",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Cât durează montajul unui panou foto cu baloane?",
+    "answer": "Montajul poate dura de la aproximativ o oră până la câteva ore, în funcție de dimensiune, complexitate, accesul în locație și elementele incluse în decor.",
+    "order_index": 5,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "27c9f501-7924-4d8f-b802-071e85fe3504",
+    "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+    "question": "Puteți monta panoul foto la restaurant, salon sau acasă?",
+    "answer": "Da, montajul se poate face la restaurant, salon, acasă, într-un spațiu corporate sau într-o altă locație din București și Ilfov, în funcție de acces și programul evenimentului.",
+    "order_index": 6,
+    "created_at": "2026-05-21T18:35:25.9055+00:00",
+    "updated_at": "2026-05-21T18:35:25.9055+00:00"
+  },
+  {
+    "id": "fffdad74-e174-443a-918b-98a2b9f9144b",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Cât costă un decor cu baloane pentru botez în București?",
+    "answer": "Prețul depinde de dimensiunea decorului, elementele incluse, locație, culori, accesorii și timpul necesar pentru montaj. Pentru o estimare corectă, trimite-ne data botezului, locația și câteva poze de inspirație.",
+    "order_index": 1,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "f52dc18e-c887-42e6-9235-8586401ddcac",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Ce poate include un decor de botez cu baloane?",
+    "answer": "Un decor de botez poate include arcadă din baloane, panou foto, baloane cu heliu, decor pentru candy bar, masă de tort, intrare, buchete de baloane și elemente personalizate în funcție de temă.",
+    "order_index": 2,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "98f7e78c-4211-4919-8c1c-42d38cf83360",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Faceți decoruri pentru botez de fetiță și băiețel?",
+    "answer": "Da, realizăm decoruri pentru botez de fetiță, băiețel sau teme neutre. Culorile, stilul și elementele decorative se aleg în funcție de preferințe, locație și tema evenimentului.",
+    "order_index": 3,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "e0b07216-cc59-4661-b11f-6a09ad103abd",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Puteți monta decorul la restaurant sau salon?",
+    "answer": "Da, montajul se poate face la restaurant, salon de evenimente, acasă, pe terasă sau într-un spațiu privat din București și Ilfov, în funcție de acces și programul locației.",
+    "order_index": 4,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "90ea97d6-19dd-4008-979f-22612d82a7ad",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Cu cât timp înainte trebuie să vă contactez pentru decorul de botez?",
+    "answer": "Este recomandat să ne contactezi cât mai devreme după ce ai stabilit data și locația botezului, mai ales în perioadele aglomerate. Astfel putem verifica disponibilitatea și putem pregăti decorul potrivit.",
+    "order_index": 5,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "a8aa0cb1-d81e-416c-b22e-e47a8dacc514",
+    "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+    "question": "Pot trimite poze de inspirație pentru decor?",
+    "answer": "Da, pozele de inspirație sunt foarte utile. Ne ajută să înțelegem stilul dorit, paleta de culori, dimensiunea decorului și elementele care îți plac cel mai mult.",
+    "order_index": 6,
+    "created_at": "2026-05-21T19:15:04.647274+00:00",
+    "updated_at": "2026-05-21T19:15:04.647274+00:00"
+  },
+  {
+    "id": "9e513db6-b518-4d73-8785-668879a381d6",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Cât costă un decor cu baloane pentru nuntă în București?",
+    "answer": "Prețul depinde de dimensiunea decorului, elementele incluse, locație, culori, accesorii și timpul necesar pentru montaj. Pentru o estimare corectă, trimite-ne data nunții, locația și câteva poze de inspirație.",
+    "order_index": 1,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  },
+  {
+    "id": "9a771586-1010-47b8-82ea-84fa7bf2d591",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Ce poate include un decor de nuntă cu baloane?",
+    "answer": "Un decor de nuntă poate include arcadă din baloane, panou foto, decor pentru candy bar, masă de tort, intrare, zonă de întâmpinare și elemente personalizate în funcție de temă.",
+    "order_index": 2,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  },
+  {
+    "id": "c8809b75-766a-4d9e-ad9d-7486e85e1983",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Se potrivesc baloanele la o nuntă elegantă?",
+    "answer": "Da, dacă sunt alese culorile și formele potrivite. Arcadele organice, panourile foto și decorurile în nuanțe neutre, ivory, champagne sau metalizate pot arăta foarte elegant la nuntă.",
+    "order_index": 3,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  },
+  {
+    "id": "034a450f-05f3-4c31-8d1c-8a8cdfbbfed2",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Puteți face decor și pentru cununie civilă?",
+    "answer": "Da, realizăm decoruri cu baloane pentru cununii civile, nunți, petreceri restrânse și evenimente private, în funcție de spațiu și stilul dorit.",
+    "order_index": 4,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  },
+  {
+    "id": "cd300caa-27a9-4f0a-acd6-3425ec184dc9",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Puteți monta decorul la restaurant sau salon?",
+    "answer": "Da, montajul se poate face la restaurant, salon de evenimente, terasă, spațiu privat sau locație corporate din București și Ilfov, în funcție de acces și programul locației.",
+    "order_index": 5,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  },
+  {
+    "id": "b485ae0a-ee94-401a-8194-71966a6c5878",
+    "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+    "question": "Pot trimite poze de inspirație pentru decorul de nuntă?",
+    "answer": "Da, pozele de inspirație sunt foarte utile. Ne ajută să înțelegem stilul dorit, paleta de culori, dimensiunea decorului și atmosfera pe care vrei să o obții.",
+    "order_index": 6,
+    "created_at": "2026-05-22T02:15:54.473261+00:00",
+    "updated_at": "2026-05-22T02:15:54.473261+00:00"
+  }
+]

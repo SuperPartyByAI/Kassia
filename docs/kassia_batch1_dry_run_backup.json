@@ -1,0 +1,1416 @@
+{
+  "pages": [
+    {
+      "id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+      "slug": "contact",
+      "path": "/contact/",
+      "page_type": "support",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Contact",
+      "h1": "[TEST KASSIA] Contact",
+      "meta_title": "Contact - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:00:36.254311+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+      "slug": "preturi-decoratiuni-baloane",
+      "path": "/preturi-decoratiuni-baloane/",
+      "page_type": "support",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Preturi Decoratiuni Baloane",
+      "h1": "[TEST KASSIA] Preturi Decoratiuni Baloane",
+      "meta_title": "Preturi Decoratiuni Baloane - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:00:40.414685+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "slug": "decoratiuni-baloane-botez-bucuresti",
+      "path": "/decoratiuni-baloane-botez-bucuresti/",
+      "page_type": "event",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Decoratiuni Baloane Botez Bucuresti",
+      "h1": "[TEST KASSIA] Decoratiuni Baloane Botez Bucuresti",
+      "meta_title": "Decoratiuni Baloane Botez Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:01:56.567757+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "55d88156-7132-4057-997c-81d9b04820af",
+      "slug": "intrebari-frecvente",
+      "path": "/intrebari-frecvente/",
+      "page_type": "support",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Intrebari Frecvente",
+      "h1": "[TEST KASSIA] Intrebari Frecvente",
+      "meta_title": "Intrebari Frecvente - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:00:41.34282+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "slug": "arcada-baloane-bucuresti",
+      "path": "/arcada-baloane-bucuresti/",
+      "page_type": "service",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Arcada Baloane Bucuresti",
+      "h1": "[TEST KASSIA] Arcada Baloane Bucuresti",
+      "meta_title": "Arcada Baloane Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:01:30.939734+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "slug": "baloane-heliu-bucuresti",
+      "path": "/baloane-heliu-bucuresti/",
+      "page_type": "service",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Baloane Heliu Bucuresti",
+      "h1": "[TEST KASSIA] Baloane Heliu Bucuresti",
+      "meta_title": "Baloane Heliu Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:01:33.31647+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "slug": "panou-foto-baloane-bucuresti",
+      "path": "/panou-foto-baloane-bucuresti/",
+      "page_type": "service",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Panou Foto Baloane Bucuresti",
+      "h1": "[TEST KASSIA] Panou Foto Baloane Bucuresti",
+      "meta_title": "Panou Foto Baloane Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:01:35.660261+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "5000259c-34c1-4046-886a-d6b002375075",
+      "slug": "decoratiuni-baloane-bucuresti",
+      "path": "/decoratiuni-baloane-bucuresti/",
+      "page_type": "service_pillar",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Decoratiuni Baloane Bucuresti",
+      "h1": "[TEST KASSIA] Decoratiuni Baloane Bucuresti",
+      "meta_title": "Decoratiuni Baloane Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": null,
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:00:50.166673+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "slug": "decoratiuni-baloane-nunta-bucuresti",
+      "path": "/decoratiuni-baloane-nunta-bucuresti/",
+      "page_type": "event",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Decoratiuni Baloane Nunta Bucuresti",
+      "h1": "[TEST KASSIA] Decoratiuni Baloane Nunta Bucuresti",
+      "meta_title": "Decoratiuni Baloane Nunta Bucuresti - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:02:03.768585+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    },
+    {
+      "id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+      "slug": "galerie",
+      "path": "/galerie/",
+      "page_type": "support",
+      "status": "draft",
+      "index_status": "noindex",
+      "include_in_sitemap": false,
+      "title": "[TEST KASSIA] Galerie",
+      "h1": "[TEST KASSIA] Galerie",
+      "meta_title": "Galerie - Kassia",
+      "meta_description": "[TEST KASSIA] Aceasta este o descriere de test.",
+      "canonical_url": null,
+      "parent_page_id": "9bc61400-1ffe-4085-8454-0b2658e9dea3",
+      "service_type": null,
+      "event_type": null,
+      "location_type": null,
+      "city": null,
+      "sector": null,
+      "neighborhood": null,
+      "priority": 0.5,
+      "created_at": "2026-05-19T16:00:39.491135+00:00",
+      "updated_at": "2026-05-20T06:13:50.448555+00:00",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "d6cf1aa3-077d-4302-8a62-90acb7f86c1c",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:50.474137+00:00",
+      "updated_at": "2026-05-20T06:13:15.206454+00:00"
+    },
+    {
+      "id": "a0336150-0f0a-4a6b-8028-730f3a6cb8df",
+      "page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+      "section_type": "content",
+      "heading": "[TEST KASSIA] Heading for content",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru content. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:19.756+00:00",
+      "updated_at": "2026-05-20T06:13:15.423609+00:00"
+    },
+    {
+      "id": "e095a692-642e-4a4b-9b45-a7426d6f3890",
+      "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:20.627133+00:00",
+      "updated_at": "2026-05-20T06:13:15.650134+00:00"
+    },
+    {
+      "id": "feac6277-b2bd-4489-9faa-d49918218c1e",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:26.397172+00:00",
+      "updated_at": "2026-05-20T06:13:15.875946+00:00"
+    },
+    {
+      "id": "d42ccd4c-67ee-4354-8643-017971945e4a",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:01:26.820498+00:00",
+      "updated_at": "2026-05-20T06:13:16.094243+00:00"
+    },
+    {
+      "id": "679325db-9b47-49c2-a747-b524d6176440",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:31.412795+00:00",
+      "updated_at": "2026-05-20T06:13:16.344404+00:00"
+    },
+    {
+      "id": "e2aeb012-7d87-4d21-9451-24a390214bd7",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:01:31.88003+00:00",
+      "updated_at": "2026-05-20T06:13:16.57252+00:00"
+    },
+    {
+      "id": "51a939da-f0ed-446c-a802-43f9f040c8a1",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:33.60936+00:00",
+      "updated_at": "2026-05-20T06:13:16.893722+00:00"
+    },
+    {
+      "id": "6c2c580f-e6a3-4884-ba2d-3f6bccbb1570",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:34.051256+00:00",
+      "updated_at": "2026-05-20T06:13:17.122127+00:00"
+    },
+    {
+      "id": "341b798c-6d34-4af3-821f-db1a2174dfdb",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "service_features",
+      "heading": "[TEST KASSIA] Heading for service_features",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru service_features. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 7,
+      "created_at": "2026-05-19T16:01:34.481937+00:00",
+      "updated_at": "2026-05-20T06:13:17.333344+00:00"
+    },
+    {
+      "id": "7e2a04f2-1877-49f0-858f-d5d0317b2105",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:36.254379+00:00",
+      "updated_at": "2026-05-20T06:13:17.556958+00:00"
+    },
+    {
+      "id": "5979b891-96f3-4fd6-b4e5-de95e5c483cd",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:01:36.678131+00:00",
+      "updated_at": "2026-05-20T06:13:17.773499+00:00"
+    },
+    {
+      "id": "7d9bcd5e-9e3b-48f2-8c3a-aa13fca1627f",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:57.01293+00:00",
+      "updated_at": "2026-05-20T06:13:17.912377+00:00"
+    },
+    {
+      "id": "bf523011-5f1e-450a-bc34-ef3fa2978922",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:56.872267+00:00",
+      "updated_at": "2026-05-20T06:13:17.986375+00:00"
+    },
+    {
+      "id": "e9749f9b-a475-4ac7-b401-c9d22c70320d",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:01:57.618864+00:00",
+      "updated_at": "2026-05-20T06:13:18.091963+00:00"
+    },
+    {
+      "id": "c360ba0d-b8f1-49d9-a0f3-c3eb86ddcce1",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:57.154547+00:00",
+      "updated_at": "2026-05-20T06:13:18.167709+00:00"
+    },
+    {
+      "id": "db6a1567-ebfd-46a4-bb80-26ae599d340b",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:57.309704+00:00",
+      "updated_at": "2026-05-20T06:13:18.248973+00:00"
+    },
+    {
+      "id": "0b7ac54f-d25a-4a9a-bf9d-d058db09b1db",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:01:57.451092+00:00",
+      "updated_at": "2026-05-20T06:13:18.31757+00:00"
+    },
+    {
+      "id": "e0b5ed55-22dd-45cc-a1e3-c7e3646466bc",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "section_type": "event_use_cases",
+      "heading": "[TEST KASSIA] Heading for event_use_cases",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru event_use_cases. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 7,
+      "created_at": "2026-05-19T16:01:57.7591+00:00",
+      "updated_at": "2026-05-20T06:13:18.388581+00:00"
+    },
+    {
+      "id": "dd2fa8fa-3e40-434e-9797-9c8b1421a16b",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:02:04.493195+00:00",
+      "updated_at": "2026-05-20T06:13:18.698246+00:00"
+    },
+    {
+      "id": "039886ed-3b80-41d8-a982-ab5c5ba74bcb",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "event_use_cases",
+      "heading": "[TEST KASSIA] Heading for event_use_cases",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru event_use_cases. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 7,
+      "created_at": "2026-05-19T16:02:04.925751+00:00",
+      "updated_at": "2026-05-20T06:13:18.92899+00:00"
+    },
+    {
+      "id": "6db3265d-263f-444c-af37-f0de66faa15e",
+      "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:38.814388+00:00",
+      "updated_at": "2026-05-20T06:13:14.883105+00:00"
+    },
+    {
+      "id": "967b4a78-f090-434b-a345-8050633079e1",
+      "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+      "section_type": "content",
+      "heading": "[TEST KASSIA] Heading for content",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru content. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:18.98648+00:00",
+      "updated_at": "2026-05-20T06:13:15.280881+00:00"
+    },
+    {
+      "id": "bcdec53b-1d7d-4204-8a3b-0678380ca6b9",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:31.252809+00:00",
+      "updated_at": "2026-05-20T06:13:16.268372+00:00"
+    },
+    {
+      "id": "ec8f4096-6778-4079-a588-02f9d438df9e",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:01:36.542556+00:00",
+      "updated_at": "2026-05-20T06:13:17.698653+00:00"
+    },
+    {
+      "id": "7e98e2d8-4017-4d98-8bf6-65c6cfb8ac09",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:02:04.630589+00:00",
+      "updated_at": "2026-05-20T06:13:18.774894+00:00"
+    },
+    {
+      "id": "bdf01d64-c442-4b33-a39f-b03ac82b2915",
+      "page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:39.799376+00:00",
+      "updated_at": "2026-05-20T06:13:14.96694+00:00"
+    },
+    {
+      "id": "1523f8e6-61f4-4929-91f4-d7ffd00c7286",
+      "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:19.151457+00:00",
+      "updated_at": "2026-05-20T06:13:15.35199+00:00"
+    },
+    {
+      "id": "9a9e0510-d5a4-4a8e-b3ec-54dcd127eacd",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:26.535008+00:00",
+      "updated_at": "2026-05-20T06:13:15.947952+00:00"
+    },
+    {
+      "id": "de6c4814-213e-41fe-919f-f8e65b10ab02",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "service_features",
+      "heading": "[TEST KASSIA] Heading for service_features",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru service_features. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 7,
+      "created_at": "2026-05-19T16:01:32.157722+00:00",
+      "updated_at": "2026-05-20T06:13:16.735492+00:00"
+    },
+    {
+      "id": "3f7d54e2-c2c1-4376-9f95-7e5e169bafb2",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "faq",
+      "heading": "[TEST KASSIA] Heading for faq",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru faq. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 5,
+      "created_at": "2026-05-19T16:01:34.193785+00:00",
+      "updated_at": "2026-05-20T06:13:17.192693+00:00"
+    },
+    {
+      "id": "808880a4-9e9f-4efa-9c29-ac33fc03009e",
+      "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:40.757469+00:00",
+      "updated_at": "2026-05-20T06:13:15.045857+00:00"
+    },
+    {
+      "id": "4e4471bd-a77a-4561-a3db-6c2ab540ee97",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:01:32.021416+00:00",
+      "updated_at": "2026-05-20T06:13:16.650247+00:00"
+    },
+    {
+      "id": "fe70fe44-1274-417c-9ac8-0788701e7f4c",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:36.112133+00:00",
+      "updated_at": "2026-05-20T06:13:17.476055+00:00"
+    },
+    {
+      "id": "f9a4b54a-f62c-4501-bb0b-0f5f7dc5fb05",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:02:04.058633+00:00",
+      "updated_at": "2026-05-20T06:13:18.474955+00:00"
+    },
+    {
+      "id": "a2f4d339-1e11-4a6d-bc6b-31a8b0e1f479",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:02:04.775597+00:00",
+      "updated_at": "2026-05-20T06:13:18.854385+00:00"
+    },
+    {
+      "id": "4c883588-c8c9-4e49-8314-3b94ac5389b3",
+      "page_id": "55d88156-7132-4057-997c-81d9b04820af",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:41.663483+00:00",
+      "updated_at": "2026-05-20T06:13:15.123388+00:00"
+    },
+    {
+      "id": "1609f3be-e985-46a1-942d-46165132e7be",
+      "page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:19.906127+00:00",
+      "updated_at": "2026-05-20T06:13:15.505195+00:00"
+    },
+    {
+      "id": "e1388ca8-3df4-40be-ab01-c8dfed8fba5e",
+      "page_id": "55d88156-7132-4057-997c-81d9b04820af",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:21.370031+00:00",
+      "updated_at": "2026-05-20T06:13:15.80217+00:00"
+    },
+    {
+      "id": "d6d951a7-649e-4b3b-984c-67ba3caabdcb",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:26.673325+00:00",
+      "updated_at": "2026-05-20T06:13:16.020817+00:00"
+    },
+    {
+      "id": "404c5c55-c556-44df-9b50-277655e10018",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:31.558543+00:00",
+      "updated_at": "2026-05-20T06:13:16.427127+00:00"
+    },
+    {
+      "id": "93e8b70e-8601-4d99-8236-0c07a883abfc",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:01:34.342429+00:00",
+      "updated_at": "2026-05-20T06:13:17.264059+00:00"
+    },
+    {
+      "id": "d59060eb-6f3b-412e-9766-2c732de1c71a",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:36.396097+00:00",
+      "updated_at": "2026-05-20T06:13:17.628471+00:00"
+    },
+    {
+      "id": "af6e48bd-1afb-4945-911d-32d8c0b036be",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:02:04.20392+00:00",
+      "updated_at": "2026-05-20T06:13:18.550456+00:00"
+    },
+    {
+      "id": "8db35f95-c269-4556-b5c0-d7ec3ce01b6b",
+      "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+      "section_type": "content",
+      "heading": "[TEST KASSIA] Heading for content",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru content. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:20.488258+00:00",
+      "updated_at": "2026-05-20T06:13:15.578481+00:00"
+    },
+    {
+      "id": "2c4f97a6-d9f1-464e-935b-e4a92c67e10b",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "section_type": "final_cta",
+      "heading": "[TEST KASSIA] Heading for final_cta",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru final_cta. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 6,
+      "created_at": "2026-05-19T16:01:26.983461+00:00",
+      "updated_at": "2026-05-20T06:13:16.166205+00:00"
+    },
+    {
+      "id": "2782dcf7-c69c-4b74-a3ca-c7b9f920d214",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:33.90786+00:00",
+      "updated_at": "2026-05-20T06:13:17.046457+00:00"
+    },
+    {
+      "id": "3db68809-39c5-4079-97be-09f28d31ca64",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "hero",
+      "heading": "[TEST KASSIA] Heading for hero",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru hero. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:35.957662+00:00",
+      "updated_at": "2026-05-20T06:13:17.404858+00:00"
+    },
+    {
+      "id": "02cb4151-d6fe-4204-be14-a0da267bdd41",
+      "page_id": "55d88156-7132-4057-997c-81d9b04820af",
+      "section_type": "content",
+      "heading": "[TEST KASSIA] Heading for content",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru content. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:21.224841+00:00",
+      "updated_at": "2026-05-20T06:13:15.726867+00:00"
+    },
+    {
+      "id": "d03ff430-c0db-4751-8afd-d5bccda24ea1",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "section_type": "pricing",
+      "heading": "[TEST KASSIA] Heading for pricing",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru pricing. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:31.715604+00:00",
+      "updated_at": "2026-05-20T06:13:16.502446+00:00"
+    },
+    {
+      "id": "59da049b-52be-42c7-b7b2-476391091ed4",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "section_type": "intro",
+      "heading": "[TEST KASSIA] Heading for intro",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru intro. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:33.763299+00:00",
+      "updated_at": "2026-05-20T06:13:16.963401+00:00"
+    },
+    {
+      "id": "f1c213f0-cba1-46db-a37b-7e5da099b880",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "section_type": "service_features",
+      "heading": "[TEST KASSIA] Heading for service_features",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru service_features. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 7,
+      "created_at": "2026-05-19T16:01:36.83391+00:00",
+      "updated_at": "2026-05-20T06:13:17.842494+00:00"
+    },
+    {
+      "id": "0b4033c2-94c9-477c-ad35-9e5cbfe48e5e",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "section_type": "gallery",
+      "heading": "[TEST KASSIA] Heading for gallery",
+      "content": {
+        "body": "[TEST KASSIA] Body de test coerent pentru gallery. Luni-Duminică 09:00-20:00.",
+        "cta_url": "/contact/",
+        "cta_text": "[TEST KASSIA] Contact"
+      },
+      "order_index": 3,
+      "created_at": "2026-05-19T16:02:04.347861+00:00",
+      "updated_at": "2026-05-20T06:13:18.623716+00:00"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "58a462c2-fda0-48bf-b24e-3a5efc8355f6",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:27.277899+00:00",
+      "updated_at": "2026-05-20T06:13:19.098911+00:00"
+    },
+    {
+      "id": "1dba2f1b-dfc7-4b1b-b1be-8834f0ac9f91",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:27.418211+00:00",
+      "updated_at": "2026-05-20T06:13:19.176745+00:00"
+    },
+    {
+      "id": "42abbca2-5531-466c-9ae0-e0e16e51aaae",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:32.439813+00:00",
+      "updated_at": "2026-05-20T06:13:19.324017+00:00"
+    },
+    {
+      "id": "c0bd5204-279d-419d-964d-6cb7b66deb86",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:32.599805+00:00",
+      "updated_at": "2026-05-20T06:13:19.418643+00:00"
+    },
+    {
+      "id": "6823835e-0535-4801-aa8f-47c47de24627",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:34.770145+00:00",
+      "updated_at": "2026-05-20T06:13:19.566329+00:00"
+    },
+    {
+      "id": "f90f3ee4-3d03-4d85-a961-1eb407be3ce3",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:34.915359+00:00",
+      "updated_at": "2026-05-20T06:13:19.640654+00:00"
+    },
+    {
+      "id": "d46c5134-cffb-49df-ac18-3b53c2b18f28",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:37.125971+00:00",
+      "updated_at": "2026-05-20T06:13:19.790048+00:00"
+    },
+    {
+      "id": "9b0cfba5-37b2-4015-8ada-487c73b2d9a4",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:37.266812+00:00",
+      "updated_at": "2026-05-20T06:13:19.861188+00:00"
+    },
+    {
+      "id": "fd04b2b9-bc04-4cab-a52c-bdfd03ce1e89",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:58.034171+00:00",
+      "updated_at": "2026-05-20T06:13:20.010321+00:00"
+    },
+    {
+      "id": "d5d3fc1a-5929-4bef-bcc4-860eee56a28f",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:58.173725+00:00",
+      "updated_at": "2026-05-20T06:13:20.082628+00:00"
+    },
+    {
+      "id": "6a8ac7c6-5da4-49f2-a50d-cd5b031107bb",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:02:05.065478+00:00",
+      "updated_at": "2026-05-20T06:13:20.158587+00:00"
+    },
+    {
+      "id": "d7b655fd-afa9-4eb0-a966-a22be7f17d74",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 3?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:02:06.019094+00:00",
+      "updated_at": "2026-05-20T06:13:20.312131+00:00"
+    },
+    {
+      "id": "996b74aa-abcb-4ef4-8c54-faa66248529c",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:27.133193+00:00",
+      "updated_at": "2026-05-20T06:13:19.005058+00:00"
+    },
+    {
+      "id": "2cbd3f33-bc54-4583-b157-9138ab3f3cd5",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:32.300749+00:00",
+      "updated_at": "2026-05-20T06:13:19.250147+00:00"
+    },
+    {
+      "id": "b14bf087-de8e-4663-9a46-ae5965564101",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:34.627523+00:00",
+      "updated_at": "2026-05-20T06:13:19.495816+00:00"
+    },
+    {
+      "id": "81067961-63eb-4c25-9b8d-93bd112df271",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:36.980137+00:00",
+      "updated_at": "2026-05-20T06:13:19.716174+00:00"
+    },
+    {
+      "id": "d8cc5565-e056-45c0-923b-4836b305492f",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 1?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:57.895754+00:00",
+      "updated_at": "2026-05-20T06:13:19.938722+00:00"
+    },
+    {
+      "id": "8e40e8fa-d406-4142-bb8b-4ee2b6d2b431",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "question": "[TEST KASSIA] Întrebare test pentru slot 2?",
+      "answer": "[TEST KASSIA] Răspuns de test cu detalii precum de la 450 lei.",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:02:05.203867+00:00",
+      "updated_at": "2026-05-20T06:13:20.23283+00:00"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "f9b92288-8430-45db-a5a6-a3aa1cf0db80",
+      "page_id": "7d03a4b6-2c13-4130-bf66-305c7586b770",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:41.178606+00:00",
+      "updated_at": "2026-05-20T06:13:20.544872+00:00"
+    },
+    {
+      "id": "7bf12bad-642d-46b4-84b5-089f4ceeb546",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:27.566653+00:00",
+      "updated_at": "2026-05-20T06:13:20.68959+00:00"
+    },
+    {
+      "id": "5daec472-de01-4e81-b27c-65b26ae28a33",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:27.73728+00:00",
+      "updated_at": "2026-05-20T06:13:20.759492+00:00"
+    },
+    {
+      "id": "bb65f47d-ae4b-4236-adbc-147fec0d0360",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:28.416494+00:00",
+      "updated_at": "2026-05-20T06:13:20.914691+00:00"
+    },
+    {
+      "id": "eb6d510b-1cf7-4367-8fc7-4fead614e988",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:32.884372+00:00",
+      "updated_at": "2026-05-20T06:13:21.063161+00:00"
+    },
+    {
+      "id": "aab9f2be-9465-4401-a484-2a448986e21b",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:33.171069+00:00",
+      "updated_at": "2026-05-20T06:13:21.353001+00:00"
+    },
+    {
+      "id": "cfdc0694-06e0-460f-929c-45c18e951363",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:35.06024+00:00",
+      "updated_at": "2026-05-20T06:13:21.428732+00:00"
+    },
+    {
+      "id": "cd6ee03f-929b-4db1-bff3-abed2e16af53",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:35.352371+00:00",
+      "updated_at": "2026-05-20T06:13:21.569929+00:00"
+    },
+    {
+      "id": "ccdc515e-c6e5-4780-8f40-e089d2e7d5a8",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:37.449092+00:00",
+      "updated_at": "2026-05-20T06:13:21.718234+00:00"
+    },
+    {
+      "id": "23a74dc6-30b5-49fe-a4d3-44a0e37c4f24",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:37.732693+00:00",
+      "updated_at": "2026-05-20T06:13:21.874045+00:00"
+    },
+    {
+      "id": "67e00ff8-dc4d-4653-b868-f4496f276a62",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:37.88188+00:00",
+      "updated_at": "2026-05-20T06:13:21.956987+00:00"
+    },
+    {
+      "id": "33e83d13-c239-4f74-9074-ab322c278b91",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:58.462249+00:00",
+      "updated_at": "2026-05-20T06:13:22.109739+00:00"
+    },
+    {
+      "id": "cfa50d61-efdc-4902-b1ae-da963b617c65",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:58.748201+00:00",
+      "updated_at": "2026-05-20T06:13:22.259051+00:00"
+    },
+    {
+      "id": "7ff51390-bf20-4525-8995-8b203a3b190c",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:02:06.307157+00:00",
+      "updated_at": "2026-05-20T06:13:22.408553+00:00"
+    },
+    {
+      "id": "17ef492c-3851-4daa-9158-0ebde0f6884d",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:02:06.466763+00:00",
+      "updated_at": "2026-05-20T06:13:22.486139+00:00"
+    },
+    {
+      "id": "37cfba56-c6df-4e16-a915-59f0b103ef22",
+      "page_id": "dbab7a7c-6718-4c99-990a-5331490937e0",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:39.308217+00:00",
+      "updated_at": "2026-05-20T06:13:20.38852+00:00"
+    },
+    {
+      "id": "44080580-1558-44f2-9108-b4793eb73768",
+      "page_id": "215fd891-2664-4b0b-857c-4414ddc2aaa3",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:40.266589+00:00",
+      "updated_at": "2026-05-20T06:13:20.46348+00:00"
+    },
+    {
+      "id": "477efff0-9c3f-43fc-b52d-856920096b4b",
+      "page_id": "55d88156-7132-4057-997c-81d9b04820af",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:00:42.082958+00:00",
+      "updated_at": "2026-05-20T06:13:20.617882+00:00"
+    },
+    {
+      "id": "08b99373-621f-40ea-be65-ccc4106eb556",
+      "page_id": "5000259c-34c1-4046-886a-d6b002375075",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:28.261504+00:00",
+      "updated_at": "2026-05-20T06:13:20.842998+00:00"
+    },
+    {
+      "id": "baca203b-f1c5-4571-85f3-334b9b9934f9",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:32.740152+00:00",
+      "updated_at": "2026-05-20T06:13:20.9923+00:00"
+    },
+    {
+      "id": "e411073f-d78b-479a-accc-c4bf5a7170d2",
+      "page_id": "816d6825-8f78-4871-a5c1-1b6ae53255a8",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:33.022706+00:00",
+      "updated_at": "2026-05-20T06:13:21.150065+00:00"
+    },
+    {
+      "id": "a04cc8b0-080b-40fe-98fb-bb52096e39ae",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:35.207236+00:00",
+      "updated_at": "2026-05-20T06:13:21.500158+00:00"
+    },
+    {
+      "id": "d33fcb44-b0ed-4aaa-bc77-88ec48884e41",
+      "page_id": "dabfacae-71cd-4d9b-9763-5836874c6597",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:01:35.499845+00:00",
+      "updated_at": "2026-05-20T06:13:21.643827+00:00"
+    },
+    {
+      "id": "fddb6bc5-63aa-4b3e-93eb-691b609a2e39",
+      "page_id": "a782d77c-8781-4e5f-95e7-a315e3127d67",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 2,
+      "created_at": "2026-05-19T16:01:37.588336+00:00",
+      "updated_at": "2026-05-20T06:13:21.792694+00:00"
+    },
+    {
+      "id": "f01d2762-752d-406d-a683-34ee8a6efbdc",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:01:58.312754+00:00",
+      "updated_at": "2026-05-20T06:13:22.039315+00:00"
+    },
+    {
+      "id": "0a4a14d9-cd69-41df-9faf-bd9e5b1da48d",
+      "page_id": "2a48a6d0-6497-45c8-ad62-5a0f5ee78a82",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 3,
+      "created_at": "2026-05-19T16:01:58.612608+00:00",
+      "updated_at": "2026-05-20T06:13:22.182642+00:00"
+    },
+    {
+      "id": "2361ff2f-dd65-4b33-81f5-e2c604c3169b",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 1,
+      "created_at": "2026-05-19T16:02:06.163531+00:00",
+      "updated_at": "2026-05-20T06:13:22.331105+00:00"
+    },
+    {
+      "id": "7729cc67-a65f-4d3b-a535-904be851b688",
+      "page_id": "0824d247-ed68-4460-ae3e-96db62d36ae4",
+      "url": "https://placehold.co/600x400/png",
+      "alt_text": "[TEST KASSIA] Imagine test",
+      "order_index": 4,
+      "created_at": "2026-05-19T16:02:06.610075+00:00",
+      "updated_at": "2026-05-20T06:13:22.561065+00:00"
+    }
+  ]
+}

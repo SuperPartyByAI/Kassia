@@ -1,0 +1,5 @@
+{
+  "zouka_publish_affects_only_zouka": true,
+  "kassia_publish_affects_only_kassia": true,
+  "shared_publish_function_risk": false
+}
