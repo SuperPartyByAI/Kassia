@@ -1,0 +1,195 @@
+{
+  "kassia": {
+    "url": "https://www.kassia.ro/animatori-petreceri-copii/",
+    "status": 200,
+    "title": "Animatori pentru petreceri de copii în București și Ilfov",
+    "meta_description": "Personaje de poveste, ateliere creative, modelaj de baloane, mini-disco și jocuri interactive. Adaugă magie la petreceri de copii în București și Ilfov.",
+    "h1": "Animatori pentru petreceri de copii în București și Ilfov",
+    "h2_count": 16,
+    "h3_count": 13,
+    "word_count_main": 2453,
+    "price_values_detected": [
+      "280 lei",
+      "490 lei",
+      "830 lei"
+    ],
+    "program_cards_count": 3,
+    "cta_count": 20,
+    "phone_detected": true,
+    "whatsapp_detected": true,
+    "faq_visible_count": 20,
+    "faq_schema_count": 20,
+    "reviews_detected": false,
+    "testimonials_count": 1,
+    "rating_detected": true,
+    "images_count": 26,
+    "gallery_images_count": 0,
+    "character_or_mascot_cards_count": 0,
+    "character_or_mascot_links": [
+      "/personaje-petreceri-copii-bucuresti/",
+      "/animatori-cu-mascote-petreceri-copii-bucuresti/",
+      "/personaje-animatori-copii-bucuresti/",
+      "/mascote-petreceri-copii-bucuresti/"
+    ],
+    "services_detected": [
+      "animatori"
+    ],
+    "locations_detected": [],
+    "local_links_count": 8,
+    "schema_types": [
+      "LocalBusiness",
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "layout_visual_ok": true,
+    "content_bugs_detected": []
+  },
+  "competitor": {
+    "url": "https://animatoriiveseli.ro/",
+    "status": 200,
+    "title": "Animatori petreceri copii in Bucuresti | Divertisment",
+    "meta_description": "Animatori petreceri copii - Animatori la domiciliu - Animatori Bucuresti si Ilfov -Jocuri interactive, personaje indragite, pictura pe fata si modelaj baloane.",
+    "h1": "Închirieri Animatori petreceri copii\nîn București și Ilfov!",
+    "h2_count": 5,
+    "h3_count": 12,
+    "word_count_main": 2648,
+    "price_values_detected": [],
+    "program_cards_count": 1,
+    "cta_count": 12,
+    "phone_detected": true,
+    "whatsapp_detected": true,
+    "faq_visible_count": 0,
+    "faq_schema_count": 0,
+    "reviews_detected": true,
+    "testimonials_count": 1,
+    "rating_detected": true,
+    "images_count": 124,
+    "gallery_images_count": 0,
+    "character_or_mascot_cards_count": 2,
+    "character_or_mascot_links": [
+      "https://animatoriiveseli.ro/personaje/",
+      "https://animatoriiveseli.ro/portfolio-item/animatori-roblox-mascote/"
+    ],
+    "services_detected": [
+      "animatori"
+    ],
+    "locations_detected": [],
+    "local_links_count": 0,
+    "schema_types": [
+      "BreadcrumbList",
+      "Organization",
+      "WebPage",
+      "WebSite"
+    ],
+    "layout_visual_ok": true,
+    "content_bugs_detected": []
+  },
+  "comparison": [
+    {
+      "criterion": "SERP title/snippet relevance",
+      "winner": "kassia",
+      "evidence": "Kassia: 57 | Comp: 53",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Optimize Title"
+    },
+    {
+      "criterion": "Above-the-fold CTA",
+      "winner": "kassia",
+      "evidence": "Kassia: 20 | Comp: 12",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Add more CTAs"
+    },
+    {
+      "criterion": "Price clarity",
+      "winner": "kassia",
+      "evidence": "Kassia: 3 | Comp: 0",
+      "is_fixable_on_kassia_pillar": false,
+      "recommended_fix": "None, Kassia has prices"
+    },
+    {
+      "criterion": "Program/package clarity",
+      "winner": "kassia",
+      "evidence": "Kassia: 3 | Comp: 1",
+      "is_fixable_on_kassia_pillar": false,
+      "recommended_fix": "None, Kassia has programs"
+    },
+    {
+      "criterion": "Character/mascot catalog",
+      "winner": "animatoriiveseli",
+      "evidence": "Kassia: 0 | Comp: 2",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Add Character/Mascot Catalog Section"
+    },
+    {
+      "criterion": "Gallery/image proof",
+      "winner": "tie",
+      "evidence": "Kassia: 0 | Comp: 0",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Add Gallery Section"
+    },
+    {
+      "criterion": "Trust/reviews",
+      "winner": "animatoriiveseli",
+      "evidence": "Kassia: 0 | Comp: 1",
+      "is_fixable_on_kassia_pillar": false,
+      "recommended_fix": "Kassia has trust block"
+    },
+    {
+      "criterion": "FAQ/schema",
+      "winner": "kassia",
+      "evidence": "Kassia: 20 | Comp: 0",
+      "is_fixable_on_kassia_pillar": false,
+      "recommended_fix": "Kassia has rich FAQ"
+    },
+    {
+      "criterion": "Internal links",
+      "winner": "kassia",
+      "evidence": "Kassia: 4 | Comp: 2",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Add internal links to character pages"
+    },
+    {
+      "criterion": "Local coverage",
+      "winner": "kassia",
+      "evidence": "Kassia: 8 | Comp: 0",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "More local links"
+    },
+    {
+      "criterion": "UX/layout",
+      "winner": "animatoriiveseli",
+      "evidence": "Kassia: 26 | Comp: 124",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Improve visual UX with images"
+    },
+    {
+      "criterion": "Commercial differentiation",
+      "winner": "animatoriiveseli",
+      "evidence": "Kassia: 2453 | Comp: 2648",
+      "is_fixable_on_kassia_pillar": true,
+      "recommended_fix": "Improve visual components"
+    }
+  ],
+  "plan": {
+    "main_reason_animatoriiveseli_still_beats_kassia": "Competitor has significantly more visual catalog proof (Characters, Mascots, Galleries).",
+    "gap_type": "catalog_visual",
+    "should_add_more_text": false,
+    "should_add_character_catalog_section": true,
+    "should_add_gallery_section": false,
+    "should_add_trust_section": false,
+    "should_change_prices": false,
+    "should_change_reviews": false,
+    "should_change_phone": false,
+    "implementation_recommended": true,
+    "recommended_changes": [
+      "Add a visual Character/Mascot Catalog Section (only real Kassia characters)",
+      "Add a visual Event Gallery Section (8-12 real images)"
+    ],
+    "risks": [
+      "Images need to be optimized so page speed is not impacted.",
+      "Ensuring no copyrighted names like 'Disney' are used."
+    ],
+    "final_status": "ANIMATORI_VESELI_KILL_GAP_AUDIT_READY"
+  }
+}

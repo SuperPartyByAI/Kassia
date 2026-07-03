@@ -1,0 +1,30 @@
+{
+  "audit_read_only": true,
+  "total_db_pages": 0,
+  "total_sitemap_urls": 0,
+  "total_live_200_urls": 4,
+  "total_redirects": 0,
+  "total_404": 0,
+  "broken_links_count": 0,
+  "broken_images_count": 170,
+  "mobile_ux_issues_count": 0,
+  "performance_issues_count": 0,
+  "image_seo_issues_count": 0,
+  "cannibalization_clusters_count": 0,
+  "orphan_pages_count": 0,
+  "schema_issues_count": 0,
+  "cta_issues_count": 0,
+  "catalog_costume_status": "PASS",
+  "top_10_p0_issues": [],
+  "recommended_next_action": "Review missing alts and broken images.",
+  "files_generated": [
+    "step1_inventory.json",
+    "live_crawl_full.json",
+    "broken_images.json",
+    "mobile_ux_audit.json",
+    "image_seo_audit.json",
+    "schema_audit.json",
+    "conversion_cta_audit.json"
+  ],
+  "final_status": "KASSIA_FULL_SITE_AUDIT_READY"
+}

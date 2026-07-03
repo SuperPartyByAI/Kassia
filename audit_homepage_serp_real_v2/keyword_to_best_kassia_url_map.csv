@@ -1,0 +1,14 @@
+Keyword,BestUrl,HomepageShouldTarget,DedicatedNeeded,Action
+"organizare petreceri copii București","https://www.kassia.ro/",true,false,improve_homepage
+"petreceri copii București","https://www.kassia.ro/",true,false,improve_homepage
+"animatori copii București","https://www.kassia.ro/",true,false,improve_homepage
+"animatori petreceri copii București","https://www.kassia.ro/",true,false,improve_homepage
+"mascote petreceri copii București","https://www.kassia.ro/",true,false,improve_homepage
+"decor baloane București","https://www.kassia.ro/",true,false,improve_homepage
+"aranjamente baloane București","https://www.kassia.ro/",true,false,improve_homepage
+"petreceri copii Ilfov","https://www.kassia.ro/",false,true,create_new_later
+"animatori copii Ilfov","https://www.kassia.ro/",false,true,create_new_later
+"decor baloane Ilfov","https://www.kassia.ro/",false,true,improve_homepage
+"animatori petreceri copii Floreasca","https://www.kassia.ro/animatori-petreceri-copii-floreasca/",false,true,improve_existing_page
+"animatori copii Floreasca","https://www.kassia.ro/animatori-petreceri-copii-floreasca/",false,true,improve_existing_page
+"petreceri copii Floreasca","https://www.kassia.ro/animatori-petreceri-copii-floreasca/",false,true,improve_existing_page

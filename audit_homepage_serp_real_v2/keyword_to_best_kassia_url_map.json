@@ -1,0 +1,132 @@
+[
+  {
+    "keyword": "organizare petreceri copii București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "petreceri copii București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "animatori copii București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "animatori petreceri copii București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "mascote petreceri copii București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "decor baloane București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "aranjamente baloane București",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": true,
+    "dedicated_page_needed": false,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "petreceri copii Ilfov",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "create_new_later",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "animatori copii Ilfov",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "create_new_later",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "decor baloane Ilfov",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": false,
+    "existing_page_url": "",
+    "action": "improve_homepage",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "animatori petreceri copii Floreasca",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": true,
+    "existing_page_url": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "action": "improve_existing_page",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "animatori copii Floreasca",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": true,
+    "existing_page_url": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "action": "improve_existing_page",
+    "reason": "Competitors use specific landing pages for local queries."
+  },
+  {
+    "keyword": "petreceri copii Floreasca",
+    "best_kassia_url_to_rank": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "homepage_should_target": false,
+    "dedicated_page_needed": true,
+    "existing_page_found": true,
+    "existing_page_url": "https://www.kassia.ro/animatori-petreceri-copii-floreasca/",
+    "action": "improve_existing_page",
+    "reason": "Competitors use specific landing pages for local queries."
+  }
+]

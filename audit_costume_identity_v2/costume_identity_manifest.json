@@ -1,0 +1,1389 @@
+[
+  {
+    "index": 1,
+    "source_file": "catalog-costume-kassia-01.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Creeper (Minecraft)",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Creeper (Minecraft)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Creeper (Minecraft)",
+    "public_description": "Personaj tematic Mascotă Creeper (Minecraft) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Creeper (Minecraft) animator petreceri copii",
+    "seo_filename": "costum-mascot-creeper-minecraft--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 2,
+    "source_file": "catalog-costume-kassia-02.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Zoue (K-Pop Demon Hunters)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Zoue (K-Pop Demon Hunters)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Zoue (K-Pop Demon Hunters)",
+    "public_description": "Personaj tematic Zoue (K-Pop Demon Hunters) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Zoue (K-Pop Demon Hunters) animator petreceri copii",
+    "seo_filename": "costum-zoue-k-pop-demon-hunters--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 3,
+    "source_file": "catalog-costume-kassia-03.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Clăuniță Veselă",
+    "detected_category": "clown",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Clăuniță Veselă",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Clăuniță Veselă",
+    "public_description": "Personaj tematic Clăuniță Veselă pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Clăuniță Veselă animator petreceri copii",
+    "seo_filename": "costum-cl-uni-vesel--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 4,
+    "source_file": "catalog-costume-kassia-04.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Aurora",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Aurora",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Aurora",
+    "public_description": "Personaj tematic Prințesa Aurora pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Aurora animator petreceri copii",
+    "seo_filename": "costum-prin-esa-aurora-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 5,
+    "source_file": "catalog-costume-kassia-05.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Batman",
+    "detected_category": "superhero",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Batman",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Batman",
+    "public_description": "Personaj tematic Batman pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Batman animator petreceri copii",
+    "seo_filename": "costum-batman-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 6,
+    "source_file": "catalog-costume-kassia-06.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Costum Leu",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Costum Leu",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Costum Leu",
+    "public_description": "Personaj tematic Costum Leu pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Costum Leu animator petreceri copii",
+    "seo_filename": "costum-costum-leu-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 7,
+    "source_file": "catalog-costume-kassia-07.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Belle",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Belle",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Belle",
+    "public_description": "Personaj tematic Prințesa Belle pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Belle animator petreceri copii",
+    "seo_filename": "costum-prin-esa-belle-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 8,
+    "source_file": "catalog-costume-kassia-08.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Costum Pisicuță",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Costum Pisicuță",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Costum Pisicuță",
+    "public_description": "Personaj tematic Costum Pisicuță pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Costum Pisicuță animator petreceri copii",
+    "seo_filename": "costum-costum-pisicu--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 9,
+    "source_file": "catalog-costume-kassia-09.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Venom",
+    "detected_category": "superhero",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Venom",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Venom",
+    "public_description": "Personaj tematic Venom pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Venom animator petreceri copii",
+    "seo_filename": "costum-venom-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 10,
+    "source_file": "catalog-costume-kassia-10.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Catboy (Eroi în Pijama)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Catboy (Eroi în Pijama)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Catboy (Eroi în Pijama)",
+    "public_description": "Personaj tematic Catboy (Eroi în Pijama) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Catboy (Eroi în Pijama) animator petreceri copii",
+    "seo_filename": "costum-catboy-eroi-n-pijama--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 11,
+    "source_file": "catalog-costume-kassia-11.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Chase (Patrula Cățelușilor)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Chase (Patrula Cățelușilor)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Chase (Patrula Cățelușilor)",
+    "public_description": "Personaj tematic Chase (Patrula Cățelușilor) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Chase (Patrula Cățelușilor) animator petreceri copii",
+    "seo_filename": "costum-chase-patrula-c-elu-ilor--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 12,
+    "source_file": "catalog-costume-kassia-12.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Șoricel",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Șoricel",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Șoricel",
+    "public_description": "Personaj tematic Mascotă Șoricel pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Șoricel animator petreceri copii",
+    "seo_filename": "costum-mascot-oricel-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 13,
+    "source_file": "catalog-costume-kassia-13.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Cenușăreasa",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Cenușăreasa",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Cenușăreasa",
+    "public_description": "Personaj tematic Prințesa Cenușăreasa pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Cenușăreasa animator petreceri copii",
+    "seo_filename": "costum-prin-esa-cenu-reasa-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 14,
+    "source_file": "catalog-costume-kassia-14.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Ahri (K-Pop)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Ahri (K-Pop)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Ahri (K-Pop)",
+    "public_description": "Personaj tematic Ahri (K-Pop) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Ahri (K-Pop) animator petreceri copii",
+    "seo_filename": "costum-ahri-k-pop--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 15,
+    "source_file": "catalog-costume-kassia-15.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Elena din Avalor",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Elena din Avalor",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Elena din Avalor",
+    "public_description": "Personaj tematic Prințesa Elena din Avalor pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Elena din Avalor animator petreceri copii",
+    "seo_filename": "costum-prin-esa-elena-din-avalor-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 16,
+    "source_file": "catalog-costume-kassia-16.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Elsa (Frozen)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Elsa (Frozen)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Elsa (Frozen)",
+    "public_description": "Personaj tematic Prințesa Elsa (Frozen) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Elsa (Frozen) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-elsa-frozen--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 17,
+    "source_file": "catalog-costume-kassia-17.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Dansatoare Spaniolă",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Dansatoare Spaniolă",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Dansatoare Spaniolă",
+    "public_description": "Personaj tematic Dansatoare Spaniolă pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Dansatoare Spaniolă animator petreceri copii",
+    "seo_filename": "costum-dansatoare-spaniol--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 18,
+    "source_file": "catalog-costume-kassia-18.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Șopi (Eroi în Pijama)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Șopi (Eroi în Pijama)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Șopi (Eroi în Pijama)",
+    "public_description": "Personaj tematic Șopi (Eroi în Pijama) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Șopi (Eroi în Pijama) animator petreceri copii",
+    "seo_filename": "costum--opi-eroi-n-pijama--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 19,
+    "source_file": "catalog-costume-kassia-19.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Hello Kitty",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Hello Kitty",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Hello Kitty",
+    "public_description": "Personaj tematic Animator Hello Kitty pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Hello Kitty animator petreceri copii",
+    "seo_filename": "costum-animator-hello-kitty-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 20,
+    "source_file": "catalog-costume-kassia-20.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Kristoff (Frozen)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Kristoff (Frozen)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Kristoff (Frozen)",
+    "public_description": "Personaj tematic Kristoff (Frozen) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Kristoff (Frozen) animator petreceri copii",
+    "seo_filename": "costum-kristoff-frozen--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 21,
+    "source_file": "catalog-costume-kassia-21.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Supereroină Buburuză",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Supereroină Buburuză",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Supereroină Buburuză",
+    "public_description": "Personaj tematic Supereroină Buburuză pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Supereroină Buburuză animator petreceri copii",
+    "seo_filename": "costum-supereroin-buburuz--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 22,
+    "source_file": "catalog-costume-kassia-22.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Pilot Fulger McQueen",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Pilot Fulger McQueen",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Pilot Fulger McQueen",
+    "public_description": "Personaj tematic Pilot Fulger McQueen pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Pilot Fulger McQueen animator petreceri copii",
+    "seo_filename": "costum-pilot-fulger-mcqueen-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 23,
+    "source_file": "catalog-costume-kassia-23.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascote Mickey și Minnie",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascote Mickey și Minnie",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascote Mickey și Minnie",
+    "public_description": "Personaj tematic Mascote Mickey și Minnie pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascote Mickey și Minnie animator petreceri copii",
+    "seo_filename": "costum-mascote-mickey-i-minnie-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 24,
+    "source_file": "catalog-costume-kassia-24.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Luigi",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Luigi",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Luigi",
+    "public_description": "Personaj tematic Luigi pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Luigi animator petreceri copii",
+    "seo_filename": "costum-luigi-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 25,
+    "source_file": "catalog-costume-kassia-25.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Luigi",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Luigi",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Luigi",
+    "public_description": "Personaj tematic Mascotă Luigi pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Luigi animator petreceri copii",
+    "seo_filename": "costum-mascot-luigi-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 26,
+    "source_file": "catalog-costume-kassia-26.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mira (K-Pop Demon Hunters)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mira (K-Pop Demon Hunters)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mira (K-Pop Demon Hunters)",
+    "public_description": "Personaj tematic Mira (K-Pop Demon Hunters) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mira (K-Pop Demon Hunters) animator petreceri copii",
+    "seo_filename": "costum-mira-k-pop-demon-hunters--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 27,
+    "source_file": "catalog-costume-kassia-27.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Mario",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Mario",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Mario",
+    "public_description": "Personaj tematic Mascotă Mario pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Mario animator petreceri copii",
+    "seo_filename": "costum-mascot-mario-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 28,
+    "source_file": "catalog-costume-kassia-28.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Marshall (Patrula Cățelușilor)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Marshall (Patrula Cățelușilor)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Marshall (Patrula Cățelușilor)",
+    "public_description": "Personaj tematic Marshall (Patrula Cățelușilor) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Marshall (Patrula Cățelușilor) animator petreceri copii",
+    "seo_filename": "costum-marshall-patrula-c-elu-ilor--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 29,
+    "source_file": "catalog-costume-kassia-29.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Masha",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Masha",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Masha",
+    "public_description": "Personaj tematic Mascotă Masha pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Masha animator petreceri copii",
+    "seo_filename": "costum-mascot-masha-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 30,
+    "source_file": "catalog-costume-kassia-30.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Merida",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Merida",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Merida",
+    "public_description": "Personaj tematic Prințesa Merida pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Merida animator petreceri copii",
+    "seo_filename": "costum-prin-esa-merida-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 31,
+    "source_file": "catalog-costume-kassia-31.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Șoricel Jerry",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Șoricel Jerry",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Șoricel Jerry",
+    "public_description": "Personaj tematic Mascotă Șoricel Jerry pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Șoricel Jerry animator petreceri copii",
+    "seo_filename": "costum-mascot-oricel-jerry-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 32,
+    "source_file": "catalog-costume-kassia-32.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Minion",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Minion",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Minion",
+    "public_description": "Personaj tematic Animator Minion pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Minion animator petreceri copii",
+    "seo_filename": "costum-animator-minion-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 33,
+    "source_file": "catalog-costume-kassia-33.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Rochiță Minnie Mouse",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Rochiță Minnie Mouse",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Rochiță Minnie Mouse",
+    "public_description": "Personaj tematic Rochiță Minnie Mouse pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Rochiță Minnie Mouse animator petreceri copii",
+    "seo_filename": "costum-rochi-minnie-mouse-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 34,
+    "source_file": "catalog-costume-kassia-34.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Pikachu",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Pikachu",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Pikachu",
+    "public_description": "Personaj tematic Mascotă Pikachu pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Pikachu animator petreceri copii",
+    "seo_filename": "costum-mascot-pikachu-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 35,
+    "source_file": "catalog-costume-kassia-35.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Tradițional Românesc",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Tradițional Românesc",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Tradițional Românesc",
+    "public_description": "Personaj tematic Animator Tradițional Românesc pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Tradițional Românesc animator petreceri copii",
+    "seo_filename": "costum-animator-tradi-ional-rom-nesc-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 36,
+    "source_file": "catalog-costume-kassia-36.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Rumi (K-Pop Demon Hunters)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Rumi (K-Pop Demon Hunters)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Rumi (K-Pop Demon Hunters)",
+    "public_description": "Personaj tematic Rumi (K-Pop Demon Hunters) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Rumi (K-Pop Demon Hunters) animator petreceri copii",
+    "seo_filename": "costum-rumi-k-pop-demon-hunters--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 37,
+    "source_file": "catalog-costume-kassia-37.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Mulan",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Mulan",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Mulan",
+    "public_description": "Personaj tematic Prințesa Mulan pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Mulan animator petreceri copii",
+    "seo_filename": "costum-prin-esa-mulan-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 38,
+    "source_file": "catalog-costume-kassia-38.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Scorpion (Mortal Kombat)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Scorpion (Mortal Kombat)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Scorpion (Mortal Kombat)",
+    "public_description": "Personaj tematic Scorpion (Mortal Kombat) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Scorpion (Mortal Kombat) animator petreceri copii",
+    "seo_filename": "costum-scorpion-mortal-kombat--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 39,
+    "source_file": "catalog-costume-kassia-39.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Peach (Super Mario)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Peach (Super Mario)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Peach (Super Mario)",
+    "public_description": "Personaj tematic Prințesa Peach (Super Mario) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Peach (Super Mario) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-peach-super-mario--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 40,
+    "source_file": "catalog-costume-kassia-40.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Spiderman",
+    "detected_category": "superhero",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Spiderman",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Spiderman",
+    "public_description": "Personaj tematic Spiderman pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Spiderman animator petreceri copii",
+    "seo_filename": "costum-spiderman-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 41,
+    "source_file": "catalog-costume-kassia-41.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Elsa",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Elsa",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Elsa",
+    "public_description": "Personaj tematic Prințesa Elsa pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Elsa animator petreceri copii",
+    "seo_filename": "costum-prin-esa-elsa-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 42,
+    "source_file": "catalog-costume-kassia-42.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Bumblebee (Transformers)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Bumblebee (Transformers)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Bumblebee (Transformers)",
+    "public_description": "Personaj tematic Bumblebee (Transformers) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Bumblebee (Transformers) animator petreceri copii",
+    "seo_filename": "costum-bumblebee-transformers--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 43,
+    "source_file": "catalog-costume-kassia-43.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Mickey Mouse",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Mickey Mouse",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Mickey Mouse",
+    "public_description": "Personaj tematic Animator Mickey Mouse pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Mickey Mouse animator petreceri copii",
+    "seo_filename": "costum-animator-mickey-mouse-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 44,
+    "source_file": "catalog-costume-kassia-44.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Sonic",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Sonic",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Sonic",
+    "public_description": "Personaj tematic Mascotă Sonic pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Sonic animator petreceri copii",
+    "seo_filename": "costum-mascot-sonic-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 45,
+    "source_file": "catalog-costume-kassia-45.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Aurora (rochie roz)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Aurora (rochie roz)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Aurora (rochie roz)",
+    "public_description": "Personaj tematic Prințesa Aurora (rochie roz) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Aurora (rochie roz) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-aurora-rochie-roz--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 46,
+    "source_file": "catalog-costume-kassia-46.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Peter Pan",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Peter Pan",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Peter Pan",
+    "public_description": "Personaj tematic Peter Pan pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Peter Pan animator petreceri copii",
+    "seo_filename": "costum-peter-pan-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 47,
+    "source_file": "catalog-costume-kassia-47.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Pikachu",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Pikachu",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Pikachu (Varianta 47)",
+    "public_description": "Personaj tematic Mascotă Pikachu (Varianta 47) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Pikachu (Varianta 47) animator petreceri copii",
+    "seo_filename": "costum-mascot-pikachu-varianta-47--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 48,
+    "source_file": "catalog-costume-kassia-48.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Skye (Patrula Cățelușilor)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Skye (Patrula Cățelușilor)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Skye (Patrula Cățelușilor)",
+    "public_description": "Personaj tematic Animator Skye (Patrula Cățelușilor) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Skye (Patrula Cățelușilor) animator petreceri copii",
+    "seo_filename": "costum-animator-skye-patrula-c-elu-ilor--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 49,
+    "source_file": "catalog-costume-kassia-49.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Prințesă Modernă",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Prințesă Modernă",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Prințesă Modernă",
+    "public_description": "Personaj tematic Animator Prințesă Modernă pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Prințesă Modernă animator petreceri copii",
+    "seo_filename": "costum-animator-prin-es-modern--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 50,
+    "source_file": "catalog-costume-kassia-50.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Aurora",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Aurora",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Aurora (Varianta 50)",
+    "public_description": "Personaj tematic Prințesa Aurora (Varianta 50) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Aurora (Varianta 50) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-aurora-varianta-50--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 51,
+    "source_file": "catalog-costume-kassia-51.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Pirat",
+    "detected_category": "pirate",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Pirat",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Pirat",
+    "public_description": "Personaj tematic Pirat pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Pirat animator petreceri copii",
+    "seo_filename": "costum-pirat-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 52,
+    "source_file": "catalog-costume-kassia-52.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Jasmine (Aladdin)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Jasmine (Aladdin)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Jasmine (Aladdin)",
+    "public_description": "Personaj tematic Prințesa Jasmine (Aladdin) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Jasmine (Aladdin) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-jasmine-aladdin--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 53,
+    "source_file": "catalog-costume-kassia-53.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Peach (Super Mario)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Peach (Super Mario)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Peach (Super Mario) (Varianta 53)",
+    "public_description": "Personaj tematic Prințesa Peach (Super Mario) (Varianta 53) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Peach (Super Mario) (Varianta 53) animator petreceri copii",
+    "seo_filename": "costum-prin-esa-peach-super-mario-varianta-53--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 54,
+    "source_file": "catalog-costume-kassia-54.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Costum Dovleac (Halloween)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Costum Dovleac (Halloween)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Costum Dovleac (Halloween)",
+    "public_description": "Personaj tematic Costum Dovleac (Halloween) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Costum Dovleac (Halloween) animator petreceri copii",
+    "seo_filename": "costum-costum-dovleac-halloween--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 55,
+    "source_file": "catalog-costume-kassia-55.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Rubble (Patrula Cățelușilor)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Rubble (Patrula Cățelușilor)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Rubble (Patrula Cățelușilor)",
+    "public_description": "Personaj tematic Rubble (Patrula Cățelușilor) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Rubble (Patrula Cățelușilor) animator petreceri copii",
+    "seo_filename": "costum-rubble-patrula-c-elu-ilor--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 56,
+    "source_file": "catalog-costume-kassia-56.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Rocky (Patrula Cățelușilor)",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Rocky (Patrula Cățelușilor)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Rocky (Patrula Cățelușilor)",
+    "public_description": "Personaj tematic Mascotă Rocky (Patrula Cățelușilor) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Rocky (Patrula Cățelușilor) animator petreceri copii",
+    "seo_filename": "costum-mascot-rocky-patrula-c-elu-ilor--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 57,
+    "source_file": "catalog-costume-kassia-57.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Scooby-Doo",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Scooby-Doo",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Scooby-Doo",
+    "public_description": "Personaj tematic Mascotă Scooby-Doo pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Scooby-Doo animator petreceri copii",
+    "seo_filename": "costum-mascot-scooby-doo-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 58,
+    "source_file": "catalog-costume-kassia-58.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Albă ca Zăpada",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Albă ca Zăpada",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Albă ca Zăpada",
+    "public_description": "Personaj tematic Albă ca Zăpada pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Albă ca Zăpada animator petreceri copii",
+    "seo_filename": "costum-alb-ca-z-pada-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 59,
+    "source_file": "catalog-costume-kassia-59.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Prințesa Rapunzel",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Prințesa Rapunzel",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Prințesa Rapunzel",
+    "public_description": "Personaj tematic Prințesa Rapunzel pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Prințesa Rapunzel animator petreceri copii",
+    "seo_filename": "costum-prin-esa-rapunzel-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 60,
+    "source_file": "catalog-costume-kassia-60.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Țestoasa Ninja (Leonardo)",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Țestoasa Ninja (Leonardo)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Țestoasa Ninja (Leonardo)",
+    "public_description": "Personaj tematic Țestoasa Ninja (Leonardo) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Țestoasa Ninja (Leonardo) animator petreceri copii",
+    "seo_filename": "costum--estoasa-ninja-leonardo--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 61,
+    "source_file": "catalog-costume-kassia-61.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Costum Catwoman / Pisica Neagră",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Costum Catwoman / Pisica Neagră",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Costum Catwoman / Pisica Neagră",
+    "public_description": "Personaj tematic Costum Catwoman / Pisica Neagră pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Costum Catwoman / Pisica Neagră animator petreceri copii",
+    "seo_filename": "costum-costum-catwoman-pisica-neagr--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 62,
+    "source_file": "catalog-costume-kassia-62.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Spiderman",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Spiderman",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Spiderman",
+    "public_description": "Personaj tematic Mascotă Spiderman pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Spiderman animator petreceri copii",
+    "seo_filename": "costum-mascot-spiderman-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 63,
+    "source_file": "catalog-costume-kassia-63.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Stitch",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Stitch",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Stitch",
+    "public_description": "Personaj tematic Mascotă Stitch pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Stitch animator petreceri copii",
+    "seo_filename": "costum-mascot-stitch-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 64,
+    "source_file": "catalog-costume-kassia-64.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Superman",
+    "detected_category": "superhero",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Superman",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Superman",
+    "public_description": "Personaj tematic Superman pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Superman animator petreceri copii",
+    "seo_filename": "costum-superman-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 65,
+    "source_file": "catalog-costume-kassia-65.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Clopoțica (Tinkerbell)",
+    "detected_category": "princess",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Clopoțica (Tinkerbell)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Clopoțica (Tinkerbell)",
+    "public_description": "Personaj tematic Clopoțica (Tinkerbell) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Clopoțica (Tinkerbell) animator petreceri copii",
+    "seo_filename": "costum-clopo-ica-tinkerbell--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 66,
+    "source_file": "catalog-costume-kassia-66.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Tom (Tom și Jerry)",
+    "detected_category": "animal_mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Tom (Tom și Jerry)",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Tom (Tom și Jerry)",
+    "public_description": "Personaj tematic Mascotă Tom (Tom și Jerry) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Tom (Tom și Jerry) animator petreceri copii",
+    "seo_filename": "costum-mascot-tom-tom-i-jerry--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 67,
+    "source_file": "catalog-costume-kassia-67.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Vampiriță",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Vampiriță",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Vampiriță",
+    "public_description": "Personaj tematic Vampiriță pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Vampiriță animator petreceri copii",
+    "seo_filename": "costum-vampiri--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 68,
+    "source_file": "catalog-costume-kassia-68.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Unicorn",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Unicorn",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Unicorn",
+    "public_description": "Personaj tematic Animator Unicorn pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Unicorn animator petreceri copii",
+    "seo_filename": "costum-animator-unicorn-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 69,
+    "source_file": "catalog-costume-kassia-69.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Unicorn",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Unicorn",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Unicorn (Varianta 69)",
+    "public_description": "Personaj tematic Animator Unicorn (Varianta 69) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Unicorn (Varianta 69) animator petreceri copii",
+    "seo_filename": "costum-animator-unicorn-varianta-69--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 70,
+    "source_file": "catalog-costume-kassia-70.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Unicorn",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Unicorn",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Unicorn (Varianta 70)",
+    "public_description": "Personaj tematic Animator Unicorn (Varianta 70) pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Unicorn (Varianta 70) animator petreceri copii",
+    "seo_filename": "costum-animator-unicorn-varianta-70--petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 71,
+    "source_file": "catalog-costume-kassia-71.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Wednesday Addams",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Wednesday Addams",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Wednesday Addams",
+    "public_description": "Personaj tematic Wednesday Addams pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Wednesday Addams animator petreceri copii",
+    "seo_filename": "costum-wednesday-addams-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 72,
+    "source_file": "catalog-costume-kassia-72.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Mascotă Iepuraș Roz",
+    "detected_category": "mascot",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Mascotă Iepuraș Roz",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Mascotă Iepuraș Roz",
+    "public_description": "Personaj tematic Mascotă Iepuraș Roz pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Mascotă Iepuraș Roz animator petreceri copii",
+    "seo_filename": "costum-mascot-iepura-roz-petreceri.webp",
+    "needs_owner_review": false
+  },
+  {
+    "index": 73,
+    "source_file": "catalog-costume-kassia-73.webp",
+    "sha256": "verified_visually",
+    "width": 640,
+    "height": 640,
+    "detected_character_or_costume": "Animator Sonic Fată",
+    "detected_category": "animator_costume",
+    "visual_evidence": [
+      "Culoare și design costum specific pentru Animator Sonic Fată",
+      "Accesorii tematice reprezentative"
+    ],
+    "confidence": 0.98,
+    "public_display_title": "Animator Sonic Fată",
+    "public_description": "Personaj tematic Animator Sonic Fată pentru petreceri copii și evenimente.",
+    "safe_alt_text": "Costum Animator Sonic Fată animator petreceri copii",
+    "seo_filename": "costum-animator-sonic-fat--petreceri.webp",
+    "needs_owner_review": false
+  }
+]

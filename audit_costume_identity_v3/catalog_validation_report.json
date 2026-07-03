@@ -1,0 +1,15 @@
+{
+  "total_cards": 73,
+  "total_images": 73,
+  "all_images_200": true,
+  "missing_titles": [],
+  "missing_descriptions": [],
+  "missing_alt_texts": [],
+  "duplicate_titles": [],
+  "duplicate_descriptions": [],
+  "duplicate_alt_texts": [],
+  "wrong_identity_items": [],
+  "bad_phrases_found": [],
+  "grammar_errors_found": [],
+  "items_needing_fix": []
+}

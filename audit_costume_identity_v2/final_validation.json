@@ -1,0 +1,21 @@
+{
+  "catalog_url": "https://www.kassia.ro/catalog-costume/",
+  "total_cards_live": 73,
+  "total_images_live": 73,
+  "all_images_200": true,
+  "all_cards_have_title": true,
+  "all_cards_have_description": true,
+  "all_cards_have_alt": true,
+  "all_titles_match_images": true,
+  "wrong_name_on_image_count": 0,
+  "wrong_name_on_image_items": [],
+  "duplicate_description_count": 0,
+  "duplicate_description_items": [],
+  "grammar_errors_found": [],
+  "bad_phrases_found": [],
+  "mobile_visual_ok": true,
+  "desktop_visual_ok": true,
+  "load_more_works": true,
+  "cta_buttons_work": true,
+  "final_status": "CATALOG_73_CODE_VISUAL_PASS"
+}

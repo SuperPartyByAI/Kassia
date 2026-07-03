@@ -1,0 +1,23 @@
+{
+  "page": "https://www.kassia.ro/animatori-petreceri-copii/",
+  "hard_qa_status": "ANIMATORI_PILLAR_HARD_QA_PASS",
+  "keywords_analyzed": 10,
+  "exact_kassia_pillar_top10_keywords_count": 0,
+  "exact_kassia_pillar_positions": [],
+  "keywords_where_kassia_beats_7_of_10": 6,
+  "keywords_where_kassia_beats_8_of_10": 0,
+  "main_keywords_8_of_10_pass": false,
+  "critical_gaps_remaining": [],
+  "competitors_that_still_beat_kassia": [
+    "https://animatoriiveseli.ro/"
+  ],
+  "onpage_top10_beat_proven": false,
+  "real_ranking_top10_keywords_count": 0,
+  "next_page_allowed": false,
+  "files_generated": [
+    "audit_animatori_pillar_top10_proof_v2/serp_position_truth.json",
+    "audit_animatori_pillar_top10_proof_v2/pages_scraped_live.json",
+    "audit_animatori_pillar_top10_proof_v2/competitor_matrix.json"
+  ],
+  "final_status": "ANIMATORI_PILLAR_TOP10_PROOF_HOLD"
+}

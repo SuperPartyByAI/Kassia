@@ -33,7 +33,7 @@ const isAnimatori = isAnimatoriProp || animatoriSlugs.includes(normalizedPath);
 const { data: configRows } = await supabase.from('kassia_site_config').select('*');
 const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
 
-const phone = config.phone || "0768098268";
+const phone = config.phone || "0763795919";
 const email = config.email || "contact@kassia.ro";
 let footerDesc = config.footer_desc || "Kassia îți transformă evenimentele în amintiri de neuitat prin decorațiuni spectaculoase din baloane. Calitate premium pentru botezuri, nunți și petreceri corporate.";
 if (isAnimatori) {

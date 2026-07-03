@@ -1,0 +1,185 @@
+---
+import { supabase } from '../lib/supabase';
+
+export interface Props {
+  heading: string;
+  subheading: string;
+  cards: Array<{
+    image_url: string;
+    title: string;
+    cta_text: string;
+    cta_url: string;
+    short_description: string;
+    alt_text: string;
+    width: number;
+    height: number;
+  }>;
+}
+
+const { heading, subheading, cards = [] } = Astro.props;
+const isFullCatalog = cards.length > 12;
+
+// Fetch config for whatsapp
+const { data: configRows } = await supabase.from('kassia_site_config').select('key,value');
+const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
+const phone = config.phone || "0763795919";
+const phoneClean = phone.replace(/[^0-9]/g, '');
+const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
+
+---
+
+<section id="catalog-costume" class="catalog-section bg-white">
+  <div class="container">
+    <h2 class="section-heading text-center">{heading}</h2>
+    {subheading && <p class="catalog-subtitle text-center">{subheading}</p>}
+    
+    <div class="catalog-grid" id="catalog-grid-container">
+      {cards.map((card, idx) => (
+        <div class={`catalog-card ${idx >= 12 && isFullCatalog ? 'hidden-card' : ''}`} style={idx >= 12 && isFullCatalog ? 'display: none;' : ''}>
+          <div class="catalog-card-image">
+            <img 
+              src={card.image_url} 
+              alt={card.alt_text || card.title} 
+              width={card.width || 600} 
+              height={card.height || 600} 
+              loading="lazy" 
+              decoding="async" 
+            />
+          </div>
+          <div class="catalog-card-content">
+            <h3 class="catalog-card-title">{card.title}</h3>
+            <p class="catalog-card-desc">{card.short_description}</p>
+            <a href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Bună! M-ar interesa costumul/personajul ' + card.title + ' din catalogul Kassia. Îmi puteți spune dacă este disponibil pentru data evenimentului?')}`} target="_blank" rel="noopener" class="catalog-card-cta" aria-label={`Verifică disponibilitatea pentru ${card.title} pe WhatsApp`}>Verifică disponibilitatea &rarr;</a>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="text-center mt-4 pt-4">
+      {isFullCatalog ? (
+        <button id="load-more-btn" class="btn-primary" style="display: inline-block; padding: 1rem 2rem; border-radius: 99px; font-weight: 700; background: var(--primary); color: white; border: none; cursor: pointer; transition: transform 0.2s;">
+          Încarcă mai multe costume
+        </button>
+      ) : (
+        <a href="/catalog-costume/" class="btn-primary" style="display: inline-block; padding: 1rem 2rem; border-radius: 99px; font-weight: 700; background: var(--primary); color: white; text-decoration: none; transition: transform 0.2s;">
+          Vezi catalogul complet de costume
+        </a>
+      )}
+    </div>
+  </div>
+</section>
+
+{isFullCatalog && (
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+       const loadMoreBtn = document.getElementById('load-more-btn');
+       if (loadMoreBtn) {
+         loadMoreBtn.addEventListener('click', () => {
+           const hiddenCards = Array.from(document.querySelectorAll('.catalog-card.hidden-card[style*="display: none"]'));
+           const nextBatch = hiddenCards.slice(0, 12);
+           nextBatch.forEach(c => c.style.display = 'flex');
+           if (hiddenCards.length <= 12) {
+             loadMoreBtn.style.display = 'none';
+           }
+         });
+       }
+    });
+  </script>
+)}
+
+<style>
+  .catalog-section {
+    padding: 5rem 0;
+  }
+  .catalog-subtitle {
+    max-width: 800px;
+    margin: 0 auto 3rem;
+    font-size: 1.1rem;
+    color: var(--text-muted);
+  }
+  .catalog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .catalog-card {
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    border: 1px solid #f1f5f9;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .catalog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(168,85,247,0.1);
+  }
+  .catalog-card-image {
+    width: 100%;
+    aspect-ratio: 1;
+    overflow: hidden;
+    background: #f8fafc;
+  }
+  .catalog-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
+  .catalog-card:hover .catalog-card-image img {
+    transform: scale(1.05);
+  }
+  .catalog-card-content {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    text-align: center;
+  }
+  .catalog-card-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text-main);
+  }
+  .catalog-card-desc {
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+  }
+  .catalog-card-cta {
+    margin-top: auto;
+    display: inline-block;
+    padding: 0.6rem 1rem;
+    background-color: #f8fafc;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-radius: 99px;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+  .catalog-card-cta:hover {
+    background-color: var(--primary);
+    color: #fff;
+  }
+
+  /* Mobile Design Fixes */
+  @media (max-width: 768px) {
+    .catalog-section {
+      padding: 3rem 16px;
+    }
+    .catalog-grid {
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+    .catalog-card-cta {
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>

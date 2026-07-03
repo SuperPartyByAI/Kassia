@@ -1,5 +1,6 @@
 ---
 import Header from '../components/Header.astro';
+import GlobalFloatingCTA from '../components/GlobalFloatingCTA.astro';
 
 export interface Props {
 	title: string;
@@ -54,6 +55,7 @@ const { title, description, canonical, robots, schemas = [], ogImage } = Astro.p
 		<main>
 			<slot />
 		</main>
+		<GlobalFloatingCTA />
 	</body>
 </html>
 
@@ -66,5 +68,9 @@ const { title, description, canonical, robots, schemas = [], ogImage } = Astro.p
 		font-family: var(--font-family);
 		background-color: #f8fafc;
 		color: #0f172a;
+		padding-bottom: 80px; /* Space for mobile CTA */
+	}
+	@media (min-width: 769px) {
+		body { padding-bottom: 0; }
 	}
 </style>

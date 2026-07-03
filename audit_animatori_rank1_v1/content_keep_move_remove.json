@@ -1,0 +1,16 @@
+{
+  "hero": "keep_high",
+  "pachete": "keep_high",
+  "ce evităm": "move_lower",
+  "pas cu pas": "move_lower",
+  "un personaj sau două": "move_lower",
+  "activități": "condense",
+  "personaje": "keep_high",
+  "zone": "keep_as_is",
+  "CTA": "keep_high",
+  "exemple programe": "move_lower",
+  "catalog": "keep_high",
+  "galerie": "keep_as_is",
+  "FAQ": "keep_as_is",
+  "recenzii": "keep_high"
+}

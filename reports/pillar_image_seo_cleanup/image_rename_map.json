@@ -1,0 +1,650 @@
+[
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-01.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-01.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-02.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-02.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-03.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-03.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-04.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-04.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-05.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-05.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-06.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-06.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-07.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-07.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-08.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-08.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-09.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-09.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-10.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-10.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-11.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-11.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-12.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-12.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-13.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-13.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-14.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-14.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-15.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-15.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-16.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-16.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-17.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-17.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-18.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-18.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-19.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-19.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-20.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-20.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-21.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-21.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-22.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-22.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-23.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-23.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-24.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-24.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-25.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-25.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-26.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-26.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-27.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-27.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-28.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-28.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-29.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-29.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-30.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-30.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-31.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-31.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-32.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-32.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-33.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-33.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-34.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-34.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-35.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-35.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-36.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-36.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-37.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-37.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-38.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-38.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-39.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-39.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-40.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-40.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-41.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-41.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-42.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-42.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-43.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-43.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-44.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-44.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-45.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-45.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-46.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-46.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-47.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-47.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-48.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-48.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-49.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-49.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-50.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-50.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-51.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-51.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-52.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-52.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-53.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-53.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-54.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-54.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-55.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-55.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-56.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-56.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-57.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-57.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-58.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-58.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-59.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-59.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-60.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-60.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-61.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-61.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-62.webp",
+    "new_src": "/images/animatori-costume/mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-62.webp",
+    "new_filename": "mascota-vesela-pentru-momentul-tortului-animator-copii-kassia.webp",
+    "alt": "Mascotă veselă pentru momentul tortului"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-63.webp",
+    "new_src": "/images/animatori-costume/personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "old_filename": "catalog-costume-kassia-63.webp",
+    "new_filename": "personaj-de-poveste-pentru-copii-animator-kassia.webp",
+    "alt": "Personaj de poveste pentru copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-64.webp",
+    "new_src": "/images/animatori-costume/printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-64.webp",
+    "new_filename": "printesa-tematica-pentru-aniversari-animator-copii-kassia.webp",
+    "alt": "Prințesă tematică pentru aniversări"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-65.webp",
+    "new_src": "/images/animatori-costume/erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-65.webp",
+    "new_filename": "erou-de-actiune-curajos-animator-copii-kassia.webp",
+    "alt": "Erou de acțiune curajos"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-66.webp",
+    "new_src": "/images/animatori-costume/mascota-pufoasa-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-66.webp",
+    "new_filename": "mascota-pufoasa-animator-copii-kassia.webp",
+    "alt": "Mascotă pufoasă"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-67.webp",
+    "new_src": "/images/animatori-costume/zana-magica-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-67.webp",
+    "new_filename": "zana-magica-animator-copii-kassia.webp",
+    "alt": "Zână magică"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-68.webp",
+    "new_src": "/images/animatori-costume/personaj-din-galaxie-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-68.webp",
+    "new_filename": "personaj-din-galaxie-animator-copii-kassia.webp",
+    "alt": "Personaj din galaxie"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-69.webp",
+    "new_src": "/images/animatori-costume/mascota-de-poveste-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-69.webp",
+    "new_filename": "mascota-de-poveste-animator-copii-kassia.webp",
+    "alt": "Mascotă de poveste"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-70.webp",
+    "new_src": "/images/animatori-costume/pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-70.webp",
+    "new_filename": "pirat-curajos-pentru-aventuri-animator-copii-kassia.webp",
+    "alt": "Pirat curajos pentru aventuri"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-71.webp",
+    "new_src": "/images/animatori-costume/printesa-a-gheturilor-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-71.webp",
+    "new_filename": "printesa-a-gheturilor-animator-copii-kassia.webp",
+    "alt": "Prințesă a ghețurilor"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-72.webp",
+    "new_src": "/images/animatori-costume/animator-petrecere-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-72.webp",
+    "new_filename": "animator-petrecere-copii-kassia.webp",
+    "alt": "Animator petrecere copii"
+  },
+  {
+    "type": "catalog",
+    "old_src": "/images/animatori-costume/catalog-costume-kassia-73.webp",
+    "new_src": "/images/animatori-costume/supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "old_filename": "catalog-costume-kassia-73.webp",
+    "new_filename": "supererou-pentru-jocuri-dinamice-animator-copii-kassia.webp",
+    "alt": "Supererou pentru jocuri dinamice"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-01.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-1-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-01.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-1-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 1"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-02.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-2-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-02.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-2-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 2"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-03.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-3-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-03.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-3-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 3"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-04.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-4-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-04.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-4-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 4"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-05.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-5-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-05.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-5-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 5"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-06.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-6-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-06.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-6-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 6"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-07.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-7-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-07.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-7-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 7"
+  },
+  {
+    "type": "gallery",
+    "old_src": "/images/animatori-costume/galerie-petreceri-copii-kassia-08.webp",
+    "new_src": "/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-8-animator.webp",
+    "old_filename": "galerie-petreceri-copii-kassia-08.webp",
+    "new_filename": "fotografie-de-la-o-petrecere-de-copii-kassia-8-animator.webp",
+    "alt": "Fotografie de la o petrecere de copii Kassia 8"
+  }
+]

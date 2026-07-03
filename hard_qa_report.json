@@ -1,0 +1,23 @@
+{
+  "page": "https://www.kassia.ro/animatori-petreceri-copii/",
+  "db_duplicate_sections_found": false,
+  "section_counts": {
+    "Exemple de programe pentru petreceri copii": 1,
+    "Activități incluse": 1,
+    "Pentru ce tipuri de evenimente sunt potriviți animatorii": 1
+  },
+  "db_duplicate_faqs_found": false,
+  "db_duplicate_internal_links_found": false,
+  "live_duplicate_sections_found": false,
+  "live_raw_html_tags_visible": false,
+  "faq_visible_count": 18,
+  "faq_schema_count": 18,
+  "faq_schema_matches_visible": true,
+  "reviews_preserved": true,
+  "rating_badge_preserved": true,
+  "phone_preserved": true,
+  "all_internal_links_200_and_indexable": true,
+  "visual_ok": true,
+  "implementation_changed_anything": false,
+  "final_status": "ANIMATORI_PILLAR_HARD_QA_PASS"
+}

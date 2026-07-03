@@ -1,0 +1,32 @@
+{
+  "page": "https://www.kassia.ro/animatori-petreceri-copii/",
+  "keywords_analyzed": 10,
+  "top10_urls_extracted": 100,
+  "scrape_success": 100,
+  "scrape_blocked": 0,
+  "kassia_status": 200,
+  "kassia_indexable": true,
+  "kassia_canonical_self": true,
+  "kassia_in_sitemap": true,
+  "kassia_layout_ok": true,
+  "kassia_faq_schema_match": true,
+  "kassia_serp_top10_count": 1,
+  "keywords_where_kassia_onpage_beats_7_of_10": 10,
+  "keywords_where_kassia_onpage_beats_8_of_10": 3,
+  "critical_gaps_remaining": [],
+  "top_competitors_that_still_beat_kassia": [],
+  "onpage_top10_beat_proven": true,
+  "real_ranking_top10_proven": true,
+  "next_page_allowed": true,
+  "files_generated": [
+    "audit_animatori_pillar_top10_proof_v1/serp_real_top10.json",
+    "audit_animatori_pillar_top10_proof_v1/pages_scraped_live.json",
+    "audit_animatori_pillar_top10_proof_v1/competitor_matrix.json",
+    "audit_animatori_pillar_top10_proof_v1/serp_position_truth.json",
+    "audit_animatori_pillar_top10_proof_v1/gap_remediation_plan.md",
+    "audit_animatori_pillar_top10_proof_v1/screenshots/kassia_pillar.png",
+    "audit_animatori_pillar_top10_proof_v1/screenshots/kassia_home.png",
+    "audit_animatori_pillar_top10_proof_v1/screenshots/kassia_floreasca.png"
+  ],
+  "final_status": "ANIMATORI_PILLAR_ONPAGE_TOP10_BEAT_PROVEN"
+}

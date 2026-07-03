@@ -6,6 +6,7 @@ import { Image } from 'astro:assets';
 import ReviewsCarousel from '../components/ReviewsCarousel.astro';
 import PricingPreview from '../components/PricingPreview.astro';
 import PricingFullTable from '../components/PricingFullTable.astro';
+import CostumeCatalog from '../components/CostumeCatalog.astro';
 
 // This is an SSR page
 const rawSlug = Astro.params.slug || '';
@@ -90,6 +91,8 @@ const [
 const sections = rawSections
   ?.map(s => ({ ...s, content: typeof s.content === 'string' ? JSON.parse(s.content) : (s.content || {}) }))
   ?.filter(s => s.content?.is_active !== false);
+
+console.log("SECTIONS IN SLUG ASTRO:", sections?.map(s => s.section_type));
 
 const publishedLinks = internalLinks
   ? internalLinks.filter(link => link.target_page && link.target_page.status === 'published')
@@ -231,7 +234,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
             </div>
             {heroSec?.content?.image_url && (
               <div class="hero-image-wrapper">
-                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" width="1200" height="800" onerror="this.style.display='none'" loading="eager" fetchpriority="high" decoding="sync" />
+                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" width="1200" height="800"  loading="eager" fetchpriority="high" decoding="sync" />
               </div>
             )}
           </div>
@@ -250,7 +253,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
                 <div class="service-card">
                   <div class="service-card-image">
                     {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                      <img src={card.content.image_url} alt={card.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="800" onerror="this.style.display='none'" loading="lazy" decoding="async" />
+                      <img src={card.content.image_url} alt={card.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="800"  loading="lazy" decoding="async" />
                     )}
                     <div class="service-card-overlay"></div>
                   </div>
@@ -295,7 +298,21 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </>
     ) : (
       <div id="content" class="sections-wrapper">
+        {page.show_pricing_preview && (
+          <PricingPreview locationName={page.slug.includes('voluntari') ? 'Voluntari și Pipera' : 'petrecerea ta'} />
+        )}
         {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps', 'feature_card'].includes(s.section_type)).map((section, index) => {
+          
+          if (section.section_type === 'costume_catalog') {
+            return (
+              <CostumeCatalog 
+                heading={section.heading} 
+                subheading={section.content?.body} 
+                cards={section.content?.cards || []} 
+              />
+            );
+          }
+
           const isTextOnly = !section.content?.image_url || section.content.image_url.trim() === '';
           return (
           <>
@@ -315,7 +332,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               {/* Image render */}
               {section.content?.image_url && section.content.image_url.trim() !== '' && (
                 <div class="section-image-placeholder">
-                  <img src={section.content.image_url} alt={section.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="600" onerror="this.parentElement.style.display='none'" loading="lazy" decoding="async" />
+                  <img src={section.content.image_url} alt={section.content?.image_alt || 'Activitate pentru petreceri de copii'} width="800" height="600"  loading="lazy" decoding="async" />
                 </div>
               )}
             </div>
@@ -328,7 +345,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
                     <div class="service-card">
                       <div class="service-card-image">
                         {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                          <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800" onerror="this.style.display='none'" loading="lazy" decoding="async" />
+                          <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800"  loading="lazy" decoding="async" />
                         )}
                         <div class="service-card-overlay"></div>
                       </div>
@@ -345,9 +362,6 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               </div>
             </section>
           )}
-          {index === 0 && page.show_pricing_preview && (
-            <PricingPreview locationName={page.slug.includes('voluntari') ? 'Voluntari și Pipera' : 'petrecerea ta'} />
-          )}
           {index === 0 && page.slug === 'preturi-animatori-copii-bucuresti' && (
             <PricingFullTable />
           )}
@@ -357,11 +371,13 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </div>
     )}
 
+
+
     {/* GALLERY SECTION */}
     {sections && sections.some(s => s.section_type === 'gallery') && gallery && gallery.some(img => img.url && img.url.trim() !== '') && (
       <section class="gallery-section bg-light">
         <div class="container">
-          <h2 class="section-heading text-center">Galerie Foto</h2>
+          <h2 class="section-heading text-center">{sections.find(s => s.section_type === 'gallery')?.heading || 'Galerie Foto'}</h2>
           <div class="gallery-grid">
             {gallery.filter(img => img.url && img.url.trim() !== '').map(img => (
               <figure class="gallery-item">

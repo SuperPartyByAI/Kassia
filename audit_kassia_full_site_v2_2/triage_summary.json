@@ -1,0 +1,27 @@
+{
+  "broken_images_instances": 859,
+  "unique_broken_image_src_count": 224,
+  "top_root_causes": [
+    {
+      "cause": "lazy_srcset_issue",
+      "count": 217
+    },
+    {
+      "cause": "db_content_issue",
+      "count": 7
+    }
+  ],
+  "top_20_groups_generated": true,
+  "file_existence_check_done": true,
+  "estimated_fixes_needed": 20,
+  "safe_auto_fix_count": 0,
+  "owner_review_needed_count": 0,
+  "recommended_fix_order": [
+    "code_component_issue",
+    "wrong_folder_path",
+    "db_content_issue",
+    "asset_missing_physically"
+  ],
+  "implementation_allowed_now": false,
+  "final_status": "BROKEN_IMAGES_TRIAGE_READY"
+}

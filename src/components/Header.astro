@@ -5,7 +5,7 @@ import { supabase } from '../lib/supabase';
 const { data: configRows } = await supabase.from('kassia_site_config').select('*');
 const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
 
-const phone = config.phone || "0768098268";
+const phone = config.phone || "0763795919";
 const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii despre decoratiunile cu baloane.";
 // Helper for phone format in whatsapp
 const phoneClean = phone.replace(/[^0-9]/g, '');
@@ -152,12 +152,6 @@ const isAnimatoriPage = animatoriSlugs.includes(currentPath);
   </div>
 </div>
 
-<div class="mobile-actions">
-  <div class="mobile-actions-inner">
-    <a href={whatsappLink} class="btn-whatsapp">WhatsApp</a>
-    <a href={`tel:${phone}`} class="btn-phone">Sună</a>
-  </div>
-</div>
 
 <style>
   .site-header {
@@ -375,44 +369,7 @@ const isAnimatoriPage = animatoriSlugs.includes(currentPath);
     font-weight: 500;
   }
 
-  .mobile-actions {
-    display: none;
-  }
-  @media (max-width: 767px) {
-    .mobile-actions {
-      display: block;
-      position: fixed;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      z-index: 9999;
-      padding: 10px calc(16px + env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) calc(16px + env(safe-area-inset-left));
-      background: transparent;
-      box-sizing: border-box;
-    }
-    .mobile-actions-inner {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      width: 100%;
-      max-width: 700px;
-      margin: 0 auto;
-    }
-    .mobile-actions a {
-      min-width: 0;
-      min-height: 56px;
-      border-radius: 16px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 700;
-      text-decoration: none;
-      color: white;
-    }
-    .btn-whatsapp { background: #25D366; }
-    .btn-phone { background: var(--primary); }
-    body { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
-  }
+
 </style>
 
 <script>

@@ -1,0 +1,85 @@
+{
+  "competitors": [
+    {
+      "competitor_url": "https://animatoriiveseli.ro/",
+      "criteria_lost_by_kassia": {
+        "keyword_relevance": [],
+        "title_meta_h1": [],
+        "page_type": [],
+        "content_depth": [],
+        "pricing_packages": [],
+        "cta_contact": [],
+        "faq_schema": [],
+        "reviews_trust": [],
+        "images": [],
+        "location_coverage": [],
+        "internal_linking": [],
+        "ux_layout": [],
+        "commercial_differentiation": []
+      },
+      "competitor_strengths": [
+        "Prices: ",
+        "H2s: 5",
+        "Local Links: 0",
+        "Commercial diffs: "
+      ]
+    },
+    {
+      "competitor_url": "https://paradisulpersonajelor.ro/animatie-copii/",
+      "criteria_lost_by_kassia": {
+        "keyword_relevance": [],
+        "title_meta_h1": [
+          "Competitor has more H2s (35 vs 14)"
+        ],
+        "page_type": [],
+        "content_depth": [],
+        "pricing_packages": [],
+        "cta_contact": [],
+        "faq_schema": [],
+        "reviews_trust": [],
+        "images": [],
+        "location_coverage": [],
+        "internal_linking": [],
+        "ux_layout": [],
+        "commercial_differentiation": []
+      },
+      "competitor_strengths": [
+        "Prices: 200 lei, 400 lei, 600 lei, 300 lei, 350 lei",
+        "H2s: 35",
+        "Local Links: 0",
+        "Commercial diffs: "
+      ]
+    },
+    {
+      "competitor_url": "https://resurse-petreceri.ro/diverse/animatori-petreceri-pentru-copii/",
+      "criteria_lost_by_kassia": {
+        "keyword_relevance": [],
+        "title_meta_h1": [],
+        "page_type": [],
+        "content_depth": [],
+        "pricing_packages": [],
+        "cta_contact": [],
+        "faq_schema": [],
+        "reviews_trust": [],
+        "images": [],
+        "location_coverage": [],
+        "internal_linking": [],
+        "ux_layout": [],
+        "commercial_differentiation": []
+      },
+      "competitor_strengths": [
+        "Prices: ",
+        "H2s: 1",
+        "Local Links: 0",
+        "Commercial diffs: "
+      ]
+    }
+  ],
+  "kassia_fix_needed": [
+    "Adăugare secțiune de Programe clare (Scurt, Standard, Extins) cu CTA Oferta Personalizată (fără prețuri inventate).",
+    "Întărirea listei de activități incluse.",
+    "Adăugare de linkuri interne către București / sectoare.",
+    "Mai multe H2-uri comerciale.",
+    "Extindere detalii despre mascote și recuzită."
+  ]
+}

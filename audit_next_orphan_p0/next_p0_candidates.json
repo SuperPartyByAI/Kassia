@@ -1,0 +1,53 @@
+[
+  {
+    "candidate_url": "https://www.kassia.ro/animatori-petreceri-copii-ilfov",
+    "db_id": "302ecd22-67c2-425f-a184-d49e126b4a6d",
+    "target_keyword": "Animatori Petreceri Copii animatori petreceri copii ilfov",
+    "service": "animatori",
+    "location": "ilfov",
+    "live_status": 200,
+    "indexable": false,
+    "in_sitemap": false,
+    "internal_links_in": 0,
+    "word_count": 829,
+    "h1": "Animatori Petreceri Copii animatori petreceri copii ilfov",
+    "title": "Animatori Petreceri Copii animatori petreceri copii ilfov | Kassia",
+    "canonical_self": true,
+    "faq_detected": true,
+    "reviews_detected": true,
+    "pricing_or_packages_detected": true,
+    "layout_visual_ok": true,
+    "content_bugs_detected": [],
+    "similar_pages": [
+      "https://www.kassia.ro/animatori-copii-darasti-ilfov",
+      "https://www.kassia.ro/animatori-copii-pantelimon-ilfov"
+    ],
+    "cannibalization_risk": "high",
+    "recommendation": "SKIP",
+    "reason": "Failed criteria: Status 200, Bugs: 0, Risk: high, Words: 829"
+  },
+  {
+    "candidate_url": "https://www.kassia.ro/animatori-copii-popesti-leordeni",
+    "db_id": "57a509a4-dc0b-4e49-9bdb-634ca34a59e8",
+    "target_keyword": "Animatori Petreceri Copii animatori copii popesti leordeni",
+    "service": "animatori",
+    "location": "leordeni",
+    "live_status": 200,
+    "indexable": false,
+    "in_sitemap": false,
+    "internal_links_in": 0,
+    "word_count": 829,
+    "h1": "Animatori Petreceri Copii animatori copii popesti leordeni",
+    "title": "Animatori Petreceri Copii animatori copii popesti leordeni | Kassia",
+    "canonical_self": true,
+    "faq_detected": true,
+    "reviews_detected": true,
+    "pricing_or_packages_detected": true,
+    "layout_visual_ok": true,
+    "content_bugs_detected": [],
+    "similar_pages": [],
+    "cannibalization_risk": "low",
+    "recommendation": "SELECT_AS_NEXT_P0",
+    "reason": "Toate criteriile bifate: 200 OK, fără bug-uri, risk de canibalizare mic, text amplu."
+  }
+]

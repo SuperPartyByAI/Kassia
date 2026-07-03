@@ -1,0 +1,13 @@
+{
+  "project_path": "/Users/universparty/wa-web-launcher/kassia-site",
+  "live_domain": "https://www.kassia.ro/",
+  "db_tables_detected": [
+    "costume",
+    "servicii",
+    "locatii"
+  ],
+  "sitemap_urls_count": 0,
+  "robots_txt_status": "OK",
+  "source_routes_detected": [],
+  "audit_read_only": true
+}

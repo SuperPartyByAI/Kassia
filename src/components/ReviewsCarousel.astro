@@ -82,7 +82,7 @@ const reviews = [
     name: "Alina D.",
     date: "Acum 4 ani",
     service: "animatori",
-    text: "Rapunzel a fost o prezență caldă și dulce, fetițele au fost absolut fascinate de povestea ei.",
+    text: "Rapunzel a fost o prezență caldă și dulce, fetițele au fost fascinate de povestea ei.",
     avatar: "/images/avatars/avatar_010.jpg"
   },
   {
@@ -202,19 +202,6 @@ const reviews = [
   </div>
 </section>
 
-<script>
-  // Clone cards dynamically in client-side JS for infinite scroll marquee
-  const track = document.querySelector('.aprecieri-track');
-  if (track) {
-    const cards = Array.from(track.children);
-    cards.forEach(card => {
-      const clone = card.cloneNode(true) as HTMLElement;
-      clone.setAttribute('aria-hidden', 'true');
-      track.appendChild(clone);
-    });
-  }
-</script>
-
 <style>
   .aprecieri-clienti {
     padding: 4rem 0;
@@ -222,22 +209,20 @@ const reviews = [
   }
   .aprecieri-slider {
     width: 100%;
-    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
     padding-bottom: 2rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .aprecieri-slider::-webkit-scrollbar {
+    display: none; /* Chrome/Safari/Webkit */
   }
   .aprecieri-track {
     display: flex;
     gap: 1.5rem;
     width: max-content;
-    padding: 0.5rem;
-    animation: scroll-carousel 50s linear infinite;
-  }
-  .aprecieri-track:hover {
-    animation-play-state: paused;
-  }
-  @keyframes scroll-carousel {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(calc(-50% - 0.75rem)); }
+    padding: 0.5rem 2rem;
   }
   .apreciere-item {
     background: white;

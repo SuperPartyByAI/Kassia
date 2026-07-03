@@ -18,6 +18,6 @@ export default defineConfig({
   },
   redirects: {
     '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/',
-    '/animatori-copii-floreasca': '/animatori-petreceri-copii-floreasca'
+    '/animatori-copii-floreasca': '/animatori-petreceri-copii-floreasca/'
   }
 });

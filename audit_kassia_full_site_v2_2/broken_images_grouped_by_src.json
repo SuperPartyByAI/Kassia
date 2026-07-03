@@ -1,0 +1,4228 @@
+{
+  "total_broken_instances": 859,
+  "unique_broken_image_src_count": 224,
+  "groups": [
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-zone-acoperite.webp",
+      "http_status": 404,
+      "affected_pages_count": 23,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-sector-6/",
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-sector-2/",
+        "https://www.kassia.ro/animatori-copii-sector-1/"
+      ],
+      "sample_alt_texts": [
+        "Animatori copii în diverse locații din Sector 6",
+        "Harta de acoperire Bucuresti si Ilfov",
+        "Animatori copii în diverse locații din Sector 2",
+        "Deplasare animatori la locații în Sector 1 București",
+        "Animatori copii în diverse locații din Sector 5"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-evenimente.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-evenimente.webp",
+      "http_status": 404,
+      "affected_pages_count": 23,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-sector-6/",
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-sector-2/",
+        "https://www.kassia.ro/animatori-copii-sector-1/"
+      ],
+      "sample_alt_texts": [
+        "Botez și evenimente de familie cu animatori",
+        "Ce evitam in organizarea petrecerilor",
+        "Tipuri de evenimente cu animatori copii Sector 1",
+        "Evenimente de familie în Floreasca",
+        "Animatori petrecere spatiu interior apartament restaurant"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-varste-copii.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-varste-copii.webp",
+      "http_status": 404,
+      "affected_pages_count": 21,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-sector-6/",
+        "https://www.kassia.ro/",
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-sector-2/"
+      ],
+      "sample_alt_texts": [
+        "Planificare program animatori copii Sector 6",
+        "Activitate pentru petreceri de copii",
+        "Scenarii pentru petreceri in Bucuresti si Ilfov",
+        "Planificare program animatori copii Sector 2",
+        "Activități adaptate pe categorii de vârstă în Sector 1"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-cta-final.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-cta-final.webp",
+      "http_status": 404,
+      "affected_pages_count": 21,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-sector-6/",
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-sector-2/",
+        "https://www.kassia.ro/animatori-copii-sector-1/"
+      ],
+      "sample_alt_texts": [
+        "Planifică petrecerea în Sector 6 cu Kassia",
+        "Planifică petrecerea cu Kassia",
+        "Planifică petrecerea în Sector 2 cu Kassia",
+        "Planifică petrecerea copilului în Sector 1 cu Kassia",
+        "Planifică petrecerea în Sector 5 cu Kassia"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-program-animatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-program-animatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 16,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/",
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-sector-1/",
+        "https://www.kassia.ro/animatori-copii-sector-3/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii",
+        "Cum decurge programul de petrecere",
+        "Program activități distractive cu animatori în Sector 1",
+        "Animator interacționând cu copii la petrecere"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-servicii-complementare.webp",
+      "http_status": 404,
+      "affected_pages_count": 15,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-sector-6/",
+        "https://www.kassia.ro/animatori-copii-sector-2/",
+        "https://www.kassia.ro/animatori-copii-sector-1/",
+        "https://www.kassia.ro/animatori-copii-sector-5/",
+        "https://www.kassia.ro/animatori-copii-sector-4/"
+      ],
+      "sample_alt_texts": [
+        "Detalii program de animație pentru copii",
+        "Animator Kassia zâmbind la petrecere",
+        "Detalii program de animație Kassia"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-desfasurare-petrecere.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/modelaj-baloane-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Numar animatori petrecere",
+        "Grup de copii asezati pe covor participand la activitati"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/mascota-creeper-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/mascota-creeper-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Creeper (Minecraft) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/animator-petreceri-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/animator-petreceri-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Zoue (K-Pop Demon Hunters) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/claunita-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/claunita-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Clăuniță Veselă pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/printesa-aurora-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/printesa-aurora-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Aurora pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/batman-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/batman-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Batman pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/mascota-leu-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/mascota-leu-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Leu pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/printesa-belle-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/printesa-belle-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Belle pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/costum-pisicuta-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/costum-pisicuta-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Pisicuță pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/venom-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/venom-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Venom pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catboy-eroi-in-pijama-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catboy-eroi-in-pijama-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Catboy (Eroi în Pijama) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/chase-patrula-catelusilor-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/chase-patrula-catelusilor-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Chase (Patrula Cățelușilor) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/mascota-soricel-animator-copii-kassia.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/mascota-soricel-animator-copii-kassia.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Șoricel pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-13.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-13.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Cenușăreasa pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-14.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-14.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Ahri (K-Pop) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-15.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-15.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Elena din Avalor pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-16.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-16.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Elsa (Frozen) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-17.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-17.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Dansatoare Spaniolă pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Șopi (Eroi în Pijama) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-19.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-19.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Hello Kitty pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-20.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-20.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Kristoff (Frozen) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-21.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-21.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Supereroină Buburuză pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-22.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-22.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Pilot Fulger McQueen pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-23.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-23.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascote Mickey și Minnie pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-24.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-24.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Luigi pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-25.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-25.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Luigi pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-26.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-26.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mira (K-Pop Demon Hunters) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-27.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-27.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Mario pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-28.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-28.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Marshall (Patrula Cățelușilor) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-29.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-29.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Masha pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-30.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-30.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Merida pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-31.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-31.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Șoricel Jerry pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-32.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-32.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Minion pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-33.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-33.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Rochiță Minnie Mouse pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-34.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-34.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Pikachu pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-35.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-35.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Tradițional Românesc pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-36.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-36.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Rumi (K-Pop Demon Hunters) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-37.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-37.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Mulan pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-38.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-38.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Scorpion (Mortal Kombat) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-39.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-39.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Peach (Super Mario) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-40.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-40.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Spiderman pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-41.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-41.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Elsa pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-42.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-42.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Bumblebee (Transformers) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-43.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-43.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Mickey Mouse pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-44.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-44.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Sonic pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-45.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-45.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Aurora (rochie roz) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-46.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-46.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Peter Pan pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-47.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-47.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Pikachu la momentul tortului pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-48.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-48.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Skye (Patrula Cățelușilor) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-49.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-49.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Prințesă Modernă pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-50.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-50.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Aurora la momentul tortului pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-51.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-51.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Pirat pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-52.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-52.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Jasmine (Aladdin) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-53.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-53.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Peach (Super Mario) la momentul tortului pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-54.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-54.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Dovleac (Halloween) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-55.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-55.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Rubble (Patrula Cățelușilor) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-56.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-56.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Rocky (Patrula Cățelușilor) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-57.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-57.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Scooby-Doo pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-58.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-58.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Albă ca Zăpada pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-59.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-59.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Prințesa Rapunzel pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-60.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-60.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Țestoasa Ninja (Leonardo) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-61.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-61.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Catwoman / Pisica Neagră pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-62.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-62.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Spiderman pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-63.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-63.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Stitch pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-64.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-64.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Superman pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-65.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-65.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Clopoțica (Tinkerbell) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-66.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-66.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Tom (Tom și Jerry) pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-67.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-67.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Vampiriță pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-68.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-68.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Unicorn pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-69.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-69.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Unicorn la momentul tortului pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-70.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-70.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Unicorn în program de animație pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-71.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-71.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Wednesday Addams pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-72.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-72.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Mascotă Iepuraș Roz pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-73.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/catalog-costume-kassia-73.webp",
+      "http_status": 404,
+      "affected_pages_count": 7,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/catalog-costume/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Costum Animator Sonic Fată pentru petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-1-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-1-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 1"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-2-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-2-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 2"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-3-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-3-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 3"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-4-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-4-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 4"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-5-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-5-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 5"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-6-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-6-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 6"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-7-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-7-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 7"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-8-animator.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori-costume/fotografie-de-la-o-petrecere-de-copii-kassia-8-animator.webp",
+      "http_status": 404,
+      "affected_pages_count": 6,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-pentru-copii-mici-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-evenimente-private-bucuresti/",
+        "https://www.kassia.ro/animatori-tematici-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii/"
+      ],
+      "sample_alt_texts": [
+        "Fotografie de la o petrecere de copii Kassia 8"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-hero.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-hero.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-aniversari-adulti.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-aniversari-adulti.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-corporate.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-corporate.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-hero.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-hero.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/preturi-decoratiuni-baloane/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/pret-program-1-animator-copii.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/pret-program-1-animator-copii.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/pachete-animatori-copii-bucuresti/",
+        "https://www.kassia.ro/oferta-animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/preturi-animatori-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Program cu 1 personaj animator pentru copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/pret-program-2-animatori-copii.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/pret-program-2-animatori-copii.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/pachete-animatori-copii-bucuresti/",
+        "https://www.kassia.ro/oferta-animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/preturi-animatori-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Program cu 2 personaje animatoare la petrecere"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/pret-animatori-picioroange-evenimente.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/pret-animatori-picioroange-evenimente.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/pachete-animatori-copii-bucuresti/",
+        "https://www.kassia.ro/oferta-animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/preturi-animatori-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Animatori pe picioroange pentru evenimente"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/activitati-incluse-program-animatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/activitati-incluse-program-animatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/pachete-animatori-copii-bucuresti/",
+        "https://www.kassia.ro/oferta-animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/preturi-animatori-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activități cu animatori copii pictură pe față și modelaj baloane"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/pret-balloon-exploder-petrecere.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/pret-balloon-exploder-petrecere.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/pachete-animatori-copii-bucuresti/",
+        "https://www.kassia.ro/oferta-animatori-petreceri-copii-bucuresti/",
+        "https://www.kassia.ro/preturi-animatori-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Balloon Exploder cu bomboane la petrecere de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-jocuri-interactive.webp",
+      "http_status": 404,
+      "affected_pages_count": 3,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-berceni-ilfov/",
+        "https://www.kassia.ro/animatori-copii-la-restaurant-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-berceni/"
+      ],
+      "sample_alt_texts": [
+        "Jocuri interactive si activitati cu animatori",
+        "Animator coordonând jocuri pentru copii la o petrecere organizată la restaurant în București"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/decoratiuni-baloane-hub-detalii.webp",
+      "resolved_url": "https://www.kassia.ro/images/decoratiuni-baloane-hub-detalii.webp",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/contact/",
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-candy-bar.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-candy-bar.webp",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-nunta.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-nunta.webp",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-card-aniversare-copii.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-card-aniversare-copii.webp",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-bucuresti/",
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_scenarii_frecvente.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_scenarii_frecvente.png",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Scenarii frecvente pentru petreceri copii Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_ce_evitam.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_ce_evitam.png",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Evităm haosul la petreceri copii Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_pas_cu_pas.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_pas_cu_pas.png",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Program pas cu pas petreceri copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_curte_spatioasa_1782299060724.png?v=1",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_curte_spatioasa_1782299060724.png?v=1",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Animator pentru copii la petrecere în Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_joc_aer_liber_1782299069678.png?v=1",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_joc_aer_liber_1782299069678.png?v=1",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Activități pentru copii organizate în curte la petrecere"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_atelier_terasa_1782299087573.png?v=1",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_atelier_terasa_1782299087573.png?v=1",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Animator coordonând jocuri pentru copii în aer liber"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_mascota_elegant_1782299078537.png?v=1",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_mascota_elegant_1782299078537.png?v=1",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Personaj pentru copii la eveniment în Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_zone_adaptare.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_zone_adaptare.png",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/",
+        "https://www.kassia.ro/animatori-petreceri-copii-voluntari/"
+      ],
+      "sample_alt_texts": [
+        "Petreceri copii Pipera Iancu Nicolae"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-modelaj-baloane.webp",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/modelaj-baloane-copii-bucuresti/",
+        "https://www.kassia.ro/animatori-copii-la-restaurant-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Figurine din baloane colorate realizate pentru copii",
+        "Activități creative cu animatori pentru copii într-un spațiu interior din București"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-picioroange.png",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-picioroange.png",
+      "http_status": 404,
+      "affected_pages_count": 2,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-berceni-ilfov/",
+        "https://www.kassia.ro/animatori-petreceri-copii-berceni/"
+      ],
+      "sample_alt_texts": [
+        "Animatori pe picioroange potriviti pentru evenimente ample in aer liber"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-photo-corner.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-photo-corner.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-cifre-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-cifre-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-glam.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-glam.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-arcada-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-arcada-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-majorat-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-majorat-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-lansare.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-lansare.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Impact vizual pentru evenimente de companie"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Decoruri pentru lansări de produs, conferințe și petreceri de firmă"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Arcade organice și zone de întâmpinare pentru branduri"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Panou foto corporate și decor pentru poze"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-culori-brand.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-culori-brand.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Culori de brand și decor personalizat pentru locație"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-montaj.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-montaj.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-corporate-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Montaj la locație și ofertă personalizată"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/contact-cta.webp",
+      "resolved_url": "https://www.kassia.ro/images/contact-cta.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/contact/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-complet.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-complet.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-montaj.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-montaj.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/botez-hub-oferta.webp",
+      "resolved_url": "https://www.kassia.ro/images/botez-hub-oferta.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/baloane-heliu-tipuri.webp",
+      "resolved_url": "https://www.kassia.ro/images/baloane-heliu-tipuri.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/baloane-heliu-buchete.webp",
+      "resolved_url": "https://www.kassia.ro/images/baloane-heliu-buchete.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/baloane-heliu-evenimente.webp",
+      "resolved_url": "https://www.kassia.ro/images/baloane-heliu-evenimente.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/baloane-heliu-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/baloane-heliu-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/baloane-heliu-comanda.webp",
+      "resolved_url": "https://www.kassia.ro/images/baloane-heliu-comanda.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/nunta-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/nunta-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-nunta-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/nunta-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/nunta-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-nunta-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/nunta-candy-bar.webp",
+      "resolved_url": "https://www.kassia.ro/images/nunta-candy-bar.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-nunta-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/nunta-detalii-baloane.webp",
+      "resolved_url": "https://www.kassia.ro/images/nunta-detalii-baloane.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-nunta-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/nunta-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/nunta-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-nunta-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-aniversare.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-aniversare.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-buchete.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-buchete.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-cifre.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-cifre.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-evenimente.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-evenimente.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-aniversare-comanda.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-aniversare-comanda.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_curte_animator.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_curte_animator.png",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Animator pentru copii într-o curte din Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_pe_scurt.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_pe_scurt.png",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activități cu animatori pentru copii în Voluntari și Pipera"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_zona_joc.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_zona_joc.png",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Zonă de joc pregătită pentru copii într-o curte din Voluntari"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_un_personaj_sau_doua.png",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_un_personaj_sau_doua.png",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Alegerea între un personaj sau două"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/voluntari_interactiune_naturala_1782299099268.png?v=1",
+      "resolved_url": "https://www.kassia.ro/images/locatii/voluntari_interactiune_naturala_1782299099268.png?v=1",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-pipera-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Interacțiune între animator, copii și părinți la petrecere"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-mini-disco.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-mini-disco.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-private-events.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-private-events.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/corporate-baloane-hero.webp",
+      "resolved_url": "https://www.kassia.ro/images/corporate-baloane-hero.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/home-workflow.webp",
+      "resolved_url": "https://www.kassia.ro/images/home-workflow.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-intrare.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-intrare.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-organica.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-organica.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-botez-nunta.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-botez-nunta.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-baloane-montaj.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-baloane-montaj.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/majorat-baloane-heliu-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/majorat-baloane-heliu-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane cu heliu și cifre 18 pentru majorat"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/majorat-arcada-baloane.webp",
+      "resolved_url": "https://www.kassia.ro/images/majorat-arcada-baloane.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Arcadă din baloane pentru intrare la petrecere de majorat"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/majorat-baloane-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/majorat-baloane-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane pentru majorat în culori elegante și glam"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-copii-buchete.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-copii-buchete.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-aniversare-copii/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-copii-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-copii-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-aniversare-copii/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-tematica.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-tematica.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Decor tematic cu baloane pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Panou foto cu baloane pentru aniversare copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-heliu-cifre.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-heliu-cifre.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane cu heliu și cifre pentru aniversare copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Arcadă din baloane pentru candy bar aniversare copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane colorate pastel și crem pentru aniversare copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-copii-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-copii-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-copii-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Decor cu baloane montat la locație pentru petrecere copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-botez-pastel.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-botez-pastel.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Combinație de baloane pastel mate și auriu pentru un decor de botez echilibrat"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-botez-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-botez-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Buchete din baloane cu heliu amplasate lângă o arcadă principală la un botez"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-botez-montaj.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-botez-montaj.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Echipa Kassia Events realizând montajul unei arcade de botez în locație"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-majorat-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-majorat-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-majorat/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-majorat-cifre-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-majorat-cifre-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-majorat/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-majorat-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-majorat-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-majorat/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-majorat-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-majorat-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-majorat/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-adulti-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-adulti-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-aniversare-adulti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-adulti-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-adulti-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-aniversare-adulti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-familie.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-familie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-rotund.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-rotund.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-candy-bar.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-candy-bar.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-detalii.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-detalii.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/panou-foto-botez-montaj.webp",
+      "resolved_url": "https://www.kassia.ro/images/panou-foto-botez-montaj.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/panou-foto-baloane-botez-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/buchete-aniversare-cadou.webp",
+      "resolved_url": "https://www.kassia.ro/images/buchete-aniversare-cadou.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/buchete-baloane-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/buchete-aniversare-cifre-litere.webp",
+      "resolved_url": "https://www.kassia.ro/images/buchete-aniversare-cifre-litere.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/buchete-baloane-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/buchete-aniversare-copii-adulti.webp",
+      "resolved_url": "https://www.kassia.ro/images/buchete-aniversare-copii-adulti.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/buchete-baloane-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/buchete-aniversare-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/buchete-aniversare-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/buchete-baloane-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/buchete-aniversare-decor.webp",
+      "resolved_url": "https://www.kassia.ro/images/buchete-aniversare-decor.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/buchete-baloane-aniversare-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-adulti-heliu-cifre.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-adulti-heliu-cifre.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-adulti-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane cu heliu și cifre metalizate pentru aniversare"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-adulti-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-adulti-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-adulti-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Arcadă organică din baloane pentru intrare și candy bar"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/aniversare-adulti-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/aniversare-adulti-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/decoratiuni-baloane-aniversare-adulti-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Baloane în nuanțe elegante champagne auriu și negru pentru adulți"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-intrare.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-intrare.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-cifre-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-cifre-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-heliu-buchete.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-heliu-buchete.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/arcada-majorat-locatie.webp",
+      "resolved_url": "https://www.kassia.ro/images/arcada-majorat-locatie.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/arcada-baloane-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-heliu-majorat-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-heliu-majorat-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/baloane-cu-heliu-pentru-majorat-idei/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-heliu-majorat-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-heliu-majorat-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/baloane-cu-heliu-pentru-majorat-idei/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-corporate-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-corporate-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-corporate/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-corporate-arcada.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-corporate-arcada.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-corporate/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-corporate-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-corporate-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-corporate/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/blog-decor-corporate-heliu.webp",
+      "resolved_url": "https://www.kassia.ro/images/blog-decor-corporate-heliu.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/blog/idei-decor-baloane-corporate/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-pictura-pe-fata.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-la-restaurant-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Animator pentru copii într-un spațiu interior compact la restaurant"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp",
+      "resolved_url": "https://www.kassia.ro/images/animatori/animatori-copii-bucuresti-pachete-oferta.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-copii-la-restaurant-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Program cu animatori pentru petrecere de copii la restaurant în București"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/popesti_personaje_mascote_v2_1782287764055.png?v=3",
+      "resolved_url": "https://www.kassia.ro/images/locatii/popesti_personaje_mascote_v2_1782287764055.png?v=3",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-popesti-leordeni/"
+      ],
+      "sample_alt_texts": [
+        "Personaj și mascotă la petrecere pentru copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/locatii/popesti_detalii_program_v2_1782287775863.png?v=3",
+      "resolved_url": "https://www.kassia.ro/images/locatii/popesti_detalii_program_v2_1782287775863.png?v=3",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/animatori-petreceri-copii-popesti-leordeni/"
+      ],
+      "sample_alt_texts": [
+        "Animator pregătind activități pentru eveniment"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-cifre-18.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-cifre-18.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-buchete.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-buchete.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-folie-litere.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-folie-litere.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-panou-foto.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-panou-foto.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-culori.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-culori.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    },
+    {
+      "image_src": "https://www.kassia.ro/images/heliu-majorat-comanda.webp",
+      "resolved_url": "https://www.kassia.ro/images/heliu-majorat-comanda.webp",
+      "http_status": 404,
+      "affected_pages_count": 1,
+      "sample_affected_pages": [
+        "https://www.kassia.ro/baloane-heliu-majorat-bucuresti/"
+      ],
+      "sample_alt_texts": [
+        "Activitate pentru petreceri de copii"
+      ],
+      "section_hints": [
+        "Unknown"
+      ],
+      "likely_root_cause": "",
+      "priority": "P2"
+    }
+  ]
+}

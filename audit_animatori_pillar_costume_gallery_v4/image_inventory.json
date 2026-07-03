@@ -1,0 +1,593 @@
+{
+  "source_folder_exists": true,
+  "images_found": 73,
+  "valid_images": 73,
+  "invalid_files": [],
+  "duplicates_by_hash": [],
+  "image_inventory": [
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-1.png",
+      "sha256": "fb0cd530b11d6a01f00b650a59dec68cb3f8694abbfbf8b11d5eb9f4c4550b11",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 86
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-10.png",
+      "sha256": "5115b45e5587f4239ce1eb7d072d91d6b7f050fb1af58dc03c6442364ccc7ebf",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 79
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-11.png",
+      "sha256": "939d052ff79fb840d171ea07b562d4d81eb81735b2ff19da587df7ec40f74eca",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 76
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-12.png",
+      "sha256": "6f8df250f9c4b5e9f23043ef54d8844053e8fedcaee572225144ca60c5f51a8d",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 69
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-13.png",
+      "sha256": "92b61462ae898f474756c173a313f8534ed899aad1acc31df3b2586747bf6db2",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 78
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-14.png",
+      "sha256": "3f771ee2e5f5ec5d1e408e3bd195dd4720f52970decf485a1e9baa6fd11d6dfa",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 72
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-15.png",
+      "sha256": "986b58fcc700351ba5ed8acbcbe9e7de756373a67966816071ab843d5c20bb21",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 80
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-16.png",
+      "sha256": "82edee2380e3f93a5f3d6a7f6597a4f15722d60241ae7bf4eb5c35feb8d52dc5",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 76
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-17.png",
+      "sha256": "beb7c516b24e6807dd5c2e8e78f9d6eb25afeeb2962d8693acba49c5858cfb4d",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 84
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-18.png",
+      "sha256": "dfa94d19810f625c6efbe78bfdb1f6cfa0e1c91110088bbc81d67ab7ffa2cb93",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 88
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-19.png",
+      "sha256": "d1b71dc6b769266a8762ec7f58b94a9ccd834c9dadd27bd62dda8891c0d416c0",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 86
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-2.png",
+      "sha256": "ac659b7f0d2d3afe368a81b69c4f36872e56913c0275814999a171fac8194b91",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 76
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-20.png",
+      "sha256": "a34bef378e13151921712b770a56da788b07910309db2338ae6812fbc07511c8",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 73
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-21.png",
+      "sha256": "cea85b89ad6b5051a6cc380f869de38a39d8654db72e7276e3a5af53cceb32f0",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 81
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-22.png",
+      "sha256": "7d4fece69fac830f24c527093eab5584fbf74f84ec3fbe656a830c114b5e4e63",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 92
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-23.png",
+      "sha256": "6669d49fff728e5499d35e5d96eddcbb97956a23738db20a11cf11f1007a6cba",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 84
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-24.png",
+      "sha256": "2e0e4555142dc59db504fdbbbaa950767755014ac798b4bac8a64a7f54f430e7",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 77
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-25.png",
+      "sha256": "1025cffc6dafe3b04b0a8b09cf5127ba4894f7492bc511b4f6494b769078bba0",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 93
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-26.png",
+      "sha256": "eefbf3ce8a97ebd2e22ff795dfa846e4622d89af034f974a3d8816601eb77c2b",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 79
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-27.png",
+      "sha256": "c90f5326d34b3db56f04d38e98f14068d4dcd4fa48a350bfa41409478767023d",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 81
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-28.png",
+      "sha256": "7f5f53ff3292e475235e3eccac8fcdc10a87764abc992e6b020b4a8c3d47807c",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 81
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-29.png",
+      "sha256": "b6e9ee2985bd1493a7e86b563308bdf60ea2ab36a57573c63e530ceae85ec3b6",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 82
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-3.png",
+      "sha256": "b41ad35752ae21b00546fdb11662abe5541d28d815dcaaea49ba1a68a74aff99",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 99
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-30.png",
+      "sha256": "d225dcde2c484a9950ab05ae3d26657dc2778f1e9658b915ed71f0a9b329306a",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 86
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-31.png",
+      "sha256": "2af8cf7a49be2fbbc00d19211cff7f7294708c15069bd291f8aed3381a4e4391",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 70
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-32.png",
+      "sha256": "c131724a8a3dfc9e76c4e4aa6650190d03fd62ff73d82fcac4d8126418900ddc",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 80
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-33.png",
+      "sha256": "fcd2209b7b87c5f0c524a8d97155a698d81a22fd5397f6fa842e7bf42edd8f63",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 93
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-34.png",
+      "sha256": "0f2281a888c3a8a6404f26d35df867ed42ec382b67524262048e905f15730b94",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 95
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-35.png",
+      "sha256": "3789fde1d5bf834b4fe0075161c2a063ae5541babb3ca218981dc4b433ba5392",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 71
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-36.png",
+      "sha256": "7d8c23d67bfa2371d08e0c20454cb418bf45b3b139824444d01b0c7fad363026",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 87
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-37.png",
+      "sha256": "634095b906369327cae1fe9722c239dc0d0dd3ada38ff1dc28d82d61ea3ee863",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 77
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-38.png",
+      "sha256": "fad61dd15b134f589d66dae705a97ea29113224eb245fd07377f1fa1bc247c0b",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 114
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-39.png",
+      "sha256": "8505f66a6e4166a7950c3e776523456bb4200c01999c71d5db559e23e9e2bb6a",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 85
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-4.png",
+      "sha256": "f7c0381b6f65fc3b5d034c01eeac21104259dd8099c8987c4c97a76d61c3cf06",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 87
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-40.png",
+      "sha256": "a7b395cf44c62bcbcdf09eb81e5d5286b51834457acf380ff78c4d7afbe5e8af",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 72
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-41.png",
+      "sha256": "f3a18c9f550fac0bf33de776d6ac8cb042e1342447a81cec04d2fd9dc73bb7b1",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 79
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-42.png",
+      "sha256": "0e5b97df8f3b706a471d69edf842324c50547196ac05a37ffbc3e39e616aa7b6",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 86
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-43.png",
+      "sha256": "ea2f5da3871bb3e856810f9aeb68b60e175e3fda8f0a11c2c4a34268127076f1",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 89
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-44.png",
+      "sha256": "35086844c872e113d806c216e2d4f9ba078ef40f40b8d6a66689e2ea85b87a42",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 68
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-45.png",
+      "sha256": "4abee8c62b61d4577d9ddc4c75b52cd8a9959ee5c8a93e8b20418139e83b425e",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 727
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-46.png",
+      "sha256": "86ae7d263c16120d3f1a25ca4f06bc2983d20c6954ef752199fb694ae576d51c",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 671
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-47.png",
+      "sha256": "3e306c487f1aa587afe064fb2a52bd1183efc0b4a806209ffaa8606fbed8f289",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 708
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-48.png",
+      "sha256": "7192ace373ef0e48462fd79d7e97844a8739dfdd82c0116acc8c049894c0a361",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 700
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-49.png",
+      "sha256": "751853765b85cb2e8e66f0f6a1a58a5f5d6bdae80b6c812cd0c66cc10a8e4dd4",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 795
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-5.png",
+      "sha256": "9019d7e278cb5443aee9209e715c7ef7456ddc650ee6ef4660a7f7378e83860f",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 67
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-50.png",
+      "sha256": "258696c31edb1e1e8fb5bc7b8800de8a03c02e4fbf83c4e5c39c7645226cc84d",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 80
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-51.png",
+      "sha256": "c1e702ad6325933d7fce7ff05f2e0318af92520e2b4b7d5654be22def8ff6a48",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 95
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-52.png",
+      "sha256": "041c28b8d1fdca6185f3ae307a39d439fd657d663607499216219c4a50696904",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 83
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-53.png",
+      "sha256": "6f1dee746c7ceb8f5ef0c6c37ea60390ceb792fd575a06f1d05bfcf34f2b543d",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 88
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-54.png",
+      "sha256": "d647f3d9b8ed255b30da73139e7eba72e52fbd2e0bb777e588bc7539bbe3b844",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 85
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-55.png",
+      "sha256": "bcf215c25853d09f8051bd604d41d342d2ead992e709fe263dfda57ea1cd48b8",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 104
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-56.png",
+      "sha256": "0a5570bef19848a0a2674b66960884ee4deca2b9b86c73211f743b27f66a5652",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 87
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-57.png",
+      "sha256": "e9f28c3624dc6d16dee092c50c8e816a59491ceec80e550723edb10b07328c47",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 66
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-58.png",
+      "sha256": "e169d1b38e5874d64e179862d5c77f0c3f29d6988be25fe0ed2b39fc6704545b",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 73
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-59.png",
+      "sha256": "dd6373ba601598be8aeb77fa9e47a755172aeb0d1207f7fbece3d560b8b74499",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 86
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-6.png",
+      "sha256": "2aae13785806769b12d3f1efa5022a67a7c48ac1f600bdfa77f353490c198d8b",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 108
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-60.png",
+      "sha256": "81c9910cdb15328d7694e568175b2290c896be58310014be60b9ad6422ec3271",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 72
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-61.png",
+      "sha256": "125ce7df5b66e07f0f3c481f59c3207a0b71041c655c18c7301fa2bfde1a93c5",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 69
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-62.png",
+      "sha256": "9ac78d3890680a1704e66234eff472cdfa2b442fd79e85887f465b3d52877475",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 76
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-63.png",
+      "sha256": "aab0c3a5c4a5bc0d91bdbe89d00d0b3ea00463ed4ee5545c60c994a7bfc09245",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 85
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-64.png",
+      "sha256": "5519a81858c771c40592ada594651dd5a6b5c4ed3850acfa784c52f51aaedd4e",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 88
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-65.png",
+      "sha256": "666335f8c5521d1314625b8527a01207e9b99246df09858292595b1286705a62",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 87
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-66.png",
+      "sha256": "13b3f7bb3527473b3ed692c71fbe7a65485f68379c321d6b29bf63d7f83c4032",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 83
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-67.png",
+      "sha256": "71ce19fe1264f95d51b93f4e5e8fc0c5f68b1e4186c30d4425876576bad6369a",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 77
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-68.png",
+      "sha256": "8300159b4790216c41114b9f229ffc5b8bfddf14541bd7deff653bfc0dd3403a",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 77
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-69.png",
+      "sha256": "a5fb3d94c9a0e8ad6de2ccedefb73580c94af0cccdc803adc33dc344b73b952b",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 74
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-7.png",
+      "sha256": "5515597eb151eb2a0e8771397841061b462cffb24482cd5a85c557299c7196c3",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 78
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-70.png",
+      "sha256": "27bfd3ab93f3af67da69cc68f123c95f5e10cf0d013f7c1499c797785bd386f6",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 84
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-71.png",
+      "sha256": "1bdfaea23990e5bbc4903d7edd10b3fc0803484aa4f096449df7b8bf583e650e",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 78
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-72.png",
+      "sha256": "6947c81291553e9244fa76e5280c0d15cefe7d341ffa3bab0a66401f1986762f",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 80
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-73.png",
+      "sha256": "964b620faa58e83590bac1050a275668d88eac9eae107a4cc8588ecef65ba6bc",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 83
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-8.png",
+      "sha256": "9ce562bcb83a9550c6ba08c3c6b16f5e001700bcabdbda96e3560f441d2dc4ac",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 111
+    },
+    {
+      "file": "kassia-events-animatori-copii-bucuresti-9.png",
+      "sha256": "50571ed781062087a581acb9c2eb256e96fe99ee4b90ae8e9206ee772eb0076c",
+      "width": 640,
+      "height": 640,
+      "format": ".png",
+      "size_kb": 89
+    }
+  ]
+}

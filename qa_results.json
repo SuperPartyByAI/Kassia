@@ -1,0 +1,21 @@
+{
+  "results": {
+    "www.kassia.ro": true,
+    "animatori-petreceri-copii": true,
+    "animatori-petreceri-copii-bucuresti": true,
+    "animatori-petreceri-copii-floreasca": true
+  },
+  "pillarDetails": {
+    "status": 200,
+    "canonical_self": true,
+    "indexable": true,
+    "faq_visible": 18,
+    "faq_schema": 0,
+    "faq_match": false,
+    "has_examples": true,
+    "has_reviews": true,
+    "has_phone": false,
+    "has_floreasca_link": true,
+    "no_p_tag_visible": true
+  }
+}

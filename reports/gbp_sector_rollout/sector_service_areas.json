@@ -1,0 +1,38 @@
+{
+  "Sector 1": [
+    "Aviatorilor", "Dorobanți", "Primăverii", "Floreasca", "Băneasa",
+    "Bucureștii Noi", "Pajura", "Domenii", "Grivița", "1 Mai",
+    "Piața Victoriei", "Kiseleff", "Piața Romană", "Expoziției", "Casa Presei",
+    "Străulești", "Dămăroaia", "Aviației", "Cartierul Francez", "Gara de Nord"
+  ],
+  "Sector 2": [
+    "Obor", "Colentina", "Iancului", "Pantelimon", "Ștefan cel Mare",
+    "Tei", "Fundeni", "Moșilor", "Vatra Luminoasă", "Baicului",
+    "Andronache", "Doamna Ghica", "Morarilor", "Piața Gemeni", "Făinari",
+    "Maica Domnului", "Ferdinand", "Mihai Eminescu", "Vergu", "Cernica (zona adiacentă)"
+  ],
+  "Sector 3": [
+    "Titan", "Dristor", "Vitan", "Balta Albă", "Unirii (Est)",
+    "Muncii", "Timpuri Noi", "1 Decembrie 1918", "Sălăjan", "Nicolae Grigorescu",
+    "Theodor Pallady", "Decebal", "Alba Iulia", "Ozana", "Faur",
+    "Fizicienilor", "Ilioara", "Traian", "Mihai Bravu", "23 August"
+  ],
+  "Sector 4": [
+    "Berceni", "Tineretului", "Văcărești", "Olteniței", "Brâncoveanu",
+    "Apărătorii Patriei", "Piața Sudului", "Giurgiului", "Eroii Revoluției", "Progresul",
+    "Metalurgiei", "Vitan-Bârzești", "Luica", "Turnu Măgurele", "Parcul Carol",
+    "Mărțișor", "Alunișului", "Reșița", "Grand Arena", "Iraclie Porumbescu"
+  ],
+  "Sector 5": [
+    "Cotroceni", "13 Septembrie", "Rahova", "Panduri", "Ferentari",
+    "Sebastian", "Eroilor", "Marriott", "Sălaj", "Mărgeanului",
+    "Alexandria", "Ghencea (Est)", "Tudor Vladimirescu", "Pieptănari", "Viilor",
+    "Trafic Greu", "Petre Ispirescu", "Antiaeriană", "Uranus", "Izvor"
+  ],
+  "Sector 6": [
+    "Drumul Taberei", "Militari", "Crângași", "Grozăvești", "Ghencea",
+    "Regie", "Lujerului", "Gorjului", "Păcii", "Giulești",
+    "Valea Oltului", "Prelungirea Ghencea", "Vasile Milea", "Timișoara", "Orizont",
+    "Răzoare", "Favorit", "Moghioroș", "Preciziei", "Virtuții"
+  ]
+}

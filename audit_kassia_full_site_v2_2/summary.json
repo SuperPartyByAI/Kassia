@@ -1,0 +1,33 @@
+{
+  "audit_read_only": true,
+  "db_connection_ok": true,
+  "total_db_pages": 404,
+  "sitemap_parse_ok": true,
+  "total_sitemap_urls": 71,
+  "total_unique_urls_to_crawl": 404,
+  "total_live_200_urls": 402,
+  "total_redirects": 0,
+  "total_404": 2,
+  "broken_links_count": 0,
+  "broken_images_count": 859,
+  "broken_images_critical_count": 859,
+  "mobile_ux_issues_count": 0,
+  "performance_issues_count": 0,
+  "image_seo_issues_count": 0,
+  "cannibalization_clusters_count": 0,
+  "orphan_pages_count": 0,
+  "schema_issues_count": 0,
+  "cta_issues_count": 0,
+  "catalog_costume_status": "NOT_AUDITED",
+  "top_10_p0_issues": [
+    "Broken Images"
+  ],
+  "recommended_next_action": "Fix broken images before proceeding",
+  "files_generated": [
+    "gate1_db.json",
+    "gate2_sitemap.json",
+    "gate3_discovery.json",
+    "broken_images_full.json"
+  ],
+  "final_status": "KASSIA_FULL_SITE_AUDIT_HOLD"
+}

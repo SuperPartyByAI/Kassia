@@ -1,0 +1,64 @@
+{
+  "page": "https://www.kassia.ro/animatori-petreceri-copii/",
+  "keywords_analyzed": 10,
+  "no_extrapolation_used": true,
+  "exact_kassia_url_positions": [
+    {
+      "keyword": "animatori petreceri copii",
+      "position": null
+    },
+    {
+      "keyword": "animatori petreceri copii București",
+      "position": null
+    },
+    {
+      "keyword": "animatori copii București",
+      "position": null
+    },
+    {
+      "keyword": "animatori pentru petreceri copii",
+      "position": null
+    },
+    {
+      "keyword": "animator petrecere copii",
+      "position": null
+    },
+    {
+      "keyword": "servicii animatori copii",
+      "position": null
+    },
+    {
+      "keyword": "programe animatori copii",
+      "position": 5
+    },
+    {
+      "keyword": "animatori aniversări copii",
+      "position": null
+    },
+    {
+      "keyword": "petreceri copii cu animatori",
+      "position": null
+    },
+    {
+      "keyword": "animatori copii Ilfov",
+      "position": null
+    }
+  ],
+  "exact_kassia_url_top10_count": 1,
+  "keywords_where_kassia_beats_7_of_compared": 10,
+  "main_keywords_8_of_10_pass": true,
+  "competitors_still_beating_kassia": [],
+  "critical_gaps_remaining": [],
+  "google_visible_content_clean": true,
+  "mobile_ux_pass": true,
+  "onpage_top10_beat_proven": true,
+  "real_google_ranking_dominance": false,
+  "what_still_needs_work": [
+    "Off-page SEO",
+    "Domain Authority",
+    "Backlinks",
+    "Time for indexing"
+  ],
+  "next_page_allowed": false,
+  "final_status": "ANIMATORI_PILLAR_TOP10_PROVEN"
+}

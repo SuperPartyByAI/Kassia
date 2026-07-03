@@ -1,0 +1,11 @@
+{
+  "verified_prices_from_live": [
+    "280 lei / 1 oră / 1 personaj",
+    "490 lei / 2 ore / 1 personaj",
+    "490 lei / 1 oră / 2 personaje",
+    "830 lei / 2 ore / 2 personaje"
+  ],
+  "fake_discounts_used": false,
+  "fake_prices_invented": false,
+  "source": "Kassia live DB / current page content"
+}

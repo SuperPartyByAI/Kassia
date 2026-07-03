@@ -1,0 +1,13 @@
+{
+  "db_connection_ok": true,
+  "tables_checked": [
+    "kassia_pages",
+    "kassia_page_sections",
+    "kassia_faqs",
+    "kassia_internal_links"
+  ],
+  "kassia_pages_count": 404,
+  "kassia_page_sections_count": 2441,
+  "kassia_faqs_count": 2460,
+  "kassia_internal_links_count": 927
+}
