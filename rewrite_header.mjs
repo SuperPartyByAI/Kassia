@@ -1,0 +1,263 @@
+import fs from 'fs';
+const file = 'src/components/Header.astro';
+const content = `---
+import { supabase } from '../lib/supabase';
+
+const { data: configRows } = await supabase.from('kassia_site_config').select('*');
+const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
+
+const phone = config.phone || "0763795919";
+const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii.";
+const phoneClean = phone.replace(/[^0-9]/g, '');
+const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
+const whatsappLink = \`https://wa.me/\${whatsappNumber}?text=\${encodeURIComponent(whatsappText)}\`;
+---
+
+<header class="site-header">
+  <div class="header-container">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <a href="/" class="logo" style="text-decoration: none; color:var(--primary); font-weight:800; font-size:1.5rem;">
+        Kassia Events
+      </a>
+    </div>
+    
+    <nav class="desktop-nav">
+      <button class="nav-link gss-trigger" style="color: var(--primary); display: flex; align-items: center; gap: 6px; font-weight: 700; background: rgba(168, 85, 247, 0.1); padding: 8px 16px; border-radius: 99px; transition: all 0.2s;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        Toate Serviciile
+      </button>
+    </nav>
+    
+    <div class="header-actions">
+      <a href={whatsappLink} target="_blank" rel="noopener noreferrer" class="btn-whatsapp">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.888-.788-1.489-1.761-1.663-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+        <span>WhatsApp</span>
+      </a>
+      <a href={\`tel:\${phone}\`} class="btn-phone">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+        <span>Sună</span>
+      </a>
+    </div>
+
+    <button class="hamburger-menu" aria-label="Deschide Meniu">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+    </button>
+  </div>
+</header>
+
+<div class="mobile-menu-overlay"></div>
+<div class="mobile-menu-drawer">
+  <div class="mobile-menu-header">
+    <span style="font-size: 1.25rem; font-weight: 800; color: var(--primary);">Kassia</span>
+    <button class="close-menu" aria-label="Închide">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
+  </div>
+  <div class="mobile-menu-content">
+    <button class="gss-trigger" style="width: 100%; background: #f1f5f9; border: 1.5px solid #cbd5e1; border-radius: 12px; padding: 1rem; color: #0f172a; font-weight: 700; font-size: 1.1rem; display: flex; align-items: center; gap: 10px; cursor: pointer; margin-bottom: 1.5rem;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--primary);"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      Toate Serviciile Kassia
+    </button>
+    <a href={whatsappLink} target="_blank" style="width: 100%; background: #25D366; color: white; border-radius: 12px; padding: 1rem; font-weight: 700; font-size: 1.1rem; display: flex; justify-content: center; align-items: center; gap: 10px; text-decoration: none; margin-bottom: 0.75rem;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.888-.788-1.489-1.761-1.663-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+        WhatsApp
+    </a>
+    <a href={\`tel:\${phone}\`} style="width: 100%; background: linear-gradient(to right, var(--primary), var(--accent)); color: white; border-radius: 12px; padding: 1rem; font-weight: 700; font-size: 1.1rem; display: flex; justify-content: center; align-items: center; gap: 10px; text-decoration: none;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+        Sună Acum
+    </a>
+  </div>
+</div>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid rgba(168, 85, 247, 0.1);
+  }
+  .header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  .desktop-nav {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    .desktop-nav {
+      display: flex;
+      gap: 2.5rem;
+      align-items: center;
+      margin-right: auto;
+      margin-left: 2rem;
+    }
+  }
+  .nav-link {
+    color: var(--text-main);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: color 0.2s, transform 0.2s;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+  .nav-link:hover {
+    color: var(--primary);
+    transform: translateY(-2px);
+  }
+  
+  .header-actions {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    .header-actions {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+  }
+
+  .btn-whatsapp, .btn-phone {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.25rem;
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .btn-whatsapp {
+    background-color: #25D366;
+    color: white;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.3);
+  }
+  .btn-whatsapp:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(37, 211, 102, 0.4);
+  }
+  .btn-phone {
+    background: linear-gradient(to right, var(--primary), var(--accent));
+    color: white;
+    box-shadow: 0 4px 10px rgba(168, 85, 247, 0.3);
+  }
+  .btn-phone:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(168, 85, 247, 0.4);
+  }
+
+  .hamburger-menu {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--text-main);
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+  @media (max-width: 767px) {
+    .hamburger-menu {
+      display: block;
+    }
+  }
+
+  /* Mobile Drawer Styles */
+  .mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 10000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s;
+  }
+  .mobile-menu-overlay.open {
+    opacity: 1;
+    visibility: visible;
+  }
+  .mobile-menu-drawer {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 85%;
+    max-width: 400px;
+    height: 100%;
+    background: white;
+    z-index: 10001;
+    box-shadow: -5px 0 25px rgba(0,0,0,0.1);
+    transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  .mobile-menu-drawer.open {
+    right: 0;
+  }
+  .mobile-menu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    border-bottom: 1px solid #f1f5f9;
+  }
+  .close-menu {
+    background: none;
+    border: none;
+    color: #64748b;
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+  .mobile-menu-content {
+    padding: 1.5rem;
+  }
+</style>
+
+<script>
+  const initMobileMenu = () => {
+    const hamburger = document.querySelector('.hamburger-menu');
+    const closeMenu = document.querySelector('.close-menu');
+    const drawer = document.querySelector('.mobile-menu-drawer');
+    const overlay = document.querySelector('.mobile-menu-overlay');
+
+    if (hamburger && closeMenu && drawer && overlay) {
+      const openMenu = () => {
+        drawer.classList.add('open');
+        overlay.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      };
+
+      const closeMenuFn = () => {
+        drawer.classList.remove('open');
+        overlay.classList.remove('open');
+        document.body.style.overflow = '';
+      };
+
+      hamburger.addEventListener('click', openMenu);
+      closeMenu.addEventListener('click', closeMenuFn);
+      overlay.addEventListener('click', closeMenuFn);
+    }
+  };
+
+  document.addEventListener('DOMContentLoaded', initMobileMenu);
+  document.addEventListener('astro:page-load', initMobileMenu);
+</script>
+`;
+fs.writeFileSync(file, content);

@@ -1,0 +1,82 @@
+import { c as createComponent } from './astro-component_BolP7oBx.mjs';
+import 'piccolore';
+import { aY as renderTemplate, aM as maybeRenderHead, a5 as addAttribute, m as Fragment, b5 as unescapeHTML } from './params-and-props_COoDNZnO.mjs';
+import { r as renderComponent } from './server_CVGf7ZSj.mjs';
+import { $ as $$Layout, r as renderScript } from './Layout_C4o9pKv9.mjs';
+import { s as supabase } from './supabase_m9V3dadf.mjs';
+import { $ as $$ReviewsCarousel } from './ReviewsCarousel_DYWDeixI.mjs';
+
+const $$id = createComponent(async ($$result, $$props, $$slots) => {
+  const Astro2 = $$result.createAstro($$props, $$slots);
+  Astro2.self = $$id;
+  const id = Astro2.params.id;
+  if (Astro2.request.method === "POST") {
+    try {
+      const formData = await Astro2.request.formData();
+      const payload = JSON.parse(formData.get("payload")?.toString() || "{}");
+      if (payload.page) {
+        await supabase.from("kassia_pages").update({
+          h1: payload.page.h1,
+          meta_title: payload.page.meta_title,
+          meta_description: payload.page.meta_description
+        }).eq("id", id);
+      }
+      if (payload.sections && payload.sections.length > 0) {
+        for (const sec of payload.sections) {
+          const { data: currSec } = await supabase.from("kassia_page_sections").select("content").eq("id", sec.id).single();
+          const contentObj = typeof currSec?.content === "string" ? JSON.parse(currSec.content) : currSec?.content || {};
+          const updatedContent = {
+            ...contentObj,
+            subheading: sec.subheading !== void 0 ? sec.subheading : contentObj.subheading,
+            body: sec.body !== void 0 ? sec.body : contentObj.body,
+            cta_text: sec.cta_text !== void 0 ? sec.cta_text : contentObj.cta_text,
+            cta_url: sec.cta_url !== void 0 ? sec.cta_url : contentObj.cta_url
+          };
+          await supabase.from("kassia_page_sections").update({
+            heading: sec.heading !== void 0 ? sec.heading : void 0,
+            content: updatedContent
+          }).eq("id", sec.id);
+        }
+      }
+      if (payload.faqs && payload.faqs.length > 0) {
+        for (const faq of payload.faqs) {
+          await supabase.from("kassia_faqs").update({
+            question: faq.question,
+            answer: faq.answer
+          }).eq("id", faq.id);
+        }
+      }
+      return new Response(JSON.stringify({ success: true }), { status: 200 });
+    } catch (err) {
+      console.error("Visual Save Error:", err);
+      return new Response(JSON.stringify({ error: err.message }), { status: 500 });
+    }
+  }
+  const { data: page, error } = await supabase.from("kassia_pages").select("*").eq("id", id).single();
+  if (error || !page) {
+    return Astro2.redirect("/admin/pages");
+  }
+  const { data: rawSections } = await supabase.from("kassia_page_sections").select("*").eq("page_id", page.id).order("order_index", { ascending: true });
+  const sections = rawSections?.map((s) => ({ ...s, content: typeof s.content === "string" ? JSON.parse(s.content) : s.content || {} }))?.filter((s) => s.content?.is_active !== false);
+  const { data: faqs } = await supabase.from("kassia_faqs").select("*").eq("page_id", page.id).order("order_index", { ascending: true });
+  const { data: gallery } = await supabase.from("kassia_gallery_items").select("*").eq("page_id", page.id).order("order_index", { ascending: true });
+  return renderTemplate`${renderComponent($$result, "Layout", $$Layout, { "title": `[VISUAL EDIT] ${page.title || "Page"}`, "description": "Visual Editor", "canonical": "", "robots": "noindex, nofollow", "schemas": [], "data-astro-cid-sg2i5mvk": true }, { "default": async ($$result2) => renderTemplate`  ${maybeRenderHead()}<div class="visual-admin-toolbar" data-astro-cid-sg2i5mvk> <div class="toolbar-brand" data-astro-cid-sg2i5mvk> <strong data-astro-cid-sg2i5mvk>KASSIA</strong> <span data-astro-cid-sg2i5mvk>Visual Editor</span> </div> <div class="toolbar-seo" data-astro-cid-sg2i5mvk> <div class="seo-field" data-astro-cid-sg2i5mvk> <label data-astro-cid-sg2i5mvk>Meta Title</label> <input type="text" id="edit-meta-title"${addAttribute(page.meta_title || "", "value")} placeholder="Ex: Decoratiuni Baloane..." data-astro-cid-sg2i5mvk> </div> <div class="seo-field" data-astro-cid-sg2i5mvk> <label data-astro-cid-sg2i5mvk>Meta Description</label> <input type="text" id="edit-meta-desc"${addAttribute(page.meta_description || "", "value")} placeholder="O descriere atractiva..." data-astro-cid-sg2i5mvk> </div> </div> <div class="toolbar-actions" data-astro-cid-sg2i5mvk> <a href="/admin/pages" class="btn-cancel" data-astro-cid-sg2i5mvk>Înapoi</a> <button id="save-visual-btn" class="btn-save" data-astro-cid-sg2i5mvk>Salvează Modificările</button> </div> </div> <div class="kassia-premium-page visual-editor-mode" data-astro-cid-sg2i5mvk>  ${(() => {
+    const heroSec = sections?.find((s) => s.section_type === "hero");
+    const hasBody = heroSec?.content?.body && heroSec.content.body.trim() !== "";
+    return renderTemplate`<header${addAttribute(`hero-section ${heroSec?.content?.image_url ? "has-image" : ""}`, "class")}${addAttribute(heroSec?.id || "", "data-section-id")} data-astro-cid-sg2i5mvk> <div class="hero-overlay" data-astro-cid-sg2i5mvk></div> <div class="container hero-content-wrapper" data-astro-cid-sg2i5mvk> <div class="hero-text-content" data-astro-cid-sg2i5mvk> <h1 class="page-title editable-h1" contenteditable="true" data-field="h1" data-placeholder="Adauga Titlu Principal H1" data-astro-cid-sg2i5mvk>${page.h1 ?? ""}</h1> ${hasBody ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-sg2i5mvk": true }, { "default": async ($$result3) => renderTemplate` <div class="hero-subtitle editable-body" contenteditable="true" data-field="body" data-astro-cid-sg2i5mvk>${unescapeHTML(heroSec.content.body)}</div> ${heroSec.content?.cta_text && heroSec.content?.cta_url && renderTemplate`<div class="editable-cta" style="justify-content:center; margin-top:2rem;" data-astro-cid-sg2i5mvk> <span contenteditable="true" data-field="cta_text" class="btn-primary" style="display:inline-block" data-astro-cid-sg2i5mvk>${heroSec.content.cta_text}</span> <input type="text" class="cta-url-input" data-field="cta_url"${addAttribute(heroSec.content.cta_url, "value")} data-astro-cid-sg2i5mvk> </div>`}` })}` : renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-sg2i5mvk": true }, { "default": async ($$result3) => renderTemplate`${page.meta_description && renderTemplate`<p class="hero-subtitle editable-body" contenteditable="true" data-field="body" data-astro-cid-sg2i5mvk>${page.meta_description}</p>`}` })}`} </div> ${heroSec?.content?.image_url && renderTemplate`<div class="hero-image-wrapper" data-astro-cid-sg2i5mvk> <img${addAttribute(heroSec.content.image_url, "src")}${addAttribute(page.h1, "alt")} class="hero-image" loading="eager" data-astro-cid-sg2i5mvk> </div>`} </div> </header>`;
+  })()}  ${sections && sections.filter((s) => s.section_type === "service_card").length > 0 && renderTemplate`<section class="service-cards-section bg-white" data-astro-cid-sg2i5mvk> <div class="container" data-astro-cid-sg2i5mvk> <h2 class="section-heading text-center" data-astro-cid-sg2i5mvk>Alege Serviciul Dorit</h2> <div class="service-cards-grid" data-astro-cid-sg2i5mvk> ${sections.filter((s) => s.section_type === "service_card").map((card) => renderTemplate`<div class="service-card editable-section"${addAttribute(card.id, "data-section-id")} data-astro-cid-sg2i5mvk> <div class="service-card-image" data-astro-cid-sg2i5mvk> ${card.content?.image_url && card.content.image_url.trim() !== "" && renderTemplate`<img${addAttribute(card.content.image_url, "src")} alt="" loading="lazy" data-astro-cid-sg2i5mvk>`} <div class="service-card-overlay" data-astro-cid-sg2i5mvk></div> </div> <div class="service-card-content" data-astro-cid-sg2i5mvk> <h3 class="service-card-title editable-h3" contenteditable="true" data-field="heading" data-astro-cid-sg2i5mvk>${card.heading}</h3> ${card.content?.subheading && renderTemplate`<p class="service-card-subtitle editable-body" contenteditable="true" data-field="subheading" data-astro-cid-sg2i5mvk>${card.content.subheading}</p>`} <div class="editable-cta" style="margin-top: 10px;" data-astro-cid-sg2i5mvk> <span class="service-card-cta" contenteditable="true" data-field="cta_text" data-astro-cid-sg2i5mvk>${card.content?.cta_text || "Vezi Detalii"}</span> <input type="text" class="cta-url-input" data-field="cta_url"${addAttribute(card.content?.cta_url || "", "value")} data-astro-cid-sg2i5mvk> </div> </div> </div>`)} </div> </div> </section>`}  ${page.slug === "preturi-decoratiuni-baloane" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-sg2i5mvk": true }, { "default": async ($$result3) => renderTemplate`${sections && sections.filter((s) => s.heading === "Cum se calculează prețul unui decor cu baloane?").map((section) => renderTemplate`<section class="content-section bg-light editable-section"${addAttribute(section.id, "data-section-id")} id="cum-se-calculeaza" data-astro-cid-sg2i5mvk> <div class="container section-grid" style="grid-template-columns: 1fr; max-width: 800px; text-align: center;" data-astro-cid-sg2i5mvk> <div class="section-text" data-astro-cid-sg2i5mvk> <div class="section-label" data-astro-cid-sg2i5mvk>⚙️ Editare Secțiune: ${section.section_type}</div> <h2 class="section-heading editable-h2" contenteditable="true" data-field="heading" data-astro-cid-sg2i5mvk>${section.heading}</h2> ${section.content?.body && renderTemplate`<div class="section-body editable-body prose" contenteditable="true" data-field="body" data-astro-cid-sg2i5mvk>${unescapeHTML(section.content.body)}</div>`} </div> </div> </section>`)}<div id="content" class="container" style="padding: 4rem 1rem;" data-astro-cid-sg2i5mvk> <div class="pricing-details-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;" data-astro-cid-sg2i5mvk> ${sections && sections.filter((s) => !["hero", "gallery", "faq", "service_card"].includes(s.section_type) && s.heading !== "Cum se calculează prețul unui decor cu baloane?").map((section) => renderTemplate`<div class="pricing-detail-card editable-section"${addAttribute(section.id, "data-section-id")}${addAttribute(section.heading ? "preturi-" + section.heading.replace("Prețuri ", "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "") : void 0, "id")} style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: flex; flex-direction: column;" data-astro-cid-sg2i5mvk> <div class="section-label" data-astro-cid-sg2i5mvk>⚙️ Editare Secțiune: ${section.section_type}</div> <h3 class="pricing-card-title editable-h2" contenteditable="true" data-field="heading" style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--primary-dark);" data-astro-cid-sg2i5mvk>${section.heading}</h3> ${section.content?.body && renderTemplate`<div class="pricing-card-body editable-body prose" contenteditable="true" data-field="body" style="flex-grow: 1; margin-bottom: 1.5rem;" data-astro-cid-sg2i5mvk>${unescapeHTML(section.content.body)}</div>`} ${section.content?.cta_url && section.content?.cta_text && renderTemplate`<div class="editable-cta" style="margin-top: auto; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start;" data-astro-cid-sg2i5mvk> <span contenteditable="true" data-field="cta_text" class="btn-primary" data-astro-cid-sg2i5mvk>${section.content.cta_text}</span> <input type="text" class="cta-url-input" data-field="cta_url"${addAttribute(section.content.cta_url, "value")} data-astro-cid-sg2i5mvk> </div>`} </div>`)} </div> </div> ` })}` : renderTemplate`<div id="content" class="sections-wrapper" data-astro-cid-sg2i5mvk> ${sections && sections.filter((s) => !["hero", "gallery", "faq", "service_card"].includes(s.section_type)).map((section, index) => renderTemplate`<section${addAttribute(section.heading ? "preturi-" + section.heading.replace("Prețuri ", "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "") : void 0, "id")}${addAttribute(`content-section ${index % 2 === 0 ? "bg-light" : "bg-white"} editable-section`, "class")}${addAttribute(section.id, "data-section-id")} data-astro-cid-sg2i5mvk> <div class="container section-grid" data-astro-cid-sg2i5mvk> <div class="section-text" data-astro-cid-sg2i5mvk> <div class="section-label" data-astro-cid-sg2i5mvk>⚙️ Editare Secțiune: ${section.section_type}</div> ${section.heading && section.heading.trim() !== "" && renderTemplate`<h2 class="section-heading editable-h2" contenteditable="true" data-field="heading" data-astro-cid-sg2i5mvk>${section.heading}</h2>`} ${section.content?.subheading && section.content.subheading.trim() !== "" && renderTemplate`<h3 class="section-subheading editable-h3" contenteditable="true" data-field="subheading" data-astro-cid-sg2i5mvk>${section.content.subheading}</h3>`} ${section.content?.body && section.content.body.trim() !== "" && renderTemplate`<div class="section-body editable-body" contenteditable="true" data-field="body" data-astro-cid-sg2i5mvk>${unescapeHTML(section.content.body)}</div>`} ${section.content?.cta_text && section.content?.cta_url && section.content.cta_text.trim() !== "" && renderTemplate`<div class="editable-cta" data-astro-cid-sg2i5mvk> <span contenteditable="true" data-field="cta_text" class="btn-primary" style="display:inline-block" data-astro-cid-sg2i5mvk>${section.content.cta_text}</span> <input type="text" class="cta-url-input" data-field="cta_url"${addAttribute(section.content.cta_url, "value")} data-astro-cid-sg2i5mvk> </div>`} </div>  ${section.content?.image_url && section.content.image_url.trim() !== "" && renderTemplate`<div class="section-image-placeholder" data-astro-cid-sg2i5mvk> <img${addAttribute(section.content.image_url, "src")} alt="" loading="lazy" data-astro-cid-sg2i5mvk> </div>`} </div> </section>`)} </div>`}  ${sections && sections.some((s) => s.section_type === "gallery") && gallery && gallery.some((img) => img.url && img.url.trim() !== "") && renderTemplate`<section class="gallery-section bg-light" data-astro-cid-sg2i5mvk> <div class="container" data-astro-cid-sg2i5mvk> <h2 class="section-heading text-center" data-astro-cid-sg2i5mvk>Galerie Foto</h2> <div class="gallery-grid" data-astro-cid-sg2i5mvk> ${gallery.filter((img) => img.url && img.url.trim() !== "").map((img) => renderTemplate`<figure class="gallery-item" data-astro-cid-sg2i5mvk> <img${addAttribute(img.url, "src")}${addAttribute(img.alt_text || "Galerie Kassia", "alt")} loading="lazy" data-astro-cid-sg2i5mvk> </figure>`)} </div> </div> </section>`}  ${faqs && faqs.length > 0 && renderTemplate`<section class="faq-section bg-light editable-faq-section" data-astro-cid-sg2i5mvk> <div class="container" data-astro-cid-sg2i5mvk> <h2 class="section-heading text-center" data-astro-cid-sg2i5mvk>Întrebări Frecvente</h2> <div class="faq-accordion" data-astro-cid-sg2i5mvk> ${faqs.map((faq) => renderTemplate`<details class="faq-details" open data-astro-cid-sg2i5mvk> <summary class="faq-summary editable-faq"${addAttribute(faq.id, "data-faq-id")} data-astro-cid-sg2i5mvk> <div class="faq-q" contenteditable="true" data-field="question" style="flex-grow:1" data-astro-cid-sg2i5mvk>${faq.question || "Scrie o intrebare..."}</div> </summary> <div class="faq-answer editable-faq"${addAttribute(faq.id, "data-faq-id")} data-astro-cid-sg2i5mvk> <div class="faq-a" contenteditable="true" data-field="answer" data-astro-cid-sg2i5mvk>${faq.answer || "Scrie raspunsul..."}</div> </div> </details>`)} </div> </div> </section>`} ${renderComponent($$result2, "ReviewsCarousel", $$ReviewsCarousel, { "data-astro-cid-sg2i5mvk": true })} </div> ` })} ${renderScript($$result, "/Users/universparty/wa-web-launcher/kassia-site/src/pages/admin/visual/[id].astro?astro&type=script&index=0&lang.ts")}`;
+}, "/Users/universparty/wa-web-launcher/kassia-site/src/pages/admin/visual/[id].astro", void 0);
+
+const $$file = "/Users/universparty/wa-web-launcher/kassia-site/src/pages/admin/visual/[id].astro";
+const $$url = "/admin/visual/[id]";
+
+const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: $$id,
+  file: $$file,
+  url: $$url
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const page = () => _page;
+
+export { page };
