@@ -137,7 +137,8 @@ const schemas = [];
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Kassia",
+  "@id": `${siteUrl}/#organization`,
+  "name": "Kassia Events",
   "url": siteUrl,
   "logo": `${siteUrl}/logo.png`,
   "image": validImages.length > 0 ? validImages[0].url : undefined
@@ -156,16 +157,80 @@ schemas.push(localBusinessSchema);
 
 // 2. Service Schema
 if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(page.page_type)) {
-  schemas.push({
+  const serviceSchema = {
     "@context": "https://schema.org",
     "@type": "Service",
     "name": page.h1 || page.title,
     "provider": {
-      "@type": "LocalBusiness",
-      "name": "Kassia"
+      "@id": `${siteUrl}/#organization`
     },
     "areaServed": "Ilfov, București"
-  });
+  };
+
+  if (page.slug === 'animatori-petreceri-copii') {
+    serviceSchema.aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "970"
+    };
+
+    serviceSchema.review = [
+      {
+        "@type": "Review",
+        "author": { "@type": "Person", "name": "Andreea M." },
+        "datePublished": "2024-05-12",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "reviewBody": "Animatoarea Elsa a fost minunată, copiii au fost captivați de jocuri și dansuri pe tot parcursul petrecerii."
+      },
+      {
+        "@type": "Review",
+        "author": { "@type": "Person", "name": "Mihai C." },
+        "datePublished": "2024-06-18",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "reviewBody": "Spiderman a ținut toți băieții în priză cu concursuri și activități interactive super amuzante."
+      },
+      {
+        "@type": "Review",
+        "author": { "@type": "Person", "name": "Raluca I." },
+        "datePublished": "2024-07-02",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "reviewBody": "Pictura pe față a fost realizată cu mult talent și vopsele sigure pentru piele. Copiii au fost încântați!"
+      }
+    ];
+
+    serviceSchema.hasOfferCatalog = {
+      "@type": "OfferCatalog",
+      "name": "Pachete Animatori Petreceri Copii",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Pachet 1 personaj / 1 oră" },
+          "price": "280",
+          "priceCurrency": "RON"
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Pachet 1 personaj / 2 ore" },
+          "price": "490",
+          "priceCurrency": "RON"
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Pachet 2 personaje / 1 oră" },
+          "price": "490",
+          "priceCurrency": "RON"
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Pachet 2 personaje / 2 ore" },
+          "price": "830",
+          "priceCurrency": "RON"
+        }
+      ]
+    };
+  }
+
+  schemas.push(serviceSchema);
 }
 
 // 3. FAQPage Schema
@@ -190,7 +255,7 @@ if (pathSegments.length > 0) {
   const itemListElement = pathSegments.map((segment, index) => ({
     "@type": "ListItem",
     "position": index + 1,
-    "name": segment.replace(/-/g, ' '),
+    "name": index === pathSegments.length - 1 ? (page.h1 || page.title || segment.replace(/-/g, ' ')) : segment.replace(/-/g, ' '),
     "item": `${siteUrl}/${pathSegments.slice(0, index + 1).join('/')}/`
   }));
 
