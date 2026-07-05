@@ -18,9 +18,6 @@ const redirectMap = new Map([
 
   ['/animatori-copii-berceni-ilfov/', '/animatori-petreceri-copii-berceni/'],
   ['/animatori-copii-berceni-ilfov', '/animatori-petreceri-copii-berceni/'],
-
-  ['/animatori-copii-pipera-bucuresti/', '/animatori-petreceri-copii-voluntari/'],
-  ['/animatori-copii-pipera-bucuresti', '/animatori-petreceri-copii-voluntari/'],
 ]);
 
 const currentPath = Astro.url.pathname;
@@ -155,8 +152,14 @@ if (config && Object.keys(config).length > 0) {
 }
 schemas.push(localBusinessSchema);
 
+const sectorMatch = page?.slug?.match(/sector-([1-6])/);
 // 2. Service Schema
 if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(page.page_type)) {
+  let areaServed = "București & Ilfov";
+  if (sectorMatch) {
+    areaServed = `Sectorul ${sectorMatch[1]}, București`;
+  }
+
   const serviceSchema = {
     "@context": "https://schema.org",
     "@type": "Service",
@@ -164,10 +167,10 @@ if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(pag
     "provider": {
       "@id": `${siteUrl}/#organization`
     },
-    "areaServed": "Ilfov, București"
+    "areaServed": areaServed
   };
 
-  if (page.slug === 'animatori-petreceri-copii') {
+  if (page.slug === 'animatori-petreceri-copii' || page.slug.startsWith('animatori-petreceri-copii-sector-')) {
     serviceSchema.aggregateRating = {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
@@ -307,6 +310,33 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       );
     })()}
 
+    {/* FEATURE CARDS (TRUST BADGES) */}
+    {sections && sections.some(s => s.section_type === 'feature_card') && (
+      <section class="feature-cards-section bg-light" style="padding: 4rem 0;">
+        <div class="container">
+          <div class="service-cards-grid" style="margin-top: 0;">
+            {sections.filter(s => s.section_type === 'feature_card').map((card) => (
+              <div class="service-card">
+                <div class="service-card-image" style="padding-top: 50%;">
+                  {card.content?.image_url && card.content.image_url.trim() !== '' && (
+                    <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800"  loading="lazy" decoding="async" />
+                  )}
+                  <div class="service-card-overlay"></div>
+                </div>
+                <div class="service-card-content">
+                  <h3 class="service-card-title">{card.heading}</h3>
+                  {card.content?.body && <div class="service-card-subtitle prose" style="font-size:0.95rem; line-height:1.5;" set:html={card.content.body} />}
+                  {card.content?.cta_url && card.content?.cta_text && (
+                    <a href={card.content.cta_url} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;">{card.content.cta_text} &rarr;</a>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
     {/* SERVICE CARDS GRID */}
     {sections && sections.filter(s => s.section_type === 'service_card').length > 0 && (
       <section class="service-cards-section bg-white">
@@ -364,7 +394,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
     ) : (
       <div id="content" class="sections-wrapper">
         {page.show_pricing_preview && (
-          <PricingPreview locationName={page.slug.includes('voluntari') ? 'Voluntari și Pipera' : 'petrecerea ta'} />
+          <PricingPreview locationName={page.slug.includes('voluntari') ? 'orașul Voluntari' : 'petrecerea ta'} />
         )}
         {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps', 'feature_card'].includes(s.section_type)).map((section, index) => {
           
@@ -402,32 +432,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               )}
             </div>
           </section>
-          {index === 0 && sections.some(s => s.section_type === 'feature_card') && (
-            <section class="feature-cards-section bg-light" style="padding: 4rem 0;">
-              <div class="container">
-                <div class="service-cards-grid" style="margin-top: 0;">
-                  {sections.filter(s => s.section_type === 'feature_card').map((card) => (
-                    <div class="service-card">
-                      <div class="service-card-image">
-                        {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                          <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800"  loading="lazy" decoding="async" />
-                        )}
-                        <div class="service-card-overlay"></div>
-                      </div>
-                      <div class="service-card-content">
-                        <h3 class="service-card-title">{card.heading}</h3>
-                        {card.content?.body && <div class="service-card-subtitle prose" style="font-size:0.95rem; line-height:1.5;" set:html={card.content.body} />}
-                        {card.content?.cta_url && card.content?.cta_text && (
-                          <a href={card.content.cta_url} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;">{card.content.cta_text} &rarr;</a>
-                        )}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </section>
-          )}
-          {index === 0 && page.slug === 'preturi-animatori-copii-bucuresti' && (
+          {index === 0 && (page.slug === 'preturi-animatori-copii-bucuresti' || page.slug === 'animatori-petreceri-copii') && (
             <PricingFullTable />
           )}
           </>
@@ -471,7 +476,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </section>
     )}
 
-    <ReviewsCarousel />
+    <ReviewsCarousel sector={sectorMatch ? sectorMatch[1] : null} />
     <Footer internalLinks={publishedLinks} isAnimatori={isAnimatoriPage} />
 
   </div>

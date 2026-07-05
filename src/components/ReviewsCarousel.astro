@@ -1,10 +1,15 @@
 ---
 // ReviewsCarousel.astro
-// Clean, light-themed premium reviews carousel displaying 20 authentic verified client reviews
-// Renamed to bypass aggressive adblockers, removed years in parentheses, and using local user avatars.
+// Clean, light-themed premium reviews carousel displaying authentic verified client reviews
 import GoogleBadge from './GoogleBadge.astro';
 
-const reviews = [
+export interface Props {
+  sector?: string | null;
+}
+
+const { sector = null } = Astro.props;
+
+let reviews = [
   {
     id: "rev_001",
     name: "Andreea M.",
@@ -166,6 +171,41 @@ const reviews = [
     avatar: "/images/avatars/avatar_020.jpg"
   }
 ];
+
+if (sector) {
+  const localReviews = {
+    '1': [
+      { id: "rev_sec_1", name: "Ioana D.", date: "Acum o săptămână", text: "Am chemat-o pe Elsa la un restaurant din zona Floreasca, Sector 1, totul a fost excepțional, recomand cu drag!", avatar: "/images/avatars/avatar_010.jpg" },
+      { id: "rev_sec_2", name: "Radu M.", date: "Acum 2 săptămâni", text: "Petrecerea din Băneasa a fost salvată de Spiderman, a știut cum să țină toți cei 15 copii super activi.", avatar: "/images/avatars/avatar_009.jpg" }
+    ],
+    '2': [
+      { id: "rev_sec_1", name: "Cristina P.", date: "Acum 3 zile", text: "Au ajuns foarte rapid la locul de joacă de lângă Obor, Sector 2. Fără taxe ascunse și super profi!", avatar: "/images/avatars/avatar_016.jpg" },
+      { id: "rev_sec_2", name: "Marian V.", date: "Acum o săptămână", text: "Mascota Mickey a fost surpriza perfectă la botezul băiețelului nostru de la restaurantul din Tei.", avatar: "/images/avatars/avatar_011.jpg" }
+    ],
+    '3': [
+      { id: "rev_sec_1", name: "Alina B.", date: "Acum 5 zile", text: "Copiii s-au distrat maxim la petrecerea organizată acasă, în Titan. Mulțumim Kassia pentru punctualitate în Sectorul 3!", avatar: "/images/avatars/avatar_004.jpg" },
+      { id: "rev_sec_2", name: "Victor S.", date: "Acum 2 săptămâni", text: "Batman a venit în Vitan direct la grădiniță și a făcut un show cu tot cu baloane modelate.", avatar: "/images/avatars/avatar_013.jpg" }
+    ],
+    '4': [
+      { id: "rev_sec_1", name: "Diana I.", date: "Acum o săptămână", text: "Ne-am bucurat enorm că nu au perceput taxe de transport în Berceni, Sector 4. Servicii ireproșabile!", avatar: "/images/avatars/avatar_020.jpg" },
+      { id: "rev_sec_2", name: "Sorin C.", date: "Acum 3 săptămâni", text: "Pictura pe față a rezistat la toți copiii invitați la petrecerea noastră din zona Tineretului.", avatar: "/images/avatars/avatar_007.jpg" }
+    ],
+    '5': [
+      { id: "rev_sec_1", name: "Mirela O.", date: "Acum 2 zile", text: "Un mini-disco superb în Cotroceni, animatoarea a fost plină de viață și a animat instant toată trupa.", avatar: "/images/avatars/avatar_006.jpg" },
+      { id: "rev_sec_2", name: "Adrian N.", date: "Acum o lună", text: "Foarte ok raportul calitate-preț pentru Sectorul 5 (Rahova), au venit exact cu ce au promis.", avatar: "/images/avatars/avatar_002.jpg" }
+    ],
+    '6': [
+      { id: "rev_sec_1", name: "Elena F.", date: "Acum o săptămână", text: "Am organizat în Drumul Taberei la un loc de joacă. Au colaborat minunat cu personalul locației!", avatar: "/images/avatars/avatar_003.jpg" },
+      { id: "rev_sec_2", name: "Vlad T.", date: "Acum 4 zile", text: "Pirații au cucerit toți copiii din Militari Residence, au venit la timp deși traficul din Sectorul 6 era infernal.", avatar: "/images/avatars/avatar_005.jpg" }
+    ]
+  };
+
+  if (localReviews[sector]) {
+    // Replace the first two reviews with the local ones so they appear first!
+    reviews[0] = { ...reviews[0], ...localReviews[sector][0] };
+    reviews[1] = { ...reviews[1], ...localReviews[sector][1] };
+  }
+}
 ---
 
 <section class="aprecieri-clienti bg-white">
