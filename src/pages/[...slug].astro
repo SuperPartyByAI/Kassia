@@ -2,65 +2,94 @@
 import { supabase } from '../lib/supabase';
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
-import { Image } from 'astro:assets';
 import ReviewsCarousel from '../components/ReviewsCarousel.astro';
-import PricingPreview from '../components/PricingPreview.astro';
-import PricingFullTable from '../components/PricingFullTable.astro';
+import KassiaPricingCatalog from '../components/KassiaPricingCatalog.astro';
 import CostumeCatalog from '../components/CostumeCatalog.astro';
+import {
+  SITE_ORIGIN,
+  appendSearch,
+  buildSelfCanonical,
+  getLegacyRedirect,
+  isFileLikePath,
+  isGonePageStatus,
+  isKnownGonePath,
+  isReservedFileRoute,
+  normalizeRequestPath
+} from '../lib/kassia-routing.mjs';
+import {
+  PRICING_PAGE_SLUG,
+  buildOfferCatalog,
+  getSchemaPricingPrograms,
+  shouldShowCanonicalPricing,
+  shouldSuppressLegacyPricingSection
+} from '../lib/kassia-pricing.mjs';
 
-// This is an SSR page
-const rawSlug = Astro.params.slug || '';
-const path = rawSlug === '' ? '/' : `/${rawSlug}/`;
-
-const redirectMap = new Map([
-  ['/blog/petrecere-copii-in-ilfov-ghid/', '/animatori-petreceri-copii/'],
-  ['/blog/petrecere-copii-in-ilfov-ghid', '/animatori-petreceri-copii/'],
-
-  ['/animatori-copii-berceni-ilfov/', '/animatori-petreceri-copii-berceni/'],
-  ['/animatori-copii-berceni-ilfov', '/animatori-petreceri-copii-berceni/'],
-]);
-
+// This is an SSR page. Routing is fail-closed: only exact published DB paths return 200.
 const currentPath = Astro.url.pathname;
-const redirectTarget = redirectMap.get(currentPath);
+const redirectTarget = getLegacyRedirect(currentPath);
 
 if (redirectTarget) {
-  return Astro.redirect(redirectTarget, 301);
+  return Astro.redirect(appendSearch(redirectTarget, Astro.url.search), 301);
 }
 
-if (rawSlug && !Astro.url.pathname.endsWith('/')) {
-  return Astro.redirect(`${Astro.url.pathname}/`, 301);
+if (isKnownGonePath(currentPath)) {
+  return Astro.rewrite('/410');
 }
 
-// Fetch page data from Supabase
-const { data: page, error } = await supabase
+const path = normalizeRequestPath(currentPath);
+if (!path) {
+  return Astro.rewrite('/404');
+}
+
+// Known file endpoints canonicalize without a trailing slash. Unknown file-like
+// paths go directly to 404 instead of entering a redirect chain.
+if (isReservedFileRoute(path) && path !== currentPath) {
+  return Astro.redirect(appendSearch(path, Astro.url.search), 301);
+}
+if (isFileLikePath(path)) {
+  return Astro.rewrite('/404');
+}
+
+// Fetch the exact normalized page path. A database outage is not converted
+// into a false 404, which could encourage deindexing of valid pages.
+const { data: page, error: pageError } = await supabase
   .from('kassia_pages')
   .select('id,path,slug,page_type,title,h1,meta_title,meta_description,canonical_url,status,index_status,include_in_sitemap,priority,updated_at,show_pricing_preview')
   .eq('path', path)
-  .single();
+  .maybeSingle();
 
-if (error || !page) {
-  return new Response(null, {
-    status: 404,
-    statusText: 'Not found'
+if (pageError) {
+  console.error('KASSIA_PAGE_LOOKUP_FAILED', {
+    code: pageError.code || 'UNKNOWN',
+    path
   });
+  return Astro.rewrite('/503');
 }
 
-// 404 for draft pages in production only
+if (!page) {
+  return Astro.rewrite('/404');
+}
+
+if (isGonePageStatus(page.status) && import.meta.env.PROD) {
+  return Astro.rewrite('/410');
+}
+
 if (page.status !== 'published' && import.meta.env.PROD) {
-  return new Response(null, {
-    status: 404,
-    statusText: 'Not found'
-  });
+  return Astro.rewrite('/404');
 }
 
-// Fetch secondary data in parallel
-const [
-  { data: rawSections },
-  { data: internalLinks },
-  { data: configRows },
-  { data: faqs },
-  { data: gallery }
-] = await Promise.all([
+// Only real published pages receive trailing-slash canonicalization. Invalid
+// no-slash URLs therefore return 404 directly rather than 301 -> 404.
+if (path !== currentPath) {
+  return Astro.redirect(appendSearch(path, Astro.url.search), 301);
+}
+
+const showCanonicalPricing = shouldShowCanonicalPricing(page.slug, Boolean(page.show_pricing_preview));
+const showPreviewPricing = showCanonicalPricing && page.slug !== PRICING_PAGE_SLUG;
+
+// Fetch secondary data in parallel. A failed content query must not become a
+// misleading partial 200 response, so the route fails closed with a temporary 503.
+const secondaryResults = await Promise.all([
   supabase
     .from('kassia_page_sections')
     .select('id,section_type,heading,content,order_index')
@@ -85,37 +114,112 @@ const [
     .order('order_index', { ascending: true })
 ]);
 
-const sections = rawSections
-  ?.map(s => ({ ...s, content: typeof s.content === 'string' ? JSON.parse(s.content) : (s.content || {}) }))
-  ?.filter(s => s.content?.is_active !== false);
+const secondaryFailure = secondaryResults.find((result) => result.error);
+if (secondaryFailure) {
+  console.error('KASSIA_SECONDARY_CONTENT_QUERY_FAILED', {
+    code: secondaryFailure.error?.code || 'UNKNOWN',
+    path
+  });
+  return Astro.rewrite('/503');
+}
 
-console.log("SECTIONS IN SLUG ASTRO:", sections?.map(s => s.section_type));
+const [
+  { data: rawSections },
+  { data: internalLinks },
+  { data: configRows },
+  { data: faqs },
+  { data: gallery }
+] = secondaryResults;
+
+function rewriteLegacyInternalUrl(value) {
+  if (typeof value !== 'string' || value.trim() === '') return value;
+  try {
+    const parsed = new URL(value, SITE_ORIGIN);
+    if (parsed.origin !== SITE_ORIGIN) return value;
+    const target = getLegacyRedirect(parsed.pathname);
+    if (!target) return value;
+    const rewritten = `${target}${parsed.search}${parsed.hash}`;
+    return /^https?:\/\//i.test(value) ? `${SITE_ORIGIN}${rewritten}` : rewritten;
+  } catch {
+    return value;
+  }
+}
+
+function rewriteLegacyLinksInHtml(value) {
+  if (typeof value !== 'string' || !value.includes('href')) return value;
+  return value.replace(/href\s*=\s*(["'])([^"']+)\1/gi, (match, quote, href) => {
+    const rewritten = rewriteLegacyInternalUrl(href);
+    return rewritten !== href ? `href=${quote}${rewritten}${quote}` : match;
+  });
+}
+
+function normalizeSectionContent(content) {
+  if (!content || typeof content !== 'object' || Array.isArray(content)) return {};
+  return {
+    ...content,
+    body: rewriteLegacyLinksInHtml(content.body),
+    cta_url: rewriteLegacyInternalUrl(content.cta_url)
+  };
+}
+
+function parseSectionContent(value) {
+  if (value && typeof value === 'object' && !Array.isArray(value)) return normalizeSectionContent(value);
+  if (typeof value !== 'string') return {};
+
+  const trimmed = value.trim();
+  if (!trimmed) return {};
+
+  try {
+    const parsed = JSON.parse(trimmed);
+    return parsed && typeof parsed === 'object' && !Array.isArray(parsed)
+      ? normalizeSectionContent(parsed)
+      : { body: rewriteLegacyLinksInHtml(trimmed) };
+  } catch {
+    // Some historic rows contain HTML directly instead of JSON. Preserve them as
+    // body content rather than crashing the entire route (notably blog pages).
+    return { body: rewriteLegacyLinksInHtml(trimmed) };
+  }
+}
+
+const sections = (rawSections || [])
+  .map((section) => ({ ...section, content: parseSectionContent(section.content) }))
+  .filter((section) => section.content?.is_active !== false)
+  .filter((section) => !shouldSuppressLegacyPricingSection(section, showCanonicalPricing));
 
 const publishedLinks = internalLinks
-  ? internalLinks.filter(link => link.target_page && link.target_page.status === 'published')
+  ? internalLinks
+      .filter((link) => link.target_page && link.target_page.status === 'published')
+      .map((link) => ({
+        ...link,
+        target_page: {
+          ...link.target_page,
+          path: rewriteLegacyInternalUrl(link.target_page.path)
+        }
+      }))
   : [];
 
 // Robots meta
 const robots = page.index_status === 'index' ? 'index, follow' : 'noindex, follow';
 
-// Canonical
-const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://www.kassia.ro';
-const canonical = page.canonical_url || `${siteUrl}${path}`;
+// Every real 200 page is self-canonical. Legacy URLs redirect before this point.
+const siteUrl = SITE_ORIGIN;
+const canonical = buildSelfCanonical(path);
+const pageTitle = page.meta_title || page.title || page.h1 || 'Kassia Events';
+const pageDescription = page.meta_description || 'Servicii pentru petreceri și evenimente în București și Ilfov.';
 
 const animatoriSlugs = [
   'animatori-petreceri-copii',
   'animatori-petreceri-copii-bucuresti',
   'preturi-animatori-copii-bucuresti',
-  'pachete-animatori-copii-bucuresti',
   'oferta-animatori-petreceri-copii-bucuresti',
-  'personaje-petreceri-copii-bucuresti',
+  'personaje-animatori-copii-bucuresti',
   'animatori-tematici-petreceri-copii-bucuresti',
   'mascote-petreceri-copii-bucuresti',
   'pictura-pe-fata-copii-bucuresti',
   'modelaj-baloane-copii-bucuresti',
   'jocuri-interactive-copii-bucuresti',
   'mini-disco-copii-bucuresti',
-  'animatori-cu-mascote-petreceri-copii-bucuresti'
+  'animatori-copii'
 ];
 const isAnimatoriPage = animatoriSlugs.includes(page?.slug);
 
@@ -154,7 +258,8 @@ schemas.push(localBusinessSchema);
 
 const sectorMatch = page?.slug?.match(/sector-([1-6])/);
 // 2. Service Schema
-if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(page.page_type)) {
+const schemaPricingPrograms = getSchemaPricingPrograms(page.slug, Boolean(page.show_pricing_preview));
+if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(page.page_type) || schemaPricingPrograms.length > 0) {
   let areaServed = "București & Ilfov";
   if (sectorMatch) {
     areaServed = `Sectorul ${sectorMatch[1]}, București`;
@@ -170,7 +275,7 @@ if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(pag
     "areaServed": areaServed
   };
 
-  if (page.slug === 'animatori-petreceri-copii' || page.slug.startsWith('animatori-petreceri-copii-sector-')) {
+  if (page.slug === 'animatori-petreceri-copii' || String(page.slug || '').startsWith('animatori-petreceri-copii-sector-')) {
     serviceSchema.aggregateRating = {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
@@ -201,36 +306,13 @@ if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(pag
       }
     ];
 
-    serviceSchema.hasOfferCatalog = {
-      "@type": "OfferCatalog",
-      "name": "Pachete Animatori Petreceri Copii",
-      "itemListElement": [
-        {
-          "@type": "Offer",
-          "itemOffered": { "@type": "Service", "name": "Pachet 1 personaj / 1 oră" },
-          "price": "280",
-          "priceCurrency": "RON"
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": { "@type": "Service", "name": "Pachet 1 personaj / 2 ore" },
-          "price": "490",
-          "priceCurrency": "RON"
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": { "@type": "Service", "name": "Pachet 2 personaje / 1 oră" },
-          "price": "490",
-          "priceCurrency": "RON"
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": { "@type": "Service", "name": "Pachet 2 personaje / 2 ore" },
-          "price": "830",
-          "priceCurrency": "RON"
-        }
-      ]
-    };
+    if (schemaPricingPrograms.length > 0) {
+      serviceSchema.hasOfferCatalog = buildOfferCatalog(schemaPricingPrograms);
+    }
+  }
+
+  if (!serviceSchema.hasOfferCatalog && schemaPricingPrograms.length > 0) {
+    serviceSchema.hasOfferCatalog = buildOfferCatalog(schemaPricingPrograms);
   }
 
   schemas.push(serviceSchema);
@@ -270,26 +352,39 @@ if (pathSegments.length > 0) {
 }
 
 const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
+
+// --- Helper for WhatsApp CTAs ---
+const whatsappText = `Buna! As dori detalii despre ${page.h1 || page.title || 'serviciile voastre'}.`;
+const phoneClean = (config.phone || "0763795919").replace(/[^0-9]/g, '');
+const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
+const defaultWaUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappText)}`;
+
+function getCtaUrl(url) {
+  if (!url || url === '#' || url === '' || url === '/contact' || url === '/contact/') {
+    return defaultWaUrl;
+  }
+  return rewriteLegacyInternalUrl(url);
+}
 ---
 
-<Layout title={page.meta_title} description={page.meta_description} canonical={canonical} robots={robots} schemas={schemas} ogImage={ogImage}>
+<Layout title={pageTitle} description={pageDescription} canonical={canonical} robots={robots} schemas={schemas} ogImage={ogImage} isAnimatori={isAnimatoriPage}>
   <div class="kassia-premium-page">
 
     {/* HERO SECTION */}
     {(() => {
       const heroSec = sections?.find(s => s.section_type === 'hero');
-      const hasBody = heroSec?.content?.body && heroSec.content.body.trim() !== '';
+      const hasBody = typeof heroSec?.content?.body === 'string' && heroSec.content.body.trim() !== '';
       return (
         <header class={`hero-section ${heroSec?.content?.image_url ? 'has-image' : ''}`}>
           <div class="hero-overlay"></div>
           <div class="container hero-content-wrapper">
             <div class="hero-text-content">
-              <h1 class="page-title">{page.h1}</h1>
+              <h1 class="page-title">{page.h1 || page.title}</h1>
               {hasBody ? (
                 <>
                   <div class="hero-subtitle" set:html={heroSec.content.body} />
-                  {heroSec.content?.cta_text && heroSec.content?.cta_url && (
-                    <a href={heroSec.content.cta_url} class="btn-primary" style="margin-top:2rem; display:inline-block;">
+                  {heroSec.content?.cta_text && (
+                    <a href={getCtaUrl(heroSec.content?.cta_url)} class="btn-primary" style="margin-top:2rem; display:inline-block;">
                       {heroSec.content.cta_text}
                     </a>
                   )}
@@ -302,7 +397,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
             </div>
             {heroSec?.content?.image_url && (
               <div class="hero-image-wrapper">
-                <img src={heroSec.content.image_url} alt={page.h1} class="hero-image" width="1200" height="800"  loading="eager" fetchpriority="high" decoding="sync" />
+                <img src={heroSec.content.image_url} alt={page.h1 || page.title || 'Kassia Events'} class="hero-image" width="1200" height="800"  loading="eager" fetchpriority="high" decoding="sync" />
               </div>
             )}
           </div>
@@ -317,17 +412,17 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
           <div class="service-cards-grid" style="margin-top: 0;">
             {sections.filter(s => s.section_type === 'feature_card').map((card) => (
               <div class="service-card">
-                <div class="service-card-image" style="padding-top: 50%;">
+                <div class="service-card-image-natural" style="position: relative; width: 100%; overflow: hidden;">
                   {card.content?.image_url && card.content.image_url.trim() !== '' && (
-                    <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800"  loading="lazy" decoding="async" />
+                    <img src={card.content.image_url} alt={card.content?.image_alt || 'Card vizual Kassia'} width="800" height="800" loading="lazy" decoding="async" style="width: 100%; height: auto; display: block;" />
                   )}
-                  <div class="service-card-overlay"></div>
+                  <div class="service-card-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to top, rgba(0,0,0,0.4) 0%, transparent 50%);"></div>
                 </div>
                 <div class="service-card-content">
                   <h3 class="service-card-title">{card.heading}</h3>
                   {card.content?.body && <div class="service-card-subtitle prose" style="font-size:0.95rem; line-height:1.5;" set:html={card.content.body} />}
-                  {card.content?.cta_url && card.content?.cta_text && (
-                    <a href={card.content.cta_url} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;">{card.content.cta_text} &rarr;</a>
+                  {card.content?.cta_text && (
+                    <a href={getCtaUrl(card.content?.cta_url)} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;">{card.content.cta_text} &rarr;</a>
                   )}
                 </div>
               </div>
@@ -344,7 +439,7 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
           <h2 class="section-heading text-center">Alege Serviciul Dorit</h2>
           <div class="service-cards-grid">
             {sections.filter(s => s.section_type === 'service_card').map((card) => (
-              <a href={card.content?.cta_url || '#'} class="service-card-link">
+              <a href={getCtaUrl(card.content?.cta_url)} class="service-card-link">
                 <div class="service-card">
                   <div class="service-card-image">
                     {card.content?.image_url && card.content.image_url.trim() !== '' && (
@@ -383,8 +478,8 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               <div class="pricing-detail-card" id={section.heading ? 'preturi-' + section.heading.replace('Prețuri ', '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : undefined} style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: flex; flex-direction: column;">
                 <h3 class="pricing-card-title" style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--primary-dark);">{section.heading}</h3>
                 {section.content?.body && <div class="pricing-card-body prose" set:html={section.content.body} style="flex-grow: 1; margin-bottom: 1.5rem;" />}
-                {section.content?.cta_url && section.content?.cta_text && (
-                  <a href={section.content.cta_url} class="btn-primary" style="align-self: flex-start; margin-top: auto;">{section.content.cta_text}</a>
+                {section.content?.cta_text && (
+                  <a href={getCtaUrl(section.content?.cta_url)} class="btn-primary" style="align-self: flex-start; margin-top: auto;">{section.content.cta_text}</a>
                 )}
               </div>
             ))}
@@ -393,8 +488,14 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
       </>
     ) : (
       <div id="content" class="sections-wrapper">
-        {page.show_pricing_preview && (
-          <PricingPreview locationName={page.slug.includes('voluntari') ? 'orașul Voluntari' : 'petrecerea ta'} />
+        {showPreviewPricing && (
+          <KassiaPricingCatalog
+            variant="preview"
+            locationName={String(page.slug || '').includes('voluntari') ? 'orașul Voluntari' : 'București și Ilfov'}
+          />
+        )}
+        {page.slug === PRICING_PAGE_SLUG && (
+          <KassiaPricingCatalog variant="full" />
         )}
         {sections && sections.filter(s => !['hero', 'gallery', 'faq', 'service_card', 'testimonials_section', 'process_steps', 'feature_card'].includes(s.section_type)).map((section, index) => {
           
@@ -420,8 +521,8 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
                 {section.heading && <h2 class="section-heading">{section.heading}</h2>}
                 {section.content?.subheading && <h3 class="section-subheading">{section.content.subheading}</h3>}
                 {section.content?.body && <div class="section-body" set:html={section.content.body} />}
-                {section.content?.cta_text && section.content?.cta_url && (
-                  <a href={section.content.cta_url} class="btn-primary">{section.content.cta_text}</a>
+                {section.content?.cta_text && (
+                  <a href={getCtaUrl(section.content?.cta_url)} class="btn-primary">{section.content.cta_text}</a>
                 )}
               </div>
               {/* Image render */}
@@ -432,9 +533,6 @@ const ogImage = validImages.length > 0 ? validImages[0].url : undefined;
               )}
             </div>
           </section>
-          {index === 0 && (page.slug === 'preturi-animatori-copii-bucuresti' || page.slug === 'animatori-petreceri-copii') && (
-            <PricingFullTable />
-          )}
           </>
           );
         })}

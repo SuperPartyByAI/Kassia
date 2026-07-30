@@ -1,12 +1,36 @@
 ---
 import { supabase } from '../lib/supabase';
 
-// 1. Fetch site config
+const { whatsappMessage, isAnimatori } = Astro.props;
+const currentPath = Astro.url.pathname.replace(/\/$/, '');
+const animatoriSlugs = [
+  '/animatori-petreceri-copii-bucuresti',
+  '/pachete-animatori-copii-bucuresti',
+  '/oferta-animatori-petreceri-copii-bucuresti',
+  '/personaje-petreceri-copii-bucuresti',
+  '/animatori-tematici-petreceri-copii-bucuresti',
+  '/mascote-petreceri-copii-bucuresti',
+  '/pictura-pe-fata-copii-bucuresti',
+  '/modelaj-baloane-copii-bucuresti',
+  '/jocuri-interactive-copii-bucuresti',
+  '/mini-disco-copii-bucuresti',
+  '/animatori-cu-mascote-petreceri-copii-bucuresti',
+  '/animatori-copii'
+];
+const isAnimatoriPage = animatoriSlugs.includes(currentPath);
+
 const { data: configRows } = await supabase.from('kassia_site_config').select('*');
 const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
 
 const phone = config.phone || "0763795919";
-const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii despre decoratiunile cu baloane.";
+let whatsappText = whatsappMessage;
+if (!whatsappText) {
+  if (isAnimatori || isAnimatoriPage) {
+    whatsappText = "Buna! As dori o oferta de animatori pentru petrecerea copilului meu.";
+  } else {
+    whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii despre decoratiunile cu baloane.";
+  }
+}
 // Helper for phone format in whatsapp
 const phoneClean = phone.replace(/[^0-9]/g, '');
 const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
@@ -28,21 +52,9 @@ const headerServicesMenu = menus?.find(m => m.location === 'header_services');
 const headerEventsMenu = menus?.find(m => m.location === 'header_events');
 const headerAnimatoriMenu = menus?.find(m => m.location === 'header_animatori');
 
-const currentPath = Astro.url.pathname.replace(/\/$/, '');
-const animatoriSlugs = [
-  '/animatori-petreceri-copii-bucuresti',
-  '/pachete-animatori-copii-bucuresti',
-  '/oferta-animatori-petreceri-copii-bucuresti',
-  '/personaje-petreceri-copii-bucuresti',
-  '/animatori-tematici-petreceri-copii-bucuresti',
-  '/mascote-petreceri-copii-bucuresti',
-  '/pictura-pe-fata-copii-bucuresti',
-  '/modelaj-baloane-copii-bucuresti',
-  '/jocuri-interactive-copii-bucuresti',
-  '/mini-disco-copii-bucuresti',
-  '/animatori-cu-mascote-petreceri-copii-bucuresti'
-];
-const isAnimatoriPage = animatoriSlugs.includes(currentPath);
+
+
+
 ---
 
 <header class="site-header">

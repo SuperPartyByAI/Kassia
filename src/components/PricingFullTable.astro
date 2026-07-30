@@ -11,9 +11,7 @@ const supabase = createClient(supabaseUrl, supabaseKey, {
   }
 });
 
-Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
-Astro.response.headers.set('Pragma', 'no-cache');
-Astro.response.headers.set('Expires', '0');
+Astro.response.headers.set('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=300');
 
 // Fetch programs from the centralized Supabase table
 const { data: programs, error } = await supabase

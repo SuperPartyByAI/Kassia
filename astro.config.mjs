@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import node from '@astrojs/node';
 
-// https://astro.build/config
 export default defineConfig({
   output: 'server',
   adapter: node({
@@ -13,11 +12,9 @@ export default defineConfig({
     port: 3005,
     host: true
   },
+  site: 'https://www.kassia.ro',
+  trailingSlash: 'ignore',
   vite: {
     plugins: [tailwindcss()]
-  },
-  redirects: {
-    '/pachete-animatori-copii-bucuresti/': '/preturi-animatori-copii-bucuresti/',
-    '/animatori-copii-floreasca': '/animatori-petreceri-copii-floreasca/'
   }
 });

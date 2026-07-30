@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+Astro.response.status = 503;
+Astro.response.statusText = 'Service Unavailable';
+Astro.response.headers.set('Cache-Control', 'no-store, max-age=0');
+Astro.response.headers.set('X-Robots-Tag', 'noindex, nofollow');
+Astro.response.headers.set('Retry-After', '60');
+
+const title = 'Kassia este temporar indisponibil';
+const description = 'Pagina nu poate fi încărcată momentan. Reîncearcă în câteva momente.';
+---
+
+<Layout title={title} description={description} robots="noindex, nofollow">
+  <section class="service-unavailable">
+    <p class="status-code" aria-hidden="true">503</p>
+    <h1>Revenim imediat</h1>
+    <p>Serviciul este temporar indisponibil. Reîncearcă în câteva momente.</p>
+    <a href="/">Reîncarcă pagina principală</a>
+  </section>
+</Layout>
+
+<style>
+  .service-unavailable {
+    min-height: 75vh;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    gap: 1rem;
+    padding: 8rem 1.5rem 5rem;
+    text-align: center;
+    background: linear-gradient(135deg, rgba(168,85,247,.08), rgba(236,72,153,.08));
+  }
+  .status-code {
+    margin: 0;
+    font-size: clamp(5rem, 18vw, 10rem);
+    font-weight: 950;
+    line-height: .8;
+    color: #9333ea;
+  }
+  h1 { margin: .75rem 0 0; color: #1e293b; font-size: clamp(2rem, 6vw, 3.5rem); }
+  p { max-width: 620px; margin: 0; color: #475569; font-size: 1.1rem; line-height: 1.7; }
+  a { margin-top: 1rem; padding: .95rem 1.4rem; border-radius: 999px; background: #9333ea; color: #fff; font-weight: 800; text-decoration: none; }
+</style>

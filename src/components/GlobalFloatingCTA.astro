@@ -1,12 +1,21 @@
 ---
 import { supabase } from '../lib/supabase';
 
+const { isAnimatori = false, whatsappMessage } = Astro.props;
+
 // Fetch config for phone and whatsapp
 const { data: configRows } = await supabase.from('kassia_site_config').select('key,value');
 const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) || []);
 
 const phone = config.phone || "0763795919";
-const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii";
+let whatsappText = whatsappMessage;
+if (!whatsappText) {
+  if (isAnimatori) {
+    whatsappText = "Buna! As dori o oferta de animatori pentru petrecerea copilului meu.";
+  } else {
+    whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii";
+  }
+}
 const phoneClean = phone.replace(/[^0-9]/g, '');
 const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
 const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappText)}`;

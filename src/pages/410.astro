@@ -2,13 +2,13 @@
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
 
-Astro.response.status = 404;
-Astro.response.statusText = 'Not Found';
-Astro.response.headers.set('Cache-Control', 'no-store, max-age=0');
+Astro.response.status = 410;
+Astro.response.statusText = 'Gone';
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600');
 Astro.response.headers.set('X-Robots-Tag', 'noindex, follow');
 
-const title = 'Pagina nu a fost găsită | Kassia';
-const description = 'Adresa solicitată nu există. Continuă către serviciile Kassia pentru petreceri și evenimente.';
+const title = 'Pagina nu mai este disponibilă | Kassia';
+const description = 'Adresa solicitată a fost retrasă definitiv. Continuă către serviciile actuale Kassia.';
 const staticLinks = [
   { anchor_text: 'Animatori petreceri copii', target_page: { path: '/animatori-petreceri-copii/', status: 'published' } },
   { anchor_text: 'Prețuri animatori copii', target_page: { path: '/preturi-animatori-copii-bucuresti/', status: 'published' } },
@@ -19,26 +19,21 @@ const staticLinks = [
 
 <Layout title={title} description={description} robots="noindex, follow">
   <div class="kassia-premium-page">
-    <section class="not-found-section">
-      <p class="status-code" aria-hidden="true">404</p>
-      <h1>Pagina pe care o cauți nu există</h1>
-      <p>Verifică adresa sau continuă către una dintre paginile principale Kassia.</p>
-      <div class="not-found-actions">
+    <section class="gone-section">
+      <p class="status-code" aria-hidden="true">410</p>
+      <h1>Această pagină a fost retrasă definitiv</h1>
+      <p>Conținutul vechi nu mai este disponibil. Alege una dintre paginile actuale Kassia.</p>
+      <div class="gone-actions">
         <a href="/" class="btn-primary">Pagina principală</a>
-        <a href="/animatori-petreceri-copii/" class="btn-secondary">Vezi animatorii</a>
+        <a href="/animatori-petreceri-copii/" class="btn-secondary">Animatori copii</a>
       </div>
-      <nav aria-label="Pagini utile" class="not-found-links">
-        <a href="/preturi-animatori-copii-bucuresti/">Prețuri animatori</a>
-        <a href="/ursitoare-botez-bucuresti/">Ursitoare botez</a>
-        <a href="/decoruri-baloane-bucuresti/">Decoruri cu baloane</a>
-      </nav>
     </section>
     <Footer internalLinks={staticLinks} />
   </div>
 </Layout>
 
 <style>
-  .not-found-section {
+  .gone-section {
     min-height: 68vh;
     display: grid;
     place-items: center;
@@ -63,20 +58,20 @@ const staticLinks = [
     font-size: clamp(2rem, 6vw, 3.5rem);
     line-height: 1.1;
   }
-  .not-found-section > p:not(.status-code) {
+  .gone-section > p:not(.status-code) {
     max-width: 620px;
     margin: 0;
     color: #475569;
     font-size: 1.1rem;
     line-height: 1.7;
   }
-  .not-found-actions, .not-found-links {
+  .gone-actions {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: .8rem;
+    margin-top: 1rem;
   }
-  .not-found-actions { margin-top: 1rem; }
   .btn-primary, .btn-secondary {
     padding: .95rem 1.4rem;
     border-radius: 999px;
@@ -85,6 +80,4 @@ const staticLinks = [
   }
   .btn-primary { background: #9333ea; color: #fff; }
   .btn-secondary { border: 2px solid #9333ea; color: #7e22ce; background: #fff; }
-  .not-found-links { margin-top: 1.5rem; }
-  .not-found-links a { color: #7e22ce; font-weight: 700; }
 </style>

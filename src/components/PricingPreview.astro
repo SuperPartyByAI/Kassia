@@ -13,10 +13,8 @@ const supabase = createClient(supabaseUrl, supabaseKey, {
   }
 });
 
-// Add cache control headers to the Astro response
-Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
-Astro.response.headers.set('Pragma', 'no-cache');
-Astro.response.headers.set('Expires', '0');
+// Add cache control headers to allow Cloudflare to cache for 1 minute
+Astro.response.headers.set('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=300');
 
 // Fetch programs
 const { data: programs, error } = await supabase
@@ -41,7 +39,7 @@ if (error) {
           Programe cu animatori potrivite pentru {locationName || 'petrecerea ta'}
         </h2>
         
-        <div class="pricing-preview-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; justify-content: center; margin-bottom: 2rem;">
+        <div class="pricing-preview-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; justify-content: center; margin-bottom: 2rem;">
           {programs.map((program) => (
             <PricingProgramCard program={program} variant="compact" locationName={locationName} />
           ))}

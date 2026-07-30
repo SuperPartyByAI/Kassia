@@ -33,9 +33,18 @@ const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClea
     <h2 class="section-heading text-center">{heading}</h2>
     {subheading && <p class="catalog-subtitle text-center">{subheading}</p>}
     
+    <div class="catalog-search-sticky-container" style="position: sticky; top: 0px; z-index: 1001; background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); padding: 1rem 0; margin-bottom: 2rem; border-bottom: 1px solid rgba(168, 85, 247, 0.1);">
+      <div class="catalog-search-wrapper" style="width: 100%; max-width: 600px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box;">
+        <div class="search-input-container" style="position: relative; width: 100%;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="position: absolute; left: 1.2rem; top: 50%; transform: translateY(-50%); color: var(--text-muted);"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="catalog-search" placeholder="Caută personajul preferat..." style="width: 100%; box-sizing: border-box; padding: 1.1rem 1rem 1.1rem 3.2rem; border-radius: 99px; border: 2px solid #e2e8f0; font-size: 1.05rem; outline: none; transition: border-color 0.2s, box-shadow 0.2s; color: var(--text-main); background: #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.05);" />
+        </div>
+      </div>
+    </div>
+
     <div class="catalog-grid" id="catalog-grid-container">
       {cards.map((card, idx) => (
-        <div class={`catalog-card ${idx >= 12 && isFullCatalog ? 'hidden-card' : ''}`} style={idx >= 12 && isFullCatalog ? 'display: none;' : ''}>
+        <div class={`catalog-card ${idx >= 12 && isFullCatalog ? 'hidden-card' : ''}`} style={idx >= 12 && isFullCatalog ? 'display: none;' : ''} data-title={card.title.toLowerCase()} data-desc={card.short_description.toLowerCase()}>
           <div class="catalog-card-image">
             <img 
               src={card.image_url} 
@@ -55,6 +64,12 @@ const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClea
       ))}
     </div>
 
+    <div id="catalog-no-results" style="display: none; text-align: center; padding: 4rem 1rem; background: #f8fafc; border-radius: 16px; margin: 2rem 0;">
+       <div style="font-size: 3.5rem; margin-bottom: 1rem;">👀</div>
+       <h3 style="font-size: 1.5rem; color: var(--text-main); margin-bottom: 0.5rem; font-weight: 800;">Nu am găsit exact acest personaj...</h3>
+       <p style="color: var(--text-muted); font-size: 1.05rem; margin-bottom: 2rem;">Dar s-ar putea să-ți placă personajele noastre cele mai iubite:</p>
+    </div>
+
     <div class="text-center mt-4 pt-4">
       {isFullCatalog ? (
         <button id="load-more-btn" class="btn-primary" style="display: inline-block; padding: 1rem 2rem; border-radius: 99px; font-weight: 700; background: var(--primary); color: white; border: none; cursor: pointer; transition: transform 0.2s;">
@@ -69,23 +84,244 @@ const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClea
   </div>
 </section>
 
-{isFullCatalog && (
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-       const loadMoreBtn = document.getElementById('load-more-btn');
-       if (loadMoreBtn) {
-         loadMoreBtn.addEventListener('click', () => {
-           const hiddenCards = Array.from(document.querySelectorAll('.catalog-card.hidden-card[style*="display: none"]'));
-           const nextBatch = hiddenCards.slice(0, 12);
-           nextBatch.forEach(c => c.style.display = 'flex');
-           if (hiddenCards.length <= 12) {
-             loadMoreBtn.style.display = 'none';
+<script is:inline>
+  (function() {
+      function normalizeText(text) {
+        if(!text) return "";
+        return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim();
+      }
+
+      function getPhoneticQuery(qw) {
+         const phonetics = {
+            'betmen': 'batman',
+            'spaidarman': 'spiderman',
+            'spaidar': 'spiderman',
+            'michi': 'mickey',
+            'maus': 'mouse',
+            'maichi': 'mickey',
+            'elza': 'elsa',
+            'stici': 'stitch',
+            'peis': 'paw',
+            'patrol': 'patrol',
+            'pepa': 'peppa',
+            'pipa': 'peppa',
+            'halouin': 'halloween',
+            'kreciun': 'craciun',
+            'mosu': 'mos'
+         };
+         return phonetics[qw] || qw;
+      }
+
+      function getSemanticKeywords(title) {
+         const t = title.toLowerCase();
+         let kw = "";
+         if (/(elsa|anna|rapunzel|ariel|alba ca zapada|cenusareasa|aurora|belle|jasmine|merida|tiana|moana|barbie|unicorn)/.test(t)) {
+            kw += " fata fete fetita fetite printesa printese regat roz magie ";
+         }
+         if (/(spiderman|batman|superman|ironman|hulk|captain america|thor|sonic|transformers|optimus|bumblebee|ninja|dinozaur)/.test(t)) {
+            kw += " baiat baieti erou eroi supererou putere actiune ";
+         }
+         return kw;
+      }
+
+      function levenshteinDistance(a, b) {
+        const matrix = [];
+        for (let i = 0; i <= b.length; i++) {
+          matrix[i] = [i];
+        }
+        for (let j = 0; j <= a.length; j++) {
+          matrix[0][j] = j;
+        }
+        for (let i = 1; i <= b.length; i++) {
+          for (let j = 1; j <= a.length; j++) {
+            if (b.charAt(i - 1) == a.charAt(j - 1)) {
+              matrix[i][j] = matrix[i - 1][j - 1];
+            } else {
+              matrix[i][j] = Math.min(matrix[i - 1][j - 1] + 1, Math.min(matrix[i][j - 1] + 1, matrix[i - 1][j] + 1));
+            }
+          }
+        }
+        return matrix[b.length][a.length];
+      }
+
+      function initCostumeSearch() {
+         const searchContainer = document.querySelector('.catalog-search-sticky-container');
+         const header = document.querySelector('.site-header');
+         const catalogSection = document.getElementById('catalog-costume');
+         
+         if (header && searchContainer) {
+             header.appendChild(searchContainer);
+             searchContainer.style.position = 'static';
+             searchContainer.style.padding = '0.5rem 0 1rem 0';
+             searchContainer.style.marginBottom = '0';
+             searchContainer.style.borderBottom = 'none';
+         }
+
+         const loadMoreBtn = document.getElementById('load-more-btn');
+         const searchInput = document.getElementById('catalog-search');
+         const cards = Array.from(document.querySelectorAll('.catalog-card'));
+         const gridContainer = document.getElementById('catalog-grid-container');
+
+         let currentlyLoaded = 12;
+
+         function applyVisibility() {
+           const rawQuery = searchInput ? searchInput.value : '';
+           const q = normalizeText(rawQuery);
+           const stopwords = ["si", "de", "cu", "la", "pentru", "vreau", "as", "vrea", "doresc", "imi", "trebuie", "un", "o", "niste", "din", "in", "pe", "ca", "sa", "sunt", "este", "au", "caut", "cautam", "avem", "ne", "ar", "interesa"];
+           
+           let queryWords = q.split(' ').filter(w => w.length > 0 && !stopwords.includes(w));
+           queryWords = queryWords.map(qw => getPhoneticQuery(qw));
+           
+           if (queryWords.length > 0 && catalogSection) {
+              const rect = catalogSection.getBoundingClientRect();
+              if (rect.top > 200) {
+                  window.scrollTo({
+                      top: catalogSection.offsetTop - 140,
+                      behavior: 'smooth'
+                  });
+              }
            }
-         });
-       }
-    });
-  </script>
-)}
+           
+           const MIN_SCORE_TO_SHOW_RESULTS = 20;
+           let scoredCards = [];
+
+           cards.forEach((card, idx) => {
+             const rawTitle = card.getAttribute('data-title') || '';
+             const rawDesc = card.getAttribute('data-desc') || '';
+             
+             const nTitle = normalizeText(rawTitle);
+             const nDesc = normalizeText(rawDesc);
+             const semanticKw = normalizeText(getSemanticKeywords(rawTitle));
+
+             let score = 0;
+             let isMatch = false;
+
+             if (queryWords.length === 0 && q.length === 0) {
+                isMatch = true;
+                score = 100;
+             } else if (queryWords.length === 0 && q.length > 0) {
+                isMatch = false;
+                score = 0;
+             } else {
+                const cardWords = [...nTitle.split(' '), ...nDesc.split(' '), ...semanticKw.split(' ')].filter(w=>w.length > 0);
+
+                queryWords.forEach(qw => {
+                    let bestWordScore = 0;
+
+                    if (qw.length >= 3) {
+                        if (nTitle.includes(qw)) bestWordScore = Math.max(bestWordScore, 50);
+                        else if (nDesc.includes(qw)) bestWordScore = Math.max(bestWordScore, 30);
+                        else if (semanticKw.includes(qw)) bestWordScore = Math.max(bestWordScore, 25);
+                    } else {
+                        if (cardWords.includes(qw)) bestWordScore = Math.max(bestWordScore, 50);
+                        else if (qw.length >= 2 && cardWords.some(w => w.startsWith(qw))) bestWordScore = Math.max(bestWordScore, 30);
+                    }
+
+                    if (bestWordScore > 0) {
+                        score += bestWordScore;
+                    } else {
+                        for(let i=0; i<cardWords.length; i++) {
+                            let cw = cardWords[i];
+                            if (cw === qw || (qw.length >= 3 && cw.includes(qw)) || (cw.length >= 4 && qw.includes(cw)) || (qw.length >= 2 && cw.startsWith(qw))) {
+                                score += 20;
+                                break;
+                            }
+                            if (qw.length >= 3 && cw.length >= 3) {
+                                let dist = levenshteinDistance(qw, cw);
+                                let maxLen = Math.max(qw.length, cw.length);
+                                let ratio = dist / maxLen;
+                                if ( (dist <= 1 || (qw.length >= 5 && dist <= 2 && ratio <= 0.3)) && (qw[0] === cw[0] || dist <= 1) ) {
+                                    score += 20;
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                });
+
+                isMatch = score >= MIN_SCORE_TO_SHOW_RESULTS;
+             }
+
+             if (queryWords.length > 0) {
+               if (isMatch) {
+                 scoredCards.push({ card, score, originalIdx: idx });
+               } else {
+                 card.style.display = 'none';
+               }
+             } else {
+               if (idx < currentlyLoaded) {
+                 card.style.display = 'flex';
+               } else {
+                 card.style.display = 'none';
+               }
+             }
+           });
+
+           const noResultsEl = document.getElementById('catalog-no-results');
+
+           if (queryWords.length > 0) {
+             scoredCards.sort((a, b) => b.score - a.score);
+             
+             if (scoredCards.length === 0) {
+                if (noResultsEl) noResultsEl.style.display = 'block';
+                let fallbackShown = 0;
+                cards.forEach(card => {
+                   const title = card.getAttribute('data-title') || '';
+                   if (fallbackShown < 4 && (title === 'elsa' || title === 'spiderman' || title === 'skye (patrula catelusilor)' || title.includes('mickey'))) {
+                       card.style.display = 'flex';
+                       gridContainer.appendChild(card);
+                       fallbackShown++;
+                   } else {
+                       card.style.display = 'none';
+                   }
+                });
+             } else {
+                if (noResultsEl) noResultsEl.style.display = 'none';
+                scoredCards.forEach(sc => {
+                    sc.card.style.display = 'flex';
+                    gridContainer.appendChild(sc.card);
+                });
+             }
+           } else {
+             if (noResultsEl) noResultsEl.style.display = 'none';
+             const sortedByIndex = cards.slice().sort((a, b) => {
+                const idxA = cards.indexOf(a);
+                const idxB = cards.indexOf(b);
+                return idxA - idxB;
+             });
+             sortedByIndex.forEach(c => gridContainer.appendChild(c));
+           }
+
+           if (loadMoreBtn) {
+             if (queryWords.length > 0) {
+               loadMoreBtn.style.display = 'none';
+             } else {
+               if (currentlyLoaded < cards.length) {
+                 loadMoreBtn.style.display = 'inline-block';
+               } else {
+                 loadMoreBtn.style.display = 'none';
+               }
+             }
+           }
+         }
+
+         if (searchInput) {
+           searchInput.addEventListener('input', applyVisibility);
+         }
+
+         if (loadMoreBtn) {
+           loadMoreBtn.addEventListener('click', () => {
+             currentlyLoaded += 12;
+             applyVisibility();
+           });
+         }
+      }
+
+      initCostumeSearch();
+      setTimeout(initCostumeSearch, 100);
+      setTimeout(initCostumeSearch, 500);
+  })();
+</script>
 
 <style>
   .catalog-section {

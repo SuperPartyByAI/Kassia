@@ -8,9 +8,10 @@ export interface Props {
     target_page: { path: string; status: string; };
   }>;
   isAnimatori?: boolean;
+  whatsappMessage?: string;
 }
 
-const { internalLinks = [], isAnimatori: isAnimatoriProp = false } = Astro.props;
+const { internalLinks = [], isAnimatori: isAnimatoriProp = false, whatsappMessage } = Astro.props;
 
 const animatoriSlugs = [
   '/animatori-petreceri-copii',
@@ -24,7 +25,8 @@ const animatoriSlugs = [
   '/modelaj-baloane-copii-bucuresti',
   '/jocuri-interactive-copii-bucuresti',
   '/mini-disco-copii-bucuresti',
-  '/animatori-cu-mascote-petreceri-copii-bucuresti'
+  '/animatori-cu-mascote-petreceri-copii-bucuresti',
+  '/animatori-copii'
 ];
 const normalizedPath = Astro.url.pathname.replace(/\/$/, '');
 const isAnimatori = isAnimatoriProp || animatoriSlugs.includes(normalizedPath);
@@ -36,10 +38,19 @@ const config = Object.fromEntries(configRows?.map(row => [row.key, row.value]) |
 const phone = config.phone || "0763795919";
 const email = config.email || "contact@kassia.ro";
 let footerDesc = config.footer_desc || "Kassia îți transformă evenimentele în amintiri de neuitat prin decorațiuni spectaculoase din baloane. Calitate premium pentru botezuri, nunți și petreceri corporate.";
-if (isAnimatori) {
-  footerDesc = "Echipa Kassia organizează programe de animație, mascote, pictură pe față și activități interactive pentru petreceri de copii reușite în București și Ilfov.";
+let whatsappText = whatsappMessage;
+if (!whatsappText) {
+  if (isAnimatori) {
+    whatsappText = "Buna! As dori o oferta de animatori pentru petrecerea copilului meu.";
+  } else {
+    whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii despre decoratiunile cu baloane.";
+  }
 }
-const whatsappText = config.whatsapp_text || "Buna! As dori mai multe detalii";
+
+if (isAnimatori) {
+  footerDesc = "Kassia organizează programe de animație, mascote, pictură pe față și activități interactive pentru petreceri de copii reușite în București și Ilfov.";
+}
+
 const phoneClean = phone.replace(/[^0-9]/g, '');
 const whatsappNumber = phoneClean.startsWith('0') ? '4' + phoneClean : phoneClean;
 const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappText)}`;

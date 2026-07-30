@@ -219,7 +219,7 @@ if (sector) {
         <div class="apreciere-item" data-review-id={review.id}>
           <div class="apreciere-head">
             <div class="apreciere-avatar">
-              <img src={review.avatar} alt={review.name} width="44" height="44" style="width: 100%; height: 100%; object-fit: cover;" />
+              <img src={review.avatar} alt={review.name} width="44" height="44" loading="lazy" style="width: 100%; height: 100%; object-fit: cover;" />
             </div>
             <div class="apreciere-info">
               <h4 class="apreciere-nume">{review.name}</h4>
@@ -246,9 +246,14 @@ if (sector) {
   .aprecieri-clienti {
     padding: 4rem 0;
     overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
   }
   .aprecieri-slider {
     width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
     overflow-x: auto;
     overflow-y: hidden;
     padding-bottom: 2rem;
@@ -262,7 +267,8 @@ if (sector) {
     display: flex;
     gap: 1.5rem;
     width: max-content;
-    padding: 0.5rem 2rem;
+    padding: 0.5rem 1rem;
+    box-sizing: border-box;
   }
   .apreciere-item {
     background: white;

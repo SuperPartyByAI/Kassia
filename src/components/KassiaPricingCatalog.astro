@@ -1,0 +1,246 @@
+---
+import { getVisiblePricingPrograms } from '../lib/kassia-pricing.mjs';
+
+export interface Props {
+  variant?: 'preview' | 'full';
+  locationName?: string;
+}
+
+const { variant = 'preview', locationName = 'București și Ilfov' } = Astro.props;
+const isFull = variant === 'full';
+const programs = getVisiblePricingPrograms(variant);
+const groups = isFull
+  ? [
+      { id: 'animatori', heading: 'Programe cu animatori', programs: programs.filter((entry) => entry.group === 'animatori') },
+      { id: 'picioroange', heading: 'Animatori pe picioroange', programs: programs.filter((entry) => entry.group === 'picioroange') }
+    ]
+  : [{ id: 'preview', heading: null, programs }];
+const heading = isFull
+  ? 'Prețuri animatori pentru petreceri de copii'
+  : 'Pachete animatori pentru petrecerea ta';
+const intro = isFull
+  ? 'Alege numărul de animatori și durata programului. Prețurile de mai jos sunt afișate identic în conținutul public și în datele structurate ale paginii.'
+  : `Cele mai solicitate variante pentru ${locationName}, cu tarife identice pe toate paginile Kassia.`;
+const whatsappText = encodeURIComponent('Bună! Aș dori să rezerv un program cu animatori și am nevoie de recomandarea potrivită.');
+---
+
+<section
+  class:list={['kassia-pricing-catalog', isFull ? 'pricing-full-table' : 'pricing-preview-section']}
+  data-kassia-pricing={variant}
+  aria-labelledby={`kassia-pricing-${variant}-heading`}
+>
+  <div class="pricing-catalog-container">
+    <div class="pricing-catalog-heading">
+      <p class="pricing-eyebrow">Tarife clare</p>
+      <h2 id={`kassia-pricing-${variant}-heading`}>{heading}</h2>
+      <p>{intro}</p>
+    </div>
+
+    {groups.map((group) => (
+      <div class="pricing-group" data-pricing-group={group.id}>
+        {group.heading && <h3 class="pricing-group-heading">{group.heading}</h3>}
+        <div class:list={['pricing-catalog-grid', !isFull && 'pricing-preview-cards']}>
+          {group.programs.map((program) => (
+            <article class="pricing-card" data-package-id={program.id}>
+              <p class="pricing-card-duration">{program.duration}</p>
+              {isFull ? <h4>{program.title}</h4> : <h3>{program.shortTitle}</h3>}
+              <p class="pricing-card-description">{program.description}</p>
+              {isFull && program.includes.length > 0 && (
+                <ul class="pricing-card-includes" aria-label={`Ce include programul ${program.title}, ${program.duration}`}>
+                  {program.includes.map((item) => <li>{item}</li>)}
+                </ul>
+              )}
+              <p class="pricing-card-price">
+                <strong>{program.price}</strong>
+                <span>lei</span>
+              </p>
+              <p class="pricing-card-note">Preț pentru durata indicată</p>
+              {isFull && (
+                <a
+                  class="pricing-card-cta"
+                  href={`https://wa.me/40763795919?text=${whatsappText}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Verifică disponibilitatea
+                </a>
+              )}
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+
+    {isFull ? (
+      <div class="pricing-catalog-footer">
+        <p>Disponibilitatea, deplasarea și eventualele opțiuni suplimentare se confirmă înainte de rezervare, în funcție de data și locația evenimentului.</p>
+        <a href={`https://wa.me/40763795919?text=${whatsappText}`} target="_blank" rel="noopener noreferrer">
+          Cere recomandarea potrivită
+        </a>
+      </div>
+    ) : (
+      <p class="pricing-catalog-link-wrap">
+        <a href="/preturi-animatori-copii-bucuresti/">Vezi toate programele și prețurile</a>
+      </p>
+    )}
+  </div>
+</section>
+
+<style>
+  .kassia-pricing-catalog {
+    padding: clamp(3.5rem, 7vw, 6rem) 0;
+    background: linear-gradient(180deg, #fff 0%, #faf5ff 100%);
+  }
+  .pricing-catalog-container {
+    width: min(1200px, calc(100% - 2rem));
+    margin: 0 auto;
+  }
+  .pricing-catalog-heading {
+    max-width: 820px;
+    margin: 0 auto 2.25rem;
+    text-align: center;
+  }
+  .pricing-eyebrow {
+    margin: 0 0 .6rem;
+    color: #9333ea;
+    font-size: .8rem;
+    font-weight: 850;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .pricing-catalog-heading h2 {
+    margin: 0 0 .9rem;
+    color: #1e293b;
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.12;
+  }
+  .pricing-catalog-heading > p:last-child {
+    margin: 0;
+    color: #475569;
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+  .pricing-group + .pricing-group { margin-top: 3.5rem; }
+  .pricing-group-heading {
+    margin: 0 0 1.25rem;
+    color: #1e293b;
+    font-size: clamp(1.45rem, 3vw, 2rem);
+    text-align: center;
+  }
+  .pricing-catalog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  }
+  .pricing-preview-cards { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .pricing-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 1.5rem;
+    border: 1px solid #e9d5ff;
+    border-radius: 20px;
+    background: rgba(255,255,255,.96);
+    box-shadow: 0 14px 36px rgba(88, 28, 135, .08);
+  }
+  .pricing-card-duration {
+    align-self: center;
+    margin: 0 0 .8rem;
+    padding: .35rem .7rem;
+    border-radius: 999px;
+    background: #f3e8ff;
+    color: #7e22ce;
+    font-size: .82rem;
+    font-weight: 800;
+  }
+  .pricing-card h3,
+  .pricing-card h4 {
+    margin: 0 0 .75rem;
+    color: #334155;
+    font-size: 1.08rem;
+    line-height: 1.4;
+    text-align: center;
+  }
+  .pricing-card-description {
+    margin: 0 0 1rem;
+    color: #475569;
+    font-size: .93rem;
+    line-height: 1.55;
+    text-align: center;
+  }
+  .pricing-card-includes {
+    margin: 0 0 1.25rem;
+    padding: 0;
+    list-style: none;
+    color: #475569;
+    font-size: .88rem;
+    line-height: 1.55;
+  }
+  .pricing-card-includes li { position: relative; padding-left: 1.35rem; }
+  .pricing-card-includes li + li { margin-top: .42rem; }
+  .pricing-card-includes li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: #16a34a;
+    font-weight: 900;
+  }
+  .pricing-card-price {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: .35rem;
+    margin: auto 0 .45rem;
+    padding-top: .5rem;
+    color: #9333ea;
+  }
+  .pricing-card-price strong {
+    font-size: clamp(2rem, 4vw, 2.75rem);
+    line-height: 1;
+  }
+  .pricing-card-price span { font-weight: 800; }
+  .pricing-card-note {
+    margin: 0;
+    color: #64748b;
+    font-size: .84rem;
+    line-height: 1.5;
+    text-align: center;
+  }
+  .pricing-card-cta {
+    align-self: center;
+    margin-top: 1rem;
+    color: #7e22ce;
+    font-size: .9rem;
+    font-weight: 850;
+    text-decoration: underline;
+    text-underline-offset: .2em;
+  }
+  .pricing-catalog-link-wrap,
+  .pricing-catalog-footer {
+    margin: 2rem auto 0;
+    text-align: center;
+  }
+  .pricing-catalog-footer {
+    max-width: 800px;
+    color: #475569;
+  }
+  .pricing-catalog-link-wrap a,
+  .pricing-catalog-footer > a {
+    display: inline-flex;
+    margin-top: .75rem;
+    padding: .9rem 1.3rem;
+    border-radius: 999px;
+    background: #9333ea;
+    color: white;
+    font-weight: 800;
+    text-decoration: none;
+  }
+  @media (max-width: 980px) {
+    .pricing-catalog-grid,
+    .pricing-preview-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 560px) {
+    .pricing-catalog-grid,
+    .pricing-preview-cards { grid-template-columns: 1fr; }
+  }
+</style>

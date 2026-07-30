@@ -5,13 +5,24 @@ import GlobalFloatingCTA from '../components/GlobalFloatingCTA.astro';
 export interface Props {
 	title: string;
 	description: string;
-	canonical: string;
-	robots: string;
+	canonical?: string;
+	robots?: string;
 	schemas?: any[];
 	ogImage?: string;
+	isAnimatori?: boolean;
+	whatsappMessage?: string;
 }
 
-const { title, description, canonical, robots, schemas = [], ogImage } = Astro.props;
+const { title, description, canonical, robots = 'index, follow', schemas = [], ogImage, isAnimatori = false, whatsappMessage } = Astro.props;
+
+const schemaGraph = schemas.map((schema) => {
+	const { '@context': _context, ...rest } = schema || {};
+	return rest;
+});
+const schemaJson = JSON.stringify({
+	'@context': 'https://schema.org',
+	'@graph': schemaGraph
+}).replace(/</g, '\\u003c');
 ---
 
 <!DOCTYPE html>
@@ -25,11 +36,11 @@ const { title, description, canonical, robots, schemas = [], ogImage } = Astro.p
 		<title>{title}</title>
 		<meta name="description" content={description} />
 		<meta name="robots" content={robots} />
-		<link rel="canonical" href={canonical} />
+		{canonical && <link rel="canonical" href={canonical} />}
 
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
-		<meta property="og:url" content={canonical} />
+		{canonical && <meta property="og:url" content={canonical} />}
 		<meta property="og:type" content="website" />
 		{ogImage && <meta property="og:image" content={ogImage} />}
 
@@ -40,22 +51,16 @@ const { title, description, canonical, robots, schemas = [], ogImage } = Astro.p
 		
 		<meta name="generator" content={Astro.generator} />
 
-		{schemas && schemas.length > 0 && (
-			<script type="application/ld+json" set:html={JSON.stringify({
-				"@context": "https://schema.org",
-				"@graph": schemas.map(s => {
-					const { "@context": _, ...rest } = s;
-					return rest;
-				})
-			})} />
+		{schemaGraph.length > 0 && (
+			<script type="application/ld+json" set:html={schemaJson} />
 		)}
 	</head>
 	<body>
-		<Header />
+		<Header whatsappMessage={whatsappMessage} isAnimatori={isAnimatori} />
 		<main>
 			<slot />
 		</main>
-		<GlobalFloatingCTA />
+		<GlobalFloatingCTA isAnimatori={isAnimatori} whatsappMessage={whatsappMessage} />
 	</body>
 </html>
 
@@ -63,8 +68,14 @@ const { title, description, canonical, robots, schemas = [], ogImage } = Astro.p
 	:root {
 		--font-family: 'Inter', system-ui, sans-serif;
 	}
-	body {
+	html, body {
 		margin: 0;
+		padding: 0;
+		width: 100%;
+		max-width: 100vw;
+		overflow-x: hidden;
+	}
+	body {
 		font-family: var(--font-family);
 		background-color: #f8fafc;
 		color: #0f172a;
