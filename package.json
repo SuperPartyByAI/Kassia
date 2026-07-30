@@ -1,5 +1,5 @@
 {
-  "name": "zoukasplay-site",
+  "name": "kassia-site",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -38,8 +38,8 @@
     "deploy:production": "PUBLIC_SITE_ENV=production npm run env:validate:production && PUBLIC_SITE_ENV=production npm run build && npm run seo:test:no-test-rpc:production && bash scripts/deploy-production.sh",
     "smoke:production": "npx tsx scripts/smoke-production.mjs",
     "pm2:start": "pm2 start ecosystem.config.cjs --env production",
-    "pm2:reload": "pm2 reload zoukasplay-site --update-env",
-    "pm2:logs": "pm2 logs zoukasplay-site",
+    "pm2:reload": "pm2 reload kassia-site --update-env",
+    "pm2:logs": "pm2 logs kassia-site",
     "seo:test:admin-site-scope": "node scripts/seo-test-admin-site-scope.mjs",
     "seo:test:site-isolation": "node scripts/seo-test-site-isolation.mjs",
     "seo:test:site-required": "node scripts/seo-test-site-required.mjs",

@@ -157,7 +157,7 @@ export const EXTENDED_ANIMATORI_PACKAGES = Object.freeze(
   ALL_ANIMATORI_PACKAGES.filter((entry) => !entry.preview)
 );
 
-export const DEPRECATED_ANIMATOR_PRICES = Object.freeze([350, 790, 9999]);
+export const DEPRECATED_ANIMATOR_PRICES = Object.freeze([350, 430, 560, 790, 860, 9999]);
 export const PRICING_PAGE_SLUG = 'preturi-animatori-copii-bucuresti';
 
 const LEGACY_PRICING_SECTION_TYPES = new Set([
@@ -168,7 +168,7 @@ const LEGACY_PRICING_SECTION_TYPES = new Set([
   'pricing_full_table'
 ]);
 
-const DEPRECATED_VISIBLE_PRICE_PATTERN = /(?:\b(?:350|790|9999)\s*(?:lei|ron)\b|["']?(?:price_amount|price)["']?\s*[:=]\s*["']?(?:350|790|9999)\b)/i;
+const DEPRECATED_VISIBLE_PRICE_PATTERN = /(?:\b(?:350|430|560|790|860|9999)\s*(?:lei|ron)\b|["']?(?:price_amount|price)["']?\s*[:=]\s*["']?(?:350|430|560|790|860|9999)\b)/i;
 const PRICING_CONTEXT_PATTERN = /(?:preț|pret|tarif|pachet|program|animator|picioroange)/i;
 
 export function shouldShowCanonicalPricing(slug, showPricingPreview = false) {
