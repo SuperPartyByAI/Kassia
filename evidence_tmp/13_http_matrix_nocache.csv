@@ -1,0 +1,22 @@
+Path,StatusCode,ContentType
+/,200,text/html
+/animatori-petreceri-copii/,200,text/html
+/preturi-animatori-copii-bucuresti/,200,text/html
+/catalog-costume/,200,text/html
+/blog/,200,text/html
+/ursitoare-botez-bucuresti/,200,text/html
+/mascote-petreceri-copii-bucuresti/,200,text/html
+/decoruri-baloane-bucuresti/,200,text/html
+/pachete-animatori-copii-bucuresti/,301,undefined
+/animatori-copii-bucuresti/,301,undefined
+/random-slug-with-slash/,404,text/html
+/random-slug-with-slash,404,text/html
+/inexistent.html,404,text/html
+/inexistent.js,404,text/html
+/path//double-slash/,404,text/html
+/invalid%encode,400,undefined
+/invalid?query=string,404,text/html
+/sitemap-index.xml,410,text/plain; charset=utf-8
+/sitemap_index.xml/,410,text/html
+/sitemap.xml,200,application/xml; charset=utf-8
+/robots.txt,200,text/plain

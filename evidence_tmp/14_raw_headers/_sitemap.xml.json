@@ -1,0 +1,8 @@
+{
+  "cache-control": "public, max-age=300, s-maxage=300, stale-while-revalidate=600",
+  "content-type": "application/xml; charset=utf-8",
+  "date": "Thu, 30 Jul 2026 22:09:38 GMT",
+  "connection": "keep-alive",
+  "keep-alive": "timeout=5",
+  "transfer-encoding": "chunked"
+}

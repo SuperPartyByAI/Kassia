@@ -1,0 +1,102 @@
+diff --git a/package.json b/package.json
+index 08517e8..8224efc 100644
+--- a/package.json
++++ b/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "zoukasplay-site",
++  "name": "kassia-site",
+   "type": "module",
+   "version": "0.0.1",
+   "engines": {
+@@ -38,8 +38,8 @@
+     "deploy:production": "PUBLIC_SITE_ENV=production npm run env:validate:production && PUBLIC_SITE_ENV=production npm run build && npm run seo:test:no-test-rpc:production && bash scripts/deploy-production.sh",
+     "smoke:production": "npx tsx scripts/smoke-production.mjs",
+     "pm2:start": "pm2 start ecosystem.config.cjs --env production",
+-    "pm2:reload": "pm2 reload zoukasplay-site --update-env",
+-    "pm2:logs": "pm2 logs zoukasplay-site",
++    "pm2:reload": "pm2 reload kassia-site --update-env",
++    "pm2:logs": "pm2 logs kassia-site",
+     "seo:test:admin-site-scope": "node scripts/seo-test-admin-site-scope.mjs",
+     "seo:test:site-isolation": "node scripts/seo-test-site-isolation.mjs",
+     "seo:test:site-required": "node scripts/seo-test-site-required.mjs",
+@@ -96,4 +96,4 @@
+   "devDependencies": {
+     "puppeteer": "^24.43.1"
+   }
+-}
++}
+\ No newline at end of file
+diff --git a/scripts/seo-validate.mjs b/scripts/seo-validate.mjs
+new file mode 100755
+index 0000000..90020ae
+--- /dev/null
++++ b/scripts/seo-validate.mjs
+@@ -0,0 +1,45 @@
++import fs from 'fs';
++import path from 'path';
++
++const DEPRECATED_PRICES = ['350', '430', '560', '790', '860', '9999'];
++const DIR_TO_CHECK = path.join(process.cwd(), 'src');
++
++function walkDir(dir) {
++    let results = [];
++    const list = fs.readdirSync(dir);
++    list.forEach(file => {
++        file = path.join(dir, file);
++        const stat = fs.statSync(file);
++        if (stat && stat.isDirectory()) {
++            results = results.concat(walkDir(file));
++        } else if (file.endsWith('.astro') || file.endsWith('.mjs') || file.endsWith('.ts')) {
++            results.push(file);
++        }
++    });
++    return results;
++}
++
++let hasError = false;
++const files = walkDir(DIR_TO_CHECK);
++
++for (const file of files) {
++    // Skip kassia-pricing.mjs since it defines the deprecated prices!
++    if (file.includes('kassia-pricing.mjs')) continue;
++
++    const content = fs.readFileSync(file, 'utf8');
++    for (const price of DEPRECATED_PRICES) {
++        const regex = new RegExp(`\\b${price}\\s*(?:lei|ron)\\b`, 'i');
++        if (regex.test(content)) {
++            console.error(`[SEO-VALIDATE] Error: Deprecated price ${price} lei found in ${file}`);
++            hasError = true;
++        }
++    }
++}
++
++if (hasError) {
++    console.error('[SEO-VALIDATE] FAILED: Deprecated prices found in source code.');
++    process.exit(1);
++} else {
++    console.log('[SEO-VALIDATE] PASS: No deprecated prices in source code.');
++    process.exit(0);
++}
+diff --git a/src/lib/kassia-pricing.mjs b/src/lib/kassia-pricing.mjs
+index 4bef4ca..e192998 100644
+--- a/src/lib/kassia-pricing.mjs
++++ b/src/lib/kassia-pricing.mjs
+@@ -157,7 +157,7 @@ export const EXTENDED_ANIMATORI_PACKAGES = Object.freeze(
+   ALL_ANIMATORI_PACKAGES.filter((entry) => !entry.preview)
+ );
+ 
+-export const DEPRECATED_ANIMATOR_PRICES = Object.freeze([350, 790, 9999]);
++export const DEPRECATED_ANIMATOR_PRICES = Object.freeze([350, 430, 560, 790, 860, 9999]);
+ export const PRICING_PAGE_SLUG = 'preturi-animatori-copii-bucuresti';
+ 
+ const LEGACY_PRICING_SECTION_TYPES = new Set([
+@@ -168,7 +168,7 @@ const LEGACY_PRICING_SECTION_TYPES = new Set([
+   'pricing_full_table'
+ ]);
+ 
+-const DEPRECATED_VISIBLE_PRICE_PATTERN = /(?:\b(?:350|790|9999)\s*(?:lei|ron)\b|["']?(?:price_amount|price)["']?\s*[:=]\s*["']?(?:350|790|9999)\b)/i;
++const DEPRECATED_VISIBLE_PRICE_PATTERN = /(?:\b(?:350|430|560|790|860|9999)\s*(?:lei|ron)\b|["']?(?:price_amount|price)["']?\s*[:=]\s*["']?(?:350|430|560|790|860|9999)\b)/i;
+ const PRICING_CONTEXT_PATTERN = /(?:preț|pret|tarif|pachet|program|animator|picioroange)/i;
+ 
+ export function shouldShowCanonicalPricing(slug, showPricingPreview = false) {

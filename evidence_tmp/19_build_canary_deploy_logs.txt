@@ -1,0 +1,22 @@
+
+> kassia-site@0.0.1 build
+> astro build
+
+22:09:18 [@astrojs/node] Enabling sessions with filesystem storage
+22:09:18 [types] Generated 64ms
+22:09:18 [build] output: "server"
+22:09:18 [build] mode: "server"
+22:09:18 [build] directory: /opt/kassia-site/dist/
+22:09:18 [build] adapter: @astrojs/node
+22:09:18 [build] Collecting build info...
+22:09:18 [build] ✓ Completed in 128ms.
+22:09:18 [build] Building server entrypoints...
+22:09:20 [vite] ✓ built in 1.29s
+22:09:22 [vite] ✓ built in 2.65s
+22:09:23 [vite] ✓ built in 272ms
+22:09:23 [build] Rearranging server assets...
+22:09:23 [build] ✓ Completed in 4.36s.
+22:09:23 [build] Server built in 4.52s
+22:09:23 [build] Complete!
+[PM2] Applying action reloadProcessId on app [kassia-site](ids: [ 0 ])
+[PM2] [kassia-site](0) ✓

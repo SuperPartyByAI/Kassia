@@ -33,11 +33,13 @@ if (redirectTarget) {
 }
 
 if (isKnownGonePath(currentPath)) {
+  Astro.response.status = 410;
   return Astro.rewrite('/410');
 }
 
 const path = normalizeRequestPath(currentPath);
 if (!path) {
+  Astro.response.status = 404;
   return Astro.rewrite('/404');
 }
 
@@ -47,6 +49,7 @@ if (isReservedFileRoute(path) && path !== currentPath) {
   return Astro.redirect(appendSearch(path, Astro.url.search), 301);
 }
 if (isFileLikePath(path)) {
+  Astro.response.status = 404;
   return Astro.rewrite('/404');
 }
 
@@ -63,18 +66,22 @@ if (pageError) {
     code: pageError.code || 'UNKNOWN',
     path
   });
+  Astro.response.status = 503;
   return Astro.rewrite('/503');
 }
 
 if (!page) {
+  Astro.response.status = 404;
   return Astro.rewrite('/404');
 }
 
 if (isGonePageStatus(page.status) && import.meta.env.PROD) {
+  Astro.response.status = 410;
   return Astro.rewrite('/410');
 }
 
 if (page.status !== 'published' && import.meta.env.PROD) {
+  Astro.response.status = 404;
   return Astro.rewrite('/404');
 }
 

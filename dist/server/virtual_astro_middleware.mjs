@@ -34,14 +34,6 @@ const onRequest$1 = defineMiddleware(async ({ request, url }, next) => {
       }
     });
   }
-  if (url.pathname === "/animatori-petreceri-copii-bucuresti" || url.pathname === "/animatori-petreceri-copii-bucuresti/") {
-    return new Response(null, {
-      status: 301,
-      headers: {
-        Location: "/animatori-petreceri-copii/"
-      }
-    });
-  }
   if (url.pathname === "/animatori-copii-sector-2" || url.pathname === "/animatori-copii-sector-2/") {
     return new Response(null, {
       status: 301,

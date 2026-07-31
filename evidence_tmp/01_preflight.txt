@@ -1,0 +1,82 @@
+Thu Jul 30 10:06:51 PM UTC 2026
+wa-production-cpx41ubuntu-32gb-hel1-2
+/opt/kassia-site
+fatal: not a git repository (or any of the parent directories): .git
+┌────┬───────────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name                      │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼───────────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 21 │ auditor-standalone        │ default     │ 1.0.0   │ fork    │ 1026157  │ 83m    │ 3    │ online    │ 0%       │ 71.2mb   │ root     │ disabled │
+│ 0  │ superparty-chat-bridge    │ default     │ 1.0.0   │ fork    │ 1046355  │ 73m    │ 42   │ online    │ 100%     │ 703.5mb  │ root     │ disabled │
+│ 6  │ wa-3010                   │ default     │ 1.0.0   │ fork    │ 905544   │ 2h     │ 0    │ online    │ 0%       │ 126.4mb  │ root     │ disabled │
+│ 7  │ wa-3011                   │ default     │ 1.0.0   │ fork    │ 905545   │ 2h     │ 0    │ online    │ 0%       │ 129.4mb  │ root     │ disabled │
+│ 8  │ wa-3012                   │ default     │ 1.0.0   │ fork    │ 905586   │ 2h     │ 0    │ online    │ 0%       │ 134.8mb  │ root     │ disabled │
+│ 9  │ wa-3013                   │ default     │ 1.0.0   │ fork    │ 905597   │ 2h     │ 0    │ online    │ 0%       │ 144.6mb  │ root     │ disabled │
+│ 10 │ wa-3014                   │ default     │ 1.0.0   │ fork    │ 905628   │ 2h     │ 0    │ online    │ 0%       │ 126.6mb  │ root     │ disabled │
+│ 5  │ wa-3015                   │ default     │ 1.0.0   │ fork    │ 841637   │ 3h     │ 0    │ online    │ 0%       │ 124.9mb  │ root     │ disabled │
+│ 11 │ wa-3016                   │ default     │ 1.0.0   │ fork    │ 905635   │ 2h     │ 0    │ online    │ 0%       │ 127.1mb  │ root     │ disabled │
+│ 12 │ wa-3017                   │ default     │ 1.0.0   │ fork    │ 905695   │ 2h     │ 0    │ online    │ 0%       │ 129.4mb  │ root     │ disabled │
+│ 13 │ wa-3018                   │ default     │ 1.0.0   │ fork    │ 905702   │ 2h     │ 0    │ online    │ 0%       │ 125.0mb  │ root     │ disabled │
+│ 14 │ wa-3019                   │ default     │ 1.0.0   │ fork    │ 905742   │ 2h     │ 0    │ online    │ 0%       │ 124.4mb  │ root     │ disabled │
+│ 15 │ wa-3020                   │ default     │ 1.0.0   │ fork    │ 905749   │ 2h     │ 0    │ online    │ 0%       │ 132.1mb  │ root     │ disabled │
+│ 16 │ wa-3021                   │ default     │ 1.0.0   │ fork    │ 905788   │ 2h     │ 0    │ online    │ 0%       │ 126.1mb  │ root     │ disabled │
+│ 17 │ wa-3022                   │ default     │ 1.0.0   │ fork    │ 905813   │ 2h     │ 0    │ online    │ 0%       │ 125.6mb  │ root     │ disabled │
+│ 18 │ wa-3023                   │ default     │ 1.0.0   │ fork    │ 905888   │ 2h     │ 0    │ online    │ 0%       │ 140.9mb  │ root     │ disabled │
+│ 19 │ wa-3024                   │ default     │ 1.0.0   │ fork    │ 905899   │ 2h     │ 0    │ online    │ 0%       │ 126.5mb  │ root     │ disabled │
+│ 4  │ whatsapp-orchestrator     │ default     │ 1.0.0   │ fork    │ 840773   │ 3h     │ 0    │ online    │ 0%       │ 84.4mb   │ root     │ disabled │
+└────┴───────────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+        proxy_pass http://127.0.0.1:3061;
+        proxy_pass http://127.0.0.1:3005;
+        proxy_pass http://127.0.0.1:3060/api/;
+    server_name kassia-p0-q2x9uev9kvawkmvt2a4hhelf.89.167.115.150.nip.io;
+        proxy_pass http://127.0.0.1:3051;
+    server_name kassia-p0-q2x9uev9kvawkmvt2a4hhelf.89.167.115.150.nip.io;
+    server_name www.kassia.ro;
+        proxy_pass http://127.0.0.1:3050;
+    server_name kassia.ro;
+    server_name kassia.ro www.kassia.ro;
+        proxy_pass http://127.0.0.1:3050;
+        proxy_pass http://127.0.0.1:3041;
+        proxy_pass http://127.0.0.1:3055/worker/;
+        proxy_pass http://127.0.0.1:3041/api/mcp/universal-project-gateway/;
+        proxy_pass http://127.0.0.1:3045;
+        proxy_pass http://127.0.0.1:3041;
+        proxy_pass http://127.0.0.1:3041/api/mcp/superparty/;
+        proxy_pass http://127.0.0.1:3041;
+        proxy_pass http://127.0.0.1:3046;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:3030;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3055/;
+        proxy_pass http://127.0.0.1:3045;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3046;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:3030;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3055/worker/;
+        proxy_pass http://127.0.0.1:3040/api/mcp/universal-project-gateway/;
+        proxy_pass http://127.0.0.1:3045;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3040/api/mcp/superparty/;
+        proxy_pass http://127.0.0.1:3040;
+        proxy_pass http://127.0.0.1:3046;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:3030;
+        proxy_pass http://127.0.0.1:3001;
+        proxy_pass http://127.0.0.1:4392;
+        proxy_pass http://127.0.0.1:4392;
+        proxy_pass http://127.0.0.1:4391;
+        proxy_pass http://127.0.0.1:8080/wp-json/;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+        proxy_pass http://127.0.0.1:8080;
+    location = /api/mcp/time4pizza/5efae4bb1e844afa254b377b1ea1c4b725649948583b29d157e2c0fff968f8a7/mcp { proxy_pass http://127.0.0.1:4392/api/mcp/time4pizza/28dbda0016d090962d86188700e99dbaa18a57c0a61ec9260fa5790ad3752ed2/mcp; proxy_http_version 1.1; proxy_buffering off; }
+        proxy_pass http://127.0.0.1:4324;

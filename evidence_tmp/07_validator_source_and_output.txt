@@ -1,0 +1,1 @@
+[SEO-VALIDATE] PASS: No deprecated prices in source code.

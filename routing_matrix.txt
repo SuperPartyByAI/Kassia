@@ -1,0 +1,13 @@
+Route /: 200
+Route /animatori-petreceri-copii/: 200
+Route /animatori-petreceri-copii-bucuresti/: 200
+Route /catalog-costume/: 200
+Route /ursitoare-botez-bucuresti/: 200
+Route /mascote-petreceri-copii-bucuresti/: 200
+Route /blog/: 200
+Route /robots.txt: 200
+Route /sitemap.xml: 200
+Route /random-404-ruta-inexistenta: 404
+Route /random.xml: 404
+Route /sitemap_index.xml/: 410
+Route /sitemap-index.xml: 410
