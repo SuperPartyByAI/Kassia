@@ -1,0 +1,81 @@
+---
+export interface Props {
+  path: string;
+  title: string;
+}
+
+const { path, title } = Astro.props;
+
+const pathSegments = path.split('/').filter(Boolean);
+const breadcrumbs = [];
+
+breadcrumbs.push({ name: 'Acasă', url: '/' });
+
+let currentUrl = '';
+pathSegments.forEach((segment, index) => {
+  currentUrl += `/${segment}`;
+  const isLast = index === pathSegments.length - 1;
+  const segmentName = isLast ? title : segment.replace(/-/g, ' ');
+  
+  breadcrumbs.push({
+    name: segmentName.charAt(0).toUpperCase() + segmentName.slice(1),
+    url: isLast ? null : `${currentUrl}/`
+  });
+});
+---
+
+<nav aria-label="Breadcrumb" class="breadcrumbs">
+  <div class="container">
+    <ol>
+      {breadcrumbs.map((crumb, index) => (
+        <li class={!crumb.url ? "current" : ""}>
+          {crumb.url ? (
+            <a href={crumb.url}>{crumb.name}</a>
+          ) : (
+            <span aria-current="page">{crumb.name}</span>
+          )}
+          {index < breadcrumbs.length - 1 && <span class="separator">›</span>}
+        </li>
+      ))}
+    </ol>
+  </div>
+</nav>
+
+<style>
+  .breadcrumbs {
+    background: #f8fafc;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #e2e8f0;
+    font-size: 0.85rem;
+  }
+  .breadcrumbs ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .breadcrumbs li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .breadcrumbs a {
+    color: #64748b;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .breadcrumbs a:hover {
+    color: #a855f7;
+    text-decoration: underline;
+  }
+  .breadcrumbs .current span {
+    color: #0f172a;
+    font-weight: 500;
+  }
+  .breadcrumbs .separator {
+    color: #cbd5e1;
+  }
+</style>

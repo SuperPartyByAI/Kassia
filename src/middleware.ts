@@ -125,7 +125,7 @@ export const onRequest = defineMiddleware(async ({ request, url }, next) => {
     return new Response(null, {
       status: 301,
       headers: {
-        Location: '/pachete-animatori-copii-bucuresti/'
+        Location: '/preturi-animatori-copii-bucuresti/'
       }
     });
   }

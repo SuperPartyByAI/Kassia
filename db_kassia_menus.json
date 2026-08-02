@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bad5bb0d-d667-4bfc-a3b5-5ca579c1535b",
+    "location": "header_services",
+    "title": "Servicii Baloane"
+  },
+  {
+    "id": "7f60c7ca-6a12-4c45-900a-2ce6c0552337",
+    "location": "header_events",
+    "title": "Evenimente"
+  },
+  {
+    "id": "3c91e367-6015-482e-8e72-d92bd082fbef",
+    "location": "footer_services",
+    "title": "Servicii Principale"
+  },
+  {
+    "id": "c072d26d-5656-416b-b893-3c6c1fb74f18",
+    "location": "header_animatori",
+    "title": "Animatori copii"
+  }
+]

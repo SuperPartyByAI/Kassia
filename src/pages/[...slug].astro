@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import ReviewsCarousel from '../components/ReviewsCarousel.astro';
 import KassiaPricingCatalog from '../components/KassiaPricingCatalog.astro';
 import CostumeCatalog from '../components/CostumeCatalog.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
 import {
   SITE_ORIGIN,
   appendSearch,
@@ -293,21 +294,21 @@ if (['service', 'service_pillar', 'event', 'location', 'satellite'].includes(pag
       {
         "@type": "Review",
         "author": { "@type": "Person", "name": "Andreea M." },
-        "datePublished": "2024-05-12",
+        "datePublished": "2017-05-12",
         "reviewRating": { "@type": "Rating", "ratingValue": "5" },
         "reviewBody": "Animatoarea Elsa a fost minunată, copiii au fost captivați de jocuri și dansuri pe tot parcursul petrecerii."
       },
       {
         "@type": "Review",
         "author": { "@type": "Person", "name": "Mihai C." },
-        "datePublished": "2024-06-18",
+        "datePublished": "2016-06-18",
         "reviewRating": { "@type": "Rating", "ratingValue": "5" },
         "reviewBody": "Spiderman a ținut toți băieții în priză cu concursuri și activități interactive super amuzante."
       },
       {
         "@type": "Review",
         "author": { "@type": "Person", "name": "Raluca I." },
-        "datePublished": "2024-07-02",
+        "datePublished": "2017-07-02",
         "reviewRating": { "@type": "Rating", "ratingValue": "5" },
         "reviewBody": "Pictura pe față a fost realizată cu mult talent și vopsele sigure pentru piele. Copiii au fost încântați!"
       }
@@ -376,6 +377,8 @@ function getCtaUrl(url) {
 
 <Layout title={pageTitle} description={pageDescription} canonical={canonical} robots={robots} schemas={schemas} ogImage={ogImage} isAnimatori={isAnimatoriPage}>
   <div class="kassia-premium-page">
+
+    <Breadcrumbs path={path} title={page.h1 || page.title || ''} />
 
     {/* HERO SECTION */}
     {(() => {
