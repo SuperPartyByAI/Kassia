@@ -1,7 +1,7 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { af as createRenderInstruction, aM as maybeRenderHead, aY as renderTemplate, a5 as addAttribute, b5 as unescapeHTML, aU as renderHead, aV as renderSlot } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
 import 'clsx';
 import { s as supabase } from './supabase_m9V3dadf.mjs';
 
@@ -26,16 +26,16 @@ const $$Header = createComponent(async ($$result, $$props, $$slots) => {
   const currentPath = Astro2.url.pathname.replace(/\/$/, "");
   const animatoriSlugs = [
     "/animatori-petreceri-copii-bucuresti",
-    "/pachete-animatori-copii-bucuresti",
+    "/preturi-animatori-copii-bucuresti",
     "/oferta-animatori-petreceri-copii-bucuresti",
-    "/personaje-petreceri-copii-bucuresti",
+    "/personaje-animatori-copii-bucuresti",
     "/animatori-tematici-petreceri-copii-bucuresti",
     "/mascote-petreceri-copii-bucuresti",
     "/pictura-pe-fata-copii-bucuresti",
     "/modelaj-baloane-copii-bucuresti",
     "/jocuri-interactive-copii-bucuresti",
     "/mini-disco-copii-bucuresti",
-    "/animatori-cu-mascote-petreceri-copii-bucuresti",
+    "/mascote-petreceri-copii-bucuresti",
     "/animatori-copii"
   ];
   const isAnimatoriPage = animatoriSlugs.includes(currentPath);

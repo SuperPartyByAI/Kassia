@@ -27,6 +27,10 @@ import {
 
 // This is an SSR page. Routing is fail-closed: only exact published DB paths return 200.
 const currentPath = Astro.url.pathname;
+if (currentPath.startsWith('/admin') || currentPath.startsWith('/administrator')) {
+  Astro.response.status = 404;
+  return new Response('404 Not Found', { status: 404 });
+}
 const redirectTarget = getLegacyRedirect(currentPath);
 
 if (redirectTarget) {
@@ -39,6 +43,10 @@ if (isKnownGonePath(currentPath)) {
 }
 
 const path = normalizeRequestPath(currentPath);
+if (path && (path.startsWith('/admin') || path.startsWith('/administrator'))) {
+  Astro.response.status = 404;
+  return Astro.rewrite('/404');
+}
 if (!path) {
   Astro.response.status = 404;
   return Astro.rewrite('/404');
@@ -249,7 +257,7 @@ const localBusinessSchema = {
   "@id": `${siteUrl}/#organization`,
   "name": "Kassia Events",
   "url": siteUrl,
-  "logo": `${siteUrl}/logo.png`,
+  "logo": `${siteUrl}/favicon.svg`,
   "image": validImages.length > 0 ? validImages[0].url : undefined
 };
 if (phone) {
@@ -345,12 +353,20 @@ if (validFaqs.length > 0) {
 // 4. BreadcrumbList
 const pathSegments = path.split('/').filter(Boolean);
 if (pathSegments.length > 0) {
-  const itemListElement = pathSegments.map((segment, index) => ({
-    "@type": "ListItem",
-    "position": index + 1,
-    "name": index === pathSegments.length - 1 ? (page.h1 || page.title || segment.replace(/-/g, ' ')) : segment.replace(/-/g, ' '),
-    "item": `${siteUrl}/${pathSegments.slice(0, index + 1).join('/')}/`
-  }));
+  const itemListElement = [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Acasă",
+      "item": `${siteUrl}/`
+    },
+    ...pathSegments.map((segment, index) => ({
+      "@type": "ListItem",
+      "position": index + 2,
+      "name": index === pathSegments.length - 1 ? (page.h1 || page.title || segment.replace(/-/g, ' ')) : segment.replace(/-/g, ' '),
+      "item": `${siteUrl}/${pathSegments.slice(0, index + 1).join('/')}/`
+    }))
+  ];
 
   schemas.push({
     "@context": "https://schema.org",
@@ -393,6 +409,9 @@ function getCtaUrl(url) {
               {hasBody ? (
                 <>
                   <div class="hero-subtitle" set:html={heroSec.content.body} />
+                  <div class="hero-reviews" style="margin-top: 1rem; color: #ffca28; font-weight: 500;">
+                    ★ 4.9/5 din 970 recenzii
+                  </div>
                   {heroSec.content?.cta_text && (
                     <a href={getCtaUrl(heroSec.content?.cta_url)} class="btn-primary" style="margin-top:2rem; display:inline-block;">
                       {heroSec.content.cta_text}
@@ -402,6 +421,9 @@ function getCtaUrl(url) {
               ) : (
                 <>
                   {page.meta_description && <p class="hero-subtitle">{page.meta_description}</p>}
+                  <div class="hero-reviews" style="margin-top: 1rem; color: #ffca28; font-weight: 500;">
+                    ★ 4.9/5 din 970 recenzii
+                  </div>
                 </>
               )}
             </div>

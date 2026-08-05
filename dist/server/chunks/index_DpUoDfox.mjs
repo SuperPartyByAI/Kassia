@@ -1,7 +1,7 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aY as renderTemplate, aM as maybeRenderHead, a5 as addAttribute } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
 import { s as supabaseAdmin, $ as $$AdminLayout } from './supabaseAdmin_BbxJ75dC.mjs';
 
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {

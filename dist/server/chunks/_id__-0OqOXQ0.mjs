@@ -1,8 +1,8 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aY as renderTemplate, aM as maybeRenderHead, a5 as addAttribute, m as Fragment, b5 as unescapeHTML } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
-import { $ as $$Layout, r as renderScript } from './Layout_nXdveVCy.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
+import { $ as $$Layout, r as renderScript } from './Layout_BVpaCx1Q.mjs';
 import { s as supabase } from './supabase_m9V3dadf.mjs';
 import { $ as $$ReviewsCarousel } from './ReviewsCarousel_MPoCkUKY.mjs';
 

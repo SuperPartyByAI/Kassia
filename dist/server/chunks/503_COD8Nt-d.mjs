@@ -1,8 +1,8 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aY as renderTemplate, aM as maybeRenderHead } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
-import { $ as $$Layout } from './Layout_nXdveVCy.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
+import { $ as $$Layout } from './Layout_BVpaCx1Q.mjs';
 
 const $$503 = createComponent(($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$props, $$slots);

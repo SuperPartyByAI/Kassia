@@ -1,8 +1,8 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aY as renderTemplate, aM as maybeRenderHead } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
-import { $ as $$Layout } from './Layout_nXdveVCy.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
+import { $ as $$Layout } from './Layout_BVpaCx1Q.mjs';
 
 var __freeze = Object.freeze;
 var __defProp = Object.defineProperty;

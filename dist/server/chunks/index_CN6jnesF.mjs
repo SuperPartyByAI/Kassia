@@ -1,9 +1,9 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aY as renderTemplate, aM as maybeRenderHead, a5 as addAttribute } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
-import { $ as $$Layout } from './Layout_nXdveVCy.mjs';
-import { $ as $$Footer } from './Footer_hXl4F4Is.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
+import { $ as $$Layout } from './Layout_BVpaCx1Q.mjs';
+import { $ as $$Footer } from './Footer_CfVdOOWe.mjs';
 import { s as supabase } from './supabase_m9V3dadf.mjs';
 import { a as appendSearch, j as normalizeRequestPath, f as isSitemapEligiblePath, g as getLegacyRedirect, S as SITE_ORIGIN } from './kassia-routing_C02FXj94.mjs';
 

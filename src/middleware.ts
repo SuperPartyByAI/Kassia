@@ -9,7 +9,7 @@ export const onRequest = defineMiddleware(async ({ request, url }, next) => {
       if (import.meta.env.DEV) {
         return next();
       }
-      return new Response('Admin credentials not configured. Please set ADMIN_USER and ADMIN_PASSWORD in environment variables.', { status: 500 });
+      return new Response('Not found', { status: 404 });
     }
 
     const basicAuth = request.headers.get('authorization');

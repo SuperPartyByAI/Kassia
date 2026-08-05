@@ -7,7 +7,7 @@ import '@astrojs/internal-helpers/object';
 const onRequest$1 = defineMiddleware(async ({ request, url }, next) => {
   if (url.pathname.startsWith("/admin")) {
     {
-      return new Response("Admin credentials not configured. Please set ADMIN_USER and ADMIN_PASSWORD in environment variables.", { status: 500 });
+      return new Response("Not found", { status: 404 });
     }
   }
   if (url.pathname === "/personaje-petreceri-copii-bucuresti" || url.pathname === "/personaje-petreceri-copii-bucuresti/") {

@@ -1,7 +1,7 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aM as maybeRenderHead, aY as renderTemplate, a5 as addAttribute } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
 import { s as supabase } from './supabase_m9V3dadf.mjs';
 import 'clsx';
 
@@ -18,16 +18,16 @@ const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
   const animatoriSlugs = [
     "/animatori-petreceri-copii",
     "/animatori-petreceri-copii-bucuresti",
-    "/pachete-animatori-copii-bucuresti",
+    "/preturi-animatori-copii-bucuresti",
     "/oferta-animatori-petreceri-copii-bucuresti",
-    "/personaje-petreceri-copii-bucuresti",
+    "/personaje-animatori-copii-bucuresti",
     "/animatori-tematici-petreceri-copii-bucuresti",
     "/mascote-petreceri-copii-bucuresti",
     "/pictura-pe-fata-copii-bucuresti",
     "/modelaj-baloane-copii-bucuresti",
     "/jocuri-interactive-copii-bucuresti",
     "/mini-disco-copii-bucuresti",
-    "/animatori-cu-mascote-petreceri-copii-bucuresti",
+    "/mascote-petreceri-copii-bucuresti",
     "/animatori-copii"
   ];
   const normalizedPath = Astro2.url.pathname.replace(/\/$/, "");

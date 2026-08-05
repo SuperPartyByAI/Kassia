@@ -5,16 +5,16 @@ const { whatsappMessage, isAnimatori } = Astro.props;
 const currentPath = Astro.url.pathname.replace(/\/$/, '');
 const animatoriSlugs = [
   '/animatori-petreceri-copii-bucuresti',
-  '/pachete-animatori-copii-bucuresti',
+  '/preturi-animatori-copii-bucuresti',
   '/oferta-animatori-petreceri-copii-bucuresti',
-  '/personaje-petreceri-copii-bucuresti',
+  '/personaje-animatori-copii-bucuresti',
   '/animatori-tematici-petreceri-copii-bucuresti',
   '/mascote-petreceri-copii-bucuresti',
   '/pictura-pe-fata-copii-bucuresti',
   '/modelaj-baloane-copii-bucuresti',
   '/jocuri-interactive-copii-bucuresti',
   '/mini-disco-copii-bucuresti',
-  '/animatori-cu-mascote-petreceri-copii-bucuresti',
+  '/mascote-petreceri-copii-bucuresti',
   '/animatori-copii'
 ];
 const isAnimatoriPage = animatoriSlugs.includes(currentPath);

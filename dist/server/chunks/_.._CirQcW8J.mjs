@@ -1,10 +1,10 @@
 import { c as createComponent } from './astro-component_BolP7oBx.mjs';
 import 'piccolore';
 import { aM as maybeRenderHead, a5 as addAttribute, aY as renderTemplate, m as Fragment, b5 as unescapeHTML } from './params-and-props_COoDNZnO.mjs';
-import { r as renderComponent } from './server_KVogxJwq.mjs';
+import { r as renderComponent } from './server_DwvUK002.mjs';
 import { s as supabase } from './supabase_m9V3dadf.mjs';
-import { $ as $$Layout } from './Layout_nXdveVCy.mjs';
-import { $ as $$Footer } from './Footer_hXl4F4Is.mjs';
+import { $ as $$Layout } from './Layout_BVpaCx1Q.mjs';
+import { $ as $$Footer } from './Footer_CfVdOOWe.mjs';
 import { $ as $$ReviewsCarousel } from './ReviewsCarousel_MPoCkUKY.mjs';
 import 'clsx';
 import { g as getLegacyRedirect, a as appendSearch, d as isKnownGonePath, j as normalizeRequestPath, e as isReservedFileRoute, i as isFileLikePath, c as isGonePageStatus, b as buildSelfCanonical, S as SITE_ORIGIN } from './kassia-routing_C02FXj94.mjs';
@@ -780,6 +780,10 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$props, $$slots);
   Astro2.self = $$;
   const currentPath = Astro2.url.pathname;
+  if (currentPath.startsWith("/admin") || currentPath.startsWith("/administrator")) {
+    Astro2.response.status = 404;
+    return new Response("404 Not Found", { status: 404 });
+  }
   const redirectTarget = getLegacyRedirect(currentPath);
   if (redirectTarget) {
     return Astro2.redirect(appendSearch(redirectTarget, Astro2.url.search), 301);
@@ -789,6 +793,10 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
     return Astro2.rewrite("/410");
   }
   const path = normalizeRequestPath(currentPath);
+  if (path && (path.startsWith("/admin") || path.startsWith("/administrator"))) {
+    Astro2.response.status = 404;
+    return Astro2.rewrite("/404");
+  }
   if (!path) {
     Astro2.response.status = 404;
     return Astro2.rewrite("/404");
@@ -927,7 +935,7 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
     "@id": `${siteUrl}/#organization`,
     "name": "Kassia Events",
     "url": siteUrl,
-    "logo": `${siteUrl}/logo.png`,
+    "logo": `${siteUrl}/favicon.svg`,
     "image": validImages.length > 0 ? validImages[0].url : void 0
   };
   if (phone) {
@@ -1011,12 +1019,20 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
   }
   const pathSegments = path.split("/").filter(Boolean);
   if (pathSegments.length > 0) {
-    const itemListElement = pathSegments.map((segment, index) => ({
-      "@type": "ListItem",
-      "position": index + 1,
-      "name": index === pathSegments.length - 1 ? page.h1 || page.title || segment.replace(/-/g, " ") : segment.replace(/-/g, " "),
-      "item": `${siteUrl}/${pathSegments.slice(0, index + 1).join("/")}/`
-    }));
+    const itemListElement = [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Acasă",
+        "item": `${siteUrl}/`
+      },
+      ...pathSegments.map((segment, index) => ({
+        "@type": "ListItem",
+        "position": index + 2,
+        "name": index === pathSegments.length - 1 ? page.h1 || page.title || segment.replace(/-/g, " ") : segment.replace(/-/g, " "),
+        "item": `${siteUrl}/${pathSegments.slice(0, index + 1).join("/")}/`
+      }))
+    ];
     schemas.push({
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
@@ -1037,7 +1053,11 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
   return renderTemplate`${renderComponent($$result, "Layout", $$Layout, { "title": pageTitle, "description": pageDescription, "canonical": canonical, "robots": robots, "schemas": schemas, "ogImage": ogImage, "isAnimatori": isAnimatoriPage, "data-astro-cid-fzx4jmue": true }, { "default": async ($$result2) => renderTemplate` ${maybeRenderHead()}<div class="kassia-premium-page" data-astro-cid-fzx4jmue> ${renderComponent($$result2, "Breadcrumbs", $$Breadcrumbs, { "path": path, "title": page.h1 || page.title || "", "data-astro-cid-fzx4jmue": true })}  ${(() => {
     const heroSec = sections?.find((s) => s.section_type === "hero");
     const hasBody = typeof heroSec?.content?.body === "string" && heroSec.content.body.trim() !== "";
-    return renderTemplate`<header${addAttribute(`hero-section ${heroSec?.content?.image_url ? "has-image" : ""}`, "class")} data-astro-cid-fzx4jmue> <div class="hero-overlay" data-astro-cid-fzx4jmue></div> <div class="container hero-content-wrapper" data-astro-cid-fzx4jmue> <div class="hero-text-content" data-astro-cid-fzx4jmue> <h1 class="page-title" data-astro-cid-fzx4jmue>${page.h1 || page.title}</h1> ${hasBody ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-fzx4jmue": true }, { "default": async ($$result3) => renderTemplate` <div class="hero-subtitle" data-astro-cid-fzx4jmue>${unescapeHTML(heroSec.content.body)}</div> ${heroSec.content?.cta_text && renderTemplate`<a${addAttribute(getCtaUrl(heroSec.content?.cta_url), "href")} class="btn-primary" style="margin-top:2rem; display:inline-block;" data-astro-cid-fzx4jmue> ${heroSec.content.cta_text} </a>`}` })}` : renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-fzx4jmue": true }, { "default": async ($$result3) => renderTemplate`${page.meta_description && renderTemplate`<p class="hero-subtitle" data-astro-cid-fzx4jmue>${page.meta_description}</p>`}` })}`} </div> ${heroSec?.content?.image_url && renderTemplate`<div class="hero-image-wrapper" data-astro-cid-fzx4jmue> <img${addAttribute(heroSec.content.image_url, "src")}${addAttribute(page.h1 || page.title || "Kassia Events", "alt")} class="hero-image" width="1200" height="800" loading="eager" fetchpriority="high" decoding="sync" data-astro-cid-fzx4jmue> </div>`} </div> </header>`;
+    return renderTemplate`<header${addAttribute(`hero-section ${heroSec?.content?.image_url ? "has-image" : ""}`, "class")} data-astro-cid-fzx4jmue> <div class="hero-overlay" data-astro-cid-fzx4jmue></div> <div class="container hero-content-wrapper" data-astro-cid-fzx4jmue> <div class="hero-text-content" data-astro-cid-fzx4jmue> <h1 class="page-title" data-astro-cid-fzx4jmue>${page.h1 || page.title}</h1> ${hasBody ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-fzx4jmue": true }, { "default": async ($$result3) => renderTemplate` <div class="hero-subtitle" data-astro-cid-fzx4jmue>${unescapeHTML(heroSec.content.body)}</div> <div class="hero-reviews" style="margin-top: 1rem; color: #ffca28; font-weight: 500;" data-astro-cid-fzx4jmue>
+★ 4.9/5 din 970 recenzii
+</div> ${heroSec.content?.cta_text && renderTemplate`<a${addAttribute(getCtaUrl(heroSec.content?.cta_url), "href")} class="btn-primary" style="margin-top:2rem; display:inline-block;" data-astro-cid-fzx4jmue> ${heroSec.content.cta_text} </a>`}` })}` : renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-fzx4jmue": true }, { "default": async ($$result3) => renderTemplate`${page.meta_description && renderTemplate`<p class="hero-subtitle" data-astro-cid-fzx4jmue>${page.meta_description}</p>`}<div class="hero-reviews" style="margin-top: 1rem; color: #ffca28; font-weight: 500;" data-astro-cid-fzx4jmue>
+★ 4.9/5 din 970 recenzii
+</div> ` })}`} </div> ${heroSec?.content?.image_url && renderTemplate`<div class="hero-image-wrapper" data-astro-cid-fzx4jmue> <img${addAttribute(heroSec.content.image_url, "src")}${addAttribute(page.h1 || page.title || "Kassia Events", "alt")} class="hero-image" width="1200" height="800" loading="eager" fetchpriority="high" decoding="sync" data-astro-cid-fzx4jmue> </div>`} </div> </header>`;
   })()}  ${sections && sections.some((s) => s.section_type === "feature_card") && renderTemplate`<section class="feature-cards-section bg-light" style="padding: 4rem 0;" data-astro-cid-fzx4jmue> <div class="container" data-astro-cid-fzx4jmue> <div class="service-cards-grid" style="margin-top: 0;" data-astro-cid-fzx4jmue> ${sections.filter((s) => s.section_type === "feature_card").map((card) => renderTemplate`<div class="service-card" data-astro-cid-fzx4jmue> <div class="service-card-image-natural" style="position: relative; width: 100%; overflow: hidden;" data-astro-cid-fzx4jmue> ${card.content?.image_url && card.content.image_url.trim() !== "" && renderTemplate`<img${addAttribute(card.content.image_url, "src")}${addAttribute(card.content?.image_alt || "Card vizual Kassia", "alt")} width="800" height="800" loading="lazy" decoding="async" style="width: 100%; height: auto; display: block;" data-astro-cid-fzx4jmue>`} <div class="service-card-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to top, rgba(0,0,0,0.4) 0%, transparent 50%);" data-astro-cid-fzx4jmue></div> </div> <div class="service-card-content" data-astro-cid-fzx4jmue> <h3 class="service-card-title" data-astro-cid-fzx4jmue>${card.heading}</h3> ${card.content?.body && renderTemplate`<div class="service-card-subtitle prose" style="font-size:0.95rem; line-height:1.5;" data-astro-cid-fzx4jmue>${unescapeHTML(card.content.body)}</div>`} ${card.content?.cta_text && renderTemplate`<a${addAttribute(getCtaUrl(card.content?.cta_url), "href")} class="service-card-cta" style="margin-top: auto; display:inline-block; padding-top:1rem;" data-astro-cid-fzx4jmue>${card.content.cta_text} &rarr;</a>`} </div> </div>`)} </div> </div> </section>`}  ${sections && sections.filter((s) => s.section_type === "service_card").length > 0 && renderTemplate`<section class="service-cards-section bg-white" data-astro-cid-fzx4jmue> <div class="container" data-astro-cid-fzx4jmue> <h2 class="section-heading text-center" data-astro-cid-fzx4jmue>Alege Serviciul Dorit</h2> <div class="service-cards-grid" data-astro-cid-fzx4jmue> ${sections.filter((s) => s.section_type === "service_card").map((card) => renderTemplate`<a${addAttribute(getCtaUrl(card.content?.cta_url), "href")} class="service-card-link" data-astro-cid-fzx4jmue> <div class="service-card" data-astro-cid-fzx4jmue> <div class="service-card-image" data-astro-cid-fzx4jmue> ${card.content?.image_url && card.content.image_url.trim() !== "" && renderTemplate`<img${addAttribute(card.content.image_url, "src")}${addAttribute(card.content?.image_alt || "Activitate pentru petreceri de copii", "alt")} width="800" height="800" loading="lazy" decoding="async" data-astro-cid-fzx4jmue>`} <div class="service-card-overlay" data-astro-cid-fzx4jmue></div> </div> <div class="service-card-content" data-astro-cid-fzx4jmue> <h3 class="service-card-title" data-astro-cid-fzx4jmue>${card.heading}</h3> ${card.content?.subheading && renderTemplate`<p class="service-card-subtitle" data-astro-cid-fzx4jmue>${card.content.subheading}</p>`} <span class="service-card-cta" data-astro-cid-fzx4jmue>${card.content?.cta_text || "Vezi Detalii"} &rarr;</span> </div> </div> </a>`)} </div> </div> </section>`}  ${page.slug === "preturi-decoratiuni-baloane" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, { "data-astro-cid-fzx4jmue": true }, { "default": async ($$result3) => renderTemplate`${sections && sections.filter((s) => s.heading === "Cum se calculează prețul unui decor cu baloane?").map((section) => renderTemplate`<section class="content-section bg-light" id="cum-se-calculeaza" data-astro-cid-fzx4jmue> <div class="container section-grid" style="grid-template-columns: 1fr; max-width: 800px; text-align: center;" data-astro-cid-fzx4jmue> <div class="section-text" data-astro-cid-fzx4jmue> <h2 class="section-heading" data-astro-cid-fzx4jmue>${section.heading}</h2> ${section.content?.body && renderTemplate`<div class="section-body prose" data-astro-cid-fzx4jmue>${unescapeHTML(section.content.body)}</div>`} </div> </div> </section>`)}<div id="content" class="container" style="padding: 4rem 1rem;" data-astro-cid-fzx4jmue> <div class="pricing-details-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;" data-astro-cid-fzx4jmue> ${sections && sections.filter((s) => !["hero", "gallery", "faq", "service_card"].includes(s.section_type) && s.heading !== "Cum se calculează prețul unui decor cu baloane?").map((section) => renderTemplate`<div class="pricing-detail-card"${addAttribute(section.heading ? "preturi-" + section.heading.replace("Prețuri ", "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "") : void 0, "id")} style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; display: flex; flex-direction: column;" data-astro-cid-fzx4jmue> <h3 class="pricing-card-title" style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--primary-dark);" data-astro-cid-fzx4jmue>${section.heading}</h3> ${section.content?.body && renderTemplate`<div class="pricing-card-body prose" style="flex-grow: 1; margin-bottom: 1.5rem;" data-astro-cid-fzx4jmue>${unescapeHTML(section.content.body)}</div>`} ${section.content?.cta_text && renderTemplate`<a${addAttribute(getCtaUrl(section.content?.cta_url), "href")} class="btn-primary" style="align-self: flex-start; margin-top: auto;" data-astro-cid-fzx4jmue>${section.content.cta_text}</a>`} </div>`)} </div> </div> ` })}` : renderTemplate`<div id="content" class="sections-wrapper" data-astro-cid-fzx4jmue> ${showPreviewPricing && renderTemplate`${renderComponent($$result2, "KassiaPricingCatalog", $$KassiaPricingCatalog, { "variant": "preview", "locationName": String(page.slug || "").includes("voluntari") ? "orașul Voluntari" : "București și Ilfov", "data-astro-cid-fzx4jmue": true })}`} ${page.slug === PRICING_PAGE_SLUG && renderTemplate`${renderComponent($$result2, "KassiaPricingCatalog", $$KassiaPricingCatalog, { "variant": "full", "data-astro-cid-fzx4jmue": true })}`} ${sections && sections.filter((s) => !["hero", "gallery", "faq", "service_card", "testimonials_section", "process_steps", "feature_card"].includes(s.section_type)).map((section, index) => {
     if (section.section_type === "costume_catalog") {
       return renderTemplate`${renderComponent($$result2, "CostumeCatalog", $$CostumeCatalog, { "heading": section.heading, "subheading": section.content?.body, "cards": section.content?.cards || [], "data-astro-cid-fzx4jmue": true })}`;
